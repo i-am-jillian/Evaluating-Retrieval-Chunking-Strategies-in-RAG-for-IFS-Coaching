@@ -1,0 +1,1060 @@
+{
+  "dataset_name": "IFS_Synthetic_Vignette_Dataset",
+  "version": "1.0",
+  "description": "Synthetic vignette dataset for evaluating grounded IFS-informed coach-facing suggestions under multiple retrieval strategies.",
+  "vignettes": [
+    {
+      "vignette_id": "V001",
+      "title": "Work Avoidance and Fear of Failure",
+      "presenting_issue": "procrastination and shutting down around academic work",
+      "client_profile": "27-year-old graduate student who avoids assignments and email when overwhelmed",
+      "core_emotional_theme": "fear of failure and shame",
+      "likely_parts": [
+        "protector/manager part that avoids work to prevent failure",
+        "vulnerable part carrying shame and inadequacy"
+      ],
+      "target_ifs_goal": "identify the protective part behind avoidance and invite curiosity toward it",
+      "difficulty_level": "medium",
+      "safety_flag": "low",
+      "transcript": [
+        {
+          "turn_id": 1,
+          "speaker": "Client",
+          "utterance": "I keep putting off my work, and then I feel even worse about myself."
+        },
+        {
+          "turn_id": 2,
+          "speaker": "Coach",
+          "utterance": "What do you notice inside right before you pull away from it?"
+        },
+        {
+          "turn_id": 3,
+          "speaker": "Client",
+          "utterance": "It feels like something in me just shuts everything down."
+        },
+        {
+          "turn_id": 4,
+          "speaker": "Coach",
+          "utterance": "Can you say a little more about that shutting-down part?"
+        },
+        {
+          "turn_id": 5,
+          "speaker": "Client",
+          "utterance": "It feels scared. Like if I really try and fail, that would prove I'm not good enough."
+        },
+        {
+          "turn_id": 6,
+          "speaker": "Coach",
+          "utterance": "So there may be a part trying to protect you from that feeling?"
+        },
+        {
+          "turn_id": 7,
+          "speaker": "Client",
+          "utterance": "Yeah, that actually fits. It's like it would rather avoid everything than risk that."
+        },
+        {
+          "turn_id": 8,
+          "speaker": "Coach",
+          "utterance": "How do you feel toward that part as you notice it now?"
+        },
+        {
+          "turn_id": 9,
+          "speaker": "Client",
+          "utterance": "Honestly, frustrated. But also kind of sad for it."
+        },
+        {
+          "turn_id": 10,
+          "speaker": "Coach",
+          "utterance": "That's helpful to notice. There may be room to get curious about what it has been trying to do for you."
+        }
+      ],
+      "consultation_windows": [
+        {
+          "window_id": "V001_W1",
+          "turn_range": [1, 4],
+          "target_ifs_goal": "identify a protective part and begin parts-based framing",
+          "expected_retrieval_theme": "protectors, avoidance as protection, parts language"
+        },
+        {
+          "window_id": "V001_W2",
+          "turn_range": [5, 10],
+          "target_ifs_goal": "deepen curiosity toward a protector and reduce frustration toward it",
+          "expected_retrieval_theme": "protectors, fear of failure, curiosity toward parts, unblending"
+        }
+      ]
+    },
+    {
+      "vignette_id": "V002",
+      "title": "Self-Criticism After a Mistake",
+      "presenting_issue": "harsh self-judgment after making an error at work",
+      "client_profile": "31-year-old professional who becomes intensely self-critical after small mistakes",
+      "core_emotional_theme": "shame and perfectionism",
+      "likely_parts": [
+        "critical manager part that attacks to force perfection",
+        "younger ashamed part that fears rejection"
+      ],
+      "target_ifs_goal": "recognize the critical part as protective rather than purely harmful",
+      "difficulty_level": "medium",
+      "safety_flag": "low",
+      "transcript": [
+        {
+          "turn_id": 1,
+          "speaker": "Client",
+          "utterance": "I sent an email with a mistake in it, and I've been beating myself up all day."
+        },
+        {
+          "turn_id": 2,
+          "speaker": "Coach",
+          "utterance": "What does that self-critical voice sound like inside?"
+        },
+        {
+          "turn_id": 3,
+          "speaker": "Client",
+          "utterance": "It says, “You're careless. You always mess things up.”"
+        },
+        {
+          "turn_id": 4,
+          "speaker": "Coach",
+          "utterance": "If we think in IFS terms, that may be a part speaking. How do you experience it?"
+        },
+        {
+          "turn_id": 5,
+          "speaker": "Client",
+          "utterance": "Very intense. Like it wants to stay on me until I never do it again."
+        },
+        {
+          "turn_id": 6,
+          "speaker": "Coach",
+          "utterance": "So it may believe criticizing you is helping?"
+        },
+        {
+          "turn_id": 7,
+          "speaker": "Client",
+          "utterance": "I hate it, but yes, it does feel like it thinks it's doing something useful."
+        },
+        {
+          "turn_id": 8,
+          "speaker": "Coach",
+          "utterance": "What do you imagine it is afraid would happen if it stopped criticizing?"
+        },
+        {
+          "turn_id": 9,
+          "speaker": "Client",
+          "utterance": "Maybe that I'd become lazy or embarrass myself even more."
+        },
+        {
+          "turn_id": 10,
+          "speaker": "Coach",
+          "utterance": "That sounds like an important fear to get curious about."
+        }
+      ],
+      "consultation_windows": [
+        {
+          "window_id": "V002_W1",
+          "turn_range": [1, 5],
+          "target_ifs_goal": "identify the critical part and frame it as a part rather than the whole self",
+          "expected_retrieval_theme": "critical manager parts, shame, internal criticism"
+        },
+        {
+          "window_id": "V002_W2",
+          "turn_range": [6, 10],
+          "target_ifs_goal": "reframe the critic as protective and explore its fears",
+          "expected_retrieval_theme": "positive intent of protectors, curiosity toward critics"
+        }
+      ]
+    },
+    {
+      "vignette_id": "V003",
+      "title": "People-Pleasing in Relationships",
+      "presenting_issue": "difficulty saying no and resentment in close relationships",
+      "client_profile": "24-year-old who overcommits to avoid disappointing others",
+      "core_emotional_theme": "fear of rejection and abandonment",
+      "likely_parts": [
+        "people-pleasing manager part",
+        "vulnerable part afraid of being left or disliked"
+      ],
+      "target_ifs_goal": "identify the people-pleasing part and its protective function",
+      "difficulty_level": "medium",
+      "safety_flag": "low",
+      "transcript": [
+        {
+          "turn_id": 1,
+          "speaker": "Client",
+          "utterance": "I say yes to things I don't want to do, and then I end up resentful."
+        },
+        {
+          "turn_id": 2,
+          "speaker": "Coach",
+          "utterance": "What do you notice inside when you imagine saying no instead?"
+        },
+        {
+          "turn_id": 3,
+          "speaker": "Client",
+          "utterance": "Panic. Like I'm about to disappoint someone and then they won't want me around."
+        },
+        {
+          "turn_id": 4,
+          "speaker": "Coach",
+          "utterance": "That sounds like a strong reaction. Is there a part that steps in to keep that from happening?"
+        },
+        {
+          "turn_id": 5,
+          "speaker": "Client",
+          "utterance": "Yeah, a part that just tries to be easy and agreeable all the time."
+        },
+        {
+          "turn_id": 6,
+          "speaker": "Coach",
+          "utterance": "How do you feel toward that agreeable part right now?"
+        },
+        {
+          "turn_id": 7,
+          "speaker": "Client",
+          "utterance": "Mixed. I appreciate that it helps me avoid conflict, but I'm tired of it running everything."
+        },
+        {
+          "turn_id": 8,
+          "speaker": "Coach",
+          "utterance": "That makes sense. What do you think it is protecting you from?"
+        },
+        {
+          "turn_id": 9,
+          "speaker": "Client",
+          "utterance": "Feeling rejected. Or feeling like I'm too much."
+        },
+        {
+          "turn_id": 10,
+          "speaker": "Coach",
+          "utterance": "That gives us an important place to stay curious."
+        }
+      ],
+      "consultation_windows": [
+        {
+          "window_id": "V003_W1",
+          "turn_range": [1, 5],
+          "target_ifs_goal": "identify a people-pleasing protective part",
+          "expected_retrieval_theme": "managers, pleasing as protection, fear of rejection"
+        },
+        {
+          "window_id": "V003_W2",
+          "turn_range": [6, 10],
+          "target_ifs_goal": "deepen curiosity and connect the protector to the fear it carries",
+          "expected_retrieval_theme": "protectors, burdened parts, curiosity toward protectors"
+        }
+      ]
+    },
+    {
+      "vignette_id": "V004",
+      "title": "Emotional Numbing After Stress",
+      "presenting_issue": "feeling disconnected and shut down after conflict",
+      "client_profile": "35-year-old who becomes emotionally numb after interpersonal stress",
+      "core_emotional_theme": "overwhelm and protective shutdown",
+      "likely_parts": [
+        "protective part that numbs or distances",
+        "vulnerable part overwhelmed by conflict"
+      ],
+      "target_ifs_goal": "recognize shutdown as protective rather than resistance",
+      "difficulty_level": "medium",
+      "safety_flag": "low",
+      "transcript": [
+        {
+          "turn_id": 1,
+          "speaker": "Client",
+          "utterance": "After arguments, I just go numb. I can't feel much of anything."
+        },
+        {
+          "turn_id": 2,
+          "speaker": "Coach",
+          "utterance": "When that numbness comes in, how do you experience it inside?"
+        },
+        {
+          "turn_id": 3,
+          "speaker": "Client",
+          "utterance": "It feels like everything goes flat. Like I disappear a little."
+        },
+        {
+          "turn_id": 4,
+          "speaker": "Coach",
+          "utterance": "Does it seem possible that a part is stepping in there?"
+        },
+        {
+          "turn_id": 5,
+          "speaker": "Client",
+          "utterance": "Maybe. It almost feels like something puts up a wall."
+        },
+        {
+          "turn_id": 6,
+          "speaker": "Coach",
+          "utterance": "If that wall-building part could speak, what might it say it is trying to do?"
+        },
+        {
+          "turn_id": 7,
+          "speaker": "Client",
+          "utterance": "Probably keep me from getting overwhelmed or hurt."
+        },
+        {
+          "turn_id": 8,
+          "speaker": "Coach",
+          "utterance": "That sounds like it may be working hard for you."
+        },
+        {
+          "turn_id": 9,
+          "speaker": "Client",
+          "utterance": "I never thought of it that way. I usually just judge myself for shutting down."
+        },
+        {
+          "turn_id": 10,
+          "speaker": "Coach",
+          "utterance": "It may help to approach it with curiosity before trying to change it."
+        }
+      ],
+      "consultation_windows": [
+        {
+          "window_id": "V004_W1",
+          "turn_range": [1, 5],
+          "target_ifs_goal": "identify shutdown/numbing as a protective part",
+          "expected_retrieval_theme": "protective shutdown, distancing parts, emotional overwhelm"
+        },
+        {
+          "window_id": "V004_W2",
+          "turn_range": [6, 10],
+          "target_ifs_goal": "reframe shutdown as protective and invite non-judgmental curiosity",
+          "expected_retrieval_theme": "protectors, positive intent, non-pathologizing language"
+        }
+      ]
+    },
+    {
+      "vignette_id": "V005",
+      "title": "Inner Conflict About Rest vs Productivity",
+      "presenting_issue": "conflict between wanting rest and feeling guilty for slowing down",
+      "client_profile": "29-year-old high-achiever who feels anxious when not being productive",
+      "core_emotional_theme": "conflict between pressure and exhaustion",
+      "likely_parts": [
+        "driven manager part focused on productivity",
+        "tired part needing rest",
+        "possibly ashamed part underneath both"
+      ],
+      "target_ifs_goal": "help differentiate conflicting parts rather than choosing one side",
+      "difficulty_level": "hard",
+      "safety_flag": "low",
+      "transcript": [
+        {
+          "turn_id": 1,
+          "speaker": "Client",
+          "utterance": "Part of me wants to rest, but another part says I'm being lazy if I do."
+        },
+        {
+          "turn_id": 2,
+          "speaker": "Coach",
+          "utterance": "It sounds like there may be at least two parts there. What do you notice about each one?"
+        },
+        {
+          "turn_id": 3,
+          "speaker": "Client",
+          "utterance": "One feels exhausted and desperate for a break. The other is sharp and demanding."
+        },
+        {
+          "turn_id": 4,
+          "speaker": "Coach",
+          "utterance": "How does the demanding one seem to view rest?"
+        },
+        {
+          "turn_id": 5,
+          "speaker": "Client",
+          "utterance": "Like rest is dangerous. Like if I slow down, everything will fall apart."
+        },
+        {
+          "turn_id": 6,
+          "speaker": "Coach",
+          "utterance": "And how do you feel toward that demanding part as you notice it?"
+        },
+        {
+          "turn_id": 7,
+          "speaker": "Client",
+          "utterance": "Annoyed, but I also get that it's scared."
+        },
+        {
+          "turn_id": 8,
+          "speaker": "Coach",
+          "utterance": "That sounds important. What might it be afraid would happen if it didn't push so hard?"
+        },
+        {
+          "turn_id": 9,
+          "speaker": "Client",
+          "utterance": "Maybe that I'd lose control or become worthless."
+        },
+        {
+          "turn_id": 10,
+          "speaker": "Coach",
+          "utterance": "That gives us a chance to understand it rather than just fighting it."
+        }
+      ],
+      "consultation_windows": [
+        {
+          "window_id": "V005_W1",
+          "turn_range": [1, 5],
+          "target_ifs_goal": "differentiate multiple parts and clarify their conflict",
+          "expected_retrieval_theme": "polarization, managers, inner conflict between parts"
+        },
+        {
+          "window_id": "V005_W2",
+          "turn_range": [6, 10],
+          "target_ifs_goal": "shift from annoyance to curiosity and explore the manager's fear",
+          "expected_retrieval_theme": "protectors, polarization, fear underneath control"
+        }
+      ]
+    },
+    {
+      "vignette_id": "V006",
+      "title": "Stress Drinking as Protective Soothing",
+      "presenting_issue": "using alcohol at night to shut down stress",
+      "client_profile": "33-year-old professional who feels overwhelmed after work and drinks most evenings to turn off",
+      "core_emotional_theme": "overwhelm, exhaustion, and avoidance of painful feelings",
+      "likely_parts": [
+        "firefighter part using alcohol for quick relief",
+        "driven manager part that over-functions during the day",
+        "overwhelmed exile carrying pressure and loneliness"
+      ],
+      "target_ifs_goal": "identify the drinking urge as protective rather than simply self-destructive",
+      "difficulty_level": "medium",
+      "safety_flag": "medium",
+      "transcript": [
+        {
+          "turn_id": 1,
+          "speaker": "Client",
+          "utterance": "By the end of the day I feel so wound up that I just want a drink immediately."
+        },
+        {
+          "turn_id": 2,
+          "speaker": "Coach",
+          "utterance": "What do you notice inside right before that urge shows up?"
+        },
+        {
+          "turn_id": 3,
+          "speaker": "Client",
+          "utterance": "It feels like everything is buzzing. My mind won't stop."
+        },
+        {
+          "turn_id": 4,
+          "speaker": "Coach",
+          "utterance": "Does it seem like a part of you reaches for the drink to change that state?"
+        },
+        {
+          "turn_id": 5,
+          "speaker": "Client",
+          "utterance": "Yeah, it feels like a part that says, 'Just make this stop.'"
+        },
+        {
+          "turn_id": 6,
+          "speaker": "Coach",
+          "utterance": "How do you feel toward that part when you notice it?"
+        },
+        {
+          "turn_id": 7,
+          "speaker": "Client",
+          "utterance": "Mixed. I know it causes problems, but it also feels like the only thing helping sometimes."
+        },
+        {
+          "turn_id": 8,
+          "speaker": "Coach",
+          "utterance": "What do you imagine it is trying to help you avoid or escape from?"
+        },
+        {
+          "turn_id": 9,
+          "speaker": "Client",
+          "utterance": "Pressure. Loneliness. The feeling that I can't keep doing this."
+        },
+        {
+          "turn_id": 10,
+          "speaker": "Coach",
+          "utterance": "That sounds like an important burden underneath the urge."
+        },
+        {
+          "turn_id": 11,
+          "speaker": "Client",
+          "utterance": "Yeah, and then another part judges me for drinking at all."
+        },
+        {
+          "turn_id": 12,
+          "speaker": "Coach",
+          "utterance": "So there may be multiple parts here—one trying to numb and one criticizing afterward."
+        }
+      ],
+      "consultation_windows": [
+        {
+          "window_id": "V006_W1",
+          "turn_range": [1, 4],
+          "target_ifs_goal": "identify the urge-to-drink part as a protective part",
+          "expected_retrieval_theme": "firefighters, compulsive soothing, protective numbing"
+        },
+        {
+          "window_id": "V006_W2",
+          "turn_range": [5, 8],
+          "target_ifs_goal": "explore the positive intent of the firefighter part",
+          "expected_retrieval_theme": "protective intent, compassion toward addictive parts"
+        },
+        {
+          "window_id": "V006_W3",
+          "turn_range": [9, 12],
+          "target_ifs_goal": "identify multiple parts and distinguish firefighter from critic",
+          "expected_retrieval_theme": "polarization, critics, burdens beneath compulsive behavior"
+        }
+      ]
+    },
+    {
+      "vignette_id": "V007",
+      "title": "Romantic Conflict and Protective Defensiveness",
+      "presenting_issue": "becoming defensive and emotionally closed during partner conflict",
+      "client_profile": "30-year-old in a long-term relationship who feels attacked easily during arguments",
+      "core_emotional_theme": "fear of blame, rejection, and vulnerability in intimacy",
+      "likely_parts": [
+        "defensive protector that shuts down or argues back",
+        "vulnerable exile afraid of being wrong or rejected",
+        "longing part that wants closeness"
+      ],
+      "target_ifs_goal": "recognize defensiveness as protective and increase curiosity toward it",
+      "difficulty_level": "medium",
+      "safety_flag": "low",
+      "transcript": [
+        {
+          "turn_id": 1,
+          "speaker": "Client",
+          "utterance": "When my partner brings up a concern, I get defensive almost immediately."
+        },
+        {
+          "turn_id": 2,
+          "speaker": "Coach",
+          "utterance": "What happens inside in that first moment?"
+        },
+        {
+          "turn_id": 3,
+          "speaker": "Client",
+          "utterance": "It feels like a wall comes up, and I want to argue or shut down."
+        },
+        {
+          "turn_id": 4,
+          "speaker": "Coach",
+          "utterance": "That sounds like a protector reacting very quickly."
+        },
+        {
+          "turn_id": 5,
+          "speaker": "Client",
+          "utterance": "Yeah, because it feels like I'm being accused of something."
+        },
+        {
+          "turn_id": 6,
+          "speaker": "Coach",
+          "utterance": "What do you think that defensive part is trying to protect?"
+        },
+        {
+          "turn_id": 7,
+          "speaker": "Client",
+          "utterance": "Maybe the part of me that feels like I'm failing or not enough."
+        },
+        {
+          "turn_id": 8,
+          "speaker": "Coach",
+          "utterance": "How do you feel toward the defensive part right now?"
+        },
+        {
+          "turn_id": 9,
+          "speaker": "Client",
+          "utterance": "A little frustrated, but also I get why it shows up."
+        },
+        {
+          "turn_id": 10,
+          "speaker": "Coach",
+          "utterance": "That shift matters. Curiosity can help you understand it better."
+        },
+        {
+          "turn_id": 11,
+          "speaker": "Client",
+          "utterance": "I also have a part that really wants connection, but it disappears in those moments."
+        },
+        {
+          "turn_id": 12,
+          "speaker": "Coach",
+          "utterance": "So there may be both a defensive protector and a part that longs for closeness."
+        }
+      ],
+      "consultation_windows": [
+        {
+          "window_id": "V007_W1",
+          "turn_range": [1, 4],
+          "target_ifs_goal": "identify defensiveness as a protector",
+          "expected_retrieval_theme": "relational protectors, defensive managers, couple conflict"
+        },
+        {
+          "window_id": "V007_W2",
+          "turn_range": [5, 8],
+          "target_ifs_goal": "connect protector to the vulnerable part it protects",
+          "expected_retrieval_theme": "protectors guarding shame, relational vulnerability"
+        },
+        {
+          "window_id": "V007_W3",
+          "turn_range": [9, 12],
+          "target_ifs_goal": "identify relational polarization between protection and longing",
+          "expected_retrieval_theme": "couple dynamics, polarization, access to vulnerable parts"
+        }
+      ]
+    },
+    {
+      "vignette_id": "V008",
+      "title": "Trauma Trigger and Hypervigilance in Public",
+      "presenting_issue": "intense activation in crowded public environments",
+      "client_profile": "38-year-old who becomes highly alert and tense in stores or crowded places after past trauma",
+      "core_emotional_theme": "fear, lack of safety, and hypervigilance",
+      "likely_parts": [
+        "hypervigilant protector scanning for danger",
+        "terrified exile holding unresolved fear",
+        "distancing part trying to leave or disconnect"
+      ],
+      "target_ifs_goal": "recognize hypervigilance as protection and reduce shame toward it",
+      "difficulty_level": "hard",
+      "safety_flag": "medium",
+      "transcript": [
+        {
+          "turn_id": 1,
+          "speaker": "Client",
+          "utterance": "When I'm in a crowded store, my whole body gets tense and I start scanning everyone."
+        },
+        {
+          "turn_id": 2,
+          "speaker": "Coach",
+          "utterance": "What feels most urgent inside in those moments?"
+        },
+        {
+          "turn_id": 3,
+          "speaker": "Client",
+          "utterance": "It feels like I have to watch everything or something bad will happen."
+        },
+        {
+          "turn_id": 4,
+          "speaker": "Coach",
+          "utterance": "That sounds like a part working very hard to keep you safe."
+        },
+        {
+          "turn_id": 5,
+          "speaker": "Client",
+          "utterance": "I hate that it happens, but yes, it does feel protective."
+        },
+        {
+          "turn_id": 6,
+          "speaker": "Coach",
+          "utterance": "If you stayed curious, what might that part be afraid would happen if it stopped scanning?"
+        },
+        {
+          "turn_id": 7,
+          "speaker": "Client",
+          "utterance": "That I'd miss danger and get hurt."
+        },
+        {
+          "turn_id": 8,
+          "speaker": "Coach",
+          "utterance": "So it may believe its vigilance is necessary for survival."
+        },
+        {
+          "turn_id": 9,
+          "speaker": "Client",
+          "utterance": "Yeah, and another part of me gets embarrassed and wants to get out fast."
+        },
+        {
+          "turn_id": 10,
+          "speaker": "Coach",
+          "utterance": "That suggests there may be more than one protector involved here."
+        },
+        {
+          "turn_id": 11,
+          "speaker": "Client",
+          "utterance": "One scanning, one wanting to escape, and maybe something underneath both that is terrified."
+        },
+        {
+          "turn_id": 12,
+          "speaker": "Coach",
+          "utterance": "That's an important map to begin noticing."
+        }
+      ],
+      "consultation_windows": [
+        {
+          "window_id": "V008_W1",
+          "turn_range": [1, 4],
+          "target_ifs_goal": "identify hypervigilance as a protector",
+          "expected_retrieval_theme": "trauma-informed protectors, vigilance, safety-based activation"
+        },
+        {
+          "window_id": "V008_W2",
+          "turn_range": [5, 8],
+          "target_ifs_goal": "validate the positive intent of the vigilant part",
+          "expected_retrieval_theme": "protectors in trauma, fear of danger, survival roles"
+        },
+        {
+          "window_id": "V008_W3",
+          "turn_range": [9, 12],
+          "target_ifs_goal": "identify multiple protectors and the exile beneath them",
+          "expected_retrieval_theme": "layered protectors, escape responses, exiles in trauma"
+        }
+      ]
+    },
+    {
+      "vignette_id": "V009",
+      "title": "Caretaking and Inability to Receive Help",
+      "presenting_issue": "chronic over-responsibility and discomfort receiving support",
+      "client_profile": "41-year-old parent and caregiver who feels responsible for everyone and guilty when resting",
+      "core_emotional_theme": "burden, responsibility, and fear of letting others down",
+      "likely_parts": [
+        "caregiving manager part",
+        "exhausted part needing relief",
+        "young burdened part that learned love comes through responsibility"
+      ],
+      "target_ifs_goal": "identify the caretaking part and explore its burden",
+      "difficulty_level": "medium",
+      "safety_flag": "low",
+      "transcript": [
+        {
+          "turn_id": 1,
+          "speaker": "Client",
+          "utterance": "I'm the one everyone leans on, and I don't know how to stop."
+        },
+        {
+          "turn_id": 2,
+          "speaker": "Coach",
+          "utterance": "What happens inside when you imagine stepping back even a little?"
+        },
+        {
+          "turn_id": 3,
+          "speaker": "Client",
+          "utterance": "Guilt immediately. Like I'm abandoning people."
+        },
+        {
+          "turn_id": 4,
+          "speaker": "Coach",
+          "utterance": "That sounds like a part with a very strong sense of responsibility."
+        },
+        {
+          "turn_id": 5,
+          "speaker": "Client",
+          "utterance": "Yes, and it never really rests."
+        },
+        {
+          "turn_id": 6,
+          "speaker": "Coach",
+          "utterance": "What do you think that part believes about your role?"
+        },
+        {
+          "turn_id": 7,
+          "speaker": "Client",
+          "utterance": "That if I'm not holding everything together, everything will fall apart."
+        },
+        {
+          "turn_id": 8,
+          "speaker": "Coach",
+          "utterance": "And how do you feel toward that part as you notice how hard it works?"
+        },
+        {
+          "turn_id": 9,
+          "speaker": "Client",
+          "utterance": "Sad, actually. It seems exhausted."
+        },
+        {
+          "turn_id": 10,
+          "speaker": "Coach",
+          "utterance": "That sadness may help you stay connected to it with compassion."
+        },
+        {
+          "turn_id": 11,
+          "speaker": "Client",
+          "utterance": "There's definitely another part that wants someone to take care of me for once."
+        },
+        {
+          "turn_id": 12,
+          "speaker": "Coach",
+          "utterance": "That sounds like an important part too—one that may not get much room."
+        }
+      ],
+      "consultation_windows": [
+        {
+          "window_id": "V009_W1",
+          "turn_range": [1, 4],
+          "target_ifs_goal": "identify the caregiving manager part",
+          "expected_retrieval_theme": "over-responsible managers, guilt, caretaking parts"
+        },
+        {
+          "window_id": "V009_W2",
+          "turn_range": [5, 8],
+          "target_ifs_goal": "explore the beliefs and burden of the caretaker part",
+          "expected_retrieval_theme": "managers, role beliefs, compassion toward protective parts"
+        },
+        {
+          "window_id": "V009_W3",
+          "turn_range": [9, 12],
+          "target_ifs_goal": "identify tension between caretaker and needy/vulnerable part",
+          "expected_retrieval_theme": "polarization, unmet needs, compassionate witnessing"
+        }
+      ]
+    },
+    {
+      "vignette_id": "V010",
+      "title": "Anger Outburst Followed by Shame",
+      "presenting_issue": "explosive reaction during stress followed by guilt and self-attack",
+      "client_profile": "28-year-old who snaps at loved ones when overwhelmed and then spirals into shame",
+      "core_emotional_theme": "anger as protection, shame afterward",
+      "likely_parts": [
+        "reactive firefighter part that explodes",
+        "critical aftermath part",
+        "vulnerable exile holding hurt and overwhelm"
+      ],
+      "target_ifs_goal": "reframe anger as protective, not the whole self",
+      "difficulty_level": "medium",
+      "safety_flag": "low",
+      "transcript": [
+        {
+          "turn_id": 1,
+          "speaker": "Client",
+          "utterance": "I snapped at my sister yesterday and immediately felt horrible afterward."
+        },
+        {
+          "turn_id": 2,
+          "speaker": "Coach",
+          "utterance": "What was happening inside right before you snapped?"
+        },
+        {
+          "turn_id": 3,
+          "speaker": "Client",
+          "utterance": "I felt cornered. Like everything in me got hot at once."
+        },
+        {
+          "turn_id": 4,
+          "speaker": "Coach",
+          "utterance": "It sounds like a reactive part may have taken over quickly."
+        },
+        {
+          "turn_id": 5,
+          "speaker": "Client",
+          "utterance": "Yes, and then right after that another part attacked me for losing control."
+        },
+        {
+          "turn_id": 6,
+          "speaker": "Coach",
+          "utterance": "So there may be one part that explodes and another that criticizes afterward."
+        },
+        {
+          "turn_id": 7,
+          "speaker": "Client",
+          "utterance": "That sounds right. The anger feels fast and protective, and the critic is merciless."
+        },
+        {
+          "turn_id": 8,
+          "speaker": "Coach",
+          "utterance": "What do you think the angry part was trying to protect in that moment?"
+        },
+        {
+          "turn_id": 9,
+          "speaker": "Client",
+          "utterance": "Maybe the part of me that felt overwhelmed and unheard."
+        },
+        {
+          "turn_id": 10,
+          "speaker": "Coach",
+          "utterance": "That gives us a different way to understand the anger."
+        },
+        {
+          "turn_id": 11,
+          "speaker": "Client",
+          "utterance": "I usually just think it means I'm a bad person."
+        },
+        {
+          "turn_id": 12,
+          "speaker": "Coach",
+          "utterance": "It may help to separate your Self from the parts involved."
+        }
+      ],
+      "consultation_windows": [
+        {
+          "window_id": "V010_W1",
+          "turn_range": [1, 4],
+          "target_ifs_goal": "identify reactive anger as a part, not the whole self",
+          "expected_retrieval_theme": "firefighters, reactive protectors, overwhelm"
+        },
+        {
+          "window_id": "V010_W2",
+          "turn_range": [5, 8],
+          "target_ifs_goal": "map multiple parts and identify positive intent of anger",
+          "expected_retrieval_theme": "firefighters, critics, protectors after activation"
+        },
+        {
+          "window_id": "V010_W3",
+          "turn_range": [9, 12],
+          "target_ifs_goal": "connect angry protector to vulnerable part and support unblending",
+          "expected_retrieval_theme": "exiles beneath anger, Self vs parts, compassionate reframing"
+        }
+      ]
+    },
+    {
+      "vignette_id": "V011",
+      "title": "Polarization Around a Major Life Decision",
+      "presenting_issue": "stuck between wanting change and fearing risk",
+      "client_profile": "36-year-old considering a job change but feeling immobilized by inner conflict",
+      "core_emotional_theme": "conflict between freedom and security",
+      "likely_parts": [
+        "ambitious part wanting growth and change",
+        "fearful manager focused on stability and control",
+        "exile afraid of regret or failure"
+      ],
+      "target_ifs_goal": "identify polarized parts without forcing resolution",
+      "difficulty_level": "hard",
+      "safety_flag": "low",
+      "transcript": [
+        {
+          "turn_id": 1,
+          "speaker": "Client",
+          "utterance": "Part of me wants to leave my job, and another part thinks that would be irresponsible."
+        },
+        {
+          "turn_id": 2,
+          "speaker": "Coach",
+          "utterance": "What do you notice about each side of that conflict?"
+        },
+        {
+          "turn_id": 3,
+          "speaker": "Client",
+          "utterance": "One feels energized and hopeful, and the other feels tense and warning me not to be reckless."
+        },
+        {
+          "turn_id": 4,
+          "speaker": "Coach",
+          "utterance": "It sounds like those parts have very different priorities."
+        },
+        {
+          "turn_id": 5,
+          "speaker": "Client",
+          "utterance": "Yes, and they keep fighting inside me."
+        },
+        {
+          "turn_id": 6,
+          "speaker": "Coach",
+          "utterance": "If you focus on the cautious one, what does it seem most afraid of?"
+        },
+        {
+          "turn_id": 7,
+          "speaker": "Client",
+          "utterance": "Making a terrible mistake and losing stability."
+        },
+        {
+          "turn_id": 8,
+          "speaker": "Coach",
+          "utterance": "And if you focus on the hopeful one, what is it longing for?"
+        },
+        {
+          "turn_id": 9,
+          "speaker": "Client",
+          "utterance": "Freedom. Meaning. Feeling alive again."
+        },
+        {
+          "turn_id": 10,
+          "speaker": "Coach",
+          "utterance": "That gives us a clearer picture of the polarization."
+        },
+        {
+          "turn_id": 11,
+          "speaker": "Client",
+          "utterance": "I usually feel pressured to choose one and get rid of the other."
+        },
+        {
+          "turn_id": 12,
+          "speaker": "Coach",
+          "utterance": "In IFS, we would want to understand both before forcing an outcome."
+        }
+      ],
+      "consultation_windows": [
+        {
+          "window_id": "V011_W1",
+          "turn_range": [1, 4],
+          "target_ifs_goal": "identify polarized parts",
+          "expected_retrieval_theme": "polarization, conflicting managers, internal conflict"
+        },
+        {
+          "window_id": "V011_W2",
+          "turn_range": [5, 8],
+          "target_ifs_goal": "clarify the fears and hopes of polarized parts",
+          "expected_retrieval_theme": "polarization, protector fears, burdens beneath conflict"
+        },
+        {
+          "window_id": "V011_W3",
+          "turn_range": [9, 12],
+          "target_ifs_goal": "reinforce non-forcing stance and understanding of both parts",
+          "expected_retrieval_theme": "polarization, Self-led curiosity, non-pathologizing internal conflict"
+        }
+      ]
+    },
+    {
+      "vignette_id": "V012",
+      "title": "Somatic Tightness and Fear of Letting Go",
+      "presenting_issue": "recurring chest and throat tightness during emotional conversations",
+      "client_profile": "32-year-old who notices strong body constriction when vulnerable topics come up",
+      "core_emotional_theme": "fear of emotional exposure and loss of control",
+      "likely_parts": [
+        "somatically expressed protector creating constriction",
+        "vulnerable exile carrying fear and sadness"
+      ],
+      "target_ifs_goal": "connect body sensation to a protective part and invite curiosity",
+      "difficulty_level": "medium",
+      "safety_flag": "low",
+      "transcript": [
+        {
+          "turn_id": 1,
+          "speaker": "Client",
+          "utterance": "When conversations get emotional, my chest tightens and my throat closes up."
+        },
+        {
+          "turn_id": 2,
+          "speaker": "Coach",
+          "utterance": "As you notice that tightening now, does it feel like it might be carrying some protective energy?"
+        },
+        {
+          "turn_id": 3,
+          "speaker": "Client",
+          "utterance": "Yes, it feels like something is bracing hard."
+        },
+        {
+          "turn_id": 4,
+          "speaker": "Coach",
+          "utterance": "What do you sense that bracing part might be trying to prevent?"
+        },
+        {
+          "turn_id": 5,
+          "speaker": "Client",
+          "utterance": "Crying. Falling apart. Letting too much show."
+        },
+        {
+          "turn_id": 6,
+          "speaker": "Coach",
+          "utterance": "So the tightness may be protecting you from feeling too exposed."
+        },
+        {
+          "turn_id": 7,
+          "speaker": "Client",
+          "utterance": "That actually makes sense. I usually just fight it."
+        },
+        {
+          "turn_id": 8,
+          "speaker": "Coach",
+          "utterance": "It may help to get curious about it first rather than trying to force it away."
+        }
+      ],
+      "consultation_windows": [
+        {
+          "window_id": "V012_W1",
+          "turn_range": [1, 4],
+          "target_ifs_goal": "connect somatic constriction to a protector",
+          "expected_retrieval_theme": "somatic parts, body-based protectors, constriction as protection"
+        },
+        {
+          "window_id": "V012_W2",
+          "turn_range": [5, 8],
+          "target_ifs_goal": "validate protective somatic response and invite curiosity",
+          "expected_retrieval_theme": "somatic protection, fear of exposure, compassion toward protectors"
+        }
+      ]
+    }
+  ]
+}
