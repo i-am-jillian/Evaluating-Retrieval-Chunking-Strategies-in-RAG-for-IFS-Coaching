@@ -1,0 +1,55 @@
+=== SOURCE METADATA ===
+source_book: ifs_therapy_for_addiction
+source_file: ifs_theraphy_for_addiction_ch00_intro.pdf
+relative_path: ifs_therapy_for_addiction/ifs_theraphy_for_addiction_ch00_intro.pdf
+extraction_mode: words
+top_margin_ratio: 0.05
+bottom_margin_ratio: 0.03
+=== BEGIN EXTRACTED TEXT ===
+=== PAGE 1 ===
+
+Introduction
+Addictive processes affect people’s body, mind, and spirit. When people engage in compulsive,
+repetitive use of substances or practices like gambling, porn, high-risk sex, and over- or under-eating,
+it affects their physical health, reconditions their brain, and generates despair. Intimate relationships
+suffer, families break up, and communities fragment. Collectively, individuals who engage in
+addictive processes spend billions of dollars each year on alcohol, drugs, porn sites, gambling,
+groceries, and more. This has resulted in billions more being spent by addiction treatment centers,
+community mental health centers, and government systems in an attempt to address, prevent, treat,
+adjudicate, or incarcerate these behaviors (Hart, 2021). In psychotherapy, where do we start?
+We suggest a paradigm shift. Rather than asking clients why they engage in compulsive behaviors
+that lead to negative consequences, we ask how these behaviors or practices help them. Rather than
+asking why they continue to engage in avoidant, dissociative behaviors that take them out of reality,
+we ask what they fear would happen if they were completely present. Rather than looking at addictive
+processes through the lens of mainstream treatment models, which are heavily skewed toward
+confronting the client and challenging their denial, we suggest engaging the client and healing
+attachment disruptions and other traumas that activate addictive behaviors in the first place.
+We do this with a therapeutic approach called Internal Family Systems (IFS) therapy, which is based
+on the idea that the psyche has many parts. When one part gets hurt, other parts help by stepping into
+protective roles. Some protective parts have a proactive role in that they help the client to perform
+daily tasks and maintain social connections, while others have a reactive role, in that they distract
+from or soothe emotional pain. The behavior of these protective teams is very different but both have
+positive intentions. IFS helps clients get curious about these parts so they can discover who they are
+protecting and why.
+When clients come to us, they are often in the grip of a short-term solution (addictive processes) to a
+long-term problem (disconnection and the sense of shamefulness). They feel discouraged and
+defeated. However, as IFS therapists, we come to this same meeting with a very different perspective.
+We know that all parts are deeply committed and well-intentioned. We know that compulsive parts
+use strategies that may have worked well for past emergencies but are much too costly in the present.
+We also know these parts want the client to be safe and functional. And we’re confident that the
+options we offer are good. Instead of participating in the chronic power struggles of protective parts,
+we normalize internal differences, note shared goals, and guide the client to get between parts who
+are in conflict and help them negotiate.
+In this manual, we offer a plan for treating addictive behaviors with IFS by explaining the addictive
+cycle, describing a series of direct interventions that engage the client without power struggles, and
+providing safe, clear procedures for addressing underlying emotional pain. We include many
+experiential exercises and detailed case examples that apply IFS to the wide range of risky behaviors
+clients use to navigate stress and self-medicate pain. We intend this manual to serve IFS trained
+therapists who feel anxious when working with addictive processes, as well as any therapist who is
+comfortable treating addictions but wishes to explore new options.
+IFS combines systems thinking with compassionate, inner-focused, experiential psychotherapy. It
+places the clinician and client on the same gentle road to healing. We know that ordinary people can
+be loyal, loving, and successful while also being destructive to themselves and others because they’re
+in the midst of an addictive process. The IFS model is tailor-made for that level of complexity.
+Sykes, Cece, et al. Internal Family Systems Therapy for Addictions: Trauma-Informed, Compassion-Based Interventions for Substance Use, Eating, Gambling and More, PESI,
+2023. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/buffalo/detail.action?docID=30745044.

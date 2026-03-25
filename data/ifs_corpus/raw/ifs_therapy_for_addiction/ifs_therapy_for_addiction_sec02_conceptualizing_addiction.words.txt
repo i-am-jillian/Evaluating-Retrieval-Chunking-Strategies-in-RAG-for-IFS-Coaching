@@ -1,0 +1,225 @@
+=== SOURCE METADATA ===
+source_book: ifs_therapy_for_addiction
+source_file: ifs_therapy_for_addiction_sec02_conceptualizing_addiction.pdf
+relative_path: ifs_therapy_for_addiction/ifs_therapy_for_addiction_sec02_conceptualizing_addiction.pdf
+extraction_mode: words
+top_margin_ratio: 0.05
+bottom_margin_ratio: 0.03
+=== BEGIN EXTRACTED TEXT ===
+=== PAGE 1 ===
+
+SECTION II
+Conceptualizing Addiction
+ATTACHMENT WOUNDS, TRAUMA, AND THE ADDICTIVE SYSTEM
+When children can bask in the warmth of stable, affectionate, and attentive caregivers, they feel safe
+and learn to trust themselves and others as they venture out into the world. They trust that they can
+express all their feelings, including silliness, grief, anger, and more. Kids who are secure and safe also
+feel joy and delight in the power and energy of their body—they touch everything in sight; strengthen
+their muscles through play; splash in bathtubs; move through the world on scooters, bicycles, and
+bare feet; and tenderly reach for the hand of a younger sibling or a friend.
+In the ideal childhood, kids know that they’re free to make mistakes and miss the mark as they learn.
+They know help is nearby if consequences arise and they will receive gentle guidance when they need
+to make a repair. Their caregivers protect them from the dangerous conditions and people they meet
+along the way. Their system and the system around them are in balance. Their managers discover the
+joy, pride, and satisfaction of accomplishment and growth. Their firefighters develop pleasurable,
+healthy activities that allow them to relax and pursue new adventures. Their vulnerable parts are open-
+hearted, loving, and receptive to love. They feel secure, loved, and free to be fully embodied. They
+can flourish.
+However, life is rarely ideal. Obstacles pop up along the way. While emotional and physical pain are
+part of life, many clients with addictive behaviors have experienced more pain than they could bear.
+Some clients grew up in the midst of excruciating family dynamics, exploited or neglected by adults
+who they feared and reviled but also longed for and sometimes—confoundingly—loved. Since young
+children read their emotions as important information about
+themselves
+, not about others in their
+environment, those who experience neglect or abuse are especially likely to feel personally
+responsible for their caretaker’s behavior.
+But clients can grow up in more stable environments and, still, for one reason or another, develop
+burdensome beliefs about their value and lovability. Some clients may struggle as a result of their
+temperament or a specific learning disability. Others get thrown off balance by painful relationship
+ruptures later in life, or they collapse when connections fracture due to a divorce or an untimely
+death. Still others have physical challenges or chronic illness to contend with. All of these kinds of
+experiences can burden vulnerable parts and summon protectors who offer relief. Life is wounding,
+and a person may engage in compulsive practices at some point along the way for innumerable
+reasons. Whatever the cause, IFS therapists build a collaborative, nonjudgmental connection that
+helps clients heal their wounded parts and free their protectors.
+THE SOCIAL CONTEXT OF ADDICTION: POLARIZATIONS WRIT LARGE
+Not only does the family system deeply affect the development of a child’s inner system, but the
+family system also nests within larger social systems that are profoundly influential. This includes
+systems at the neighborhood and community level, such as schools and religious organizations, as
+well as local, state, and federal government systems. These systems often contain a variety of
+polarizations that exacerbate the tension between managers and firefighters and contribute to a social
+Sykes, Cece, et al. Internal Family Systems Therapy for Addictions: Trauma-Informed, Compassion-Based Interventions for Substance Use, Eating, Gambling and More, PESI,
+2023. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/buffalo/detail.action?docID=30745044.
+
+
+
+=== PAGE 2 ===
+
+context that exacerbates addiction. This is particularly the case in American culture and its
+institutions, which contain numerous polarities that illustrate the tension between constraint and
+compulsive disinhibition, between harsh moralizing and encouraged indulgence.
+The economy in the United States, for example, is built on compulsive conspicuous consumption, yet
+compulsive practices are viewed as a moral failing. Religious and governing institutions police
+sexuality, female bodies, and sexual preferences while mainstream advertising sexualizes just about
+everything, making especially liberal use of the female body. Some psychoactive substances are
+banned and vilified, while others—with equal or greater potential for destructive use—are legal.
+Similarly, corporations market unhealthy, fattening foods and fight to keep them placed in schools for
+children, while the mainstream media celebrates anorexic bodies and sermonizes that thinner is better.
+Manager parts absorb and adopt these confusingly contradictory views at an early age—in the family,
+at school, in places of worship, in the media, and in an individual’s interface with government
+institutions.
+The polarity between inhibition and disinhibition is writ particularly large in the so-called war on
+drugs. Here, we find a strong and steady appetite for substance use across all demographic groups
+(Hart, 2021), which contrasts sharply with draconian government prohibitions that were designed to
+systematically disenfranchise Black, Indigenous, Latinx, and Asian communities, as well as other
+immigrants and people of color, for drug use (Hari, 2015; Hart, 2021). Government institutions have
+historically attacked recreational drug use among Black males and incarcerated them at five times the
+rate of their White counterparts, who were using recreational drugs at very similar rates. In the same
+context, pharmaceutical companies have, in recent years, made enormous profits by openly pedaling
+patently false information about prescribed opiates, leading to about 50,000 yearly overdose deaths in
+the United States by 2019.
+And this is only a small part of the picture. We see this epidemic of addiction-related deaths in the
+context of larger epidemics that relate to disinhibition. Each year in the United States, while
+approximately 95,000 people die alcohol-related deaths and more than 100,000 die drug-related
+deaths, an additional 300,000 die from various causes related to obesity, and 480,000 die from the use
+of tobacco. However, millions of people eat, drink alcohol, gamble occasionally, or use drugs
+recreationally without causing themselves any major difficulties (Hart, 2021). The fatalities that result
+from compulsive practices are primarily, in our view, evidence of unaddressed suffering. This
+suffering can arise from large-scale issues (like institutional racism, patriarchy, and the entrenched
+materialism of a consumer-based economy) or personal histories of trauma and loss (Felitti, 2004;
+Hari, 2015; Menakem, 2017; Szalavitz, 2016; Schwartz & Sweezy, 2020).
+Although individual psychotherapy can certainly not overhaul social ills, we continue to work to
+repair the individual lives of our clients. If a client lives in dangerous circumstances or engages in
+criminalized activities, we can guide them to hear the stories of their firefighter parts and the impact
+of their childhood environment. If their circumstances at home are dangerous, we can validate their
+reality and help them access services and reclaim parts they have exiled for personal, social, or
+political reasons. Validation is an antidote to shaming experiences and the remedy for internalized
+mistreatment, but it can’t only emanate from us. A client must get validation from
+within
+by
+detaching from critical protectors, listening to their intentions with compassion and understanding,
+and offering a safe refuge to wounded parts.
+POLARIZATIONS BETWEEN PROTECTORS
+Given the various polarities we see at play in the context of the family and larger social systems, it
+should come as no surprise that polarizations between protective parts are the norm in addictive
+processes. These oppositions form when managers and firefighters devote themselves to contrasting
+strategies of protecting an internal system that is chronically threatened by exposure to frightening
+Sykes, Cece, et al. Internal Family Systems Therapy for Addictions: Trauma-Informed, Compassion-Based Interventions for Substance Use, Eating, Gambling and More, PESI,
+2023. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/buffalo/detail.action?docID=30745044.
+
+
+
+=== PAGE 3 ===
+
+memories and painful feelings. Both teams of protectors are constantly striving to keep the system
+from being overwhelmed by exiled parts. While manager parts help the client function, firefighter
+parts use substances and other forms of soothing or distraction to keep the feelings of exiles at bay.
+Alone, untended, and often denigrated as too weak or too innocent, exiles get caught in the crossfire.
+Their unmet needs escalate, they feel ever more hopeless, and so it goes, sometimes for years, before
+the individual seeks or gets access to therapy.
+T
+P
+C
+HE
+OLARIZATION
+YCLE
+1.
+Fragile, underlying exiles who feel deficient, inadequate, and abandoned—for any
+number of reasons, both historical and present-day—activate due to external
+interactions or challenges in the client’s life.
+2.
+Managers ignore or try to contain these vulnerable parts by getting busy,
+concentrating on tasks or the needs of others, keeping the client in their head, or
+using criticism to goad the exile into improving and becoming acceptable.
+3.
+Noting the exile’s distress and shamefulness, firefighters take over, using
+substances and various practices (
+whatever it takes!
+) to mask or medicate
+emotional pain.
+4.
+Exiles feel sick, degraded, fearful, and isolated.
+5.
+Managers mobilize again:
+a.
+Task managers frantically mobilize to get operations back on track in hopes of
+regaining fleeting control and self-respect.
+b.
+Critical, moralizing managers attack, vilify, and shame firefighters for their
+repeated transgressions.
+6.
+Firefighters return to the addictive practice again (
+something, anything!
+) to further
+medicate the pain, block out the shame, and deny consequences.
+7.
+Vulnerable exiles, unsought and unwanted, feel abandoned again, which
+reinforces their sense of being hopeless and unlovable. The cycle continues.
+Since all of this occurs in a cycle, we prefer the term
+addictive process
+instead of
+addiction
+. Referring
+to addiction as a process also implies the developmental aspects of compulsive using, since in a
+chaotic environment, the addictive process can begin early (Lewis, 2015; Szalavitz, 2016). Here, a
+child may oscillate between manager parts who crave control and good behavior and firefighter parts
+who crave diversion, escape, and pain relief. For example, a child who feels compelled to take care of
+the wayward adults in their life might vacillate between a part who excels at sports and a part who is
+Sykes, Cece, et al. Internal Family Systems Therapy for Addictions: Trauma-Informed, Compassion-Based Interventions for Substance Use, Eating, Gambling and More, PESI,
+2023. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/buffalo/detail.action?docID=30745044.
+
+
+
+=== PAGE 4 ===
+
+always dieting. They may fluctuate between a part who strives for perfect grades and a part who
+smokes cigarettes and shoplifts. These activities distract from, but do not help, the child’s deprived
+young parts who need parenting. As exiles feel more desperate and the child’s firefighter team gets
+angrier, more desperate, and more extreme, the balance between inhibition and disinhibition becomes
+ever more precarious. This is an addictive process.
+When a client’s vulnerable parts have not been as deeply wounded, the inner dynamic is milder but
+still present. They may wind up feeling a little stuck, a little unsuccessful. The client may not be as
+patient as they’d like with their partners or kids. In turn, their firefighters go to work to distract and
+soothe. They spend too much time lying around playing video games or scrolling through social
+media. Meanwhile, their managers nag and scold these screen-loving, couch-potato firefighter parts to
+close that laptop, get off the sofa, and be a little nicer today! This is not a major inner battle, but it is a
+polarity.
+Polarities escalate in response to emotional pain that stems from an accumulation of negative
+experiences that harsh managers echo internally. Some clients report a long developmental trajectory
+for their addictive process and have had treatment before. Some arrive at therapy for the first time,
+feeling spurred to action by some threat, like job loss, after many years of trying to control their
+addictive process. In contrast, some clients report that an addictive behavior only became a problem
+after a recent stressor. Widowed seniors, for example, may start gambling away their homes and
+pension checks after losing their partner, illustrating a very recent need for relief from isolation and
+grief.
+Once the addictive process (
+I have to do it! I have to stop doing it!
+) becomes extreme and chronic, it
+can’t be resolved with simple negotiation. The antipathy and lack of trust between the two sides runs
+too deep. Therefore, rather than soliciting one side for discussion, we guide the client to validate the
+good intentions of both sides without encouraging or endorsing the very extreme behaviors on
+opposite limits of the spectrum. For example, it’s essential to function, grow, and be responsible—but
+it’s also essential to feel carefree, rested, and satisfied. We show managers and firefighters how they
+are linked, and we assure them that the client needs
+both
+teams for their complete well-being. As they
+begin to feel validated and safer, they will become more cooperative.
+IS PSYCHOTHERAPY ENOUGH?
+For clients who struggle with addictive processes that involve high-risk, self-harming behavior,
+psychotherapy isn’t always enough. Some people need intense outpatient treatment or hospitalization.
+Peer support groups work wonders for many, but not all. Some will benefit from medication or the
+support of other professionals, such as a nutritionist or an acupuncturist. Some could use an
+adjunctive treatment, like couple therapy, art therapy, or a meditation group. Some won’t be willing
+to use these kinds of options, and some won’t have access to them. We can expect progress to go in
+fits (which we call recurrences) and starts (which is called progress). But whether an individual seeks
+help in a community mental health center, residential treatment, or private practice, psychotherapy is
+a central resource.
+So let’s drill down on this question:
+What can we do in the therapy hour?
+We can assert that the
+client’s addictive process is fueled by the need to relieve emotional pain, we can offer clarity that
+normalizes their inner battles and helps to organize chaotic thinking, and we can show them how to
+get lasting relief by safely healing old wounds.
+Sykes, Cece, et al. Internal Family Systems Therapy for Addictions: Trauma-Informed, Compassion-Based Interventions for Substance Use, Eating, Gambling and More, PESI,
+2023. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/buffalo/detail.action?docID=30745044.

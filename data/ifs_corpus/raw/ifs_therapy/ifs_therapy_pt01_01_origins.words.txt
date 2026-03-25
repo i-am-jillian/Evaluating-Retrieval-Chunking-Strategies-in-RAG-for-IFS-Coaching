@@ -1,0 +1,435 @@
+=== SOURCE METADATA ===
+source_book: ifs_therapy
+source_file: ifs_therapy_pt01_01_origins.pdf
+relative_path: ifs_therapy/ifs_therapy_pt01_01_origins.pdf
+extraction_mode: words
+top_margin_ratio: 0.05
+bottom_margin_ratio: 0.03
+=== BEGIN EXTRACTED TEXT ===
+=== PAGE 1 ===
+
+CHAPTER 1
+
+The Origins of Internal Family Systems Therapy
+
+We begin this introductory chapter with a bit of the story of how I (RS) developed the Internal Family Systems (IFS) model. I am the eldest of six boys born to Genevieve and Ted Schwartz. Ted was a highly successful academic physician who made a number of important discoveries in the field of endocrinology and was later the head of medicine at a big medical center in Chicago. While I am grateful for the many gifts I received from him, there were also some burdens. He wanted his sons to follow him into medicine and so, as the first of six sons, I was under a lot of pressure. But I didn’t (and to a large degree still don’t) have a head for hard science, and I was generally not interested in school—which angered my father. His frustration, conveyed through occasional outbursts of contempt when I brought home a report card, simmered on the back burner of my consciousness.
+
+From those episodes I acquired what, in this book, we call the burden of worthlessness, which was accompanied by a drive to prove my value to him. That drive became a valuable motivator in the early days of trying to birth this model of psychotherapy in the face of a lot of resistance.
+
+Every summer throughout my college years, my father got me a job as an aide on the adolescent psychiatric unit of his medical center in Chicago. My job was to take patients bowling, swimming, or to the movies. As a result, the kids and I became friendly. Away from their families, I would feel good as I watched them get better through the summer, only to find that they were back in the hospital the next summer. Since I mostly worked weekends, I was often in the day room when families came to visit, and I could hear their angry parents letting loose about the ways in which their kids were shaming their family. After the parents left, I would offer them comfort. I also asked if their therapists were doing anything about their family dynamics. They replied that their therapists never talked to their families and rarely talked to them. While therapists might comment on the meaning of the kids’ feelings or behavior, mostly they listened. And whole sessions could go by in
+
+=== PAGE 2 ===
+
+silence if a kid wouldn’t talk. Although I knew very little about psychotherapy, I knew something was wrong with that picture.
+
+One summer I became particularly attached to a delightful 16-year-old girl who had been addicted to heroin. She told me privately that her father had molested her. One day when her parents visited, her father sat by passively while her mother ranted about the ways in which her selfishness was hurting them. The teen killed herself the next day. I felt a lot of different things, not least outrage at the injustice of what had happened to her. I decided I wanted to become a psychotherapist and do things better. A counselor at my college taught a course on clinical psychology. Here I learned about the psychoanalytic approach to therapy that was being used with these inpatient adolescents, including the rationale for excluding families from treatment and for therapists to stay relatively distant from the kids (psychoanalysis has subsequently evolved to become more relational and inclusive of clients’ external contexts). He also introduced me to some therapies that were challenging the psychoanalytic approach.
+
+I was particularly drawn to Carl Rogers and Fritz Perls. Rogers appealed to me because, in contrast to the detached stance of analytic therapists, his caring, empathic style made intuitive sense to me. I was drawn to Rogers’s humanistic view that people get hurt but are basically healthy. Perls, on the other hand, struck me as a courageous, outrageous rebel who was breaking out of the analytic paradigm. Emotions should be fully expressed and experienced rather than interpreted. His “empty- chair” technique, in which the client would talk to “top-dog” and “underdog” parts who sat opposite in an empty chair, was my first exposure to the idea of inner conversations.
+
+Despite the appeal of Rogers and Perls, I felt something important was missing from their approaches. I kept thinking about angry parents attacking their kids, an external factor that they ignored, too. This was 1970 and, unbeknownst to me, a small but growing group of therapists had come to the same realization some years earlier and were developing a new approach called family therapy . But I wouldn’t learn about family therapy for another 4 years.
+
+O
+
+I
+
+F
+
+S
+
+T
+
+VERVIEW OF NTERNAL
+
+AMILY
+
+YSTEMS
+
+HERAPY
+
+Internal Family Systems (IFS) therapy is a synthesis of two paradigms: the plural mind, or the idea that we all contain many different parts, and systems thinking. With the view that intrapsychic processes constitute a system, IFS invites therapists to relate to every level of the human system— the intrapsychic, familial, communal, cultural, and social—with ecologically sensitive concepts and methods that focus on understanding and respecting the network of relationships among members.
+
+=== PAGE 3 ===
+
+IFS therapy is also collaborative and enjoyable. And because we view people as having all the resources they need rather than having deficits or a disease, it is nonpathologizing. Instead of seeing people as lacking resources, we assume people are constrained from using their innate strengths by polarized relationships, both within and with the people around them. IFS is designed to help us release our constraints and, in so doing, also release our resources.
+
+IFS is rated effective for improving general functioning and well-being on the National Registry for Evidence-Based Programs and Practices (NREFF) by the Substance Abuse and Mental Health Administration (SAMHSA); and is considered promising for improving phobia, panic, generalized anxiety disorder and symptoms, physical health conditions, and depressive symptoms. As a way of providing context and conceptual background to the IFS model, I (RS) tell my story in this chapter.
+
+F
+
+S
+
+, F
+
+T
+
+AMILY
+
+YSTEMS
+
+AMILY
+
+HERAPY
+
+By 1973, the environmental movement had launched, and I was fascinated with its emphasis on interconnections, which are inherent to ecological and systems thinking in general. I read Ludwig von Bertalanffy and Gregory Bateson, unaware that a few years earlier their ideas had also begun to inspire family therapists. Changes in one aspect of any system, they said, could have unforeseen, unintended, and often powerful consequences in connected systems. In addition, systems would try to maintain “homeostasis.” That is, a system would resist attempts to change it, especially if those attempts seemed ignorant of the context in which the behavior made sense.
+
+As a result, I became convinced that it was unreasonable to expect individuals to change in isolation from their environment. When I heard of an incipient movement called “community psychology,” which had incorporated some systems thinking, I searched for a graduate program that would focus on working with communities and found one nearby at Northern Illinois University.
+
+There I learned three important things about myself and my options: (1) I was too shy to be a good community organizer; (2) community work takes a long time to bear fruit, which did not suit me; and (3) a man named Earl Goodman, who had recently come to Northern Illinois, was teaching an approach inspired by systems thinking called family therapy . This approach appealed to me as a potentially quicker route to change.
+
+I immediately joined a small group of students who spent many hours watching each other work with families from behind a one-way mirror under Earl’s tutelage. Since this was shortly before the publication of several seminal family therapy texts that would give us clarity and direction, we were groping in the dark and basing our interventions on vague concepts like homeostasis and
+
+=== PAGE 4 ===
+
+scapegoating. We thought that parents couldn’t handle their own issues, so they needed a child as a scapegoat and would, perhaps unconsciously, undermine the therapist’s attempts to help the child because they relied on the child’s symptoms as a distraction. The goal was to help families shift their focus from the “identified patient” to the parents’ troubled marriage, freeing the child from having to protect the parents by being symptomatic.
+
+After a few successes with this approach, I became a zealot. We felt as if we were part of a revolution in understanding and treating human problems, and as such we believed we were superior to the rest of practitioners in the psychotherapy field. I became an obnoxious crusader, pointing families toward the errors of their ways and challenging psychodynamic therapists at conferences.
+
+The following year two books came out that fortified my inflated convictions: Families and Family
+
+Therapy
+
+by Salvador Minuchin (1974) and
+
+Change
+
+by Paul Watzlawick and his colleagues in California (Watzlawick, Weakland, & Fisch, 1974).
+
+After reading these books, I read and reread the work of the intrepid souls who were spearheading the family therapy revolution and bashing the establishment. Salvador Minuchin and his colleagues (Minuchin, Rosman, & Baker, 1978) were claiming to have great success with anorexia, a condition that was considered very difficult to treat. Jay Haley (1976, 1980) made similarly bold claims about his work with young people with psychosis who couldn’t leave home because they were protecting their families. The missing ingredient in psychotherapy, they said, was the patient’s external context.
+
+Along with them, I was convinced that there was no need for mucking around with inner states and feelings because clients would achieve more therapeutic gains when we reorganized their external contexts. Families just needed clear boundaries, including rules about who interacted with whom and how, so that family members were not too close or too distant from each other.
+
+Parents needed to be allied with each other and in charge. Every family needed a clear hierarchy of leadership so the children did not have to worry about their parents or side with one parent against the other. In addition, family members’ beliefs about each other, which fueled repetitive patterns and boundary problems, would change once the therapist “reframed” the harmful or mysterious behavior of the child as the child’s positive intent to protect the family. For example, a father yells at his son for being too shy, which makes the boy more self-conscious. As the boy withdraws further, the father gets increasingly frustrated, doesn’t know what else to do, and criticizes his son more, and so on. We thought the family dynamic would shift if we could convince the father that his son aimed to protect his mother from facing an empty nest by being shy and not leaving home.
+
+To assess families, we tracked their interactions and asked questions. We aimed to reveal the sequences and patterns that created vicious cycles, which generally consisted of a child allying
+
+=== PAGE 5 ===
+
+inappropriately with one parent or being recruited to protect some other family member. The opposite was also true: Rather than being too enmeshed, some family members were too cut off from each other. We were alert to parents being overbearing or abdicating their responsibilities altogether.
+
+When we found such evidence, we pointed it out to the family, urged them to change according to our instructions, and dispensed reframing views of the identified patient’s behavior liberally.
+
+Since we were looking for pathology within the family rather than the psyche, we were no less pathology detectives than the therapists we disdained who gave clients diagnostic labels. We were the experts who knew what the family needed. When families didn’t follow through and change as we had prescribed, we labeled them “resistant” and interpreted the resistance as their need to stay stuck. This diagnose-and-impose attitude worked reasonably for some families, but made antagonists of others and was the opposite of helpful. Our expert mindset led us to deal with the so-called “resistance” in families by trying to manipulate them with “paradoxical injunctions,” which involved telling them to keep doing what they were doing in the hope that they would rebel. In short, we viewed families as intimidating adversaries who were so strongly attached to their symptoms that therapists needed either to jolt them into changing or impose change on them.
+
+After graduating from the master’s program at Northern Illinois, I carried that top-down mindset to my first job, at the same Department of Psychiatry at the Chicago hospital where I had been an aide when I was younger. Hired to work with the families of pain patients, I was the token family therapist in a psychoanalytic department. I stayed for a year, asking families a lot of annoying questions about the function of their symptoms with the intent of uncovering the role of pain in their family dynamics. While this approach struck pay dirt in a few cases, many families were simply insulted by the insinuation that their suffering was manipulative and put off by my prescriptions for change. Showing me how much I didn’t know, this checkered outcome sent me back to school.
+
+M
+
+B
+
+V
+
+S
+
+URRAY
+
+OWEN AND
+
+IRGINIA
+
+ATIR
+
+My choice for graduate work, Purdue University, was known for its engineering school, but it also housed a doctoral program in family therapy with a stellar reputation. After getting married, I moved to Purdue in West Lafayette, Indiana, where I studied with Doug Sprenkle, a well-known family therapy teacher and researcher. There I learned about Murray Bowen and Virginia Satir, family therapists who challenged my biases by focusing on the experience of individuals within families.
+
+Until then, still reacting against the psychoanalytic approach I had encountered at the hospital, I had assiduously avoided intrapsychic considerations, branding them “linear” rather than “systemic.”
+
+=== PAGE 6 ===
+
+Meanwhile, Virginia Satir (1970, 1972) was considering the importance of self-esteem and Murray Bowen (1978) the importance of self-differentiation. At times they also worked with individual family members rather than solely convening the whole family.
+
+Because I had struggled so hard to differentiate from my father and family, I was drawn to Bowen’s approach. I knew firsthand the challenge of developing my own views without rejecting family values and gifts. By this time my passion for (and modest success with) family therapy had quieted those you’re-a-failure, you-have-to-change-the-world voices that I had gotten from my father. Meditating regularly also kept my head above water. I was feeling good about myself, regardless of what my father thought of my choices. I thought I was a classic example of someone who had successfully differentiated from their family of origin. Little did I know how much further I had to travel!
+
+Satir’s appeal for me lay in her emphasis on changing how people communicated their feelings. I judged myself generally quite happy. I would cry at times and feel closer to my wife, Nancy, which helped me feel good about myself. However, sometimes when Nancy said something quite innocent I would explode angrily. Although I had no idea why, I was aware of intense shame and self- loathing bubbling to the surface when I wasn’t distracted. Satir asserted that clear and congruent communication would improve people’s self-esteem and their relationships. If her style of communicating could change my behavior and the potential for my feelings to wreak havoc in my marriage, she was my new hero.
+
+My dissertation explored the hypothesis that improving communication in a couple would improve the self-esteem of the individual partners. A fellow student and I taught a Couples Communication Program, developed by Sherod Miller, which fit closely with Satir’s ideas. We also took pre-, post-, and follow-up samples of participant couples’ communications and levels of self- esteem. And we did find a correlation between better communication skills and improved self- esteem immediately after the program. But at follow-up the correlation had not lasted. It seemed that self-esteem was a bit more difficult to transform than Satir and I had thought. Disappointed, I concurred with the judgment of many others in the field that Satir was too “touchy-feely.” I moved away from her ideas, re-embracing the harder-edged, “expert” mindsets of Minuchin and Haley, only to realize much later as I developed IFS that I was standing on her shoulders more than the shoulders of any other family therapy pioneer.
+
+In 1980, the same year our eldest daughter, Jessica, was born, I graduated from Purdue and took a job at the prestigious Institute for Juvenile Research (IJR) in Chicago as a family therapy trainer and researcher. IJR was essentially a state-supported think tank from which much of the early
+
+=== PAGE 7 ===
+
+sociological research on juvenile delinquency had emerged. As it turned out, this setting was ideal for consolidating my ideas. I joined a few colleagues (including, at different points, Doug Breunlin, Howard Liddle, and Betty Karrer) to teach in a small family therapy training program within the institute that offered therapy to troubled kids and families from Chicago’s west side. Since our teaching and clinical loads were light, we were able to log many hours watching each other and our students from behind one-way mirrors as we worked with disadvantaged families.
+
+At IJR my change-the-world parts blossomed into full grandiosity. I believed I had landed in the perfect setting and had found the revolutionary ideas I needed to prove that I wasn’t a failure. Since my father was a prominent physician and had wanted me to be one as well I was eager to see what family therapy could do for medical syndromes. Perhaps, I reasoned, my inability to learn medicine would now be a blessing in disguise because I would find a new approach to medical problems.
+
+When a young client tearfully confessed to me during my first year at IJR that she routinely ate huge amounts of food and then vomited it all up minutes later, I asked around the institute and learned of a newly described syndrome called bulimia nervosa, which seemed perfect for my purposes: a new syndrome that was difficult to treat and had quantifiable symptoms so I could demonstrate the effectiveness of my work scientifically—to my father. Plenty of room for contributions! I recruited Mary Jo Barrett, a colleague who was also interested in eating disorders, to co-lead the study with me, and we contacted a local eating disorders association to get referrals. By the winter of 1983, my colleagues and I were well into the study and were having success applying a structural/strategic model with the families of these women with bulimia.
+
+Alas, the study didn’t work out as planned. Several clients weren’t “cooperating.” Although I could reorganize their families just as Minuchin recommended, the young women kept bingeing and purging. What to do when prophecies fail? I had already abandoned Virginia Satir and now I wanted to abandon Salvador Minuchin, too. Either he had exaggerated his outcomes with anorexia or I was a failure as a structural family therapist. Just as I concluded that I would be wise to look elsewhere to change the world, something happened with a client named Quinn.
+
+D
+
+W
+
+N
+
+E
+
+ETRIANGULATION
+
+AS
+
+OT
+
+NOUGH
+
+Quinn was 23 years old when she came to therapy feeling suicidally depressed about her habit of bingeing and vomiting. She and her family had been in the study for over a year and had responded well. Quinn had been very involved in her parents’ relationship, acting the confidante to her father while being both a rival and caretaker to her mother, all of which is common for clients with
+
+=== PAGE 8 ===
+
+bulimia. Many emotionally charged sessions had uncovered this triangle, releasing Quinn from the roles she was playing for her parents, and helping her parents begin to negotiate with each other directly. As her parents did better, Quinn moved cautiously from their home to her own apartment, found a good job, and made friends for the first time. We had weathered several episodes in which parental quarrels and distress had, like a vacuum cleaner, sucked her back into the middle of their relationship. But her parents were courageous enough to address their eruptions in marital therapy, and from my perspective the family system was successfully transitioning to a new chapter.
+
+Throughout the family therapy Quinn’s bulimic symptoms had waxed and waned. Now that she was functioning independently and had a new perspective on family crises and loyalties, I expected her to discard the eating disorder. After all, to my way of thinking Quinn and her family were detriangulated and did not need her to indulge in this nasty habit. To my dismay, however, Quinn seemed unaware that she was cured. Although she was religiously compliant and followed every direct or paradoxical task I set, the effects were temporary at best. Quinn went on being symptomatic and unhappy, and I felt annoyed that my outcome study could not claim success. Out of frustration I asked Quinn what was happening inside that drove her to binge and purge. In response, she began to talk about warring parts.
+
+R
+
+P
+
+EDISCOVERING THE
+
+SYCHE
+
+In that Quinn had no sense of control over what her parts said or did, she described them as being autonomous. They had distinct voices, talked back, said funny things, and were willing to cite their motives. Although blown away by all this, I was still cautious about its implications. For one thing, I was culturally conditioned to view myself (and the people around me) monolithically. In the 20th century, the subjective experience of psychic multiplicity, which we can think of as many inner personalities operating in one person, was widely considered pathological. For another, my professional culture routinely used adjectives such as needy, hostile, nurturing, and overinvolved to describe clients, as if the essence of these individuals could be summed up in an adjective or two describing their behavior. Once I shifted to the paradigm of multiplicity, these kinds of simple descriptions no longer sufficed—nor did standard diagnostic categories. I knew if I went further, I would be taking a big leap.
+
+H
+
+C
+
+IDDEN
+
+ONVERSATIONS
+
+=== PAGE 9 ===
+
+Mounting evidence ultimately overrode my concerns, and I accepted that my clients’ challenges to received wisdom were valid. I felt I should at least have an open mind and be curious about what they were saying, so I kept inquiring and hearing the same news: The chattering mind denotes a nonunitary, relational mind. Throughout the day all of us pass from one personality to the next. For most of us this process is mundane, fast, fluid, and largely out of awareness. But although our limited vocabulary for distinguishing among our inner entities (at least in English) blocks us from being aware of the activity of this inner community, our ignorance does not stop the community from conducting its business.
+
+Q
+
+O
+
+D
+
+UINN’S
+
+NGOING
+
+ILEMMAS
+
+As it turned out, Quinn had a number of ongoing inner dilemmas with a life of their own that were immune to the changes in her family, which is why my structural/strategic interventions were less effective than I had wished. Although Quinn was convinced that she would be able to shake bulimia if she had a loving relationship with a man, she could not tolerate closeness. She felt elated when a prospective boyfriend liked her, but as he got closer she was gripped by the conviction that she was repulsive and he was a dangerous oppressor. When she could no longer tolerate the tension between her longings and fears in a relationship, she would withdraw. And when the man finally stopped calling and gave up, she would sink into despair, stop going to work, and sit around her apartment believing that she had blown her only chance for love. Throughout the initial excitement and the eventual letdown of this cycle, Quinn binged and purged.
+
+B
+
+L
+
+P
+
+ULIMIA AS
+
+OVER AND
+
+ERSECUTOR
+
+Clients who rely on addiction for intimacy, comfort, and distraction are typically caught in the Catch- 22 of longing for love and believing they are unlovable. Although the addiction soothes and distracts from this dilemma, it also generates a highly negative self-image—for which addiction is, ironically, the quickest fix. So round it goes. While dating, Quinn would become obsessed with her appearance and her bathroom scale. If the number on the scale was bad news, her desire to binge grew more intense.
+
+Every time she retreated from life, comestible intimacy was her solace, nurturance, and pleasure.
+
+Food filled her emptiness. Having long since lost any natural revulsion about vomiting, which offered a sense of physical purification and mental peace much like an orgasm, Quinn balanced her bingeing with purging. But, because she lived in constant fear of gaining weight, any peace she
+
+=== PAGE 10 ===
+
+achieved during this cycle was short-lived. When she was dating, men were her tormentors; when she was not dating, the bathroom scale was her tormentor. If the news was bad on either front, she soothed herself with bingeing and purging. At the same time, she experienced bulimia as a perpetrator: It was her jailor as well as her savior. If only she could stop, she believed, she would be able to get close to a man and finally get the love she needed. In short, whether Quinn was feeling optimistic or depressed, she remained in the grip of her soothing, anxiety-provoking, physically punishing eating disorder.
+
+B
+
+T
+
+REAKING THE
+
+ABOO
+
+As long as I was attached to my “external-only” family therapy orientation, I was at a loss with Quinn. My inability to help her forced me to confront the limitations of my model. By asking Quinn about her inner experience, I was violating the unwritten rule of family therapy: Stick with externals.
+
+Desperation drove me to go ahead anyway and ask her what she was experiencing just before she went on a binge-and-vomit spree. She said she heard a confusing cacophony of what she called “parts” and “voices” arguing in her mind. When I pressed her to differentiate these voices, she found—to our mutual surprise—that she could easily identify several regulars who got into heated debates. One voice was highly critical of everything about her, but especially her appearance. A second defended her by blaming either her parents or the bulimia for her problems. A third felt sad, hopeless, and helpless. And, finally, there was a fourth who “took over” to make her binge.
+
+Fascinated by this report, I asked other clients with bulimia the same questions and heard remarkably similar stories. Notably, they spoke of frequent, abrupt, and drastic shifts in their feelings, thoughts, and behaviors, as if some very different people were taking turns possessing them. As one client lamented, “In the course of 10 minutes I go from being a professional who has it all together, to a scared, insecure child, to a raging bitch, to an unfeeling, single-minded eating machine. I have no idea which is the real me. But I know I hate this.” Although these young women were disturbed to ricochet helplessly among contradictory personalities, looking at these personalities caused the entities to distinguish themselves. Clients called them their “parts”: “This part of me is like a little child; that part is mature but rigid.” Identifying parts caused my clients to find them less overwhelming and intimidating. In this way, observing instead of avoiding their parts helped my clients find a new perspective on their inner experience. The voices seemed to have reasons for being extreme, which gave us a clue that their extremity was not the whole story.
+
+=== PAGE 11 ===
+
+A
+
+Q
+
+SKING
+
+UESTIONS
+
+At this point, I had the big advantage of total ignorance. I had not studied intrapsychic theories and I had few preconceptions. All I could do was listen carefully and trust what my clients were telling me about their inner worlds. Without a conceptual framework for these explorations, I spent many sessions asking Quinn and other clients about their parts. What were they like? What did they want?
+
+How did they get along with one another? Which ones did the clients like and listen to, and which did they hate, fear, or ignore? The more I explored, the more their descriptions reminded me of families. Each inner voice was idiosyncratic in character, complete with temperament, desires, and a distinct way of communicating. Moreover, parts had alliances and polarities. We discovered that those who were vulnerable got locked away, or, as I came to speak of it, “exiled.” Others managed the client’s life, while yet others distracted from controversy and pain. Regardless of their role, most parts we met did not trust the client to lead, often believing that she was still young and at risk.
+
+The more I learned about the inner families of these young women, the more relevant family therapy concepts such as homeostasis, triangulation, and scapegoating looked in relation to their inner dynamics. Everything I’d learned from structural family therapy seemed to apply. So I began to co-create experiments with clients with the aim of using family therapy techniques to reorganize their inner systems. My first mistake was to assume, as many psychotherapies do, that parts are what they appear to be. For example, I saw critical parts as “internalizations” of parents at their worst, and bingeing parts as inner metaphors for out-of-control impulses.
+
+This view set me up for my second mistake, which was encouraging clients to use a managerial attitude toward their parts. My idea was to teach clients to ignore, control, or do battle with their parts. Consequently, I would ask, “When the critic attacks you, what do you usually do?” They’d say something like, “I usually agree with it and feel terrible.” And I sent them home with instructions to stand up to the critic instead, and they would report that matters had gotten worse: The critic took a harsher, more brutal tone and called them more names. Nevertheless, I persisted. I was determined to help my clients either ignore extreme parts or coerce them into compliance—until I met Roxanne, a client with bulimia who showed me the nature of parts and taught me how to relate to them.
+
+ROXANNE
+
+In our first session, Roxanne said she believed her bulimia was related to having been sexually abused by a neighbor when she was young. She was the first survivor of sexual abuse I had worked
+
+=== PAGE 12 ===
+
+with, and I was determined to help her overcome all the dreadful consequences of this transgression.
+
+Some sessions later she showed me fresh gashes on her arms, disclosing that she often cut herself.
+
+By then I had become very fond of Roxanne and I was appalled to see these wounds. I decided I wouldn’t let her leave until we had the cutting part under control. Around this time I was experimenting with the empty-chair technique from Gestalt therapy: The client sits in one chair facing another chair that is empty. Imagining a part in the empty chair, she talks to it. This time, however, I did something different with the chair technique. I asked Roxanne to move to the empty chair so I could speak to her cutting part directly. When I asked the part why it was cutting her, it replied that she was bad and deserved to be hurt. I told the part that cutting was no longer acceptable and it would have to find something else to do. I also recruited Roxanne to tell the part that it could no longer cut her. Roxanne gamely delivered this message. The part responded with disdain, so I badgered it for 2 hours until it finally agreed not cut her until the next appointment. When I opened the door to Roxanne the next week, I gasped. She had a big gash down the middle of her face. My macho, not-on-my-watch coercion had led to disaster. As I looked at her face, all the fight in me collapsed. I was overcome with a sense of my own powerlessness. I said to Roxanne’s cutting part, “I give up. You win. This is a dangerous game and I can’t beat you.”
+
+To my surprise, the cutting part dropped its bravado and replied softly, “I don’t want to beat you,” at which I melted into a state of pure curiosity. “Then why do you cut her?” I asked. Sensing that my interest was genuine, the part described its two-pronged job. In the past when Roxanne was being abused, it had taken her out of her body and controlled her rage, which would have endangered her further. The part went on to tell me it still needed to get her out of her body when she was scared, and it still needed to control the rage, which is why it was still cutting her. As I listened I felt great appreciation for the part and the heroic role it had played in Roxanne’s early life—and I said so.
+
+I was also struck by the sense that the part was still living in the past, during the time in which Roxanne had been abused. It seemed to be frozen in the past, just as many acting-out children are trapped in their roles. From what I knew about families, I calculated that this part would be willing to change only if two things could happen: if the part could get out of the past, and if Roxanne’s fear and rage could somehow change. At the same time, since I now realized that this part wasn’t what it seemed to be, I asked what it would prefer to do if it were released from its job. Without hesitating, the part said it would like to do the opposite of what it was currently doing. It wanted to help Roxanne feel her sensations more intensely.
+
+I was so excited that I couldn’t sleep that night. What if destructive parts actually intended to help? What if they didn’t like the extreme roles they had been forced into? What if all of us in the
+
+=== PAGE 13 ===
+
+field of mental health were mistakenly encouraging vicious cycles within clients and families? What if, the more we lectured, drugged, and tried to banish or control parts like this one, the harder they would fight to protect our clients? Maybe we were scapegoating impulsive, compulsive parts just the way my early teachers—the acting-out adolescents on the inpatient unit in Chicago—had been scapegoated in their families. What if we could simply help these parts with their fears? Could they be liberated from extreme roles in the same way adolescents were liberated in family therapy? Could the inner world of parts reflect the outer world of families and vice versa?
+
+Returning to work, I immediately tried speaking to extreme parts in other clients—anorexic, suicidal, rageful, bingeing—with a noncoercive, open curiosity. To my delight, they responded just like Roxanne’s cutting part. They said they would certainly prefer to use their energy for positive purposes if doing so were safe, but their job was to protect the client. These interviews led me on to question how inner systems function more broadly. In response my clients’ parts described all the same dynamics and patterns that had become so familiar to me over years of studying and practicing family therapy.
+
+Clearly inner leadership problems paralleled what I had seen in dysfunctional families. Various coalitions of extreme parts vied for power over the course of clients’ day-to-day lives. And what we usually consider “thinking” was often a contentious inner dialogue ( Go on—just eat it! vs. Don’t touch that! If you eat it, you’ll die), which was annotated by a vigilant, critical chorus ( You are so pathetic and sick! ). Such intense inner conflict frightened younger parts in my clients’ systems.
+
+Their fear set off more protectors who would dissociate or else distract clients by doing something impulsive like getting high, getting angry, getting physically sick, or picking someone up for sex.
+
+Soon, however, the distraction would also come under attack: You are such a hopeless … [fill in the blank:] addict, whore, rageaholic, ADD loser! This typical cycle showed me how despair drove protective parts to entrench themselves in extreme reactions and keep fighting each other. No one inside seemed capable of earning the trust of everyone else and taking leadership. As a result, despite good intentions, these parts could not rally together or manage life’s challenges.
+
+Using the techniques of Satir, Minuchin, Haley, and Madanes, I set about teaching my clients’ inner families to communicate more directly, have better boundaries, try new roles, and establish appropriate hierarchies and leadership. Since I didn’t live with my clients, I didn’t want to be the central figure in their inner lives. Instead, I invited them to focus inside, talk to their parts, and tell me what was happening. Then I guided them to improve troubled inner relationships by communicating with their parts skillfully.
+
+=== PAGE 14 ===
+
+I found, however, that my clients could not make much use of communication skills internally because their psyches were too full of chaos and conflict. So I tried having them engage in a noncoercive dialogue with just one part at a time. This, too, proved extremely difficult because as soon as they tried to talk with a target part, they felt angry, disgusted, or afraid, and their open, curious attitude went out the window. As a family therapist, I was familiar with this dynamic. When we try to have two people dialogue in a family, other family members often chime in, take sides, and escalate the conflict. I had learned to “make boundaries” by asking interfering family members to relax, and sometimes even by asking them to move physically so the dialoging pair would not be distracted seeing them. Now I tried the same strategy with parts.
+
+CORA
+
+A young woman named Cora, who had an eating disorder, reported a pessimistic voice along with a critic who responded to every positive action on her part with predictions of doom. Meanwhile, she said, other voices argued against these dire predictions, while still others felt ashamed and incompetent because of them. She believed that the last—the shame and incompetence—were the real Cora. Intrigued with her inner battles, I asked Cora to reorganize the relationship between her battling parts in order to change the outcome of their interactions. The only difference between family therapy and my approach with eating-disordered young women like Cora was that their inner relationships involved having feelings toward, thoughts about, and conversations with other thoughts and feelings.
+
+I guided Cora to ask her pessimist why it kept insisting she was hopeless. It replied that it didn’t want her to take risks and get hurt. This answer seemed promising. If the pessimist really had a benign intent, maybe Cora could help it find a new role. But Cora was not interested. She was mad at the pessimist and told it (rudely) to leave her alone. When I asked why she was being rude, she went off on a long diatribe about the ill effects of this voice, which had erected major hurdles at every step of her life. As I listened, it dawned on me that we were actually hearing from another part, one who fought with the pessimist. In an earlier conversation, Cora had described an ongoing war between a voice who pushed her to achieve and another one who insisted she was hopeless. This seemed to be the pushing part.
+
+So I guided Cora to focus on the pushing, angry voice and to ask it to stop interfering—to “step back” in her mind. To my amazement, the part cooperated and Cora’s attitude suddenly shifted again. When I asked how she felt toward the pessimist now, a completely different person answered.
+
+=== PAGE 15 ===
+
+In a calm, caring voice she said that she was grateful to it for trying to protect her, and sorry that it had felt so alone while working so hard. Her face and posture reflected her compassion. From this point negotiations with the pessimist were easy. I went on to try the same “step back” technique with several other clients. Sometimes we had to ask two or three voices not to interfere before the client could shift into a state like Cora’s, but we got there nonetheless. Now I was excited again. What if people could get extreme voices to relax simply by asking—not only in negotiations with other parts, but with family members or bosses? What if the person who remained after everyone stepped back was always as compassionate as Cora had been? So I asked my clients who was being so calm and compassionate inside.
+
+Their replies were something like the following: “That’s not a part like those other voices, that’s who I really am, that’s my self.” Although I was not aware of this for some years, I had stumbled on what I came to call their
+
+Self,
+
+with a capital an entity that is described and approached in many
+
+S,
+
+different ways in spiritual traditions around the world (see Schwartz & Falconer, 2017). At the time, however, I was simply thrilled to find that my clients did have an inner leader, and that therapy could be more effortless and effective both for them and me.
+
+Conversely, I was also shocked. I had believed, as most psychotherapies that are based on attachment theory teach, that effective, trusted inner leadership could only develop over time through a healing external relationship. This had led me to believe that therapy would be slow and painstaking, with lots of role modeling and corrective experiences with the therapist. In addition, because of the new wrinkle of an inner family, I had been assuming that we would need to find and develop—slowly and with a great deal of effort, in the context of a safe, attuned relationship—a part who could learn how to take the lead internally. This labor-intensive vision had led me to the pessimistic assumption that the majority of my clients would not have the time or resources to achieve full health, though I had become optimistic that we could at least help.
+
+N
+
+D
+
+EW
+
+ATA
+
+Now I had new data. Clients were not only separating from extreme feelings and beliefs, they were spontaneously demonstrating unalloyed ego strength. Nothing I knew could account for this. Most of these individuals not only lacked good-enough parenting, their childhoods had been nightmares of fear and degradation. Some had never been held or comforted in their lives. They had no good attachment figures. The implications of what I was seeing were startling for developmental psychology and attachment theory. I wondered, “Are we born with these qualities so we don’t have
+
+=== PAGE 16 ===
+
+to get them from the environment?” Maybe our psychologies, philosophies, and religions had radically underestimated what we call human nature . Even though I had been meditating for years and could shift from negative feelings to calm (or sometimes even bliss) by focusing on my mantra for a few minutes, when I didn’t meditate for a while, the feeling of worthlessness crept back in like fog, obscuring my calm and confidence. Now my clients were showing me a new way of accessing calm and confidence. I began to experiment with noticing parts in my body and asking them to step back instead of using a mantra. Amazingly it worked, and this is how I continue to meditate today, almost 35 years later.
+
+At the same time, however, I was wary of big conclusions. I tested my new approach for several years before I was convinced that anyone and everyone could shift from distress to calm in a few seconds. After watching scores of clients embody qualities of the Self with total spontaneity as soon as their parts separated, I finally embraced the idea that there is more to us than we usually let ourselves dream. And whatever this was (in calling it the
+
+Self,
+
+I was following my clients’ lead), it clearly did not need to develop over time. It was always right there if our parts let it in.
+
+Beyond being a peaceful state from which to witness and transcend the world, this mindful state of Self was also healing, creative, and performance enhancing. When my clients entered the Self- state they didn’t just witness their parts passively, they began to interact with them creatively, which seemed to heal them. They brought their emergent compassion, lucidity, and wisdom to the project of knowing and caring for these inner personalities. Parts like Cora’s pessimist struck me as inner trauma victims, stuck in the past and frozen at a time of great distress, often in childhood. They were activists, and they needed the client to understand their motivations. Other parts mostly needed to be heard, held, comforted, and loved.
+
+Most amazing of all, once clients were in that Self-state, they seemed to know just what each inner personality needed. I decided to test this observation. When I sensed that the client’s Self was present, I stopped telling her how to relate to the part and instead asked questions like, “What do you want to say to this part now?” Each time the client would say the perfect words or go to the part and hold it. I realized I couldn’t teach them how to relate any better than this. My job, therefore, was mainly to help clients remain in the Self-state. If they were “in Self,” I could get out of the way and watch them parent their inner families. When I tried this with my part, who felt like a big disappointment and believed it was unlovable, I discovered a young boy. But I immediately felt contempt for his neediness. After asking the contemptuous part to step back, I wanted to hug the boy and tell him how sorry I was for staying away so long. After several such encounters with me, the boy felt better connected and was happier, and I no longer had to work to keep his feelings at bay.
+
+=== PAGE 17 ===
+
+Emboldened, I helped my clients separate from their parts, find the ones who were in pain, and love them up. The good news was that my clients felt better by the end of a session in which they had been able to embrace and comfort their childlike personalities. The bad news, to my dismay, was that they would return the next week having had horrible experiences shortly after leaving my office.
+
+One client had a car accident on the way home. Another spiked a fever of 103 degrees. Still another got the worst migraine of her life, which kept her in bed the whole week. These events shocked and alarmed me. I kept hearing my father’s voice saying, “First do no harm!” Changing inner systems was suddenly looking more complicated, dangerous, and difficult than I had imagined. I considered aborting the whole experiment and retreating to the relative safety of standard family therapy. But then I remembered how Roxanne’s cutting part had spoken of wanting to protect her. Could this ferocious response come from parts who felt endangered by me? Had I alarmed them by focusing on the client’s vulnerability too fast?
+
+I asked each of these clients to focus on the backlash and listen. And, indeed, they heard furious inner voices who were in a punitive mood. Since we listened patiently, these angry parts calmed down and explained that we had disrupted their intricate defense systems by going to vulnerable parts without their permission. I realized that I was mucking around in some delicate, well-guarded ecologies, especially with certain very traumatized clients. I resolved to offer these parts my respect, learn the rules of inner systems, and become more ecologically sensitive. As a systems thinker I was embarrassed that I had failed to anticipate this kind of homeostatic reaction to blunt incursions. If this really was an inner family, then of course powerful responses were predictable. Family therapists know they must connect with, reassure, and get permission from the family’s leery protectors before they can safely focus on vulnerability. Why would internal families be different?
+
+P
+
+D
+
+O
+
+P
+
+RIVILEGING
+
+ATA
+
+VER
+
+RIDE
+
+For years I did not want to accept that psychodynamic therapists were absolutely right on certain topics: The past does affect the present profoundly; people are driven by unconscious phenomena, which is to say phenomena that remain out of awareness; emotion and the body are key to effective therapy; and, finally, the therapeutic relationship is also key, including both transference and countertransference processes.
+
+After swallowing enough pride to privilege data over preconceptions, I also realized that the perspective of IFS provides a different understanding of—and way of working with—these traditionally psychoanalytic observations. We can enter the unconscious and interact with it directly,
+
+=== PAGE 18 ===
+
+asking questions about the desires, distortions, and agendas of the inner system. In response, our clients’ parts will answer clearly, take the client directly to crucial scenes from the past, and explain what is most important about their experience, removing the need for us to speculate, reframe, interpret, or instruct. Those painful scenes from the past often evoke internal waves of strong emotion that could easily overwhelm the client. But we can help the client’s Self remain present even when he might seem to be overcome by emotion, as we describe later in this book.
+
+When the Self stays present and leads the way, the client’s part will finally feel understood and its negative feelings will subside. I noticed that sometimes clients’ bodies would move in unusual and even startling ways as they did this inner work. Again, after an initial period of worry, I learned that in order to feel fully witnessed and understood, some parts need to take over in the body temporarily.
+
+Now whenever I see signs, even subtle signs, of a somatic takeover, I encourage clients to stay with or even exaggerate that experience. If some of their other parts feel self-conscious or frightened, we stop first to help them feel safe so they are willing to step back and let us proceed.
+
+I learned that I don’t have to tell clients what to say to or do with their parts because their Selves know. Thus I can relax and be present in a very enjoyable way. For example, if a childlike part thought she deserved abuse, the client’s Self would give all the reasons why she didn’t deserve it until the child believed her. When we work through the client’s Self, doing therapy is easier because we rarely have to educate or lead. Mainly, we have to be Self-led and present. As clients feel my nonstriving presence going with them on their journeys, they access more Self and eventually heal.
+
+I have also learned that my relationship with clients is terribly important to our success, in part because it gives them a new relational experience of acceptance and compassion, but also because my ability to be in Self helps their protective parts relax so their Selves can flow in. Then they can give their parts a new experience that is parallel to the one they were having with me. Because the client’s Self is interacting with her parts and providing them with a sense of inner calm and solidity, I am less subject to extreme transferential projections. But when transference does emerge, I address misperceptions about me directly and briefly, before asking the client to find and unburden the parts who carry those old templates.
+
+This state of Self is not just a concept. When the Self is present, people experience a palpable difference in their bodies. For example, clients report feeling openhearted and light. Some vibrate with flowing energy. In addition, they report their minds being clear and say they don’t feel attached to any agenda. Over time I have found that I can train other therapists to notice the signs of an embodied Self, and also to notice their absence. In this way I discovered that we could all become aware of activated parts as they manifest physically, which means we can detect our parts as they
+
+=== PAGE 19 ===
+
+react to a client (countertransference), and help our parts step back so our Selves can stay present.
+
+After the session, we can return to help our parts, which keeps them from interfering in future sessions.
+
+We can also talk to clients about our countertransference reactions if doing so seems useful. For this purpose, the language of parts helps because we do not have to say, I feel angry or afraid or impatient . Instead, we can say, A minute ago a part of me felt … and I will help that part so it doesn’ t interfere . In general, the language of parts helps clients and therapists disclose strong feelings that might otherwise be embarrassing or controversial. Acknowledging that a small part of me is hurt or enraged is far less shaming or threatening than saying I am hurt or enraged .
+
+At this point our readers may wonder how the phenomenon of psychic parts relates to dissociative identity disorder (DID). From our perspective, the “alters” of clients with DID are parts, but their inner systems are more polarized and disconnected. This is because horrible childhood abuse causes vigilant protectors to rely on amnesic barriers, which block the usual web of inner relationships.
+
+While this is protective during dangerous times, it serves both to amplify the pain of isolated, injured parts and lock in the survival tactics of rigid young protectors. This extreme internal state leaves clients very wary of trusting the Self or anyone else. Unfortunately, because our culture portrays DID as a fascinating but bizarre aberration that signifies severe pathology, clients whose inner systems are not characterized by extreme dissociation may worry about being crazy when they access parts; and clients whose inner systems are better described by the DID diagnosis often do not realize that having parts is normal.
+
+Following are a few essentials of the IFS perspective:
+
+1. Systems thinking encourages us to be ecologically sensitive. • Resistance is the (often correct) response of protective parts to a potential threat (the therapist) to the system. • Protectors deserve to be understood, appreciated, and comforted before the client tries to approach vulnerable parts. • The job of protectors is to ensure that a proposed therapy will not make matters worse. This is their duty. They are more knowledgeable than the therapist about the delicate ecology of the client’ s inner system and the possible negative consequences of going too fast.
+
+=== PAGE 20 ===
+
+• Protectors have a right to vet the therapist for competence and safety before letting her enter the inner system. To be worthy of a protector’s trust, we must lead from the Self. The onus of proof is on the therapist. 2. Extreme protectors usually will not change until the system is less vulnerable. Consequently, we do not pressure protectors to change, even ones who are involved in destructive symptoms.
+
+Instead, we suggest that they can be liberated from their protective roles if they allow the client’s Self to help, and we invite them to consider what role they would prefer after the exiled part no longer needs protection. Then we ask them to permit the client’s Self to heal the part they protect.
+
+Finally, we ask if they are ready to move into new, preferred roles. 3. Restoring trust in the Self is the quickest route to improved leadership and inner harmony .
+
+Therefore, rather than having the therapist help the client’s parts directly, we usually aim for the client’s Self to interact with the parts and report to the therapist. There are times, nevertheless, when it is most expeditious and valuable for the therapist to talk directly to parts. This process is called direct access , and we describe it later. The primary role of the therapist is to guide, coach, and be a companion to the client’s Self as he explores the mindscape. Secondarily, the therapist provides corrective relational experiences. As clients continue to notice and be with their parts, between as well as in sessions, they come to appreciate that they are healing themselves. 4. We invite clients to notice that parts have “blended” with the Self, or we help parts notice that the Self will be available when they separate or “step back.” To achieve our aim of keeping the client’s Self differentiated from their parts, we incorporate the family systems focus on boundaries and differentiation. When the Self is present, parts feel safe. By the same token, the IFS therapist continually scans inside herself for blended parts and asks them to separate so she can return to Self- leadership. 5. Protectors fear one another, which keeps them in extreme positions. Each part believes that relaxing will allow a polarized part to take over, with catastrophic consequences. Therefore in IFS we continually notice and attend to polarizations. Just like family therapists, we work with conflicted inner family members, inviting them to face each other and talk about how they can get along better.
+
+The difference is that, whenever possible, the client’s Self moderates these inner dialogues, aiming to ensure that parts are respectful and able to listen to each other. Once the Self is moderating and polarized parts finally make contact and realize they share a goal (the client’s safety), long-standing polarizations often melt away promptly.
+
+=== PAGE 21 ===
+
+6. In general, the essential perspective of IFS orients therapists to be respectful and nonpathologizing. We all have parts, and parts, like people, are talented and resourceful but constrained by the traumatic events that generated extreme emotions and beliefs (burdens). As with external family members, parts are burdened and driven to extremes by early neglect, abandonment, violence, or sexual assault; and they are constrained by their systemic roles, which protectors often hate but deem necessary. Phenomena such as “internalization” and “introjection” are viewed in IFS as burdens that can be released rather than as qualities of a part. Consequently, rather than assuming the client has some kind of disorder or deficit, IFS therapists are always asking about the network of internal relationships in which parts are embedded and the extreme beliefs parts may carry. 7. We can move fluidly between system levels in IFS, which is why this approach has become a full-range psychotherapy that applies to all system levels. Therefore, as we search for constraints and the best portal for intervention, IFS therapists can include the client’s network of external relationships. For example, we could start with a spouse’s inner world, then focus on the couples’ relationship, and then go back to the spouse’s inner world. In this way, IFS therapists use the same concepts and techniques at every system level and do not have to put on new hats as they move from individual to couple or family therapy. This book devotes five chapters to IFS families, couples, and other external systems. Readers can find more on IFS-based couple therapy in Toni Herbine-Blank’s book on the topic Intimacy from the Inside Out (Herbine-Blank, Kerpelman, & Sweezy, 2016). 8. Finally, systems thinkers believe that living organisms have the capacity to self-heal. This is most visible when our bodies bring various intricate healing strategies to bear on physical injury, but it is also true for emotional injury. When we help clients access their Selves, we are activating the client’s innate ability to heal. When we trust the psyche’s innate resources we are grateful for the opportunity to assist, and we spend much of our professional lives in awe.
+
+CONCLUSION
+
+The rest of this book describes how our delicate inner ecologies survive and accommodate experience, how we can help clients navigate this territory safely and respectfully, and how we can all aim toward healing and harmony in our inner and outer worlds. The goal of IFS therapy is to help clients become Self-led, which means that their parts feel loved by the Self and trust the Self’s leadership. This relationship with the Self can bring a great measure of inner peace along with the ability to relate to life’s challenges and to other people with clarity, calm, confidence, courage, and compassion. Self-led individuals have the great pleasure of recapturing all the energy their protectors
+
+=== PAGE 22 ===
+
+used to expend on inhibition, containment, distraction, and rebellion. They also gain access to the creativity, delight, and innocence of childlike parts who had been exiled so they are free to play again.

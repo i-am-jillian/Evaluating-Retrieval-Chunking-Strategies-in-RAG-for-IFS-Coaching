@@ -1,0 +1,499 @@
+=== SOURCE METADATA ===
+source_book: transcending_trauma
+source_file: transcending_trauma_sec03_neuroscience.pdf
+relative_path: transcending_trauma/transcending_trauma_sec03_neuroscience.pdf
+extraction_mode: words
+top_margin_ratio: 0.05
+bottom_margin_ratio: 0.03
+=== BEGIN EXTRACTED TEXT ===
+=== PAGE 1 ===
+
+SECTION III
+The Neuroscience of
+Trauma and Dissociation
+Anderson, Frank. Transcending Trauma: Healing Complex PTSD with Internal Family Systems, PESI, 2021. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/buffalo/detail.action?docID=6741014.
+Created from buffalo on 2026-03-23 10:39:44.
+
+
+
+=== PAGE 2 ===
+
+CHAPTER 10
+The Neurobiology of PTSD
+T
+N
+F
+R
+HE
+ORMAL
+EAR
+ESPONSE
+Fear is a normal response to alarming and out-of-the-ordinary situations. When we encounter
+something threatening, we respond on two different levels: (1) first unconsciously, through
+neurocircuits in the amygdala, which give rise to an automatic response, and then (2) consciously,
+through cognitive systems, such as the PFC and hippocampus, which give awareness to the emotion
+of fear (LeDoux, 2015). In other words, we first respond unconsciously to a threat, and then we feel it
+consciously as fear.
+Fear is then
+extinguished
+when the ventromedial portion of the PFC regulates or calms down
+amygdala firing, and the hippocampus provides a context in which both learning and extinction can
+occur (LeDoux, 2015). For instance, your brain may tell your body: “That was scary, but we’ve
+experienced something like that before, we’re safe, and we can handle this.” We perceive a threat, we
+react, we’re afraid, we process the fear, and then we recover. This can happen occasionally or several
+times a day, depending on the level of stress we encounter. Remember one of the central tenets of
+IFS:
+All protective parts are organized around fear
+. Asking a client, for example, “What are you
+afraid
+would happen if you didn’t drink alcohol, get anxious, or withdraw?” is a way to get to the
+heart of this fear.
+I
+E
+M
+MPLICIT AND
+XPLICIT
+EMORY
+As we explore the neurobiology of PTSD and dissociation, it’s important to look at how memories, as
+well as fear, are encoded and processed. There are two common ways that memory can get encoded:
+via implicit memory or explicit memory.
+Implicit memory
+typically gets encoded within the first 18
+months of life. However, we can also encode implicit memory whenever something traumatic
+happens to us throughout our life. Implicit memories are not language-based but, rather, are stored as
+perceptions, emotions, and bodily sensations. Implicit memory primes us for future action, is
+unconscious, and lacks awareness that it comes from the past (Anderson, 2013). I believe that most
+exiles and some extreme reactive parts are rooted in implicit memory.
+Anderson, Frank. Transcending Trauma: Healing Complex PTSD with Internal Family Systems, PESI, 2021. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/buffalo/detail.action?docID=6741014.
+Created from buffalo on 2026-03-23 10:39:44.
+
+
+
+=== PAGE 3 ===
+
+Explicit memory, on the other hand, begins to develop at two years of age, typically when we
+begin talking. It requires focused attention; is linear, factual, and conscious; and involves a sense of
+time and narrative (Anderson, 2013). The hippocampus is necessary for explicit memory to develop.
+In IFS, we enable our clients to become aware of the unconscious exiled parts of themselves, housed
+in implicit memory, and guide them through a process of witnessing, unloading, and coping with their
+painful pasts. In other words, we help them convert implicit memory to explicit memory, which I
+believe is the overarching goal of trauma therapy in general.
+P
+-T
+S
+D
+OST
+RAUMATIC
+TRESS
+ISORDER
+We’ll now explore what happens in the brain and the body when the threat is more extreme or
+involves repeated violations of a verbal, physical, or sexual nature that result in the development of
+PTSD.
+There are three main areas of the nervous system that, when affected by trauma, result in neural
+network dysregulation and symptom production: (1) neuroendocrine (i.e., hormonal), (2)
+neurochemical (i.e., neurotransmitters), (3) and neuroanatomical (i.e., brain structures). It’s
+constructive to examine each system to better understand how PTSD develops, keeping in mind that
+protective parts and wounds likely live in the mind and utilize or access these trauma-based networks
+to express themselves.
+H
+F
+ORMONAL
+ACTORS
+When a stressful event occurs, our body receives this information and transmits it via nerve cells to
+the thalamus. When the information is deemed emotionally relevant, it heads toward the amygdala,
+which unconsciously processes this information, resulting in a variety of different reactions. One such
+response involves the activation of the hypothalamic-pituitary-adrenal (HPA) axis, which secretes a
+series of hormones. First, the hypothalamus secretes something called corticotropin-releasing
+hormone (CRH), which, in turn, stimulates the release of adrenocorticotropic-releasing hormone
+(ACTH) from the pituitary gland, which ultimately stimulates the release of glucocorticoids—more
+commonly known as
+cortisol
+(the main stress hormone in the body, released from the adrenal glands
+located on the top of each kidney).
+Anderson, Frank. Transcending Trauma: Healing Complex PTSD with Internal Family Systems, PESI, 2021. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/buffalo/detail.action?docID=6741014.
+Created from buffalo on 2026-03-23 10:39:44.
+
+
+
+=== PAGE 4 ===
+
+Cortisol is what helps us mobilize and mount a response when something dangerous happens to
+us. It can be incredibly useful, even lifesaving under certain circumstances, but in excess it can be
+quite destructive. In moments of crisis, cortisol increases emotional stability and mobilizes glucose or
+energy for the fight-or-flight response. It’s also a potent anti-inflammatory and anti-allergy agent.
+However, it can be quite harmful to the body when we are under stress for extended periods and a
+surplus builds up. It’s known to be toxic to the hippocampus, it can cause protein breakdown and
+muscle wasting, and it’s a potent immunosuppressant, which can increase the risk of infections,
+medical illnesses, and certain forms of cancer. Therefore, while the right amount of cortisol can be
+helpful, it can be harmful or neurotoxic in excess.
+Under normal conditions, the release of cortisol activates the sympathetic nervous system and
+generates a negative feedback loop that quiets down both the hypothalamus and the anterior pituitary
+gland. However, it has been shown that this feedback mechanism is defective in certain individuals
+(due to increased negative feedback sensitivity of the HPA axis), which ultimately results in
+decreased levels of cortisol. Research also suggests that having low levels of cortisol at the time of a
+traumatic event can be a risk factor for the development of PTSD (Sherin & Nemeroff, 2011).
+Therefore, cortisol is now being studied as a potential treatment for acute trauma to help patients
+consolidate and process traumatic memories in the service of preventing the development of PTSD.
+C
+F
+HEMICAL
+ACTORS
+Just as the amygdala stimulates the release of hormones as a result of a threat, it also releases several
+chemicals or neurotransmitters. We’ll briefly review them now and learn how certain psychiatric
+medications that correct neurotransmitter imbalances can be helpful to treat the abnormalities created
+by trauma.
+First, consider serotonin, or 5HT as it’s commonly referred to. It’s produced in a part of the brain
+called the dorsal and median raphe. Individuals with PTSD are known to have reduced serotonin, and
+these diminished levels are associated with hypervigilance, increased aggression, impulsivity, and
+enhanced formation of intrusive memories (Rege & Graham, 2017). Serotonin also regulates
+norepinephrine and CRH, both of which are excitatory and increase due to stress.
+Anderson, Frank. Transcending Trauma: Healing Complex PTSD with Internal Family Systems, PESI, 2021. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/buffalo/detail.action?docID=6741014.
+Created from buffalo on 2026-03-23 10:39:44.
+
+
+
+=== PAGE 5 ===
+
+It’s widely known that selective serotonin reuptake inhibitors (SSRIs) are the treatment of choice
+for PTSD. Restoring serotonin levels to normal amounts is shown to have an overall calming effect on
+the nervous system, as well as the body. SSRIs have also demonstrated an ability to restore PFC
+activity.
+Next, we’ll examine norepinephrine, one of the principal chemicals involved in the stress
+response. In the brain, norepinephrine primarily comes from an area called the locus coeruleus. When
+norepinephrine gets released, it becomes widely distributed to various parts of the brain involved in
+PTSD, including the PFC, amygdala, hippocampus, hypothalamus, periaqueductal gray (a structure
+affiliated with the freeze response), and thalamus. Norepinephrine increases fear, encodes emotional
+memory, and enhances arousal and vigilance (Sherin & Nemeroff, 2011). When the sympathetic
+nervous system is activated during stress, the adrenal glands release norepinephrine, in addition to
+cortisol, throughout the body (LeDoux, 2015), which contributes to symptoms such as increased heart
+rate, tingling sensations in the limbs, sweating, and increased breathing.
+Medications that decrease norepinephrine levels in the body, such as propranolol (a beta
+blocker), or in the brain, like clonidine (an alpha-2 agonist), are extremely useful for decreasing
+excitability and treating acute trauma.
+Dopamine is another excitatory neurotransmitter, like norepinephrine, which contributes to the
+development of anxiety, as well as fear conditioning. There’s some evidence supporting a genetic
+component to the way dopamine is metabolized in the body that can determine whether or not
+someone will develop PTSD (Rege & Graham, 2017).
+Atypical neuroleptics—such as quetiapine, risperidone, or aripiprazole, to name a few—are
+helpful in low doses for the treatment of dissociation. They partially block dopamine and the N-
+methyl D-aspartate (NMDA) receptor, which is connected to learning and memory.
+Glutamate is the primary
+excitatory
+neurotransmitter in the brain, and stress directly triggers its
+release. Glutamate activates the NMDA receptor and is thought to contribute to the consolidation of
+traumatic memory and play a central role in the development of dissociation. It is toxic in excess and
+likely contributes to the loss of nerve cells in the hippocampus and PFC of PTSD patients (Sherin &
+Nemeroff, 2011).
+Mood stabilizers, which decrease glutamate, can be an excellent treatment for PTSD. However,
+many of them have numerous side effects, which make them difficult to tolerate.
+GABA, on the other hand, is the primary
+inhibitory
+or calming neurotransmitter in the brain. It is
+closely connected to the benzodiazepine receptor, which drugs like lorazepam or clonazepam act
+upon. Stress is known to alter the GABA-benzodiazepine receptor complex (Sherin & Nemeroff,
+Anderson, Frank. Transcending Trauma: Healing Complex PTSD with Internal Family Systems, PESI, 2021. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/buffalo/detail.action?docID=6741014.
+Created from buffalo on 2026-03-23 10:39:44.
+
+
+
+=== PAGE 6 ===
+
+2011), which is probably why so many people with PTSD seek out benzodiazepines to calm an
+activated brain.
+Benzodiazepines are effective in treating the anxiety and activation associated with PTSD.
+Unfortunately, they can interfere with memory consolidation and are addictive, so they should be
+used sparingly or only on an as-needed basis. Certain mood stabilizers also increase GABA levels
+and are, therefore, calming to the nervous system.
+The following chart summarizes the chemicals associated with the development of PTSD, along
+with medications that can help provide some relief.
+A
+F
+NATOMICAL
+ACTORS
+Neuroimaging studies have confirmed some of the key structural changes in the brains of PTSD
+patients. Among these are the hippocampus, amygdala, and PFC. The PFC includes the anterior
+cingulate cortex, insula, and orbitofrontal cortex (Sherin & Nemeroff, 2011).
+The
+hippocampus
+, which helps reduce amygdala firing, is an important structure connected to
+learning, memory, and the elimination of fear. Reduced hippocampal volume is known to be a
+hallmark feature of PTSD. Cortisol and glutamate, both of which are excitatory, have been shown to
+impair new nerve growth and damage nerve cells in the hippocampus (Rege & Graham, 2017). Some
+researchers have speculated whether smaller hippocampal volume is a predisposing factor (or
+precursor) of PTSD development or a result of the toxic effects of the trauma itself (Sherin &
+Nemeroff, 2011).
+Anderson, Frank. Transcending Trauma: Healing Complex PTSD with Internal Family Systems, PESI, 2021. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/buffalo/detail.action?docID=6741014.
+Created from buffalo on 2026-03-23 10:39:44.
+
+
+
+=== PAGE 7 ===
+
+The
+amygdala
+is crucial in helping us process emotions and extinguish fear. With increased stress,
+the amygdala releases glutamate, which encodes traumatic memories via the NMDA receptor, as
+previously mentioned. Studies have shown amygdala hyperresponsiveness and increased reactivity in
+clients who suffer from PTSD (Sherin & Nemeroff, 2011).
+The
+ventromedial portion of the PFC
+exhibits inhibitory control over the stress response and
+emotional reactivity by suppressing amygdala firing (Sherin & Nemeroff, 2011). Individuals with
+PTSD have smaller PFC and anterior cingulate cortex volumes as a result of the noxious effects of
+trauma, and this loss in volume is thought to be a result of trauma, not a potential preexisting
+condition, as some have postulated is the case with the hippocampus (Rege & Graham, 2017).
+It’s not surprising that stress can negatively affect parts of the brain that are essential for
+recovering from threat, fear, and violation. And when that recovery isn’t possible, symptoms
+consistent with PTSD arise. Luckily, the medications discussed earlier are known to be helpful in
+reversing some of these changes.
+Even more remarkable, however, is IFS’s ability to help clients access trauma-affected parts that
+are in some way associated with the hormonal, chemical, and structural changes in the brain and
+body. When we help our clients access Self-energy, they can unburden their wounds; release the
+thoughts, feelings, and sensations affiliated with their relational violation; and seemingly untangle
+and rewire their brains back to their original, non-traumatized states. This connection between IFS,
+trauma, and the brain is continually fascinating to me—a connection I hope we will continue to better
+understand and clarify through future research.
+P
+I A
+T
+UTTING
+T
+LL
+OGETHER
+In summary, when we experience an intrusion, we try our best to counteract the assault and recover
+from the threat. Sensory input from the body enters the thalamus, where it then moves up to the PFC
+and amygdala. Remember: The amygdala is quick and unconscious, and the PFC is slower and
+Anderson, Frank. Transcending Trauma: Healing Complex PTSD with Internal Family Systems, PESI, 2021. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/buffalo/detail.action?docID=6741014.
+Created from buffalo on 2026-03-23 10:39:44.
+
+
+
+=== PAGE 8 ===
+
+conscious in its processing of the information (van der Kolk, 2014). The amygdala responds by
+stimulating the release of hormones (CRH, ACTH, and cortisol) and chemicals (serotonin,
+acetylcholine, norepinephrine, and dopamine), activating the freeze response and regulating the
+sympathetic and parasympathetic nervous systems in an attempt to recover. The PFC and
+hippocampus then process the information and attempt to downregulate or calm down the activation
+in the amygdala (i.e., recovery or elimination).
+When conditions are repeated, extreme, and void of love and connection, the amygdala releases
+glutamate (excitatory), which stimulates the release of large amounts of norepinephrine in the brain
+and body. Cortisol also continues to escalate until it eventually becomes depleted. These excitatory
+chemicals and hormones become toxic to the PFC and hippocampus, rendering them ineffectual in
+quieting the overwhelm, giving rise to the development of PTSD.
+This excitatory response, shown in the diagram above, represents an “activated subtype” of PTSD
+described by Lanius and colleagues. Individuals with the activated subtype account for 70 percent of
+PTSD clients, and they exhibit reexperiencing and physiologic hyperarousal (Frewen & Lanius, 2015;
+Lanius et al., 2010). Neuroimaging studies have confirmed that these individuals exhibit low
+activation of the PFC and anterior cingulate cortex, which Lanius has called “failed inhibition” or the
+inability of the PFC to calm down or inhibit the amygdala from firing (Lanius et al., 2010). Here,
+emotions are high, the body is activated, and cognitions are low.
+Anderson, Frank. Transcending Trauma: Healing Complex PTSD with Internal Family Systems, PESI, 2021. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/buffalo/detail.action?docID=6741014.
+Created from buffalo on 2026-03-23 10:39:44.
+
+
+
+=== PAGE 9 ===
+
+Now that we have discussed activated PTSD, take a moment to consider the other side of the
+story: when PTSD clients present with symptoms or parts that are blunted, numb, withdrawn, or
+dissociative. This type of blunted or dissociated PTSD accounts for 30 percent of clients (Frewen &
+Lanius, 2015), but it has been less thoroughly researched and is less understood compared to activated
+PTSD.
+However, LeDoux and colleagues have been able to identify a shift within the amygdala that
+occurs with the avoidance response. Unlike the fear conditioning response, in which information
+travels from the lateral amygdala to the central amygdala, during the avoidance response, information
+goes from the lateral amygdala to the basal amygdala. This redirected information inhibits the freeze
+response and activates a withdrawal reaction.
+The basal amygdala connects with a structure in the
+brain called the ventral striatum (specifically the nucleus accumbens), which results in motor actions
+consistent with escape and avoidance (LeDoux, 2015). Here is a diagram showing the avoidance
+response.
+Anderson, Frank. Transcending Trauma: Healing Complex PTSD with Internal Family Systems, PESI, 2021. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/buffalo/detail.action?docID=6741014.
+Created from buffalo on 2026-03-23 10:39:44.
+
+
+
+=== PAGE 10 ===
+
+Stephen Porges, a scientist at the Kinsey Institute and professor at the University of North
+Carolina, also helps us understand the avoidance, dissociation, numbing, and shutdown responses
+through his polyvagal theory. His theory focuses on the autonomic nervous system and the different
+ways we react and respond to safety, stress, and life threat.
+Porges describes how our body constantly and unconsciously assesses our surrounding
+environment to determine whether or not we’re safe through a process he calls
+neuroception
+(Porges,
+2017). When we experience safety in connection, the polyvagal theory maintains that the ventral
+vagal branch of the parasympathetic nervous system
+is active. However, when we experience danger,
+our
+sympathetic nervous system
+activates, causing us to respond in the familiar fight-or-flight manner.
+If we perceive that this danger is a life threat from which there is no escape, the dorsal vagal branch
+of the parasympathetic nervous system
+then activates, and we consequently disconnect, shut down,
+and dissociate as a survival mechanism (Porges, 2017).
+Lanius has also described what happens in the brain for chronic PTSD survivors who exhibit
+avoidance, numbing, and dissociative symptoms. Neuroimaging studies show that individuals with
+this type of blunted PTSD exhibit the exact opposite response of those with hyperarousal, who show
+decreased PFC activity. In contrast, those with blunted PTSD exhibit an
+increased
+reaction in the PFC
+and anterior cingulate cortex. Lanius calls this state “overmodulation” or over-inhibition of emotional
+responsiveness (Lanius et al., 2010). With blunted PTSD, cognitive suppression is high while
+emotionality and physical sensations are low.
+Anderson, Frank. Transcending Trauma: Healing Complex PTSD with Internal Family Systems, PESI, 2021. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/buffalo/detail.action?docID=6741014.
+Created from buffalo on 2026-03-23 10:39:44.
+
+
+
+=== PAGE 11 ===
+
+In summary, Lanius and her group have described two different subtypes of PTSD: a
+reexperiencing and hyperaroused type (activated PTSD) and a dissociative and hypoaroused type
+(blunted PTSD; Frewen & Lanius, 2015). In IFS, we think of these subtypes as different extreme
+protective parts that can express themselves in an activated or hyperaroused state, while other parts
+can protect in a blunted, withdrawn, or dissociative manner.
+Anderson, Frank. Transcending Trauma: Healing Complex PTSD with Internal Family Systems, PESI, 2021. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/buffalo/detail.action?docID=6741014.
+Created from buffalo on 2026-03-23 10:39:44.
+
+
+
+=== PAGE 12 ===
+
+CHAPTER 11
+Dealing with Extreme Parts: How Neuroscience
+Informs Therapeutic Decisions
+It’s helpful to further investigate these two different subtypes of PTSD and extreme parts—
+hyperaroused and hypoaroused—that attempt to protect traumatic wounds.
+The intense reactions from parts commonly associated with relational trauma are typically what
+makes working with these clients so challenging. The severity and zealous nature of these first
+responder-type parts can challenge the best and most skilled therapist. It’s important to remember,
+especially when the reactivity and intensity are unwavering, that a protective part might need to
+unload or unburden itself before it’s willing to permit access to the wound.
+Extreme parts often hold
+so much anguish and self-loathing that they may opt to first release their pain before healing the
+wound.
+When we’re in the presence of extremely protective parts, we often don’t have the luxury of being
+able to stop, to take a break, and to identify what’s getting activated within ourselves before
+responding to them. As therapists, we need to do our best in the moment not to overreact—to hold the
+space for our client’s activated parts and to assist them in feeling heard, seen, and validated for the
+ways they are trying to help. These parts often sabotage treatment, block progress, and detract from
+accessing internal pain and vulnerability. Neuroscience knowledge can aid therapists in making
+strategic therapeutic decisions that overcome these common roadblocks and help extreme parts more
+effectively unblend and give access.
+When I think about extreme parts, I first like to focus on the
+energy
+they possess and present in
+the treatment room. For example, an alcohol-drinking part may say: “I’m so done with him. Give me
+the damn vodka now. I’m so pissed off that I could just kill him.” The energy here is reactive and
+sympathetically hyperaroused. Compare that to another alcohol-drinking part presenting with energy
+in the resigned realm, which may say: “I’m done. What’s the point? I give up. Give me the vodka—I’
+m out of here.” Here the energy is more withdrawn, hopeless, and parasympathetically hypoaroused.
+The point is that parts can present with high or low energy, and it’s important to differentiate between
+the two because each requires a different neuroscience-informed IFS response from the therapist.
+Anderson, Frank. Transcending Trauma: Healing Complex PTSD with Internal Family Systems, PESI, 2021. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/buffalo/detail.action?docID=6741014.
+Created from buffalo on 2026-03-23 10:39:44.
+
+
+
+=== PAGE 13 ===
+
+Once you’ve determined the energy of your client’s part, it’s necessary to notice your own parts
+that may be present. Ask yourself: “How do I respond internally to the energy of my client’s part?”
+Perhaps you find yourself thinking something like: “I’m sick of her coming in week after week
+complaining about that person and resorting to drinking as her only coping mechanism.” This is an
+angry and activated response from one of your parts. Or you might be thinking: “My mind keeps
+wandering. This session feels like it’s going on forever. Will this client ever get better?” This is a
+bored, distracted, and defeatist response from one of your parts.
+It’s important to identify our activated parts and ask them to give us space so we can be fully
+present for our clients’ parts. The therapist’s Self would respond with compassion, openness, and
+curiosity.
+A
+H
+P
+CTIVATED AND
+YPERAROUSED
+ARTS
+When clients are blended with hyperaroused or high-energy parts, remember that neuroscience tells
+us they have little or no access to their PFC in these moments. This results in high emotion and high
+physical sensation, with little or no capacity for objectivity and reasoning. Here, it’s best to respond
+to them with compassion, not empathy.
+Remember that compassion is caring about the other person’s
+suffering with the desire to help. It has distance and perspective, is “unblended” in IFS terms, and is
+consistent with Self-energy. When your client’s brain is temporarily unavailable to them, you can
+offer the separation, care, and perspective they need and are unable to provide for themselves.
+You bring compassion to the part when you say things like: “You seem angry right now. But I
+know you’ll be able to get through this. I’m here and available to help you in any way I can.” This
+type of response is more likely to help the part relax and unblend.
+If, on the other hand, you are more empathically resonate (i.e., feeling distress similar to your
+client), you run the risk of fueling the client’s activation. This can happen when you offer a remark
+such as: “You look anxious right now. I know what that feels like. I feel a bit anxious right now too.”
+Don’t forget that emotions beget emotions.
+When you’re with a client with activated parts, try your best to maintain a caring, compassionate,
+and unblended stance. If this doesn’t help them separate and their parts remain blended, I recommend
+moving to
+direct access
+. Lend them your PFC; in other words, have your Self engage in a dialogue
+with their aroused part, provided you have access to yours at that moment. Your Self can talk directly
+to their part, which is especially helpful when your client’s brain is temporarily taken over and offline.
+In summary, with activated, extreme parts, take the following steps:
+Anderson, Frank. Transcending Trauma: Healing Complex PTSD with Internal Family Systems, PESI, 2021. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/buffalo/detail.action?docID=6741014.
+Created from buffalo on 2026-03-23 10:39:44.
+
+
+
+=== PAGE 14 ===
+
+N
+D
+P
+UMB AND
+ISSOCIATED
+ARTS
+When the energy of the part is blunted, shamed, or withdrawn, clients can often internally experience
+this energy as being more problematic than hyperaroused energy. Porges reminds us that when we
+perceive a life threat, the dorsal branch of the vagus nerve activates. It’s also well-known that it takes
+longer to recover from a state of shutdown than it does to recover from the fight-or-flight response.
+Additionally, we know that when we’re withdrawn, the PFC is overactive (versus being underactive
+during arousal) and shuts everything down below it from the top down. This results in little or no
+access to thoughts, feelings, or physical sensations.
+When you’re with a client’s part that presents with slow, low, or disconnected energy, I suggest
+that you first evaluate the degree to which their system is shut down at that moment. I might say
+something to the client like: “Can you wiggle your fingers right now? Are you feeling anything?
+What are you thinking about right now?” I assess how disconnected the client is from the bottom up—
+meaning body first, then feelings, followed by thoughts. Neuroscience teaches us that over-inhibition
+is a top-down process, so evaluating from the bottom up makes the most sense.
+Once I’ve determined how disconnected the client is, I’ll check in with myself to see if any of my
+parts are present. If not, I’ll try to help the part unblend, this time with empathy instead of
+compassion.
+Empathic resonance
+is more likely to help the client bring their shutdown system back
+online. I would say: “I’m with you right now. I sense how upsetting that was for you. I know what it’s
+like to be shamed. It really feels horrible. I can relate.”
+Again, if my empathic connection doesn’t help the client’s part unblend, I move into direct access
+using my Self-energy to connect directly with the client’s shutdown part.
+Anderson, Frank. Transcending Trauma: Healing Complex PTSD with Internal Family Systems, PESI, 2021. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/buffalo/detail.action?docID=6741014.
+Created from buffalo on 2026-03-23 10:39:44.
+
+
+
+=== PAGE 15 ===
+
+Try these steps:
+Below is a summary of neuroscience-informed interventions with extreme parts. It’s important to
+note that with more severe trauma, such as DID, the parts that are present can rapidly alternate. It can
+be challenging to determine which part is present in a particular moment and what energy it’s
+carrying. Having a clear game plan when encountering extreme traumatized parts is beneficial for
+therapists and clients alike. It enables clients’ parts to relax and to unblend more quickly and
+minimizes the likelihood that therapists’ parts will get activated.
+Anderson, Frank. Transcending Trauma: Healing Complex PTSD with Internal Family Systems, PESI, 2021. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/buffalo/detail.action?docID=6741014.
+Created from buffalo on 2026-03-23 10:39:44.
+
+
+
+=== PAGE 16 ===
+
+Anderson, Frank. Transcending Trauma: Healing Complex PTSD with Internal Family Systems, PESI, 2021. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/buffalo/detail.action?docID=6741014.
+Created from buffalo on 2026-03-23 10:39:44.

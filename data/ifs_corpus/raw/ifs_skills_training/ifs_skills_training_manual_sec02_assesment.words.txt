@@ -1,0 +1,651 @@
+=== SOURCE METADATA ===
+source_book: ifs_skills_training
+source_file: ifs_skills_training_manual_sec02_assesment.pdf
+relative_path: ifs_skills_training/ifs_skills_training_manual_sec02_assesment.pdf
+extraction_mode: words
+top_margin_ratio: 0.05
+bottom_margin_ratio: 0.03
+=== BEGIN EXTRACTED TEXT ===
+=== PAGE 1 ===
+
+Assessment and Diagnosis
+ASSESSMENT: PARTS VS. PATHOLOGY
+Mental health assessment is typically organized around diagnosing pathology, which is
+designated according to lists of symptoms chosen by committees of professionals: bipolar
+disorder, schizophrenia, schizoaffective disorder, depression, PTSD, anxiety, OCD, eating
+disorder, addiction and a host of “personality” disorders (American Psychiatric Association,
+2013). The IFS understanding of the psyche orients our assessment of a client’s functioning and
+potential in a different direction. The mind is plural so we assess the activities of a plural mind.
+At the outset of therapy we hear the client’s presenting complaint as one part, we then ask
+permission to talk to any other parts who are involved, we ask them to unblend (separate,
+differentiate), which makes room for the client’s Self so we can explore how they serve her (if
+they are protectors) or (later in therapy) how they are burdened and what they need (if they are
+exiles).
+Anderson, Frank, et al. Internal Family Systems Skills Training Manual: Trauma-Informed Treatment for Anxiety, Depression, PTSD and Substance Abuse, PESI, 2017. ProQuest
+Ebook Central, http://ebookcentral.proquest.com/lib/buffalo/detail.action?docID=6253997.
+
+
+
+=== PAGE 2 ===
+
+F
+I Y
+C
+S
+?
+IRST, S
+OUR
+LIENT
+AFE
+Before we do anything, however, we want to know if the client is currently safe. If not, we
+attend to safety first. Traumatized individuals who seek therapy may lack the economic
+and social resources to be safe for any number of reasons. Physical safety (food, shelter
+and safety from violence) of course provides a platform for internal inquiry. This is not to
+say that we can’t do parts work if a client is at risk of being undernourished, without
+shelter, without medical care or is in a dangerous relationship.
+But in this circumstance we reach for appropriate resources (domestic violence expertise,
+a safe house, sources of food and medical care, etc.) to build external safety while
+establishing rapport in the internal system by noticing parts and setting the intention to
+help them. Here is an example of a client describing an incident of partner violence at
+home.
+JOSIE: We got into an argument and he grabbed me by my hair and pulled me around the
+bedroom.
+THERAPIST: Has this ever happened before?
+JOSIE: Once or twice.
+THERAPIST: What is this like for you?
+JOSIE: I’m divided. My heart is jumping out of my chest and I’m afraid of how far he
+might go. But at the same time I feel so enraged that I keep screaming at him.
+THERAPIST: What do you say?
+JOSIE: Oh “be a man” and other things that are guaranteed to enrage him. And I hit
+him. I know it’s not smart but I don’t feel like I can stop.
+THERAPIST: Is alcohol a factor?
+JOSIE: Probably. I don’t think it’s ever happened if we haven’t been drinking.
+Anderson, Frank, et al. Internal Family Systems Skills Training Manual: Trauma-Informed Treatment for Anxiety, Depression, PTSD and Substance Abuse, PESI, 2017. ProQuest
+Ebook Central, http://ebookcentral.proquest.com/lib/buffalo/detail.action?docID=6253997.
+
+
+
+=== PAGE 3 ===
+
+THERAPIST: Okay. Can I make some suggestions?
+JOSIE: Yes please.
+THERAPIST: So let’s talk about your safety right now, when you go home. First, is
+this over? Let’s talk now about what usually happens between you after you get
+violent. Let’s make a plan for your safety. And I will give you the number of the
+domestic violence hotline so you can run the plan by them before you go home. Then
+- and we may need to do this next week - I want to check in with all parts of you who
+are involved with this so we can find out who feels what and who thinks what. How
+does that sound?
+JOSIE: That’s good. I can feel that - like my heart is a little calmer.
+After this conversation the client and therapist can establish guidelines for: a) avoiding
+further violence, b) de-escalating, if possible, and c) putting other supports in place, like a
+connection with a domestic violence shelter. De-escalating may be beyond the client’s
+reach in heated moments until she has become more Self-led, and her partner may in any
+case have demonstrated an unwillingness or inability to deescalate. Our long-term goal is
+for her protectors to unblend so her Self can take the lead externally as well as internally,
+but this takes time. After addressing practical matters of safety, we help the client engage
+her internal system inclusively, without judging or exiling any part, including the ones
+who are attached to a violent partner, the ones who feel enraged about that, and parts who
+have varying opinions about what should be done both short and long term.
+DOING THE INITIAL ASSESSMENT IN IFS
+At the outset of therapy, before we know the client, we check on his access to Self-energy by
+being curious about his inner experience: How spacious is it? At what speed is it going? How
+weighty does it feel? How light or dark is it inside? How calm or agitated? For us, these states of
+being – when not governed entirely by biology – are secondary to inner relationships. The plural
+model of mind guides us to be curious about the instrumental nature of the client’s inner
+relationships. How does he treat himself? Can he be kind to himself or is he hounded by self-
+Anderson, Frank, et al. Internal Family Systems Skills Training Manual: Trauma-Informed Treatment for Anxiety, Depression, PTSD and Substance Abuse, PESI, 2017. ProQuest
+Ebook Central, http://ebookcentral.proquest.com/lib/buffalo/detail.action?docID=6253997.
+
+
+
+=== PAGE 4 ===
+
+criticism or constantly on the run? If so, why? How is self-criticism protective? What function
+does avoidance serve within his system? We trust that his symptomatic behavior will makes
+sense once we know him well enough to see it in the context of formative experiences.
+In IFS, Assessment Never Ends
+Since our overarching goal in IFS is to improve access to the Self, our emotional and intellectual
+compass, we start by assessing the level of Self-energy in both client and therapist and we
+continue to do this throughout therapy. For the therapist, assessing Self-energy means, first and
+foremost, being aware of our parts as they get activated in response to the client’s parts.
+Secondly, we work with our triggered parts and encourage them to step back so they won’t get
+in the way.
+Do We Need Information about the Past?
+In an initial assessment we listen to whatever story is relevant to the client’s presenting problem,
+we are curious about history, and we assume that, at some point during therapy, her observations
+will track back to lessons from the past about danger and safety. Although this trek will be
+central to her process, we assume that we are not hearing the whole story at the outset of
+therapy. In addition, we don’t need this information to do our job. We can help the client
+regardless of what she reports to us about historical events.
+MEDICAL MODEL VS. MODEL OF MIND
+In addition to posttraumatic stress disorder (PTSD) and dissociative identity disorder (DID),
+trauma survivors often receive a slew of other diagnoses including depression, anxiety,
+borderline personality disorder, or some kind of addiction to alcohol, drugs, exercise or food
+(Herman, 1997; Herman & van der Kolk, 1989). These diagnoses are listed in the Diagnostic
+®
+and Statistical Manual of Mental Disorders
+or DSM (the latest version of which is the DSM-5
+). The American Psychiatric Association (APA) developed the DSM to ground psychiatric
+treatment in science. Given their methodology – DSM diagnoses are based on lists of symptoms
+that are periodically chosen by committees of professionals who are picked by the American
+Psychiatric Association – this effort remains controversial (Greenberg, 2013; Fisher, 2014).
+Nevertheless, because the terms of the DSM continue to be widely used, the medical model
+approach continues to be a strong influence on the field of mental health.
+Anderson, Frank, et al. Internal Family Systems Skills Training Manual: Trauma-Informed Treatment for Anxiety, Depression, PTSD and Substance Abuse, PESI, 2017. ProQuest
+Ebook Central, http://ebookcentral.proquest.com/lib/buffalo/detail.action?docID=6253997.
+
+
+
+=== PAGE 5 ===
+
+A DIFFERENT APPROACH WITH TRAUMA
+In IFS we simply see DSM diagnoses as various ways of describing the behaviors of activated
+parts. And rather than pathologizing symptomatic behaviors we view them as natural efforts to
+solve problems: to cope, stay safe and survive. Trauma diagnoses include posttraumatic stress
+disorder (PTSD), dissociative identity disorder (DID) (van der Kolk, 2011), both listed in the
+DSM, and complex trauma or developmental trauma disorder (D’Andrea et al, 2012; van der
+Kolk, 2005; van der Kolk, 2014), which is also widely used, including by the International
+Society for Traumatic Stress Studies (ISTSS).
+Here is an IFS perspective on several diagnoses that are often given to traumatized individuals
+before (or in lieu of, or in addition to) receiving one of the more specifically trauma related
+diagnoses listed above.
+•
+Borderline personality disorder
+(BPD) This diagnosis offers a portrait of the
+:
+consecutive blending of exiles (desperate young parts, internally shunned, longing for
+rescue and redemption) and protectors, most notoriously (though not exclusively) the
+ones who forbid the risks of intimacy and the ones who believe that dying is the only
+way to end emotional pain.
+•
+Narcissistic personality disorder
+(NPD) This diagnosis shows the efforts of a hard-
+:
+working protector as it holds up a gilded self-portrait as a shield against the arrows of
+shaming – mostly inner shaming in response to feelings of inadequacy.
+•
+Depression:
+Mood disorders are heritable but not all post-trauma depression is evidence
+of a genetically-based mood disorder. Since depression suppresses the body’s emotional
+signals, deadening physical and emotional experiencing in a paralyzing (if excruciating)
+way, a protector who amplifies depression generally aims to inhibit while an exile who
+feels depressed is being inhibited.
+- To assess the client’s situation, we ask: “Is this a part of you who feels depressed
+(exile) or a protective part who is using or magnifying depression for a reason?”
+The only way to discover the function of any part you encounter is to ask.
+•
+Anxiety:
+As temperament research indicates (Kagan, 2010), our genes can also make us
+vulnerable to anxiety. And, as with depression, protectors can push this lever to exert
+influence.
+Anderson, Frank, et al. Internal Family Systems Skills Training Manual: Trauma-Informed Treatment for Anxiety, Depression, PTSD and Substance Abuse, PESI, 2017. ProQuest
+Ebook Central, http://ebookcentral.proquest.com/lib/buffalo/detail.action?docID=6253997.
+
+
+
+=== PAGE 6 ===
+
+- “Is this a part (an exile) who feels anxious or a part (a protector) who has some
+reason to magnify anxiety?” Many protective parts are rooted in fear and carry
+some percentage of anxiety within them. Again, to find out we ask.
+•
+Obsessive-compulsive disorder:
+OCD behaviors are generally geared toward managing
+anxiety. In the case of trauma, the preoccupation or behavioral repetition of OCD serves
+to distract from emotional pain.
+- As with depression and anxiety, to find out how a behavior serves or what story it
+can tell, we must ask.
+•
+Sociopathy:
+Unless sociopathy is a product of brain damage, it is a protective part
+(Schwartz, 2016). With their telescopic focus and determination to suppress inner
+vulnerability, sociopathic protectors are paranoid, extreme and rejecting of both empathy
+and compassion as weakening. While they protect exiles who they view as unbearably
+impotent and tender, they are often polarized with other protectors whom they consider
+weak or caretaking. On this topic, Schwartz wrote:
+- “A perpetrator part can be thoroughly blended all the time, in which case the
+individual is likely to meet criteria for a DSM-5 diagnosis of antisocial personality
+disorder. When a perpetrator part stays blended all the time in this way and the
+client has no access to other parts, we consider it a manager rather than a
+firefighter.” (2016, p.113)
+Addictive disorders:
+•
+Drugs or alcohol:
+The reactive protector who uses a drug or alcohol to distract from
+emotional pain can also settle into being a proactive protector who uses them to avoid
+feeling anything at all. This addict part is not a lone actor but is an actor in an inner
+dynamic.
+- Cykes (2016) elucidates the IFS perspective: “Rather than defining addiction as the
+behavior of one acting-out part, I define it as a systemic, cyclical process that is
+characterized by a power struggle between two teams of protective parts, each
+valiantly struggling to maintain a balanced inner system. One team is critical and
+judging, the other impulsive and compulsive. Their chronic, escalating struggle is
+intended to block… emotional pain.” (p. 47)
+Anderson, Frank, et al. Internal Family Systems Skills Training Manual: Trauma-Informed Treatment for Anxiety, Depression, PTSD and Substance Abuse, PESI, 2017. ProQuest
+Ebook Central, http://ebookcentral.proquest.com/lib/buffalo/detail.action?docID=6253997.
+
+
+
+=== PAGE 7 ===
+
+•
+Eating disorders:
+ED’s illustrate a protector polarity, with excess on one side and
+inhibition on the other.
+-
+Bulimia
+illustrates both sides of this polarity.
+-
+Anorexia
+illustrates inhibition in the driver’s seat.
+-
+Binge eating
+illustrates disinhibition in the driver’s seat.
+-
+Over-exercising
+illustrates inhibition in the driver’s seat. Catanzaro (2016)
+describes the IFS lens on ED phenomena: “ED protectors always polarize into two
+camps: parts who push for restriction and control of the body and parts who reject
+this control and push for less restraint. Their tug-of-war keeps the client from being
+aware of the intense negative feelings and memories of exiled parts. While an
+individual’s specific ED diagnosis depends on which parts dominate at any given
+time, the overall symptom picture, even if it isn’t obvious from the client’s physical
+appearance or self-report, always involves this dialectic between restraint and
+rebellion against restraint.” (p. 51)
+PRIORITIZING PROCESS OVER CONTENT IN THE FIRST
+STEPS
+Until we reach one of the final steps described later as “the unburdening process,” we prioritize
+process over content – we want to know about inner relationships, agendas and beliefs. This is
+very different from an approach that seeks to come to a conclusion about content (the client’s
+symptoms) early on in therapy. The following three scenarios illustrate how an IFS session
+might unfold in response to a client wanting to talk about diagnosis.
+Anderson, Frank, et al. Internal Family Systems Skills Training Manual: Trauma-Informed Treatment for Anxiety, Depression, PTSD and Substance Abuse, PESI, 2017. ProQuest
+Ebook Central, http://ebookcentral.proquest.com/lib/buffalo/detail.action?docID=6253997.
+
+
+
+=== PAGE 8 ===
+
+C
+V
+O D
+LIENT’S
+IEW
+F
+IAGNOSIS
+Scenario #1
+SIMON: I’m wondering if I have schizophrenia.
+THERAPIST: Let me be sure I understand. You have a part who wonders if I think you
+have schizophrenia?
+SIMON: Yes. It wonders if you think that.
+THERAPIST: Do any other parts want to be in on this conversation?
+SIMON: I’ll ask.
+THERAPIST: Do you notice anyone else?
+SIMON: I do have one part who doesn’t want to hear all this. It’s mad that I brought it up.
+See, I keep hearing that I’m mentally ill, which makes me want to drink.
+Scenario #2
+THERAPIST: Let me be sure I understand. You have a part who wonders if I think you
+have schizophrenia?
+SIMON: Not exactly. It wants to know if you have enough evidence to say that I’m
+schizophrenic.
+THERAPIST: Would it be willing to say more?
+• Always a good option when we’re not sure what to do next.
+SIMON: It thinks if I had a diagnosis I could get better.
+THERAPIST: Are there parts who disagree?
+Scenario #3
+Anderson, Frank, et al. Internal Family Systems Skills Training Manual: Trauma-Informed Treatment for Anxiety, Depression, PTSD and Substance Abuse, PESI, 2017. ProQuest
+Ebook Central, http://ebookcentral.proquest.com/lib/buffalo/detail.action?docID=6253997.
+
+
+
+=== PAGE 9 ===
+
+THERAPIST: Let me be sure I understand. You have a part who wonders if I think you
+have schizophrenia?
+SIMON: There’s a part who wonders whether to trust you.
+THERAPIST: So you have a part who wants to know if I’m trustworthy?
+SIMON: Yes.
+THERAPIST: Does this part have a view about your diagnosis?
+SIMON: Yes.
+THERAPIST: Would it be willing to share?
+SIMON: If you say I have schizophrenia this part won’t trust you.
+As these three scenarios illustrate, when we are curious about the client’s view of
+diagnosis we are able to learn about the client’s inner discussions and avoid getting
+inducted to one side of an overheated disagreement (what we call a “polarity”).
+ASSESSMENT AND DIAGNOSIS IN IFS
+In IFS we welcome the client’s symptoms upfront as an introduction to protective parts and we
+are always aware that wounded parts have been banished. To assess and diagnose we look at
+relationships and motives in the internal system. Regardless of the client’s symptoms, we make
+certain assumptions about a predictable, commonly shared psychic structure in which protectors
+aim to hide the existence of emotionally vulnerable parts and guard them from being hurt again.
+Finally, despite protection that is focused on past and future injury, the Self is always available
+to heal old wounds and take the lead in a dangerous world.
+Although we can translate our parts-based observations of the client into DSM diagnoses in
+order to communicate with other treaters and to bill insurance, in IFS we do not formulate the
+client’s presenting problem in the pathologizing terms of the DSM. Rather, we explore inner
+relationships, inquire about motivation and ask about protector fears so we can discover how
+this particular client’s inner system maps onto our basic template of the psyche (multiplicity
+consisting of parts and Self, and post-trauma coping that involves protectors and exiles).
+Anderson, Frank, et al. Internal Family Systems Skills Training Manual: Trauma-Informed Treatment for Anxiety, Depression, PTSD and Substance Abuse, PESI, 2017. ProQuest
+Ebook Central, http://ebookcentral.proquest.com/lib/buffalo/detail.action?docID=6253997.
+
+
+
+=== PAGE 10 ===
+
+Even as we assess the client’s reasons for coming to therapy and her presenting problems, we
+begin to form relationships with her internal system by asserting the positive intentions of her
+protective parts and offering to introduce them to her Self. When appropriate, we also offer her a
+roadmap of our goals:
+• No part of you needs to be exiled or sacrificed.
+• You will have the opportunity to offer a new solution to the problems your hardworking
+inner system is trying to solve with these behaviors.
+• If your parts take you up on this offer, their emotional pain will eventually be healed and
+they will feel freer.
+PSYCHOLOGY AND BIOLOGY
+While we assess the relationships and protective activities of the client’s system, we also assume
+symptomatic behavior may derive from protective parts using biological vulnerabilities
+(temperament, genetics, somatics) to gain influence. Most mental health problems have both
+psychological and biological components. In IFS we are interested in teasing out the portion of
+the problem that is produced by motivated parts and the portion that is rooted in biology. We
+can only do this by interviewing parts. Since assumptions and generalizations may be (and often
+are) wrong, we rely on questions.
+For example, one person may have a part who feels depressed in response to being relentlessly
+shamed (an exile) by an inner critic, another person may have a part who amplifies symptoms of
+depression to make him stay home and avoid taking risks (a protector), while another person’s
+depression may be primarily biological. To find out who is doing what to whom and for what
+reason we must ask. In the example below, a client reports that he has long had chest pains with
+no discernible medical origin.
+Anderson, Frank, et al. Internal Family Systems Skills Training Manual: Trauma-Informed Treatment for Anxiety, Depression, PTSD and Substance Abuse, PESI, 2017. ProQuest
+Ebook Central, http://ebookcentral.proquest.com/lib/buffalo/detail.action?docID=6253997.
+
+
+
+=== PAGE 11 ===
+
+H
+S
+S
+EALING
+OMATIC
+YMPTOMS
+Find
+JAY: I don’t feel anything
+THERAPIST: Say more.
+JAY: Well, when you, or anyone else for that matter – including my wife or my kids –
+ask me what I’m feeling I just don’t know how to respond. I don’t seem to feel
+things the way most people do.
+THERAPIST: Do you want to explore this?
+•
+Asking for permission
+.
+JAY: Yeah.
+THERAPIST: Would it be okay to close your eyes? Good. Now notice any thoughts,
+feelings or physical sensations that come up.
+• Starting with the body.
+JAY: Okay.
+• After a few seconds, Jay opens his eyes.
+JAY (continuing) I’m aware of chest pains.
+:
+Focus
+THERAPIST: Is it okay to focus on those to see what we can learn?
+• Asking for permission.
+JAY: I’ve had chest pains for years. That’s nothing new. I’ve been to several doctors and
+they keep saying nothing is wrong. Once I even thought I was having a heart attack.
+I called an ambulance and went to the ER. Still nothing was wrong with me.
+Anderson, Frank, et al. Internal Family Systems Skills Training Manual: Trauma-Informed Treatment for Anxiety, Depression, PTSD and Substance Abuse, PESI, 2017. ProQuest
+Ebook Central, http://ebookcentral.proquest.com/lib/buffalo/detail.action?docID=6253997.
+
+
+
+=== PAGE 12 ===
+
+• Jay is completely unaware of any psychological reason for this pain, which
+speaks to the high level of protection that somatizing often represents
+.
+THERAPIST: Would it be okay to go back inside and be curious about the chest pain?
+I believe all physical sensations hold important information for us.
+•
+Asking for permission again
+.
+Flesh Out
+JAY: Okay I’ll try.
+•
+After a few moments
+.
+JAY (continuing) I saw myself as a boy. He must be 8 years old.
+:
+• A part is beginning to show Jay about his experiences, we call this “witnessing.”
+Therapist: What did you see?
+JAY: The day my grandfather died.
+THERAPIST: You look puzzled.
+JAY: I am.
+Befriend
+THERAPIST: Are you open to seeing more?
+JAY: Yes.
+• Jay closes his eyes and is quiet. Tears well up.
+JAY (continuing) Grandpa was very important to me. My father left when I was 4 years
+:
+old so he was my dad.
+Therapist: Is the chest pain connected?
+JAY: Yeah. I don’t know how.
+THERAPIST: Are you open to hearing more?
+JAY: I’m really curious now.
+Anderson, Frank, et al. Internal Family Systems Skills Training Manual: Trauma-Informed Treatment for Anxiety, Depression, PTSD and Substance Abuse, PESI, 2017. ProQuest
+Ebook Central, http://ebookcentral.proquest.com/lib/buffalo/detail.action?docID=6253997.
+
+
+
+=== PAGE 13 ===
+
+THERAPIST: Send your curiosity to the chest pain and ask what it wants you to know.
+JAY: This sounds strange but I’m getting that the chest pain helps me not to have feelings.
+• The chest pain is a protective part.
+Assess Protector Fears
+THERAPIST: Ask it to say more about why it’s important not to have feelings.
+JAY: I’m seeing this fort I made in my bedroom. It was a blanket cave under a couple of
+chairs. I used to go in there when I was upset.
+THERAPIST: Does this make sense to you?
+•
+Checking on Jay’s Self-energy toward the boy
+.
+JAY: Totally.
+THERAPIST: Let him know that you’re getting the connection.
+Witness the Exile’s Experience
+JAY: I grew up in a family that was not into feelings. When grandpa died, my mother had
+a birthday party for my older brother the next day. She baked a cake, wrapped the
+presents and set the table. Her attitude was: the show goes on.
+• Jay is now noticing the extremity of the boy’s experience and he is speaking in the
+first person, indicating that he sees this experience from the perspective of the
+boy. Even so, this is not what we call a “blended” experience because the boy
+feels Jay is there with him, he is confidently showing Jay’s Self about his
+experience.
+THERAPIST: What was that like for him?
+JAY: Confusing. I knew it was crazy to have a party right after grandpa died. I felt like
+the world had ended. My brother was miserable. I’m getting that the chest pain
+helped me get through that time so I did not feel those feelings. It was a big
+distraction.
+Anderson, Frank, et al. Internal Family Systems Skills Training Manual: Trauma-Informed Treatment for Anxiety, Depression, PTSD and Substance Abuse, PESI, 2017. ProQuest
+Ebook Central, http://ebookcentral.proquest.com/lib/buffalo/detail.action?docID=6253997.
+
+
+
+=== PAGE 14 ===
+
+• The chest pain is a part. Technically, we would consider the chest pain a
+protective part of the boy: a subpart (parts have parts). But because the boy and
+Jay’s Self are in synch we can effectively address the chest pain as simply a part.
+THERAPIST: How do you feel toward the chest pain now?
+• Checking on Jay’s level of Self-energy for this protector.
+JAY: I appreciate what it did for me. It really likes that I am getting this.
+THERAPIST: I’m wondering if the chest pain would be interested in not having to
+work so hard?
+• This is our invitation to try something new.
+JAY: I do sense it’s exhausted.
+THERAPIST: If it will let us help the boy with those feelings, we can get him out of
+the past.
+JAY: The boy wants that.
+THERAPIST: So let’s ask the chest pain if it will let you help the boy.
+• We always ask protective parts for permission. If we forget, they will jump in anyway.
+Witnessing the Exile’s Experience Again
+JAY: Okay. I can see him in the fort in my bedroom.
+THERAPIST: How do you feel toward him?
+• Checking on Jay’s Self-energy.
+JAY: I feel a lot of love for him right now.
+THERAPIST: Is he receiving your love?
+• Checking on the connection between the boy and Jay’s Self.
+JAY: Wow, he’s looking up at me and smiling.
+THERAPIST: Great. What does he want you to know?
+JAY: He seems really sad.
+Anderson, Frank, et al. Internal Family Systems Skills Training Manual: Trauma-Informed Treatment for Anxiety, Depression, PTSD and Substance Abuse, PESI, 2017. ProQuest
+Ebook Central, http://ebookcentral.proquest.com/lib/buffalo/detail.action?docID=6253997.
+
+
+
+=== PAGE 15 ===
+
+THERAPIST: Is this level of feeling okay for you?
+•
+Checking on the reactivity of Jay’s protectors
+.
+JAY: It’s a bit intense.
+THERAPIST: Let him know that we’re here to help him with his sadness. And ask him
+to share it with you a little at a time so you don’t get overwhelmed.
+• Negotiating exile overwhelm.
+JAY: He’s okay with that.
+THERAPIST: Good. Just be with him and let him share what he wants you to know.
+• Jay sits quietly for several minutes, tears streaming down his face as he witnesses
+the boy’s grief.
+JAY: He is so sad. He’s sad about my father leaving, sad about grandpa dying and sad
+that Mom couldn’t handle feelings.
+THERAPIST: Does that make sense to you?
+JAY: Totally.
+THERAPIST: Is there anything else he wants to share?
+JAY: I think that’s it.
+• When a client uses the word “think” be aware that a thinking part may have
+stepped in – so we ask him to ask the part for an answer directly.
+THERAPIST: Ask him.
+JAY: He says that the chest pain started when grandpa died because that’s when I was
+really alone, no father, no mother and now no grandpa.
+THERAPIST: Wow. What does he need from you?
+JAY: Just this.
+• We are silent until Jay shifts in his chair.
+THERAPIST: Is he ready to leave that time? He can come to the present with you or
+go somewhere else that’s safe.
+Anderson, Frank, et al. Internal Family Systems Skills Training Manual: Trauma-Informed Treatment for Anxiety, Depression, PTSD and Substance Abuse, PESI, 2017. ProQuest
+Ebook Central, http://ebookcentral.proquest.com/lib/buffalo/detail.action?docID=6253997.
+
+
+
+=== PAGE 16 ===
+
+JAY: He wants to be with me.
+THERAPIST: Okay. Are you in the bedroom with him?
+JAY: I’m picking him up.
+THERAPIST: Great. Bring him to the present.
+• This is called “retrieval.” But it doesn’t seem to be working because Jay is now
+frowning.
+THERAPIST (continued) What’s happening?
+:
+JAY: I think some other part doesn’t want me to take him.
+THERAPIST: Ask why.
+JAY: I used to get silent a lot when I was a kid. It feels like that part.
+THERAPIST: Would the silent part like to come too? (Jay nods.) Great. Bring it up to
+the present with the boy but ask it to give you a few more moments with
+him. We can help it afterward.
+• The silent part also protects the boy. Protectors often interfere during the
+unburdening process because they are afraid. Since Jay has plenty of Self-energy
+and the boy is eager for help, the therapist promises the silent part help but is firm
+about asking it to wait.
+JAY: It’s hesitant but willing.
+THERAPIST: Great. It can check in with the boy very soon.
+JAY: The boy is holding on to me so tightly now.
+THERAPIST: Is that okay with you?
+• Checking on Jay’s Self-energy.
+JAY: It feels great to both of us.
+THERAPIST: Excellent.
+JAY: We’re now in my daughter’s bedroom in my current house. That’s where he seems
+to want to be.
+Anderson, Frank, et al. Internal Family Systems Skills Training Manual: Trauma-Informed Treatment for Anxiety, Depression, PTSD and Substance Abuse, PESI, 2017. ProQuest
+Ebook Central, http://ebookcentral.proquest.com/lib/buffalo/detail.action?docID=6253997.
+
+
+
+=== PAGE 17 ===
+
+THERAPIST: Okay with you? Now ask him if he has shown you everything he needs
+you to know about this experience.
+• Checking to see if witnessing can be finished.
+JAY: Yes.
+THERAPIST: Is he ready to let go of his burdens?
+• After witnessing we check to see if the exile is ready to “unburden” – or let go of –
+toxic beliefs and extreme feeling states.
+JAY: Yes.
+THERAPIST: Okay. Have him check in and around his body for all the thoughts,
+feelings and sensations he’s ready to let go. He can do it any way he
+chooses.
+• The exiled part is invited to make all the decisions.
+JAY: He wants to burn them in a bonfire.
+THERAPIST: Okay. Let me know when he’s done.
+JAY: It’s so freeing!
+THERAPIST: Wonderful. How’s he doing?
+JAY: He’s happy. He wants to play.
+THERAPIST: Now let’s check with the chest pain and the silent part and anyone else
+who has been protecting him. Have them take a look.
+JAY: They’re shocked at how happy he looks right now.
+THERAPIST: Do they get that he’s safe with you? Good. What do they need?
+JAY: Strangely the chest pain wants to do something physical like ride a bike. And the
+silent part wants to meditate.
+THERAPIST: Sounds nice. Is that okay with you? Then they should do just that. Will
+you take care of the boy until we meet again next week by briefly
+checking in with him daily?
+Anderson, Frank, et al. Internal Family Systems Skills Training Manual: Trauma-Informed Treatment for Anxiety, Depression, PTSD and Substance Abuse, PESI, 2017. ProQuest
+Ebook Central, http://ebookcentral.proquest.com/lib/buffalo/detail.action?docID=6253997.
+
+
+
+=== PAGE 18 ===
+
+JAY: Definitely.
+As we see, the distraction of somatic symptoms has protected Jay from emotional pain for
+many years. Effective as it can be to substitute one kind of pain for another in the short
+run, handling emotional pain in this way is clearly a “young” solution. Physical pain is
+puzzling, alarming and exhausting and does not extinguish the background noise of
+emotional pain. Protector actions are usually young in this way – they start young, they are
+cognitively young and they continue to reference the (often severely) limiting
+circumstances of childhood.
+THE BENEFITS OF IFS FOR THERAPISTS
+If you find going to work as a therapist tiring, preoccupying and overly stirring of your own
+fears, inadequacies and shame, IFS – in our experience – can offer relief.
+• The IFS therapist is not called on to come up with the right interpretation, think up
+assignments, pressure clients to face the past, or put fragmented information and
+personalities back together again.
+• We have one road map for all: access the Self. Although we know the steps that typically
+help us get there, our GPS is always Self-energy. When we feel lost or stumped we
+return to that source, tapping into our curiosity about what might be happening in this
+moment and calling on creativity when sessions go off the beaten path (Krause,
+Rosenberg & Sweezy, 2016).
+• Since we view “resistance” as crucially guiding information and we don’t fight extreme
+protectors, the IFS approach generally evokes little negative transference (“We’re glad
+you showed up. What do you want us to know?”).
+• The IFS focus on helping the client manifest Self-energy pulls more for connectedness
+than dependency.
+• The non-pathologizing approach helps our clients access an open-hearted, curious,
+connected frame of mind. The greater their access to this wise co-therapist – the Self –
+the more continual their feeling of safety and comfort.
+Anderson, Frank, et al. Internal Family Systems Skills Training Manual: Trauma-Informed Treatment for Anxiety, Depression, PTSD and Substance Abuse, PESI, 2017. ProQuest
+Ebook Central, http://ebookcentral.proquest.com/lib/buffalo/detail.action?docID=6253997.
+
+
+
+=== PAGE 19 ===
+
+• We have the opportunity to be with our clients in the same open-hearted, curious and
+connected frame of mind.
+• We become more self-aware by extending curiosity toward the parts of us who get
+triggered by our clients.
+• As we differentiate from our parts and access the Self, our parallel process is the
+paramount invitation for the client’s system to take risks and try something new.
+Anderson, Frank, et al. Internal Family Systems Skills Training Manual: Trauma-Informed Treatment for Anxiety, Depression, PTSD and Substance Abuse, PESI, 2017. ProQuest
+Ebook Central, http://ebookcentral.proquest.com/lib/buffalo/detail.action?docID=6253997.

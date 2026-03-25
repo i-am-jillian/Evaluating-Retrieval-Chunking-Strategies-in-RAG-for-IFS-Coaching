@@ -1,0 +1,848 @@
+=== SOURCE METADATA ===
+source_book: ifs_therapy
+source_file: ifs_therapy_pt01_02_individuals.pdf
+relative_path: ifs_therapy/ifs_therapy_pt01_02_individuals.pdf
+extraction_mode: words
+top_margin_ratio: 0.05
+bottom_margin_ratio: 0.03
+=== BEGIN EXTRACTED TEXT ===
+=== PAGE 1 ===
+
+CHAPTER 2
+Individuals as Systems
+S
+T
+YSTEMS
+HINKING
+Early in the 20th century a group of organismic biologists recognized that studying the chemical and
+physical laws of a living organism’s components was limiting their understanding of how those
+components coordinated to function as a whole. Their explorations gave birth to a new way of
+conceptualizing and studying living organisms, which came to be called “systems thinking.” Rather
+than analyzing an organism’s components—which is now called
+reductionistic, mechanistic,
+or
+atomistic thinking
+—systems thinking is wholistic, organismic, or ecological. Rather than asking
+“What is this made of?”, systems thinkers ask, “How do the components of this function as a
+pattern?” and “What is the larger context in which it operates, and how is it affected by that
+context?” Rather than studying each part individually, they map relationships among a system’s
+parts and with its context.
+From those early explorations in biology, systems thinking produced a radically new conception
+of life. Today we no longer see the universe as a machine composed of elementary building blocks;
+we see that the earth itself is a living, self-regulating system (Capra & Luisi, 2014)—a network of
+relational patterns. Systems thinking entered psychotherapy in the 1970s through the nascent field of
+family therapy, and I was fortunate to be steeped in it before I encountered the inner world of parts.
+As a result, rather than focusing on the qualities of each part, I was quickly intrigued by their
+relational patterns and how those patterns affected the larger system in which they were embedded—
+the person.
+To elaborate on systems thinking, a
+system
+can be defined as any entity whose parts relate to one
+another in a pattern. Thus systems include everything from watches to televisions to transit systems.
+Schwartz, Richard C., and Martha Sweezy. Internal Family Systems Therapy, Guilford Publications, 2019. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/buffalo/detail.action?docID=5841923.
+Created from buffalo on 2026-03-24 11:45:39.
+
+
+
+=== PAGE 2 ===
+
+In addition, by this definition all biological organisms, from bacteria to whales, are systems. Human
+systems include everything from an individual’s personality to a nation, and both operate according
+to beliefs. For example, a nation has a set of laws that encode cultural beliefs over time. A system is
+composed of smaller systems (subsystems) but is also part of larger systems, just as a state contains
+counties and cities but is also part of a nation. Thus, depending on one’s point of view, any entity
+that is being examined will be the system-of-focus. For example, some chapters in this book focus
+on the family. In these chapters, the family is the system-of-focus; the family members and their
+relationships are subsystems; and the family’s ethnic community or society is a larger system.
+By this definition a pile of car parts is not a system, but once those parts are assembled in a
+certain way, they become a system that is more than the sum of its parts. They become a car. The car
+parts relate in a patterned way (i.e., they have structure), which creates a system for transportation.
+Cybernetic systems can regulate themselves by being sensitive to, and changing according to,
+feedback
+from the environment. Since a car is dependent on a driver and mechanic for direction and
+repair and cannot self-correct, it is not a cybernetic system. However, cars increasingly contain
+cybernetic subsystems such as a thermostat or cruise control, which function to maintain a steady
+state (homeostasis) while the larger system is in operation. Cybernetic systems contain sensors that
+read the feedback from the car’s environment and trigger automatic adaptations. The car enters a
+cold front and the heat goes on; on cruise control the accelerator goes down as the car starts up a hill.
+Because the automatic response in the car’s mechanisms has the effect of reducing the deviation
+from the steady state—that is, bringing the system back within homeostatic range of temperature or
+speed—this increase in heat or in gas is called
+negative feedback
+. In complementary fashion,
+positive feedback
+amplifies deviations. For example, when the accelerator or heat mechanism gets
+stuck, the speed or heat will be pushed well past prescribed limits.
+Since it is usually easy to define what is part of the car and what is not, the car has clear
+boundaries. But these boundaries are not closed because parts can be replaced or added. A car
+entering a highway becomes embedded in a larger system, which it influences and is influenced by.
+If the car were to stop suddenly in heavy traffic, it would powerfully alter the flow of traffic.
+Likewise the car’s speed and ability to maneuver are constrained by the pace of the cars around it.
+When the highway is less congested, the car is less constrained by its larger system. Thus there are
+degrees to which systems affect one another—degrees to which they are embedded within or
+constrained by one another.
+All of the concepts outlined above apply to human systems as well, including structure and
+boundaries as well as positive and negative feedback, homeostasis, and degrees of embeddedness or
+Schwartz, Richard C., and Martha Sweezy. Internal Family Systems Therapy, Guilford Publications, 2019. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/buffalo/detail.action?docID=5841923.
+Created from buffalo on 2026-03-24 11:45:39.
+
+
+
+=== PAGE 3 ===
+
+constraint. Human systems are certainly cybernetic. People organize to maintain a range of
+homeostasis in any number of areas, from proximity to other people to levels of conflict with other
+people. In addition, each person contains a multitude of cybernetic subsystems, from those that
+regulate blood sugar levels to those that regulate the expression of feelings. Yet because people do
+not merely react to environmental feedback, the cybernetic principles that family therapy borrowed
+from the study of mechanical and biological systems to try to understand families are not enough.
+They are necessary but not sufficient to explain human systems. A comprehensive perspective on
+human systems needs to include more principles that derive from the study of complex living
+systems.
+The way in which human systems differ from mechanical systems is key to the IFS model. A
+basic premise of IFS is that people have an innate drive toward and wisdom about their own health.
+We not only try to maintain steady states and react to feedback, we also strive toward creativity and
+intimacy. We come fully equipped to lead harmonious internal and external lives. From this basic
+premise, it follows that people have chronic problems because their inner resources and wisdom are
+not being fully accessed. Elements of the systems in which we are embedded or that are embedded
+within us often constrain our access to our inner resources. IFS therapy is designed to help people
+find and release these constraints.
+Systems thinking helps us examine the various systems surrounding or within a client to find and
+release constraints. Constraints may exist in a client’s system of inner personalities, in the client’s
+relationship with various family members, in the way the family in general is organized, in the way
+various institutions outside the family affect it (school, work, mental health, etc.), and in the way the
+client’s ethnic community and the larger society affect the family’s values and beliefs. All of these
+human systems are interlocked. They affect and are affected by one another.
+K
+P
+H
+S
+EY
+RINCIPLES OF
+UMAN
+YSTEMS
+Trying to understand and assess all of these levels of human systems would be an overwhelmingly
+complex task—except that each level operates in similar ways. The following sections discuss four
+key principles of human systems that are not included in the preceding discussion of cybernetic
+systems: balance, harmony, leadership, and development. These principles have evolved from work
+with inner systems and family systems, but they seem to have a good deal of universality.
+Balance
+Schwartz, Richard C., and Martha Sweezy. Internal Family Systems Therapy, Guilford Publications, 2019. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/buffalo/detail.action?docID=5841923.
+Created from buffalo on 2026-03-24 11:45:39.
+
+
+
+=== PAGE 4 ===
+
+Human systems function best when they are balanced. We believe that there are four dimensions for
+assessing balance within a system: (1) the degree of influence a person or group has on the system’s
+decision making; (2) the degree of access a person or group has within the system; (3) the degree to
+which the system’s boundaries are balanced; and (4) the degree to which subsystems within the
+system have boundaries that are neither too rigid nor too diffuse. In a balanced system each person is
+allowed the degree of influence and access to the system’s resources and responsibilities that is
+appropriate to their needs and equal to those of people in similar roles.
+Harmony
+The concept of harmony applies to the relationships among people in the system. In harmonious
+systems, an effort is made to find the role each member desires and for which he is best suited.
+People work cooperatively toward a common vision yet value and support individual differences in
+style and vision. The harmonious system allows each individual to find and pursue their own vision
+while also trying to fit that individual’s vision into the larger vision of the system as a whole. In such
+an atmosphere, people do not mind sacrificing some of their personal resources and goals for the
+greater good, because they feel valued for their personal qualities as well as for their contribution,
+and they care about one another’s well-being. They communicate well because they are sensitive and
+responsive to information flowing among members of the system.
+Polarization
+is the opposite of
+harmony. In a polarized relationship, each person shifts from a flexible, harmonious position to a
+rigid, extreme position that is the opposite of, or competitive with, that of the other person. Later we
+discuss the many ways in which polarizations constrain systems.
+Leadership
+Balance and harmony in human systems require
+effective leadership
+. One or more members of a
+system must have the ability and respect to do the following: Mediate polarizations and facilitate the
+flow of information within the system; ensure that all members are protected and cared for, and that
+they feel valued and encouraged to pursue their individual vision within the limits of the system’s
+needs; allocate resources, responsibilities, and influence fairly; provide a broad perspective and
+vision for the system as a whole; represent the system in interaction with other systems; and interpret
+feedback from other systems honestly. Fortunately, though our resources are often constrained by a
+variety of factors that we discuss later, human systems have the resources necessary for this kind of
+leadership.
+Development
+Schwartz, Richard C., and Martha Sweezy. Internal Family Systems Therapy, Guilford Publications, 2019. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/buffalo/detail.action?docID=5841923.
+Created from buffalo on 2026-03-24 11:45:39.
+
+
+
+=== PAGE 5 ===
+
+Despite being born with the resources necessary for balanced and harmonious living, human systems
+need time for those resources to develop. As an analogy, consider a new basketball team. The team
+members possess plenty of raw talent, but until they learn one another’s habits and come to trust and
+respect their coach, they will not function optimally as a team. Similarly, the wisdom for health
+exists within a human system, but it takes time to develop the skills and relationships necessary to
+implement that wisdom. Thus effective leadership and clear boundaries evolve gradually and are
+affected by the system’s environment. If the system-of-focus is embedded in a harmonious, balanced
+larger system then, it is likely to have the freedom and support it needs to become harmonious and
+balanced. A human system’s ability to use its resources for healthy development will be constrained,
+however, if it evolves within a polarized, unbalanced larger system, in which case it will take on the
+extreme beliefs and emotions of the larger system.
+V
+P
+C
+IEWING
+ARTS IN
+ONTEXT
+The IFS model brings systems thinking into the intrapsychic realm. In psychotherapy it works well
+to conceptualize and relate to individuals as
+psychic systems
+. Following are some important benefits
+of viewing the psyche as a system.
+Less Rigidity, More Flexibility
+When we feel obliged to deny one truth in favor of another (e.g.,
+I love you, I’m mad at you
+), we
+sign on to an unceasing project of denial and self-constraint. In contrast, accepting the mind’s ability
+to encompass many perspectives at once means that we can acknowledge the truth of two apparent
+opposites and move forward creatively (Rosenberg, 2013). As we navigate a complex world there
+are advantages to having many minds in close communication with each other yet operating with a
+certain amount of autonomy.
+Ease of Access
+Most clients become aware of their parts with striking ease. The plural mind makes intuitive sense to
+them. Barring strong cultural biases, most people can go inside and quickly make contact with their
+parts. And although they may initially fear all that inner messiness and strife as a sign of
+defectiveness and failure, this changes as they pay attention and listen to their parts’ heroic, creative,
+often heart-breaking struggles, sacrifices, and sorrows.
+Ecological Maps
+Schwartz, Richard C., and Martha Sweezy. Internal Family Systems Therapy, Guilford Publications, 2019. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/buffalo/detail.action?docID=5841923.
+Created from buffalo on 2026-03-24 11:45:39.
+
+
+
+=== PAGE 6 ===
+
+When we view the psyche of an individual as a distinct ecology, we find many points of possible
+entry. If curiosity is the key to these doorways, mapping is a particularly useful guide to what lies
+within. Just as family therapists map a family’s relational organization, individual therapists can map
+the inner family to clarify alliances, coalitions, and polarities among the client’s parts. A map of the
+inner system not only tells us about the jobs and relationships of parts, it also reminds us that we are
+approaching an active system full of motivated individuals, which cues up our social instincts and
+sense of timing. Meanwhile, knowing how systems interact helps us to anticipate the behavior of
+those who orbit the client—family, friends, and providers—so that we can move within and between
+system levels with dexterity.
+Clear Guidelines for Change
+The connection between theory and practice in IFS is very clear: Every intervention (as we illustrate
+throughout this book) is designed to address the needs of the client’s inner family by releasing
+constraints and making the most of the client’s inborn resources. The concept of normal psychic
+multiplicity
+can illuminate many notable phenomena for those who make the shift to this way of
+thinking, including highly contradictory behavior like a committed atheist converting to Christian
+fundamentalism, a teenager falling in or out of love abruptly; an avowed homophobic activist getting
+arrested while soliciting men in a public bathroom; an adult transforming from one character to the
+next with little or no awareness of having done so (behavior that denotes the psychiatric diagnosis of
+dissociative identity disorder); or the way an answer to a formerly insoluble problem comes to mind
+“out of the blue” during the night. Rather than viewing one person displaying different, often
+contradictory, interests, beliefs, feelings, values, or knowledge as abstract shifts in feeling and
+thought, we can view all this as the product of a plural mind.
+C
+P
+HARACTERIZING
+ARTS
+Other therapeutic approaches have also observed and worked with psychic multiplicity, calling parts
+variously subpersonalities, subselves, internal characters, archetypes, complexes, internal objects,
+ego states,
+and
+voices
+(Jung, 1969; Rowan, 1990; Stone & Stone, 1993; Watkins & Watkins, 1997).
+Although the mechanistic connotation of the word
+part
+is not ideal—and its simplicity can be off-
+putting for some— IFS just sticks with vernacular language that seems comfortable and easy for
+clients. Most clients reference
+parts
+when they talk about inner conflict and it tends to work well
+clinically.
+Schwartz, Richard C., and Martha Sweezy. Internal Family Systems Therapy, Guilford Publications, 2019. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/buffalo/detail.action?docID=5841923.
+Created from buffalo on 2026-03-24 11:45:39.
+
+
+
+=== PAGE 7 ===
+
+An obscure definition of the word
+part
+in
+The Compact Edition of the Oxford English Dictionary
+(1971) offers some validation for this choice: A part is “a personal quality or attribute, natural or
+acquired, esp. of an intellectual kind (as a constituent element of one’s mind or character)” (p. 2084).
+There is also a precedent in the Bible: “Our bones are dried, and our hope is lost: We are cut off
+from our parts” (Ezekiel 37:11); in Shakespeare’s
+Much Ado about Nothing
+(1598/1974, V.ii.60–61)
+when Benedick asks Beatrice, “For which of my bad parts didst thou first fall in love with me?” and,
+contemporaneously with Shakespeare, the comment from Ben Jonson, in 1598, about “A gentleman
+… of very excellent good partes ….” When clients are uncomfortable with the word
+part
+—or, more
+likely, with the concept that we have parts—we can simply follow their word choice: aspect,
+thought, subpersonality, character, feeling, place, person,
+etc. In this book, however, we talk about
+parts
+.
+Naming and Renaming
+Just as we relate better to people when we know their names, we also relate better with parts when
+they have a label that signifies something about their identity. Therefore, in addition to referring to
+our inner entities as “parts,” we encourage clients to label their parts. We start by following the
+client’s lead (the
+sad one, Yoda, Golum,
+the
+baby
+), which is usually related to the part’s role, though
+sometimes a part will say
+Call me Betty,
+in which case we call it
+Bett
+y. We do not, however, follow
+suit when parts insult each other. If one part calls another
+stupid
+or
+lazy,
+we just ask the part in
+question what it prefers to be called. Then we continue to use its preferred label until it shifts to a
+new role (and often a different appearance), at which point we invite the part to rename itself.
+Happily, naming and renaming highlights the multidimensionality of parts and the shifting nature of
+their behavior.
+Parts as Inner People
+Though we refer to parts with labels, it is a mistake to assume that the part’s label or role (the sad
+part,
+the
+angry part,
+the
+captain,
+the
+caretaker,
+etc.) captures its essence. In this book, we aim to
+help readers stay mindful that a part is not just an emotional state or a habitual thought pattern.
+Rather, parts are discrete, autonomous mental systems, each with their own idiosyncratic range of
+emotion, style of expression, abilities, desires, and views of the world. For example, a part who is
+angry can also feel hurt or scared. If we just see it as the “angry part,” we are likely to ignore its
+Schwartz, Richard C., and Martha Sweezy. Internal Family Systems Therapy, Guilford Publications, 2019. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/buffalo/detail.action?docID=5841923.
+Created from buffalo on 2026-03-24 11:45:39.
+
+
+
+=== PAGE 8 ===
+
+other feelings. If, on the other hand, we view it as an angry
+person
+(often a child or teenager), we are
+more likely to be interested in its full range of feelings and its potential to shift between feeling
+states.
+From the perspective of IFS every one of us contains an inner tribe of people, each of a different
+age with different interests, talents, and temperament. Once again, the analogy to a family can help
+to make this clear. Just as children get forced into extreme roles that they don’t want and for which
+they are ill-suited, parts get forced into extreme roles. In alcoholic families, for example, we often
+find an overly responsible, caretaking child, a distracting child, an angry rebel, and so forth. Once
+released, these children change dramatically. Parts are the same. When we view a part as a child or
+teenager who is shy or angry in a certain context, we are more likely to be curious about who it
+would be in other circumstances than we are to believe it is defined by this one attribute. As a result,
+we are more likely to think of helping the part discover its full potential.
+T
+R
+P
+: A T
+-G
+S
+HE
+OLES OF
+ARTS
+HREE
+ROUP
+YSTEM
+In response to danger, the individuals in human systems at all levels take on roles that can be
+categorized by three groups. One group tends to be highly protective, strategic, and interested in
+controlling the environment to keep things safe. In IFS we call the members of this group
+managers
+.
+A second group contains the most sensitive members of the system. When these parts feel injured or
+outraged, managers will banish them for their own protection and the good of the whole system. We
+call them
+exiles
+. Finally, a third group tries to stifle, anesthetize, or distract from the feelings of
+exiles, reacting powerfully and automatically, without concern for consequences, to their distress as
+well as to the overinhibition of managers. In IFS we call the members of this group
+firefighters
+because they fight the flames of exiled emotion.
+Internal systems that are responding to trauma not only divide into these roles, the protective parts
+(managers and firefighters) form alliances and get into conflicts with each other, and can be very
+harsh (or smothering) with the exile they are trying to protect or ward off. The sadder, more terrified,
+ashamed, rageful, or sexually charged an exile is, the more protectors legitimately fear its release
+and the more extreme they become in their efforts to suppress and constrain. In turn, the more an
+exile is suppressed, the more it tries to break out. In this way all three groups become victims of an
+escalating cycle of internecine conflict. Judith Herman (2015) described such cycles:
+[A trauma survivor] finds herself caught between the extremes of amnesia or of reliving the trauma,
+between floods of intense, overwhelming feelings and arid states of no feeling at all, between irritable,
+Schwartz, Richard C., and Martha Sweezy. Internal Family Systems Therapy, Guilford Publications, 2019. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/buffalo/detail.action?docID=5841923.
+Created from buffalo on 2026-03-24 11:45:39.
+
+
+
+=== PAGE 9 ===
+
+impulsive action and complete inhibition of action. The instability produced by these periodic
+alternations further exacerbates the traumatized person’s sense of unpredictability and helplessness. (p.
+47)
+Exiles
+Children are commonly taught to fear and hide emotional pain or terror because adults react to them
+in the extreme way they react to their own hurt child parts: with impatience, denial, criticism,
+revulsion, or distraction. Managerial parts of the child then follow suit, adopting the same attitudes
+toward vulnerable young tribe members inside, pushing them out of awareness, blocking their access
+to the Self, and making them ever more vulnerable to trauma.
+Exiles are the parts who have been exploited, rejected, or abandoned in external relationships, and
+then subjected to negative judgments from other parts of the system. If an exile was sexually
+stimulated during abuse, managers view it as disgusting and dangerous. Because the system
+associates sexual arousal with the abuse, the very existence of a sexually stimulated part evokes the
+fear that, deep down, the client is like the perpetrator. Managers want these parts in prison and out of
+mind. In general, managers have no tolerance for fear, shamefulness, and emotional pain. To them,
+injured parts are defective, weak, threatening, and pitiful.
+While exiles are frozen in the past and left behind, they are actually less vulnerable to alarming
+events in the present, so there is a rationale for the managerial perspective. But exiles, like any
+oppressed group, grow extreme over time. As they look for opportunities to break out of prison and
+tell their stories, their desperation and neediness become ever more of a hazard. They may dull and
+weigh the body, mind, and heart with their chronic unarticulated misery, or they may overwhelm
+emotionally with flashbacks, nightmares, and sudden fleeting tastes of pain, fear, and shame that
+cause protectors to panic and overreact.
+Like the abandoned children they are, exiles want care and love. As a result, they look for rescue
+and redemption, usually tapping someone who resembles the person who rejected them in the first
+place or even returning to the actual abuser (Schwartz, 2008). Often exiles will pay virtually any
+price for even small amounts of acceptance, hope, or protection. In return, they are willing to endure
+(and, indeed, often believe they deserve) more degradation and abuse. When exiles take over,
+traumatized clients may repeatedly enter and have difficulty exiting abusive relationships. Thus,
+managers have reason to fear the extremity of exiles as well as firefighters, especially firefighters
+who are enraged about the trauma and want revenge.
+Managers
+Schwartz, Richard C., and Martha Sweezy. Internal Family Systems Therapy, Guilford Publications, 2019. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/buffalo/detail.action?docID=5841923.
+Created from buffalo on 2026-03-24 11:45:39.
+
+
+
+=== PAGE 10 ===
+
+Having locked up exiles, managers live in fear that they will escape. Various managers adopt
+different strategies to avoid interactions and situations that might trigger an exile. As we describe
+some of the most common managerial roles, keep in mind that managers (and firefighters) are forced
+into these roles. Although they believe they must do what they do, they don’t enjoy it. Afraid that the
+smallest slight or alarm might activate a young, hurt part, managers often try to keep the person in
+control of all relationships and situations. There are many kinds of managers. A manager may be
+highly intellectual and effective at problem solving, but also obsessed with pushing feelings away.
+Clients often call that kind of manager the
+thinker,
+the
+controller,
+or some similar moniker.
+Relatedly, some managers strive for career success or wealth in order to put the person in a position
+of power and distract her from difficult feelings. This striving, motivating manager may be bitingly
+critical, a taskmaster who is never satisfied with outcomes or the person’s performance. The denier
+is a manager who distorts perceptions to keep the person from seeing and responding to risky
+feedback. The protector who tries to avoid interpersonal risk is often particularly concerned about
+situations that could arouse anger, sexuality, or fear. It may be a passive pessimist who erodes the
+person’s self-confidence and sabotages her performance, keeping her apathetic and withdrawn so
+that she will not try to get close to anyone or have the courage to pursue goals. Conversely the
+pessimist may look for and accentuate any flaws in an object of desire in order to undermine
+attraction and avoid closeness. In people who have been severely abused, this part can become an
+inner terrorist, taking on qualities of perpetrators and scaring exiles into hiding.
+Since our culture is patriarchal, many managers appear in gender stereotypical ways, and it would
+be interesting to study their appearances (male, female, or neither) according to the client’s gender
+identity. Women are often socialized to rely on a manager who is perfectionistic about appearance
+and behavior. This manager believes she must be perfect and please everyone or she will be
+abandoned and hurt. Many women are also socialized to rely heavily on a caretaking manager.
+Extreme caretaking parts push women to sacrifice their own needs continually for others, and will
+criticize a woman as selfish if she asserts herself. Men, on the other hand, are often socialized to rely
+on an entitled or competitive manager who encourages them to get whatever they want, no matter
+who is wronged by their actions. Other common managerial roles include the hyperaroused worrier
+(or sentry) who feels in constant jeopardy and is on continuous alert for danger. This manager will
+flash worst-case scenarios in front of a person when she contemplates risk. And then there is the
+dependent manager, who tells the person he is a victim and keeps him appearing helpless, injured,
+and passive to ensure that other people will take care of him. Managers have many behavioral
+options.
+Schwartz, Richard C., and Martha Sweezy. Internal Family Systems Therapy, Guilford Publications, 2019. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/buffalo/detail.action?docID=5841923.
+Created from buffalo on 2026-03-24 11:45:39.
+
+
+
+=== PAGE 11 ===
+
+Our point is that the primary purpose of all managers is to keep exiles out of mind, both for their
+protection and to protect the system from their feelings and thoughts. When they spill over the inner
+walls, they threaten the person’s ability to function. Managers’ preempt exiled feelings by keeping
+the person in control and out of unknown or unpredictable situations; they also please those on
+whom the person depends. In order to maintain this kind of internal and external control, managers
+can give the person the outward appearance and substance of success, providing the drive and focus
+to gain impressive academic, career, or monetary achievements. Success not only brings control over
+relationships and choices, but also serves to distract from (or compensate for) inner shaming, fear,
+sadness, and despair. On the other hand, if a pessimistic, dependent, or worry manager dominates the
+inner system the client’s life may be characterized by a series of half-hearted attempts and failures
+that provide protection from responsibility and disappointment. Other common managerial tools run
+the gamut from obsessions, compulsions, reclusiveness, passivity, numbing, emotional detachment,
+and the sense of unreality all the way to phobias, panic attacks, somatic complaints, depressive
+episodes, hypervigilance, and nightmares. (Yes, nightmares may be the tactic of a manager rather
+than an exile breaking through.)
+The rigidity and severity of managerial strategies will match the degree to which a manager
+thinks (correctly or not) that the person is in danger of being reinjured. Like parentified children in
+families, managers are not equipped to lead, but they feel that they have no choice. Their burden of
+responsibility contributes to their rigidity and extremity. Not only do they have to deal with a world
+they find dangerous, they also have to keep a finger in the dike to contain exiles, and they are
+desperate to protect the whole system from threats. In this way, managers, too, are neglected,
+suffering, and scared. In
+The Drama of the Gifted Child,
+Alice Miller (1981) offers a poignant
+description of the parentified child’s predicament, which is identical to the predicament of many
+manager parts in internal families. The patient Miller describes was the eldest daughter of a
+professional woman:
+I was the jewel in my mother’s crown. She often said: “Maja can be relied on, she will cope.” And I did
+cope. I brought up the smaller children for her so that she could get on with her professional career. She
+became more famous, but I never saw her happy. How often I longed for her in the evenings. The little
+ones cried and I comforted them but I myself never cried. Who would have wanted a crying child? I
+could only win my mother’s love if I was competent, understanding, and controlled, if I never
+questioned her actions nor showed her how much I missed her. (p. 68)
+Schwartz, Richard C., and Martha Sweezy. Internal Family Systems Therapy, Guilford Publications, 2019. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/buffalo/detail.action?docID=5841923.
+Created from buffalo on 2026-03-24 11:45:39.
+
+
+
+=== PAGE 12 ===
+
+Like Miller’s client, when the striving, perfectionistic, approval-seeking managers inside a client
+speak, they often describe hiding their loneliness and misery, and sacrificing themselves to keep the
+person’s life afloat. Managers, like exiles, tend to be children who really want to be nurtured and
+healed. Unlike exiles, however, they believe they have to hide their vulnerabilities and sacrifice
+themselves for the system. The more competent they become, the more the system relies on them,
+and the more they feel overwhelmed with their responsibilities and power. Eventually they come to
+believe that they alone are responsible for the person’s success and safety, which makes them ever
+more wary of relinquishing leadership to the Self.
+Firefighters
+Despite all the efforts of managers, the world has a way of breaking through their defenses and
+activating exiles. In addition, when we are tired or sick, our managerial guard is inevitably down.
+Whatever sets off exiled emotions, their activation is an emergency that summons another set of
+protectors. We call this group
+firefighters
+because they react to surfacing exiles as if an alarm has
+gone off, doing whatever they believe is necessary to distract from or suppress the exile’s emotional
+firestorm with little (or no) regard for consequences to the client’s body or relationships. We all have
+a hierarchy of firefighter activities, so if the first and mildest doesn’t work, we go on to the next. The
+first firefighter tactic for clients with bulimia, for example, tends to involve food, but if food isn’t
+effective, the client’s firefighter team will try other measures, such as drugs, alcohol, sex, self-
+cutting, or stealing. At the top of the hierarchy for many clients is the ultimate comfort of suicide.
+Traditional therapy views firefighter behaviors as pathological, but in IFS we recognize the
+protective intent of firefighters and negotiate with them to let the client’s Self help with the
+underlying problem of exiled feelings.
+Firefighter techniques include numbing activities like self-mutilation, binge eating, drug or
+alcohol abuse, dissociation, and sexual risk taking. A firefighter will usually try to take control of the
+person so thoroughly that he feels nothing but an urgent compulsion to engage in some dissociative
+or self-soothing activity. Firefighters can cause a person to be self-absorbed, demanding
+(narcissistic), and insatiably driven to grab material things. Their activities can also include the
+inflating satisfaction of rage, the exhilaration and indulgence of stealing, or the comfort of suicidal
+thoughts or attempts.
+Although firefighters have the same basic goal as managers—to keep exiles out of mind—their
+strategies tend to be quite different from (and are often in conflict with) those of managers.
+Managers strive to keep the person in control at all times and to please everyone. They are often
+Schwartz, Richard C., and Martha Sweezy. Internal Family Systems Therapy, Guilford Publications, 2019. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/buffalo/detail.action?docID=5841923.
+Created from buffalo on 2026-03-24 11:45:39.
+
+
+
+=== PAGE 13 ===
+
+highly rational, planful, and able to anticipate and preempt activating situations. Firefighters, on the
+other hand, react to an exile surfacing. They take the person out of control and displease everyone
+(unless the behavior is socially sanctioned, like workaholism or dieting). They tend to be reactive,
+impulsive, and unthinking. In contradistinction to managers, who try to shut out exiles, firefighters
+tend to try to find something to calm and appease.
+In turn, the impulsivity and extremity of firefighter behaviors inspire a barrage of criticism from
+managers internally and from people around the client. Although managers may rely on firefighters
+and even call on them, they attack the firefighter after the fact for having put the person at risk and
+caused her to be indulgent, weak-willed, or insensitive to others. The typical dynamic between
+managers and firefighters is a vicious cycle that repeats and escalates, with managerial shaming
+activating exiles, which energizes firefighters, which alarms managers, and so on. As a result,
+managers and firefighters are strange, uncomfortable bedfellows who are often in conflict.
+Even people who are not very symptomatic and have never been severely hurt are organized
+internally according to these three groups: managers, exiles, and firefighters. This is because we are
+all socialized to exile various parts of ourselves, and once exiling begins, the containing and
+distracting roles of managers and firefighters become necessary. If we were to write a diagnostic
+manual based on IFS, we would start by categorizing mental health symptoms according to which
+group of parts is in the driver’s seat internally. This way of understanding the balancing act of
+human survival is a far less pathologizing, in our opinion, than any iteration of psychiatry’s
+Diagnostic and Statistical Manual of Mental Disorders
+(DSM; American Psychiatric Association,
+2013). Managers, for example, often dominate the systems of people who are chronically depressed,
+exiles dominate in those who experience bouts of intense sadness or fear, and firefighters dominate
+people who have problems with addiction.
+The length of treatment in IFS is indexed to the system’s level of trust for the Self and how
+polarized parts are rather than to the severity of the client’s symptoms. Generally the longer and
+more sadistic a person’s traumatic experience, the more polarized their system will have become and
+the less the parts will trust Self-leadership.
+W
+N
+R
+ORTHLESSNESS AND THE
+EED FOR
+EDEMPTION
+When children are uncertain or pessimistic about their value, they strive to understand what will
+please their parents and they try to become that. The normal need for approval grows into a craving,
+and they take the extreme messages they are given about their worth to heart. If a child is told,
+Schwartz, Richard C., and Martha Sweezy. Internal Family Systems Therapy, Guilford Publications, 2019. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/buffalo/detail.action?docID=5841923.
+Created from buffalo on 2026-03-24 11:45:39.
+
+
+
+=== PAGE 14 ===
+
+verbally or nonverbally, that he has little value, his parts organize around that premise. His parts feel
+desperate for redemption in the eyes of the person who is withholding love, which can include any
+person on whom the child depends. Thereafter, carrying the burden of worthlessness, the child’s
+parts believe they cannot be loved, a belief they will maintain regardless of contradictory feedback,
+as if the devaluing person holds title to their self-esteem. Burdened young parts who seek
+redemption from worthlessness exert a powerful influence over intimate relationships, either
+returning to the person who stole their self-esteem, or finding someone who resembles that person.
+Often this results in a long string of abusive, unsatisfying relationships. When clients send the
+burden of worthlessness away, it is as if a curse has been lifted.
+B
+M
+URDENED
+ANAGERS
+Children instinctively know that the penalties for parental disinterest can be dire, including
+abandonment, severe harm, and death. During this period of high dependence, inconsistent messages
+regarding one’s worth are bound to be particularly consequential. As a result, children are, as noted
+above, very sensitive to messages from parents regarding their value. When parental signals are
+consistently reassuring, this hypersensitivity is calmed. But most families have some notable
+imbalances and polarizations, some inherited burdens, and some classes of parts who are not
+welcome. We need not suffer capital- Trauma in order to pick up burdens. When a vital part of a
+T
+child is rejected and the child feels unlovable, protectors who are desperate to win approval often
+take on some of the worst qualities of the person who is stealing the child’s self-esteem and safety.
+Believing the child must be perfect to be accepted, parts who become harsh inner critics and
+moralizers sacrifice their inner relationships and their childhood to the cause of safety.
+L
+B
+EGACY
+URDENS
+As we have described, parts get forced into extreme roles when they are hurt and frozen in time,
+when they protect other parts, and when they become polarized with each other. But there is an
+additional reason for extremity that bears discussion. Parts often take on the extreme ideas,
+behaviors, or feelings of significant others. These transferred burdens are just as organizing and
+constraining as personal burdens. Because they are highly dependent on their parents and eager to be
+included in the family culture, children are particularly susceptible to burdens that are passed down
+Schwartz, Richard C., and Martha Sweezy. Internal Family Systems Therapy, Guilford Publications, 2019. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/buffalo/detail.action?docID=5841923.
+Created from buffalo on 2026-03-24 11:45:39.
+
+
+
+=== PAGE 15 ===
+
+from one generation to the next, including the burden of having to protect another family member,
+having to be a great success, or believing that the world is too dangerous to engage in developmental
+exploration and risk taking.
+Approval-craving parts can mimic virtually any extreme part of a parent or other authority figure.
+We often see the same burden being passed through many generations in a family, as we discuss in
+greater detail in
+Chapter 4
+. This idea of a burden transfer process is similar to what analytic therapies
+call
+introjection,
+but with one important conceptual difference. In IFS we think in terms of inheriting
+burdens that are neither the essence of the ancestor from whom they derive nor the essence of any
+part internally. If we were to view the part itself as a mental introject we would miss its valuable
+qualities and its ability to transform. The introject is the burden, not the part. Our goal is to release
+parts from the constraining influence of their burdens and enable them to pursue their preferred,
+constructive roles. Rather than pushing them to change, we are helping them to let go.
+T
+S
+HE
+ELF
+As soon as you trust yourself, you will know how to live.
+—J
+W
+G
+OHANN
+OLFGANG VON
+OETHE
+Everyone has a seat of consciousness at their core, which we call the
+Self
+. From birth this Self has all
+the necessary qualities of good leadership, including compassion, perspective, curiosity, acceptance,
+and confidence. It does not have to develop through stages. As a result, the Self makes the best inner
+leader and will engender balance and harmony inside if parts allow it to lead. At the same time, our
+parts are organized to protect the Self and remove it from danger in the face of trauma at all costs.
+Protective parts will report having pushed the Self out the body for protective reasons. Once they do
+this, the inner system is on its own with the extreme feelings or thoughts we call burdens.
+Nevertheless, the Self remains whole. The therapist does not supply or strengthen the Self.
+Although the Self can be an observer, it is neither passive nor just a witness. Instead, once parts
+differentiate from the Self, it becomes an active, compassionate, collaborative leader. And strange
+though it may sound, as parts gain trust and open space for the Self, clients often say they feel
+physically as well as mentally present, lively, and centered (for more on IFS practice and the body,
+see
+Chapter 5
+).
+Self-Leadership
+Schwartz, Richard C., and Martha Sweezy. Internal Family Systems Therapy, Guilford Publications, 2019. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/buffalo/detail.action?docID=5841923.
+Created from buffalo on 2026-03-24 11:45:39.
+
+
+
+=== PAGE 16 ===
+
+Systems at all levels—families, companies, and nations—function best when leadership is clearly
+designated, respected, fair, and capable. Internal families are no different. The Self can care for and
+depolarize warring parts in an equitable and compassionate way, lead discussions with parts
+regarding major decisions on the direction of the person’s life and deal with the external world. Parts
+do not disappear under Self-leadership, but their extreme roles do, as does the rigid three-group
+arrangement of managers, firefighters, and exiles. In a Self-led system the youngest parts may just
+want to be spontaneous and play. Meanwhile, others will want to advise, remind, problem-solve,
+lend their talents, and generally help. Each will have a different, valuable role and set of abilities.
+Generally parts will cooperate rather than compete or argue with each other, but when conflicts do
+arise, the Self is there to mediate. Once the system is operating harmoniously most of the time, each
+individual member (as in any harmonious system) will be less noticeable, and we become less
+acutely aware of our parts. In short, when we are in a Self-led state we have a sense of continuity
+and integration. We feel more unified—because we are.
+This is not to suggest that we never want to have a part take temporary leadership. Certain parts
+have abilities that make them the best leaders for certain situations. At other times it is fun or
+thrilling when a part takes over. The point is that parts can take over (with permission from the Self)
+for reasons that are not protective once Self-leadership is restored. And they can withdraw from
+leadership when the time is right for the Self to take the lead again.
+K
+A
+IFS
+EY
+SSUMPTIONS IN
+The following sections summarize the key assumptions of the IFS model.
+Multiplicity
+The natural state of the human mind is to contain an indeterminate number of subpersonalities that
+we call
+parts
+; most clients identify and work with between 10 and 30 parts through the course of
+therapy. Because of the way parts present to us, we conceptualize them as inner people of different
+ages, temperaments, talents, and desires who form an internal family or tribe. This tribe reflects the
+organization of the systems around it, and organizes itself in the same way as other human systems.
+It is axiomatic in IFS that multiplicity is the inherent nature of the mind. This is not a product of
+external influences being introjected, nor is it the consequence of a once-unitary personality being
+fragmented by trauma. In addition, multiplicity is advantageous. All parts are precious and want to
+be constructive, though some are forced into extreme, destructive roles by external influences as
+Schwartz, Richard C., and Martha Sweezy. Internal Family Systems Therapy, Guilford Publications, 2019. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/buffalo/detail.action?docID=5841923.
+Created from buffalo on 2026-03-24 11:45:39.
+
+
+
+=== PAGE 17 ===
+
+well as by the self-perpetuating nature of inner polarizations and imbalances. Therefore, parts will
+gratefully find or return to preferred, valuable roles once they find that doing so is safe.
+Polarization
+Many past or current events can affect the leadership, balance, and harmony of a person’s inner
+system. The most common of such influences include family-of-origin attitudes or interactions and
+traumatic experiences. When parts become frozen in the past, take on burdens, and assume
+leadership, their internal relations shift from harmony to conflict. This is because one extreme
+generates another, as does the uneven distribution of resources, influence, and responsibilities in a
+system. The polarized parts continually confirm their negative assumptions about each other, with
+each part becoming more extreme to counter or defeat the other. Thus, in the absence of effective
+leadership, polarizations escalate. Polarizations also generate coalitions, with one lead part forming
+alliances that unite in opposition to or in competition with another lead part and its allies.
+The Three-Group Ecology
+Highly polarized inner systems are rigid, delicate ecologies that react severely to disruptions. Trying
+to change any one part without considering the network in which it is embedded often activates a
+phenomenon many therapies call
+resistance,
+but which IFS considers a natural, often necessary
+ecological reaction. An ecological map that illustrates inner relationships can help us understand and
+appreciate the validity of protective behaviors.
+Balance, Harmony, and Leadership
+Even highly polarized inner systems can heal themselves if the therapist is able to create a safe,
+caring environment and point the person in certain directions. Our systems already have plentiful
+resources, which only need to be released and reorganized. In addition, all parts of the system want
+to relate harmoniously and, given the opportunity, will eagerly leave extreme roles. If, however, a
+person lives in an activating or dangerous environment, inside or out, protective parts will be
+reluctant to leave their roles, and the process of harmonizing the inner system will be more difficult
+and prolonged. In addition, change in such an environment often evokes protective counterreactions
+in other people. For this reason, we advise finding and releasing constraints in the client’s external as
+well as internal world throughout therapy, as we describe in the chapters on family and couple
+therapy.
+Interconnected Ecologies
+Schwartz, Richard C., and Martha Sweezy. Internal Family Systems Therapy, Guilford Publications, 2019. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/buffalo/detail.action?docID=5841923.
+Created from buffalo on 2026-03-24 11:45:39.
+
+
+
+=== PAGE 18 ===
+
+Systems thinkers are intrigued with the parallels among living systems. As Gregory Bateson (1979,
+p. 8) famously asked, “What pattern connects the crab to the lobster and the orchid to the primrose
+and all four of them to me? And me to you?” We have been fascinated with how the organization of
+internal systems of parts is paralleled in other human systems and in this book we cover those
+parallels in families (see
+Chapter 14
+) and countries (see
+Chapter 18
+).
+From tiny to vast, living systems are interconnected ecologies. Therefore, changing one aspect of
+a system without understanding its larger network of relationships can cause severe repercussions.
+For example, in the 1950s a tribe in Borneo had an outbreak of malaria. The World Health
+Organization (WHO) sprayed DDT, which killed the disease-bearing mosquitoes and things
+improved. But the DDT poisoned the insects eaten by geckoes, which in turn were eaten by cats.
+When the cats died, the rat population exploded, which lead to other plagues. To resolve the
+problem, the WHO ultimately parachuted 14,000 live cats into Borneo (Hawken, Lovins, & Lovins,
+1999).
+The Internal and External Parallels of Our Interconnected Ecologies
+Internal systems are equally delicate ecologies. Trying to change or heal one part without
+understanding its network of inner relationships often results in resistance at best and severe
+backlash at worst. For example, a young man named Tyrone had become depressed due to the
+relentless efforts of his inner critic. He found a therapist who tried to get him to focus on his
+strengths and positive social connections. In response, his critic became brutal. Unable to
+concentrate at work, Tyrone took a leave of absence. Tyrone’s therapist, who was moving away,
+happened to refer him to an IFS therapist who guided Tyrone to ask the critic what it was afraid
+would happen if it let him feel good about himself. The critic said that confidence would cause
+Tyrone to take social risks and be rejected. When asked why that would be bad, the critic said it
+knew he couldn’t tolerate another rejection and was sure he would kill himself.
+In subsequent sessions, they talked to the suicidal part who was, indeed, committed to not letting
+him feel the pain of his exile—a part who had been betrayed and rejected many times earlier in his
+life—ever again. Thus, Tyrone learned that his critic was keeping him alive by keeping him
+depressed and had good reason to counter the efforts of the first therapist. As a result, Tyrone and his
+IFS therapist focused on Tyrone accessing his Self and getting permission from the suicidal part to
+heal the exile. Once the exile was healed, they returned to the critic, who was now happy to stop
+brutalizing Tyrone.
+Schwartz, Richard C., and Martha Sweezy. Internal Family Systems Therapy, Guilford Publications, 2019. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/buffalo/detail.action?docID=5841923.
+Created from buffalo on 2026-03-24 11:45:39.
+
+
+
+=== PAGE 19 ===
+
+In the IFS model we view the client’s inner and outer worlds as nesting, interconnected systems
+that operate according to the same principles and are responsive to the same techniques. In addition,
+systems that interface come to reflect one another, so changes at one level are likely to produce some
+kind of change at other levels. Because system levels echo each other, a therapist should not work
+with a client’s internal system without thoroughly considering and addressing the person’s external
+context. In addition, we can start at one system level in therapy (say, the family), but shift fluidly
+back and forth with another system level (individuals in the family) as needed.
+As Tyrone’s experience illustrates, we are effective when we become ecologically sensitive. To
+be ecologically sensitive we drop the interpretive stance of the expert and, in a spirit of humble
+curiosity, collaborate with the client’s parts to map their inner relationships. Once we have a
+preliminary map, we are guided by it in a spirit of respect and the willingness to keep learning.
+When we misstep and the client’s system reacts severely, our job is to remain curious not to
+pathologize that reaction. When we are Self-led, our missteps become another opportunity to locate
+mines in the client’s inner minefield.
+CONCLUSION
+We live in symbiosis with a population of inner people who exist in multiple relational subsystems,
+much as we have symbiotic relationships with the millions of microbes in the gut, which are in
+relationship with each other. We are a habitat. The citizens (parts) of this habitat can be hurt and can
+get into conflict with each other, engaging in mutual injury, self-attack, and defensive (or offensive)
+maneuvers. The good news is that we also have a Self that is ready to provide stewardship to our
+inner system. Once we appreciate the disparate characters and perspectives of all our parts, we can
+stop expending energy disapproving of ourselves (or anyone else) for being inconsistent, having
+mixed feelings, or hosting inner conflict. Though our inner communities can be divided by conflict,
+they are also full of gifts. When our parts separate from the seat of consciousness (the Self) we
+discover what spiritual traditions have known and taught for thousands of years: that we have the
+resources we need to support and protect this vulnerable inner population with its awesome
+potential. Self-acceptance is the ongoing process of welcoming all parts and banishing none. When
+we pursue the ideal of self-acceptance we also gain the freedom to live by curiosity, exploration, and
+inclusion.
+Schwartz, Richard C., and Martha Sweezy. Internal Family Systems Therapy, Guilford Publications, 2019. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/buffalo/detail.action?docID=5841923.
+Created from buffalo on 2026-03-24 11:45:39.

@@ -1,0 +1,703 @@
+=== SOURCE METADATA ===
+source_book: ifs_new_dimensions
+source_file: ifs_new_dimensions_ch08_chronic_illness.pdf
+relative_path: ifs_new_dimensions/ifs_new_dimensions_ch08_chronic_illness.pdf
+extraction_mode: words
+top_margin_ratio: 0.05
+bottom_margin_ratio: 0.03
+=== BEGIN EXTRACTED TEXT ===
+=== PAGE 1 ===
+
+THE INTERNAL FAMILY SYSTEM AND
+ADULT HEALTH
+CHANGING THE COURSE OF CHRONIC
+ILLNESS
+Nancy Sowell
+DOI: 10.4324/9780203126691-8
+began to use the internal family systems (IFS) model with symptoms of disease out of desperation.
+I
+My knees and feet were so swollen and inflamed that walking had become extremely painful. At the
+time, there was no specific training in the application of IFS to medical illness and pain, so I had not
+used it with my clients. The autoimmune disease from which I had been in remission for some years was
+flaring. The behavioral medicine approach, which I used professionally and had found useful in
+controlling my symptoms as well as my comorbid anxiety, was not getting to the heart of my stress. So I
+tried going
+inside
+, in the language of IFS, to see if I could get some helpful information from my internal
+system. There, I discovered that my parts were in serious disagreement over what to do for me.
+Some parts of me stoically ignored and minimized my pain. They kept me working, business as
+usual. Other parts felt scared or angry. They advocated for major changes in both my professional and
+personal life, saying I should stand up for myself more and set clearer limits on my time, energy and
+availability. Meanwhile, a part of me was afraid of conflict and upheaval. As inner tension mounted, I
+would sometimes escape into movies, fiction and the computer. But more often than not, when I was not
+working, I was so exhausted that I would collapse on the couch or skip dinner and go straight to bed. I
+knew from years of using biofeedback that this inner turmoil took a physiological toll. Nevertheless, it
+was happening outside of my moment-to-moment awareness. In turn, my primary modes of coping with
+the stress and pain, such as overworking, were exacerbating both.
+As I listened inside to my parts, I understood that I needed to take action to reduce the stress. First, I
+made more time to be in touch with my Self and to tune in to the parts I had been ignoring. Rather than
+avoiding the physical pain in my joints, I focused on those symptoms with compassion and curiosity. I
+became aware of sadness and fear, for instance, as I focused on the pain in my knee. I also became aware
+Internal Family Systems Therapy: New Dimensions, edited by Martha Sweezy, and Ellen L. Ziskind, Taylor & Francis Group, 2013. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/buffalo/detail.action?docID=1157760.
+
+
+
+=== PAGE 2 ===
+
+of deep physical fatigue. I heard from parts who were speaking through my symptoms and parts who
+were reacting to my disease and the pain. I found both vulnerable and protective parts who were trying
+to get my attention. The panicky part balanced out the minimizer. The angry part was trying to keep the
+overcommitted accommodator in check. As I listened in this way, I could no longer ignore what I was
+hearing. Even the parts of me who had taken on the role of ignoring the pain and inflammation needed to
+be understood and appreciated. Ignoring the pain had helped me to get up and start moving each
+morning, but acknowledging each part’s inherent value contributed to a growing understanding and
+cooperation in my system. The most vulnerable parts, such as the young girl whose needs had gone
+unmet for too long, finally had my attention.
+And I started advocating for myself and setting clear limits with others in the external environment.
+At work, I added more administrative support and reduced my hours. I stopped working evenings and
+accepted fewer clients. I made time for self-care: more rest, exercise, good food, play and relaxation.
+Parts of me who had become polarized in dealing with the illness, such as the hard-working stoic and the
+one who collapsed on the couch, became less extreme. They felt heard and cared for with my Self in
+charge. While making these changes, I went to see my health care providers. For a short time, I started
+taking anti-inflammatory medication again. Within a few months, I was back in remission and off
+medication.
+This experience convinced me to start using IFS with others, and today IFS is my primary
+intervention with clients who seek help for medical problems. As I gained more experience in the
+medical application of IFS, my curiosity about the interplay of genetics, parts and environment in
+relation to health and illness grew. In the example of Marty, described in depth later, as for myself, there
+is a family history of the disease in question. However, the vast majority of people in my family—as in
+Marty’s—have never developed symptoms. Why and when some family members become symptomatic
+is unclear. A literature search informed me that although life experience—as carried in memories,
+beliefs, emotions and behaviors—influences health, we still do not know how or to what degree personal
+history manifests in genetic or epigenetic vulnerabilities and strengths, or how it impacts our
+susceptibility to infection and our ability to heal. Nevertheless, there is a growing body of research
+linking stress (Archie, Altmann, & Alberts,
+2012
+; Sapolsky,
+2005
+), personality traits (Haukkala,
+Konttinen, Laatikainen, Kawachi, & Uutela,
+2010
+; Kiecolt-Glaser et al.,
+2005
+), attachment (Kotler,
+Buzwell, Romeo, & Bowland,
+2011
+; McWilliams & Bailey,
+2010
+), coping style (Deimling et al.,
+2006
+)
+and a history of adverse childhood experiences with adult health problems (Romans, Belaise, Martin,
+Morris, & Raffi,
+2002
+). My personal and clinical experience led me to believe that therapy can affect
+physical health profoundly.
+IFS is designed to help clinicians and clients identify, understand and relate with compassion,
+courage and clarity to all our parts. In my experience, when Self-energy is aimed at the intersection of
+nature and nurture, physical as well as emotional healing can occur. This chapter offers a framework for
+understanding and exploring the relationship between parts and medical problems, underlines the
+connection between past and current environmental stressors and, in a case example, illustrates the
+healing effects of one man’s growing self-awareness and self-compassion.
+Marty’s initial message on my office answering machine gave me the impression that he was an
+opinionated, strong-minded man. When we spoke for the first time, he said matter-of-factly that he was
+Internal Family Systems Therapy: New Dimensions, edited by Martha Sweezy, and Ellen L. Ziskind, Taylor & Francis Group, 2013. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/buffalo/detail.action?docID=1157760.
+
+
+
+=== PAGE 3 ===
+
+59 years old and had coronary heart disease and chronic obstructive pulmonary disease (COPD). He then
+moved quickly on to the business at hand. Was I taking new clients? He had gotten my name from his
+primary care physician who told him about my work at Brigham and Women’s Hospital using IFS in a
+randomized controlled trial with rheumatoid arthritis patients (Shadick, Sowell, & Schwartz,
+2010
+). “I
+need help dealing with stress and some family issues,” he said.
+In our first session, Marty said that he had had “bypass surgery” (a coronary artery bypass graft, or
+CABG) several years before. After many years of doing much better, he recently had been feeling a little
+worse. When I inquired about his medical prognosis, he replied, “I haven’t asked. I know I need to
+reduce my stress. My doctor wants me to stop smoking and maybe lose some weight. Let’s just work on
+the stress and see how it goes.”
+I was struck by the contrast between Marty’s avoidance of important facts about his health and his
+otherwise direct style of communicating. He was quick to tell me his views on politics, social issues and
+my waiting room design, but omitted the fact that he had had more than one heart attack. He showed
+disparate characteristics in other ways, too. He sometimes displayed an edge of anger but was generally
+relaxed and personable. Although he enjoyed occasional blunt, almost shocking statements, and seemed
+pleased to break the rules of social decorum, Marty was averse to asking for help and appeared almost
+repelled by his own emotional needs.
+“I smoke like a chimney. I’m fat. My arteries are filled with sludge. I have trouble breathing. And,
+now I do the Florida shuffle walking up the stairs! What’s all the hubbub?” Marty quipped and waited to
+see my reaction.
+“Does this mean you’re not planning on running the marathon this year?” I joked back. After sharing
+a laugh, I began, “Seriously, Marty, you’ve talked about your wife’s fears and your doctors’ concerns,
+but does your health worry
+you
+?”
+“I don’t think about it much. My wife does enough of that for both of us. I have a lot of other stuff
+on my mind,” he replied.
+“I know you do. If you think about it now, though, would you say that you, or a part of you, will
+avoid thinking about your heart problems or your COPD?”
+Marty paused as he thought over my question. “Probably. I get tired of hearing about it. I know what
+I gotta do. Honestly, I
+don’t
+like talking about it. I guess I don’t like thinkin’ about it either. And, like I
+said, I have a lot of other stuff on my mind.”
+After the initial sessions, I knew that his protectors—the parts who keep vulnerability and pain out of
+awareness—were in charge most of the time. Marty’s physicians and his family, of course, all wanted
+him to stop smoking and take better care of himself. And Marty was clearly dedicated to his family. His
+wife sometimes accompanied him to his appointments and read in the waiting room during our sessions.
+They had two adult daughters, but his son, Gary, had been killed in a boating accident a year earlier at
+the age of 32 years. Marty softened tremendously when he spoke about his grandson, Gary’s four-year-
+old boy. “The little guy,” as Marty called him, had grown very attached to Marty after Gary’s death.
+Outings with his grandson and the projects they did together were some of the brightest spots in Marty’s
+life, and with some encouragement, he described the boating accident that had taken Gary’s life. He
+confided in me his feelings of responsibility for helping his son’s family, now that Gary was gone.
+Internal Family Systems Therapy: New Dimensions, edited by Martha Sweezy, and Ellen L. Ziskind, Taylor & Francis Group, 2013. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/buffalo/detail.action?docID=1157760.
+
+
+
+=== PAGE 4 ===
+
+One tenet of IFS is “All parts are welcome.” I do not argue with parts or try to talk them out of how
+they feel or what they do. And, as an IFS therapist, it is my job to notice my own internal system as well.
+In this case I noticed my patient’s increased anxiety both in response to pressure from the external
+system and his internal system. Externally, Marty’s family and his other health care providers were all
+quietly watching and hoping that his work with me would help him process his grief and stop smoking.
+Internally, his protective parts were clearly exacerbating his symptoms and his life was in danger. I knew
+that it was crucial for him to reduce his risky behaviors, such as smoking and overeating, along with his
+stress.
+If I am feeling anxious about my client’s medical condition and self-destructive behaviors, my
+effectiveness as a clinician is diminished (Schwartz, this volume). As I begin working with a medical
+patient, I help my protectors know that I am here with them and with my patient. I often find myself
+subtly communicating with my own parts during a session, telling them, “I’m right here. I hear you. Let
+me be with this person now.” Marty’s behaviors and risk level did make my parts anxious and I checked
+in with them periodically throughout our work.
+After spending a few sessions in which we got to know each other, Marty began to open up and even
+started looking forward to coming. When I judged it was time for us to agree on which parts he wanted
+to get to know better and help, I described our treatment dilemma by directly engaging the part of Marty
+who felt pressured by his family and medical team. “Marty, everybody wants you to quit smoking! Have
+you noticed that? I’m feeling a little pressure! What about you?”
+Marty chuckled, “Now you know how I feel!” After we laughed together, he added, “What? We can’
+t just keep yucking it up? You wanna get down to business?”
+We talked about the anxious concern coming from his family and doctors. He acknowledged that he
+was making himself more symptomatic with smoking, overeating and not “doing feelings.” His
+symptoms had increased in the months since Gary’s death. We talked about his stress and his dedication
+to helping Gary’s family on top of all his other responsibilities, including his daughters and their
+families. We decided to start the IFS work by looking at these stressors and identifying the parts
+involved. Marty was interested to know how I was thinking about his illness and our work together. I
+offered a simple framework, illustrated later, for identifying and getting to know how his parts were
+related, directly and indirectly, to his illness. But I described the framework gradually, whenever it
+seemed relevant and helpful. I do not routinely go over the theory or protocol of IFS with clients who
+have medical problems. Because some are not interested and some do not find it particularly helpful, this
+is a judgment call. In Marty’s case it did prove helpful. Information, along with a structured way to think
+about the relevance of IFS to his physical problems, helped Marty’s strong, hypervigilant managers to
+relax and participate.
+My framework for applying IFS with medical symptoms includes identifying and checking for: (1)
+parts who trigger or exacerbate symptoms, (2) parts who maintain symptoms, (3) parts who know
+something about improving or healing symptoms, (4) parts who are fearful of improving symptoms and
+being well and (5) parts who want to die. I never assume that all are present, nor do I impose my views
+on clients. But because I often find that these parts, alone or in combination, are present in clients with a
+medical illness, I keep this range of possibility in mind.
+Internal Family Systems Therapy: New Dimensions, edited by Martha Sweezy, and Ellen L. Ziskind, Taylor & Francis Group, 2013. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/buffalo/detail.action?docID=1157760.
+
+
+
+=== PAGE 5 ===
+
+I also look for current stressors and behaviors, as well as burdens rooted in the past that are carried
+by parts and impact the client’s health now. Polarities among the parts dealing with these burdens and
+stressors are common and can precipitate disease and provoke and maintain symptoms. Marty’s system
+illustrates this well. In this example you will see that his protectors are polarized with a sad, exiled part.
+Some protectors promote escaping or numbing the sadness, and others promote management and control.
+Our job was to help his polarized parts become less extreme, then to identify the parts who
+maintained or exacerbated his symptoms, who feared getting better or who wanted to die. Once we could
+do this, I felt certain that his anxious, grief-stricken, sad and angry parts would feel relief, which would,
+in turn, affect his illness. I knew that my patience, kindness and hope would be crucial in guiding him.
+But I also knew that the actual healing would occur in the relationship between Marty’s Self and his
+parts.
+Clients who have serious medical conditions like Marty often have very active protectors who focus
+on functioning and want to “leave well enough alone” when it comes to emotional suffering in the
+internal system. That is their job and Marty was no exception. So we started with these parts: “I need to
+keep this business afloat. Not just for my wife and me but for Gary’s family, too. They’re counting on
+the income. I need to work and keep the money coming in for everybody. I don’t have Gary’s help now.
+I’m trying to figure out whether to hire somebody, or what to do! There aren’t enough hours in the day.”
+In their desire to help Marty keep his fear and sadness under control, manage his business and
+support his family, these parts kept Marty working long hours with very little down time to attend to his
+physical needs and exacerbated his symptoms. Other protectors, such as the smoker who numbed
+feelings, were precipitating Marty’s symptoms more directly. The smoker did not want him to be sick;
+rather it did not want him to be vulnerable and overwhelmed. When Marty went inside and found the
+protector who smokes, he reported the following, “It’s not a part I can see. It’s in the dark. It’s trying to
+keep me away from sadness—some big bubble of sadness. Smoking pushes it away. He also tries to
+distract me away from it. When this part smokes it stops whatever I’m doing or thinking and it takes me
+away.”
+“Away from the sadness?” I asked.
+“Yeah. The sadness doesn’t get a chance to come up, and then it passes. Sort of like a door closes
+shut,” he said.
+“Hearing this, how do you feel toward the part who wants to smoke to keep the sadness away?” I
+asked.
+“I totally get it. I know what it’s thinkin’. It’s not a bad guy who’s out to get me. It’s trying to help
+me. It doesn’t want me to get overwhelmed!” he said.
+“Is this part aware of you right now, Marty?”
+“Sort of. He can feel me paying attention to him.”
+“Invite him to really notice that you are there and you understand him,” I said. There was a long
+pause. I could see a change in Marty’s face reflecting a connection with this part. I added, “Invite him to
+feel your positive feelings toward him and your interest in him.”
+Internal Family Systems Therapy: New Dimensions, edited by Martha Sweezy, and Ellen L. Ziskind, Taylor & Francis Group, 2013. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/buffalo/detail.action?docID=1157760.
+
+
+
+=== PAGE 6 ===
+
+Marty nodded to let me know that the part saw him more clearly. “He’s very aware of me now. Not
+that he sees me, but more like he just knows I’m here. Like he feels me. It’s like we’re sharing
+something. We’re sharing an understanding.” Marty went back to listening and occasionally reporting
+what was happening between him and the part.
+After a while I said, “Marty, find out if he knows the physical consequences of smoking to keep
+sadness away?”
+“No, he doesn’t think about the smoking making me sick,” Marty reported.
+“Is there something you’d like to communicate to him about that?” I asked. Marty was quiet for
+sometime as he concentrated inward.
+“I showed him what’s happening to me—kind of had a look inside at my heart and lungs. He’s sorry
+it’s hurting me, but he can’t stop, he says.”
+“Find out what would need to happen for him to seriously consider not smoking in the future,” I said.
+“The sadness would have to stop,” Marty reported.
+“Check to see if he would want to stop smoking if you could help the sad parts.”
+“He’s interested but not so sure about this idea. A bunch of thoughts just jumped up. He doesn’t
+know what he would do if he stopped smoking. He’s feeling a little suspicious and wonders if I’m trying
+to get rid of him, or if you are?” Marty said, looking up at me.
+“Let him know that I respect him for protecting you all these years. I’m glad he kept you from
+getting overwhelmed.” There was a pause before Marty nodded to signal that he had done so. “Also tell
+him that he’ll always be part of you. This is about helping him with options, not trying to get rid of him.”
+“He’s listening but he doesn’t understand what you mean about options,” Marty said.
+“I mean when you, in your Self, connect with the sad parts and help them, then he won’t be locked
+into smoking and he can figure out what he’d rather do. I will help guide you through the process if he’s
+willing.” After a pause, I added, “What would he rather be doing if he didn’t feel smoking was so
+necessary?”
+There was a long pause as Marty listened inside. “ ‘Ticket to Ride’—that Beatles’ song—just popped
+into my head. He’s thinkin’ about music! He hasn’t listened to music in a long, long time,” Marty
+chuckled. In hope that he actually could be free to relax and do things like listen to music again, the
+smoking protector eventually agreed to allow Marty to find, know and help the sad parts.
+Like the smoker, the parts who snacked and watched late-night television wanted to keep the pain
+and suffering of Marty’s exiles at bay and they were not aware of the toll this took on his health, nor
+would they stop until Marty had helped his exiles. When Marty and I talked about the stress of being
+sick and having other responsibilities and he started to feel emotional, these protectors would spring into
+action. In one such conversation Marty said, “I can’t afford to be sick. I have too much to do. People are
+counting on me!” This belief, a burden acquired by an adolescent part when his father died, had reignited
+with the death of his son Gary. It showed up in thoughts like, “I must do whatever is necessary for my
+family’s survival!” Or, “I can’t afford to play and relax.” And it showed up in behaviors such as
+overwork, self-sacrifice and the tendency to ignore fatigue or emotional needs. Burdens like this, carried
+forward in time by parts, may help to explain how adverse experiences of childhood (Felitti et al.,
+1998
+),
+Internal Family Systems Therapy: New Dimensions, edited by Martha Sweezy, and Ellen L. Ziskind, Taylor & Francis Group, 2013. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/buffalo/detail.action?docID=1157760.
+
+
+
+=== PAGE 7 ===
+
+personality traits (Eaker, Sullivan, Kelly-Hayes, D’Agostino & Benjamin,
+2004
+; Everson et al.,
+1996
+),
+coping (Moos & Holahan,
+2003
+) and attachment style (Feeney,
+2000
+) continue to effect physical health
+in adult life.
+Self-monitoring is a standard behavioral medicine tool, which I have modified for use with IFS to
+identify and track parts associated with target behaviors, beliefs, emotions and body sensations. To find
+the parts whose burdens were affecting Marty’s health, we began tracking his internal and external
+experience. For a couple of weeks Marty kept a log that had a series of checklists. First he noted the
+circumstance, such as interacting with others, working or being at home; then his emotions such as
+anger, sadness, anxiety or joy; then his behaviors such as smoking, eating, working, drinking and TV
+watching and finally his medical symptoms such as shortness of breath, wheezing, coughing, dizziness,
+fatigue and heart palpitations. In this way, Marty became more and more aware of the relationship
+between external circumstance and his internal experience of emotions, thoughts, behaviors and physical
+sensations as well as his medical condition.
+In a session about four months into treatment, Marty and I talked about work and family stress
+related to Gary’s death. He had made Gary a partner in the construction company where they both
+worked, and from which he had been planning to phase out his active involvement just before Gary was
+killed. In a year or two, Marty would have become a silent partner, allowing him to retire and take a
+long-planned cross-country trip in an RV with his wife.
+“That was the plan before…” his voice trailed off and he looked upset, his face flushed. Now he
+looked directly at me and sounded angry. “What’s the point in talking about this? I don’t think whining
+about my problems does me any good!” He put his hand to his chest.
+“What’s happening, Marty?” I asked.
+“It’s harder to breathe,” he said.
+“Would it be OK to check inside and ask what just happened?”
+Marty closed his eyes and was silent for a moment. Then he said, “I don’t want to talk about Gary
+today.”
+“Marty,” I said, using direct access with this protector, “what are you concerned will happen if you
+talk about what it’s been like since Gary died?
+“Look, I can’t afford to go there!” he exclaimed. “Not the physical stuff, but more this,” he gestured
+to his chest and heart area, “and all this ‘feelings’ business. I’m like a fucking piano wire about to let
+go!”
+“Like you’ll explode, feeling it all?”
+“Right! Exactly! What’s the point?” he said angrily, shifting in his chair with discomfort, his
+breathing still labored. “Let’s just say I’d rather leave well enough alone. There’s nothing I can do about
+what happened.” He paused, suddenly looking more approachable. “I know what you’re saying about
+stress. I
+should
+talk about it, but I don’t know…” he trailed off.
+“I understand why you wouldn’t want to go there if it would just overwhelm and make you feel
+worse. I wouldn’t want that either.”
+Marty relaxed a little. Then he said, “I need a cigarette.” He stared into the distance, beyond the
+walls of my office. “There’s nothing I can do! See?” He looked back at me directly now. “If you make
+me start emoting or something I don’t know what’ll happen! Do you understand?”
+Internal Family Systems Therapy: New Dimensions, edited by Martha Sweezy, and Ellen L. Ziskind, Taylor & Francis Group, 2013. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/buffalo/detail.action?docID=1157760.
+
+
+
+=== PAGE 8 ===
+
+“I think so,” I said. “You don’t want me to pressure you into anything or stir things up.” He nodded.
+“This feels too big, too risky. Right?” Marty nodded again. We settled into a comfortable moment of
+quiet in which Marty’s shoulders slowly relaxed and he leaned into his chair, the coloring in his face
+returning to normal and his breathing coming easier. “You’ve got some very strong protectors there!” I
+said finally.
+“The tip of the iceberg, believe me!” he replied. “I hope I didn’t scare you.”
+“You didn’t scare me, but I
+did
+notice the strength of your part’s conviction. Would it be OK for us
+to get to know this part better? The one who thinks talking about feelings is a bad idea.”
+“I don’t know how the hell you’re planning to do that,” Marty said, “but let’s give it a try. That’s
+why I’m here, right? You can bet I’ll let you know if it’s not workin’ for me!” He cocked his head and
+gave me an exaggerated, semimock look of warning coupled with a slight smile. “And, listen, I get the
+point, too. In a way, I’m sick and tired of being all bottled up.”
+With the self-monitoring and increasing awareness, Marty came to know the parts who were
+determined to keep his sadness and grief at bay. In
+un-blending
+, he was able to observe each part with
+curiosity and interest, getting distance from their beliefs, body sensations and worldview without
+denying it or turning away. When he found the stoic, young protector while accessing Self-energy, his
+appreciation grew.
+In turn, this protector reminded Marty that his father, who ran the family cranberry farm, had
+experienced heart problems when Marty was a young boy. As a result, Marty had begun to take on adult
+responsibilities early in life. When he was 14, his father died of a heart attack, leaving Marty to work
+and take care of others and this manager took over, saying, “It’s all up to me now.” These young ones
+longed to leave adult responsibilities to his parents; they felt terrible sadness and grief over his father’s
+death, and now they were activated over the loss of Gary. The manager, along with a few other
+protectors whom Marty identified later in therapy, worked hard to keep them out of his awareness,
+causing them to feel ever more silenced and hopeless. In response, another protector felt trapped and
+furious. In short, Marty’s early losses converged with Gary’s death, leaving him in a state of tremendous
+inner turmoil.
+When these proactive manager strategies failed and Marty’s sadness, hopelessness and fear emerged,
+then his reactive firefighter protectors would step in, pushing smoking and overeating to numb his pain.
+Although these short-term comforts helped him soothe the pain of his exiles, they also exacerbated and
+maintained his cardiac and lung disease. As he became more familiar with these protectors, he learned to
+appreciate how each one had a job and helped him function. Some of these parts had helped him keep
+the family farm afloat when he was a boy coping with his father’s illness and death. An example of this
+is the 14-year-old who had decided to fill his father’s shoes to avoid feeling overwhelmed with grief and
+fear. As Marty’s appreciation and understanding grew for this young “manager,” he earned enough trust
+to get access to the exiled boy, the sad one who was so frightened after his father’s death. Here is an
+excerpt of that session.
+Marty’s eyes were closed with his attention focused inward. He had been talking about running his
+business without Gary and from there he had become aware of the boy inside him who felt so scared and
+Internal Family Systems Therapy: New Dimensions, edited by Martha Sweezy, and Ellen L. Ziskind, Taylor & Francis Group, 2013. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/buffalo/detail.action?docID=1157760.
+
+
+
+=== PAGE 9 ===
+
+sad living on the family farm after his father’s death. His self-monitoring and our tracking had taught
+him that these feelings could trigger difficulty breathing. He also had recently become aware that his
+sad, scared parts activated his firefighters who smoked, ate and otherwise numbed his feelings.
+“I feel fear around my stomach, like a knot in my gut,” he said, his face pale and grim and his
+breathing harsh. “I can feel sadness coming up.” There was a long pause. “Now, I feel this tightness in
+my chest and around my throat,” he said as he placed his hand on his chest around his heart.
+“Is it OK emotionally and physically to feel this right now or is it too much?” I asked. Marty did not
+answer. He looked like he was holding his breath. “Marty,” I said, “Are you feeling overwhelmed?”
+He nodded and spoke quietly, his breathing still labored, “Yeah, a little.”
+“Check inside to see if this part would be willing to turn the volume down a little on these feelings.
+We don’t want him to go away. Just check and see if he’s willing to not overwhelm you.” Marty quietly
+focused inward for several minutes, his breathing slowly easing. “Better?” I asked.
+“Yeah. I can still feel him around my chest. He’s really sad. He doesn’t know what’s gonna happen
+to him or the farm. He’s worried about his mother and his brothers and sisters. He’s scared. He has no
+one to talk to.”
+“I can see that you care for him.” Marty nods to affirm my statement. I continue, “Invite him to feel
+your care and concern—your hand on your heart as you listen to him inside.”
+Marty continued to focus inward through a long silence. Holding his hand to his heart, then he began
+to choke up. “I
+really feel
+for him!” As tears streamed down his face, he signaled to me that he was OK
+by patting the air with his hand.
+After a few moments of quiet in which Marty wept, I asked, “Is he aware that you’re here really
+feeling for him?”
+“Sort of. I feel him there.” As he pressed his hand to his chest, he said, “I have a kind of image of
+him. It’s dark. It seems like his back is to me. He’s still sad,
+really
+sad, and he doesn’t know what he’s
+gonna to do without his father. He misses his dad.”
+“I can see how much you care about him.” Marty nodded. “It’s possible to communicate your
+compassion, even without words,” I said. “You can beam it to him like warmth or light, or communicate
+through your hand on your chest, or any other way that works for you and for him.”
+With eyes closed and his focus inward, Marty remained quiet for a while. Then tears began to stream
+down his face again. “He knows I’m here. He’s turned around to see me. It’s OK. He’s relieved. He’s
+crying.” Marty trailed off into a long, tearful pause. A minute passed before he spoke. “He needs
+somebody. He just
+needs
+somebody!”
+“That’s right. Take your time. Be there exactly the way he needs you to be,” I said.
+“He wants his dad. He misses him. He doesn’t know what he’s gonna do without him.” There was a
+long pause as Marty continued to connect with this part.
+“That’s right. Stay with him. Invite him to bring it all to you. Be there exactly the way he needs you
+to be,” I said as tears continued to stream down Marty’s face.
+“I’ve got him,” Marty whispered.
+Internal Family Systems Therapy: New Dimensions, edited by Martha Sweezy, and Ellen L. Ziskind, Taylor & Francis Group, 2013. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/buffalo/detail.action?docID=1157760.
+
+
+
+=== PAGE 10 ===
+
+I could see from his face, breathing and body language that what was transpiring between Marty and
+this 14-year-old boy inside was very tender. I was careful not to disrupt the experience. Sensing no
+distress, I was attentive but I waited.
+“He’s so relieved that I’m here with him. He’s showing me something in the pumping station at the
+cranberry bog.” There was a long pause. Marty looked alert but calm. His eyes remained closed as he
+described what was happening in his inner world. “There’s a problem with the machinery but he’s not
+sure what to do. He’s so overwhelmed. He doesn’t know where to begin. He misses his dad! He feels
+lost. It’s too much for him. He’s just a kid. He needs his dad!” Marty broke into sobs.
+“Marty…” I started to speak to make sure it was OK for Marty to feel such strong emotion. But
+before I could get the words out, he held a hand up to signal that he was OK and I could let him continue
+without interruption. I waited, trusting Marty’s Self.
+“He feels ashamed crying in front of me. He feels like a big baby. He doesn’t think anyone wants to
+know how he feels. He’s
+so
+alone. He doesn’t feel like he deserves…” the words trailed off. “He doesn’t
+feel like he deserves my love,” Marty whispered. “He’s afraid I’m going to leave him, too.”
+“What do you want to tell him about that?” I ask.
+“I understand how he feels. He’s right! Nobody there knows how to talk to him about anything that
+matters. I’m letting him know that I’m not going anywhere.” Marty paused. “He’s right here with me
+now. I’ve got him,” he said.
+“Invite him to feel your energy and to take it in,” I said encouragingly. After several minutes passed,
+I saw Marty’s face and body relax. “How’s he responding to that?” I asked.
+“He’s calmer—relieved. He’s beginning to trust that I really want to hear whatever he needs to tell
+me.”
+“That’s great,” I said. “As you tune in to him like this, see if there’s more that he needs right now.”
+“He needs me to stay with him, to
+be
+with him,” Marty said definitively. “I’m getting flashes of
+different moments—lots of scenes. I’m there with him.” Several minutes passed. Marty was
+concentrating. His eyes remained closed. He was sitting in relaxed stillness in a green chair across from
+mine, tears quietly sliding down his cheeks again. I waited without interrupting.
+Once Marty began to stir, I quietly asked, “How’s it going?”
+“It has all sort of slowed down. There was a lot happening for a while—things that I had forgotten
+about. He showed me some of the funeral and what happened after—what it was like for him. I could
+feel his pain and confusion.”
+“Find out if there’s more that he needs you to know or to see,” I said. I waited while Marty went
+back to the boy again.
+“He doesn’t have more to
+show
+me. He just wants to stay with me.”
+“What do you tell him about that?” I asked.
+“I’m staying right here with him.”
+“See if he would like to leave that time and place, if he’s ready, and go with you?” I asked.
+“He’s shocked to hear you ask that. He didn’t know he could ever leave! He’d love to get out of
+there but he’s worried about leaving his brothers and sisters—and his mom,” Marty said as he opened
+his eyes.
+Internal Family Systems Therapy: New Dimensions, edited by Martha Sweezy, and Ellen L. Ziskind, Taylor & Francis Group, 2013. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/buffalo/detail.action?docID=1157760.
+
+
+
+=== PAGE 11 ===
+
+“Is there anything you want to tell him about that?” I asked.
+“There is. Give me a minute,” Marty closed his eyes and focused inward again. “OK.”
+“OK?” I asked, surprised.
+Hearing my surprise, Marty smiled and opened his eyes to look at me as he said, “I told him that
+they’d be OK. I reassured him that everyone was going to be fine. I told him that I could show him.”
+“So, he’s ready to leave now?” I asked knowing that I could trust Marty’s judgment.
+“He’s ready.”
+“Bring him someplace where he can release all the burdens that he’s been carrying. Someplace that
+would feel just right for him—wherever he’d like. He could release them into water, wind, light, earth,
+fire or anything else that works for him,” I said guiding Marty and the 14-year-old boy through the
+unburdening process.
+“He wants to release them into Vineyard Sound from my skiff,” Marty informed me. “We’ve
+dropped the anchor and he’s standing on the bow in front of me. There’s a southwest breeze. He’s got
+his back to the wind and he’s letting them go into the wind and water.”
+“Invite him to name the burdens as he releases them. Like his loneliness…” I trailed off as Marty
+picked up on this and continued.
+“The overwhelmed, feeling like a baby, the pain and sadness, shame—lots of shame.”
+“Make sure he gets it all. Encourage him to check his body for more,” I said.
+“He’s letting the fear of being left alone go now and the feeling that it was his fault, the weight of it
+all on his chest and shoulders! ”
+“Anything else?” I asked.
+“The metallic taste in his mouth when they told him that his dad had passed and the emptiness in his
+gut.”
+“Invite him to notice how it feels as the wind and water take it all away,” I said, watching
+expressions of relief cross Marty’s face. “Anything more?” Marty shook his head.
+“He’s standing on the bow still. He’s taking in the light on the water. It’s like he’s been carrying
+around a boulder that just got lifted off his chest. He can stand up straight. He feels freer than he ever
+has. And, I feel like can breathe easier now that he’s doing better.”
+I
+In our next session, Marty said, “I feel less clogged up in my chest and not so tense anymore.” Over
+the next few sessions Marty connected with the parts who had either been protecting the adolescent boy
+from further injury, or protecting the rest of Marty’s internal system from his emotional pain. Their roles
+were designed to keep his grief, fear and shame exiled. These protectors needed to know that this sad
+adolescent was no longer stuck in the past. Knowing that he had released the burdens that he had been
+carrying all the years since his father’s death, and that he had Marty to guide him going forward would
+help to free them from their rigid protective roles. These protectors could potentially become more
+flexible and less extreme in their mode of operating now. They needed to develop a trusting relationship
+with Marty, as well and to know that his Self was there for them, too.
+Marty invited one of these, the 14-year-old protector who had felt driven to fill his father’s shoes, to
+see how the sad boy was doing now.
+“Ah!” Marty chuckled. “He says he never thought he’d see the day.”
+“What day?” I asked.
+Internal Family Systems Therapy: New Dimensions, edited by Martha Sweezy, and Ellen L. Ziskind, Taylor & Francis Group, 2013. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/buffalo/detail.action?docID=1157760.
+
+
+
+=== PAGE 12 ===
+
+“The day someone would find that boy and help him,” Marty said, more serious now.
+“How does that affect him?” I asked.
+“Well, now that you mention it, he’s wondering what he should be doing.”
+“So he doesn’t feel he has to go on keeping all of your emotional and physical needs at bay?” Marty
+nodded. “Well, what would he like to do?”
+“He’d like a vacation.”
+“OK with you?”
+“Yeah! He deserves one.”
+Once this protector’s rejection of help from others softened, Marty’s symptoms were affected in a
+number of ways. Perhaps most important, he felt less depressed and more hopeful. “I used to say, ‘Life
+stinks and then you die.’ And part of me really felt that way. It used to say to me, ‘What’s the point?
+Take me out now and save me the trouble, why don’t ya?’ It doesn’t talk like that anymore. I want to
+stick around and have a good life.”
+To have that good life, Marty began to notice and take care of his own needs. He tuned into fatigue;
+rested when he got tired; worked less and accepted the help, support and love from his wife, family and
+friends that he would previously have rejected. His wife noticed that he was less angry and was sharing
+more with her and the rest of the family. He had started talking about the future again and was
+discussing the business with her, one of his sons-in-law, and his daughter-in-law, Karen, Gary’s widow.
+Marty had begun to involve Karen in the administrative aspects of the construction business, which Gary
+had been covering before he died. Marty said he was “testing the waters” with his son-in-law and
+considering offering him a significant role in the company. One evening after a session, Marty’s wife
+confided in me that he seemed much more relaxed—playing with the grandchildren and enjoying the
+family. She reported feeling closer to him than she had in a long time.
+Soon after this Marty was ready to quit smoking and did so quickly. Unburdening an exile like his
+grief-stricken boy is usually essential to changing a habit like smoking. In Marty’s case, the unburdening
+released his polarized protectors, the stoic manager who tried to fill his father’s shoes by working
+endless hours and the angry, resentful firefighter who wanted less work. Then the part who believed
+Marty could only truly be free when he died began to see other possibilities. As the promise of living a
+life beyond work, self-sacrifice and loss seemed possible, attending to self-care and quitting smoking
+made more sense to Marty’s system.
+Marty developed a different take on the emotional life of his parts, too, which he explained like this,
+“Once I knew that boy and realized it was a part of me that I
+cared
+about, something changed. Don’t get
+me wrong, I’m never gonna be Rod McKuen. I just don’t have to smoke or work myself to death, or get
+mad so that I won’t have to admit I’m tired or having trouble keeping up at work. I’m not running
+around anymore, knocking myself out doing everything for everybody, trying to keep things under
+control inside and out.”
+This instinct to “keep things under control” is characteristic of patients whose parts are desperately
+trying to manage historically based feelings of responsibility, abandonment, grief and fear. These are
+patients for whom IFS therapy holds much promise—of healing their destructive (but well-intentioned)
+Internal Family Systems Therapy: New Dimensions, edited by Martha Sweezy, and Ellen L. Ziskind, Taylor & Francis Group, 2013. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/buffalo/detail.action?docID=1157760.
+
+
+
+=== PAGE 13 ===
+
+habits and often their physical ailments. IFS is not about dominating or getting rid of our parts, but rather
+accepting them while becoming Self-led. We would no more condemn that vulnerable and desperate
+teenage Marty than we should the adult behaviors resulting from that young part’s wounds.
+Even when a disease or injury cannot be cured, it’s still possible through therapy work with parts to
+develop a healing relationship between the Self, the body, the internal family and the external world. A
+desire to heal rather than control or manage symptoms motivated me to use IFS with my own illness.
+And because stress, adverse childhood experience, personality traits, negative beliefs and thoughts, lack
+of exercise, poor nutrition and smoking have all been linked to physical illness, it made sense to me that
+IFS could be effective in conjunction with medical treatment.
+IFS is concerned with knowing and befriending all of who we are. The enormous energy used by
+protective parts to keep physical and emotional suffering from awareness can be liberated, and the
+psychic roller coaster attendant to pain and disease can slow down. When it does, we are more able to
+experience the present moment. Inner conflicts, such as stoicism repressing fear and sadness, can be
+resolved. As internal conflict softens and vulnerability is transformed, self-care naturally improves. In
+meeting the challenge of acknowledging and welcoming all of ourselves, we realize that we have the
+power to soothe and heal our own bodies and hearts and enter more fully into life.
+REFERENCES
+Archie, E. A., Altmann, J., & Alberts, S. C. (2012). Social status predicts wound healing in wild
+baboons.
+Proceedings of the National Academy of Science
+, 109, 9017–9022. doi: 10.1073/pnas.
+1206391109
+Deimling, G. T., Wagner, L. J., Wagner, L. J., Bowman, K. F., Sterns, S., Kercher, K., & Kahana,
+B. (2006). Coping among older adult, long-term cancer survivors.
+Psycho-Oncology
+, 15 (2),
+143–159. doi: 10.1002/pon.931
+Eaker, E. D., Sullivan, L. M., Kelly-Hayes, M., D’Agostino, R. B., & Benjamin, E. J. (2004).
+Anger and hostility predict the development of atrial fibrillation in men in the Framingham
+Offspring Study.
+Circulation
+, 109, 1267–1271.
+Everson, S. A., Goldberg, D. E., Kaplan, G. A., Cohen, R. D., Pukkala, E., Tuomilehto, J., &
+Salonen, J. (1996). Hopelessness and risk of mortality and incidence of myocardial infarction
+and cancer.
+Psychosomatic Medicine
+, 58, 113–121.
+Feeney, J. A. (2000). Implications of attachment style for patterns of health and illness. Child:
+Care, Health, and Development
+, 26, 277–288.
+Felitti, V. J., Anda, R. F., Nordenberg, D., Williamson, D. F., Spitz, A., Edwards, V., Koss, M. P.,
+& Marks, J. S. (1998). Relationship of childhood abuse and household dysfunction to many of
+the leading causes of death in adults: The Adverse Childhood Experiences Study. American
+Journal of Preventative Medicine
+, 14, 245–258.
+Internal Family Systems Therapy: New Dimensions, edited by Martha Sweezy, and Ellen L. Ziskind, Taylor & Francis Group, 2013. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/buffalo/detail.action?docID=1157760.
+
+
+
+=== PAGE 14 ===
+
+Haukkala, A., Konttinen, H., Laatikainen, T., Kawachi, I., & Uutela, A. (2010). Hostility, anger
+control, and anger expression as predictors of cardiovascular disease. Psychosomatic Medicine
+, 72, 556–562.
+Kiecolt-Glaser, J. K., Loving, T. J., Stowell, J. R., Malarkey, W. B., Lemeshow, S., Dickenson, S.
+L., & Glaser, R. (2005). Hostile marital interactions, proinflammatory cytokine production,
+and wound healing.
+Archives of General Psychiatry
+, 62, 1377–1384.
+Kotler, T., Buzwell, S., Romeo, Y., & Bowland, J. (2011). Avoidant attachment as a risk factor for
+health.
+British Journal of Medical Psychology
+, 67, 237–245. doi: 10.1111/j.2044–8341.1994.
+tb01793.x
+McWilliams, L. A., & Bailey, S. J. (2010). Associations between adult attachment ratings and
+health conditions: Evidence from the National Comorbidity Survey replication. Health
+Psychology
+, 29, 446–453. doi: 10.1037/a0020061
+Moos, R. H., & Holahan, C. J. (2003). Dispositional and contextual perspectives on coping:
+Toward and integrative framework.
+Journal of Clinical Psychology
+, 59, 1387–1403. doi:
+10.1002/jcip.10229
+Romans, S., Belaise, C., Martin, J., Morris, E., & Raffi, A. (2002). Childhood abuse and later
+medical disorders in women.
+Psychotherapy and Psychosomatics
+, 71, 141–150. doi: 10.1159
+/000056281
+Sapolsky, R. M. (2005). The influence of social hierarchy on primate health.
+Science
+, 8 (5722),
+648–652. doi: 10.1126/science.1106477
+Shadick, N. A., Sowell, N. F., & Schwartz, R. C. (2010, April). The living well with rheumatoid
+arthritis program: A randomized controlled trial of a psychotherapeutic intervention to reduce
+rheumatoid arthritis disease activity
+. Paper and poster abstract presented at the 31st annual
+meeting of the Society of Behavioral Medicine, Seattle, WA.
+Internal Family Systems Therapy: New Dimensions, edited by Martha Sweezy, and Ellen L. Ziskind, Taylor & Francis Group, 2013. ProQuest Ebook Central,
+http://ebookcentral.proquest.com/lib/buffalo/detail.action?docID=1157760.
