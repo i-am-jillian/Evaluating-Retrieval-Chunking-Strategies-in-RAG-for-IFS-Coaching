@@ -5,7 +5,7 @@ import json
 import re
 from dataclasses import dataclass, asdict
 from pathlib import Path
-from typing import List, Dict, Any
+from typing import List, Dict, Any, Optional
 
 
 # Example:
@@ -22,19 +22,9 @@ from typing import List, Dict, Any
 # Tuning parameters
 # -----------------------------
 
-# If a block is larger than this after blank-line splitting,
-# try to recover paragraph-like units with a second-pass splitter.
 MAX_BLOCK_WORDS_BEFORE_REBREAK = 300
-
-# Target segment size for rebreaking oversized prose blocks.
 TARGET_REBREAK_WORDS = 140
-
-# If a split produces tiny fragments, merge them back.
 MIN_REBREAK_WORDS = 80
-
-# Header attachment rule:
-# only attach a likely header to the next block if the next block
-# looks substantial enough to be real paragraph text.
 MIN_SUBSTANTIAL_PARAGRAPH_WORDS = 20
 
 
@@ -58,12 +48,12 @@ def natural_key(path: Path):
 # -----------------------------
 
 TITLE_MAP = {
-    "ifs_couple_therapy": "IFS Couple Therapy",
-    "ifs_new_dimensions": "IFS New Dimensions",
-    "ifs_skills_training": "IFS Skills Training Manual",
-    "ifs_therapy": "IFS Therapy",
-    "ifs_therapy_for_addiction": "IFS Therapy for Addictions",
-    "transcending_trauma": "Transcending Trauma"
+    "ifs_couple_therapy": "Internal Family Systems Couple Therapy",
+    "ifs_new_dimensions": "Internal Family Systems Therapy: New Dimensions",
+    "ifs_skills_training": "Internal Family Systems Skills Training Manual",
+    "ifs_therapy": "Internal Family Systems Therapy",
+    "ifs_therapy_for_addiction": "Internal Family Systems Therapy for Addictions",
+    "transcending_trauma": "Transcending Trauma",
 }
 
 
@@ -116,11 +106,10 @@ def normalize_block(block: str) -> str:
 
     block = "\n".join(lines)
 
-    # Remove obvious page/file artifacts
-    block = re.sub(r"^\|\s*\d+\s+", "", block)   # leading pipe + page number
-    block = re.sub(r"^\d+\s*\n", "", block)      # standalone page number line
-    block = re.sub(r"^_+\s*$", "", block)        # underscore divider line
-    block = re.sub(r"[ \t]{2,}", " ", block)     # repeated spaces
+    block = re.sub(r"^\|\s*\d+\s+", "", block)
+    block = re.sub(r"^\d+\s*\n", "", block)
+    block = re.sub(r"^_+\s*$", "", block)
+    block = re.sub(r"[ \t]{2,}", " ", block)
 
     return block.strip()
 
@@ -206,39 +195,45 @@ def is_probable_noise_header(block: str) -> bool:
     return short_caps_tokens >= 2 and uppercase_ratio(text) > 0.5
 
 
+def infer_paragraph_type(text: str, has_attached_header: bool, header_text: Optional[str]) -> str:
+    stripped = text.strip()
+
+    if not stripped:
+        return "empty"
+
+    if has_attached_header and header_text and word_count(header_text) <= 12:
+        return "headed_body"
+
+    if re.fullmatch(r"[\-\*\u2022].+", stripped):
+        return "list_item"
+
+    if re.match(r"^\d+\.", stripped):
+        return "numbered_item"
+
+    if stripped.count("?") >= 2 and word_count(stripped) < 120:
+        return "exercise_or_prompt"
+
+    return "body"
+
+
 # -----------------------------
 # Oversized block re-splitting
 # -----------------------------
 
 def split_oversized_block(block: str) -> List[str]:
-    """
-    Second-pass splitter for blocks that are too large because paragraph
-    boundaries were lost during extraction/cleaning.
-
-    Strategy:
-    1. Flatten internal whitespace to make sentence splitting more reliable.
-    2. Insert soft breaks before numbered list items.
-    3. Insert soft breaks before likely inline heading-like phrases.
-    4. Split into sentence-based segments only after the segment is already long.
-    5. Merge tiny fragments back into neighbors.
-    """
     text = re.sub(r"\s+", " ", block).strip()
 
     if word_count(text) <= MAX_BLOCK_WORDS_BEFORE_REBREAK:
         return [text]
 
-    # Break before numbered list items, e.g. "1. " "2. "
     text = re.sub(r"\s+(\d+\.\s+)", r"\n\n\1", text)
 
-    # Break before likely inline headings that appear after sentence endings.
-    # This is intentionally conservative.
     text = re.sub(
         r'(?<=[\.\?\!])\s+((?:[A-Z][a-z]+(?:\s+[A-Z][a-z]+){0,5}|[A-Z]{2,}(?:\s+[A-Z]{2,}){0,5}))\s+',
         lambda m: f"\n\n{m.group(1)} ",
         text
     )
 
-    # First split on inserted blank lines if any
     coarse_parts = [p.strip() for p in re.split(r"\n\s*\n", text) if p.strip()]
     final_segments: List[str] = []
 
@@ -247,7 +242,6 @@ def split_oversized_block(block: str) -> List[str]:
             final_segments.append(part)
             continue
 
-        # Still too large: split by sentence boundaries, but only once a segment gets long
         sentences = re.split(r'(?<=[\.\?\!])\s+', part)
         current: List[str] = []
 
@@ -266,7 +260,6 @@ def split_oversized_block(block: str) -> List[str]:
         if current:
             final_segments.append(" ".join(current).strip())
 
-    # Merge tiny fragments back into previous segment
     merged: List[str] = []
     for seg in final_segments:
         seg = seg.strip()
@@ -292,6 +285,76 @@ def expand_blocks(blocks: List[str]) -> List[str]:
 
 
 # -----------------------------
+# Structure inference
+# -----------------------------
+
+def clean_label_from_token(token: str) -> str:
+    token = token.replace("-", " ").replace("_", " ").strip()
+    token = re.sub(r"\s+", " ", token)
+    return token.title()
+
+
+def infer_structure_from_filename(file_name: str, doc_id: str) -> Dict[str, Any]:
+    stem = file_name.replace(".words.txt", "")
+
+    remainder = stem
+    if remainder.startswith(doc_id + "_"):
+        remainder = remainder[len(doc_id) + 1:]
+    elif remainder == doc_id:
+        remainder = ""
+
+    parts = remainder.split("_") if remainder else []
+
+    intro_like = {"intro", "introduction", "preface", "foreword", "prologue", "epilogue"}
+    chapter_token = None
+    section_token = None
+    part_token = None
+    label_tokens: List[str] = []
+
+    for token in parts:
+        if re.fullmatch(r"ch\d+[a-zA-Z]*", token):
+            chapter_token = token
+        elif re.fullmatch(r"sec\d+[a-zA-Z]*", token):
+            section_token = token
+        elif re.fullmatch(r"pt\d+[a-zA-Z]*", token):
+            part_token = token
+        else:
+            label_tokens.append(token)
+
+    section_path: List[str] = []
+
+    if parts and parts[0].lower() in intro_like:
+        section_path = [clean_label_from_token(parts[0])]
+        if len(parts) > 1:
+            section_path.extend(clean_label_from_token(t) for t in parts[1:])
+    else:
+        if chapter_token:
+            section_path.append(chapter_token.upper())
+        if section_token:
+            section_path.append(section_token.upper())
+        if part_token:
+            section_path.append(part_token.upper())
+        if label_tokens:
+            section_path.append(clean_label_from_token(" ".join(label_tokens)))
+
+    if not section_path:
+        section_path = [stem]
+
+    section_path_str = " > ".join(section_path)
+    node_id = f"{doc_id}::{stem}::node"
+
+    return {
+        "node_id": node_id,
+        "node_type": "section",
+        "chapter_label": chapter_token.upper() if chapter_token else None,
+        "section_label": section_token.upper() if section_token else None,
+        "part_label": part_token.upper() if part_token else None,
+        "section_path": section_path,
+        "section_path_str": section_path_str,
+    }
+
+
+# -----------------------------
 # Data model
 # -----------------------------
 
@@ -300,12 +363,29 @@ class ParagraphRecord:
     paragraph_id: int
     source_file: str
     source_file_index: int
+
+    node_id: str
+    node_type: str
+    section_path: List[str]
+    section_path_str: str
+    chapter_label: Optional[str]
+    section_label: Optional[str]
+    part_label: Optional[str]
+
     source_block_start: int
     source_block_end: int
+
     has_attached_header: bool
-    header_text: str | None
+    header_text: Optional[str]
     header_is_noisy: bool
+
+    paragraph_type: str
+
     word_count: int
+    char_count: int
+    char_start_in_doc: int
+    char_end_in_doc: int
+
     text: str
 
 
@@ -313,13 +393,19 @@ class ParagraphRecord:
 # Core logic for one file
 # -----------------------------
 
-def build_paragraphs_for_file(file_path: Path, file_index: int) -> List[ParagraphRecord]:
+def build_paragraphs_for_file(
+    file_path: Path,
+    file_index: int,
+    doc_id: str,
+) -> List[ParagraphRecord]:
     text = file_path.read_text(encoding="utf-8", errors="replace")
     text = normalize_unicode(text)
     text = normalize_whitespace(text)
 
     blocks = split_into_blocks(text)
     blocks = expand_blocks(blocks)
+
+    file_structure = infer_structure_from_filename(file_path.name, doc_id)
 
     paragraphs: List[ParagraphRecord] = []
     local_paragraph_id = 0
@@ -342,12 +428,29 @@ def build_paragraphs_for_file(file_path: Path, file_index: int) -> List[Paragrap
                     paragraph_id=local_paragraph_id,
                     source_file=file_path.name,
                     source_file_index=file_index,
+
+                    node_id=file_structure["node_id"],
+                    node_type=file_structure["node_type"],
+                    section_path=file_structure["section_path"],
+                    section_path_str=file_structure["section_path_str"],
+                    chapter_label=file_structure["chapter_label"],
+                    section_label=file_structure["section_label"],
+                    part_label=file_structure["part_label"],
+
                     source_block_start=i,
                     source_block_end=i + 1,
+
                     has_attached_header=True,
                     header_text=header,
                     header_is_noisy=is_probable_noise_header(header),
+
+                    paragraph_type=infer_paragraph_type(combined, True, header),
+
                     word_count=word_count(combined),
+                    char_count=len(combined),
+                    char_start_in_doc=0,
+                    char_end_in_doc=0,
+
                     text=combined,
                 )
             )
@@ -359,12 +462,29 @@ def build_paragraphs_for_file(file_path: Path, file_index: int) -> List[Paragrap
                     paragraph_id=local_paragraph_id,
                     source_file=file_path.name,
                     source_file_index=file_index,
+
+                    node_id=file_structure["node_id"],
+                    node_type=file_structure["node_type"],
+                    section_path=file_structure["section_path"],
+                    section_path_str=file_structure["section_path_str"],
+                    chapter_label=file_structure["chapter_label"],
+                    section_label=file_structure["section_label"],
+                    part_label=file_structure["part_label"],
+
                     source_block_start=i,
                     source_block_end=i,
+
                     has_attached_header=False,
                     header_text=None,
                     header_is_noisy=False,
+
+                    paragraph_type=infer_paragraph_type(current, False, None),
+
                     word_count=word_count(current),
+                    char_count=len(current),
+                    char_start_in_doc=0,
+                    char_end_in_doc=0,
+
                     text=current,
                 )
             )
@@ -384,22 +504,62 @@ def structure_book(book_dir: Path) -> Dict[str, Any]:
     if not files:
         raise FileNotFoundError(f"No .words.txt files found in {book_dir}")
 
+    doc_id = infer_doc_id(book_dir)
+    doc_title = infer_doc_title(book_dir)
+
     all_paragraphs: List[ParagraphRecord] = []
+    nodes: List[Dict[str, Any]] = []
+    node_map: Dict[str, Dict[str, Any]] = {}
 
     for file_index, file_path in enumerate(files):
-        file_paragraphs = build_paragraphs_for_file(file_path, file_index)
+        file_structure = infer_structure_from_filename(file_path.name, doc_id)
+        node_id = file_structure["node_id"]
+
+        if node_id not in node_map:
+            node = {
+                "node_id": node_id,
+                "node_type": file_structure["node_type"],
+                "source_file": file_path.name,
+                "source_file_index": file_index,
+                "chapter_label": file_structure["chapter_label"],
+                "section_label": file_structure["section_label"],
+                "part_label": file_structure["part_label"],
+                "section_path": file_structure["section_path"],
+                "section_path_str": file_structure["section_path_str"],
+                "paragraph_ids": [],
+                "char_start_in_doc": None,
+                "char_end_in_doc": None,
+            }
+            node_map[node_id] = node
+            nodes.append(node)
+
+        file_paragraphs = build_paragraphs_for_file(file_path, file_index, doc_id)
         all_paragraphs.extend(file_paragraphs)
 
-    # Renumber globally across the whole book
+    global_char_cursor = 0
+
     for global_idx, para in enumerate(all_paragraphs):
         para.paragraph_id = global_idx
+        para.char_start_in_doc = global_char_cursor
+        para.char_end_in_doc = global_char_cursor + len(para.text)
+
+        node = node_map[para.node_id]
+        node["paragraph_ids"].append(global_idx)
+
+        if node["char_start_in_doc"] is None:
+            node["char_start_in_doc"] = para.char_start_in_doc
+        node["char_end_in_doc"] = para.char_end_in_doc
+
+        global_char_cursor = para.char_end_in_doc + 2
 
     doc = {
-        "doc_id": infer_doc_id(book_dir),
-        "doc_title": infer_doc_title(book_dir),
+        "doc_id": doc_id,
+        "doc_title": doc_title,
         "source_dir": str(book_dir),
         "source_files": [p.name for p in files],
         "paragraph_count": len(all_paragraphs),
+        "node_count": len(nodes),
+        "nodes": nodes,
         "paragraphs": [asdict(p) for p in all_paragraphs],
     }
     return doc
@@ -423,6 +583,7 @@ def print_quality_report(doc: Dict[str, Any]) -> None:
     over_800 = sum(c > 800 for c in counts)
 
     print(f"  Paragraphs: {len(counts)}")
+    print(f"  Nodes: {doc.get('node_count', 0)}")
     print(f"  Max word count: {max(counts)}")
     print(f"  >300 words: {over_300}")
     print(f"  >500 words: {over_500}")
@@ -435,9 +596,6 @@ def print_quality_report(doc: Dict[str, Any]) -> None:
 # -----------------------------
 
 def find_book_dirs(input_root: Path) -> List[Path]:
-    """
-    Treat each immediate subdirectory of input_root as one book folder.
-    """
     return sorted([p for p in input_root.iterdir() if p.is_dir()])
 
 

@@ -1,0 +1,262 @@
+{
+  "corpus_name": "ifs_corpus",
+  "version": "v1",
+  "input_root": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/structured",
+  "output_root": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked",
+  "configs": {
+    "small_fixed": {
+      "setting_name": "small_fixed",
+      "chunking_strategy": "fixed_window_no_overlap",
+      "target_tokens": 350,
+      "overlap_tokens": 0,
+      "min_tokens": 120,
+      "max_tokens": 450
+    },
+    "medium_overlap": {
+      "setting_name": "medium_overlap",
+      "chunking_strategy": "fixed_window_with_overlap",
+      "target_tokens": 900,
+      "overlap_tokens": 180,
+      "min_tokens": 300,
+      "max_tokens": 1100
+    },
+    "hierarchical": {
+      "setting_name": "hierarchical",
+      "parent_strategy": "node_as_parent",
+      "child_strategy": "fixed_window_within_node",
+      "parent_target_tokens": 1200,
+      "child_target_tokens": 300,
+      "child_overlap_tokens": 0,
+      "child_min_tokens": 120,
+      "child_max_tokens": 420
+    },
+    "oversized_paragraph_split_threshold_tokens": 420,
+    "oversized_segment_target_tokens": 180,
+    "oversized_segment_min_tokens": 80,
+    "token_multiplier": 1.3
+  },
+  "documents": [
+    {
+      "doc_id": "ifs_couple_therapy",
+      "doc_title": "Internal Family Systems Couple Therapy",
+      "structured_input": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/structured/ifs_couple_therapy.json",
+      "unit_count": 262,
+      "small_fixed": {
+        "count": 176,
+        "avg_tokens": 294.88,
+        "min_tokens": 121,
+        "max_tokens": 516
+      },
+      "medium_overlap": {
+        "count": 91,
+        "avg_tokens": 790.47,
+        "min_tokens": 498,
+        "max_tokens": 897
+      },
+      "hierarchical_parents": {
+        "count": 9,
+        "avg_tokens": 5766.78,
+        "min_tokens": 659,
+        "max_tokens": 13199
+      },
+      "hierarchical_children": {
+        "count": 231,
+        "avg_tokens": 224.67,
+        "min_tokens": 48,
+        "max_tokens": 417
+      },
+      "outputs": {
+        "small_fixed": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/small_fixed/ifs_couple_therapy_chunks.jsonl",
+        "medium_overlap": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/medium_overlap/ifs_couple_therapy_chunks.jsonl",
+        "hierarchical_parents": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/hierarchical/parents/ifs_couple_therapy_parents.jsonl",
+        "hierarchical_children": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/hierarchical/children/ifs_couple_therapy_children.jsonl"
+      }
+    },
+    {
+      "doc_id": "ifs_new_dimensions",
+      "doc_title": "Internal Family Systems Therapy: New Dimensions",
+      "structured_input": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/structured/ifs_new_dimensions.json",
+      "unit_count": 517,
+      "small_fixed": {
+        "count": 303,
+        "avg_tokens": 296.64,
+        "min_tokens": 146,
+        "max_tokens": 508
+      },
+      "medium_overlap": {
+        "count": 145,
+        "avg_tokens": 800.95,
+        "min_tokens": 541,
+        "max_tokens": 901
+      },
+      "hierarchical_parents": {
+        "count": 9,
+        "avg_tokens": 9987.56,
+        "min_tokens": 5570,
+        "max_tokens": 14288
+      },
+      "hierarchical_children": {
+        "count": 444,
+        "avg_tokens": 202.46,
+        "min_tokens": 92,
+        "max_tokens": 491
+      },
+      "outputs": {
+        "small_fixed": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/small_fixed/ifs_new_dimensions_chunks.jsonl",
+        "medium_overlap": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/medium_overlap/ifs_new_dimensions_chunks.jsonl",
+        "hierarchical_parents": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/hierarchical/parents/ifs_new_dimensions_parents.jsonl",
+        "hierarchical_children": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/hierarchical/children/ifs_new_dimensions_children.jsonl"
+      }
+    },
+    {
+      "doc_id": "ifs_skills_training",
+      "doc_title": "Internal Family Systems Skills Training Manual",
+      "structured_input": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/structured/ifs_skills_training.json",
+      "unit_count": 207,
+      "small_fixed": {
+        "count": 145,
+        "avg_tokens": 291.49,
+        "min_tokens": 120,
+        "max_tokens": 458
+      },
+      "medium_overlap": {
+        "count": 75,
+        "avg_tokens": 775.52,
+        "min_tokens": 498,
+        "max_tokens": 897
+      },
+      "hierarchical_parents": {
+        "count": 3,
+        "avg_tokens": 14087.67,
+        "min_tokens": 6230,
+        "max_tokens": 29556
+      },
+      "hierarchical_children": {
+        "count": 177,
+        "avg_tokens": 238.75,
+        "min_tokens": 88,
+        "max_tokens": 495
+      },
+      "outputs": {
+        "small_fixed": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/small_fixed/ifs_skills_training_chunks.jsonl",
+        "medium_overlap": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/medium_overlap/ifs_skills_training_chunks.jsonl",
+        "hierarchical_parents": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/hierarchical/parents/ifs_skills_training_parents.jsonl",
+        "hierarchical_children": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/hierarchical/children/ifs_skills_training_children.jsonl"
+      }
+    },
+    {
+      "doc_id": "ifs_therapy",
+      "doc_title": "Internal Family Systems Therapy",
+      "structured_input": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/structured/ifs_therapy.json",
+      "unit_count": 465,
+      "small_fixed": {
+        "count": 126,
+        "avg_tokens": 276.37,
+        "min_tokens": 129,
+        "max_tokens": 420
+      },
+      "medium_overlap": {
+        "count": 53,
+        "avg_tokens": 811.72,
+        "min_tokens": 516,
+        "max_tokens": 900
+      },
+      "hierarchical_parents": {
+        "count": 4,
+        "avg_tokens": 8705.0,
+        "min_tokens": 4072,
+        "max_tokens": 13191
+      },
+      "hierarchical_children": {
+        "count": 163,
+        "avg_tokens": 213.63,
+        "min_tokens": 43,
+        "max_tokens": 420
+      },
+      "outputs": {
+        "small_fixed": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/small_fixed/ifs_therapy_chunks.jsonl",
+        "medium_overlap": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/medium_overlap/ifs_therapy_chunks.jsonl",
+        "hierarchical_parents": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/hierarchical/parents/ifs_therapy_parents.jsonl",
+        "hierarchical_children": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/hierarchical/children/ifs_therapy_children.jsonl"
+      }
+    },
+    {
+      "doc_id": "ifs_therapy_for_addiction",
+      "doc_title": "Internal Family Systems Therapy for Addictions",
+      "structured_input": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/structured/ifs_therapy_for_addiction.json",
+      "unit_count": 403,
+      "small_fixed": {
+        "count": 234,
+        "avg_tokens": 289.21,
+        "min_tokens": 91,
+        "max_tokens": 407
+      },
+      "medium_overlap": {
+        "count": 107,
+        "avg_tokens": 808.37,
+        "min_tokens": 552,
+        "max_tokens": 898
+      },
+      "hierarchical_parents": {
+        "count": 17,
+        "avg_tokens": 3980.94,
+        "min_tokens": 848,
+        "max_tokens": 10744
+      },
+      "hierarchical_children": {
+        "count": 348,
+        "avg_tokens": 194.46,
+        "min_tokens": 126,
+        "max_tokens": 407
+      },
+      "outputs": {
+        "small_fixed": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/small_fixed/ifs_therapy_for_addiction_chunks.jsonl",
+        "medium_overlap": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/medium_overlap/ifs_therapy_for_addiction_chunks.jsonl",
+        "hierarchical_parents": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/hierarchical/parents/ifs_therapy_for_addiction_parents.jsonl",
+        "hierarchical_children": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/hierarchical/children/ifs_therapy_for_addiction_children.jsonl"
+      }
+    },
+    {
+      "doc_id": "transcending_trauma",
+      "doc_title": "Transcending Trauma",
+      "structured_input": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/structured/transcending_trauma.json",
+      "unit_count": 426,
+      "small_fixed": {
+        "count": 262,
+        "avg_tokens": 288.76,
+        "min_tokens": 121,
+        "max_tokens": 411
+      },
+      "medium_overlap": {
+        "count": 124,
+        "avg_tokens": 791.11,
+        "min_tokens": 441,
+        "max_tokens": 900
+      },
+      "hierarchical_parents": {
+        "count": 7,
+        "avg_tokens": 10807.57,
+        "min_tokens": 1157,
+        "max_tokens": 19915
+      },
+      "hierarchical_children": {
+        "count": 362,
+        "avg_tokens": 208.99,
+        "min_tokens": 56,
+        "max_tokens": 411
+      },
+      "outputs": {
+        "small_fixed": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/small_fixed/transcending_trauma_chunks.jsonl",
+        "medium_overlap": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/medium_overlap/transcending_trauma_chunks.jsonl",
+        "hierarchical_parents": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/hierarchical/parents/transcending_trauma_parents.jsonl",
+        "hierarchical_children": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/hierarchical/children/transcending_trauma_children.jsonl"
+      }
+    }
+  ],
+  "totals": {
+    "small_fixed_total_chunks": 1246,
+    "medium_overlap_total_chunks": 595,
+    "hierarchical_parent_total": 49,
+    "hierarchical_child_total": 1725
+  }
+}
