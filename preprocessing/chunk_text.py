@@ -686,8 +686,8 @@ def process_structured_doc(path: Path, book_order: int, output_root: Path) -> Di
     validate_chunk_ids(hier_children, f"{source_doc_id} hier_children")
     validate_parent_child_links(hier_parents, hier_children)
 
-    small_path = output_root / "small_fixed" / f"{source_doc_id}_chunks.jsonl"
-    medium_path = output_root / "medium_overlap" / f"{source_doc_id}_chunks.jsonl"
+    small_path = output_root / "small_fixed" / f"{source_doc_id}_chunks_small_fixed.jsonl"
+    medium_path = output_root / "medium_overlap" / f"{source_doc_id}_chunks_medium_overlap.jsonl"
     parent_path = output_root / "hierarchical" / "parents" / f"{source_doc_id}_parents.jsonl"
     child_path = output_root / "hierarchical" / "children" / f"{source_doc_id}_children.jsonl"
 

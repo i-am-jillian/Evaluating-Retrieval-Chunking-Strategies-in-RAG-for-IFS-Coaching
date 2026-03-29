@@ -1,0 +1,210 @@
+{
+  "corpus_name": "ifs_corpus",
+  "version": "v1",
+  "created_at_utc": "2026-03-27T13:17:22.483944+00:00",
+  "source_chunk_manifest": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/manifests/chunk_manifest.json",
+  "embedding_output_root": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/test_embeddings",
+  "embedding_model_name": "BAAI/bge-large-en-v1.5",
+  "normalize_embeddings": true,
+  "batch_size": 8,
+  "partitions": {
+    "small_fixed": {
+      "partition": "small_fixed",
+      "record_count": 1246,
+      "embedding_dim": 1024,
+      "metadata_path": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/test_embeddings/small_fixed/metadata.jsonl",
+      "embeddings_path": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/test_embeddings/small_fixed/embeddings.npy",
+      "source_file_count": 6,
+      "source_files": [
+        "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/small_fixed/ifs_couple_therapy_chunks_small_fixed.jsonl",
+        "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/small_fixed/ifs_new_dimensions_chunks_small_fixed.jsonl",
+        "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/small_fixed/ifs_skills_training_chunks_small_fixed.jsonl",
+        "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/small_fixed/ifs_therapy_chunks_small_fixed.jsonl",
+        "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/small_fixed/ifs_therapy_for_addiction_chunks_small_fixed.jsonl",
+        "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/small_fixed/transcending_trauma_chunks_small_fixed.jsonl"
+      ],
+      "per_doc_counts": [
+        {
+          "source_doc_id": "ifs_couple_therapy",
+          "source_jsonl": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/small_fixed/ifs_couple_therapy_chunks_small_fixed.jsonl",
+          "count": 176
+        },
+        {
+          "source_doc_id": "ifs_new_dimensions",
+          "source_jsonl": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/small_fixed/ifs_new_dimensions_chunks_small_fixed.jsonl",
+          "count": 303
+        },
+        {
+          "source_doc_id": "ifs_skills_training",
+          "source_jsonl": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/small_fixed/ifs_skills_training_chunks_small_fixed.jsonl",
+          "count": 145
+        },
+        {
+          "source_doc_id": "ifs_therapy",
+          "source_jsonl": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/small_fixed/ifs_therapy_chunks_small_fixed.jsonl",
+          "count": 126
+        },
+        {
+          "source_doc_id": "ifs_therapy_for_addiction",
+          "source_jsonl": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/small_fixed/ifs_therapy_for_addiction_chunks_small_fixed.jsonl",
+          "count": 234
+        },
+        {
+          "source_doc_id": "transcending_trauma",
+          "source_jsonl": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/small_fixed/transcending_trauma_chunks_small_fixed.jsonl",
+          "count": 262
+        }
+      ]
+    },
+    "medium_overlap": {
+      "partition": "medium_overlap",
+      "record_count": 595,
+      "embedding_dim": 1024,
+      "metadata_path": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/test_embeddings/medium_overlap/metadata.jsonl",
+      "embeddings_path": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/test_embeddings/medium_overlap/embeddings.npy",
+      "source_file_count": 6,
+      "source_files": [
+        "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/medium_overlap/ifs_couple_therapy_chunks_medium_overlap.jsonl",
+        "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/medium_overlap/ifs_new_dimensions_chunks_medium_overlap.jsonl",
+        "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/medium_overlap/ifs_skills_training_chunks_medium_overlap.jsonl",
+        "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/medium_overlap/ifs_therapy_chunks_medium_overlap.jsonl",
+        "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/medium_overlap/ifs_therapy_for_addiction_chunks_medium_overlap.jsonl",
+        "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/medium_overlap/transcending_trauma_chunks_medium_overlap.jsonl"
+      ],
+      "per_doc_counts": [
+        {
+          "source_doc_id": "ifs_couple_therapy",
+          "source_jsonl": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/medium_overlap/ifs_couple_therapy_chunks_medium_overlap.jsonl",
+          "count": 91
+        },
+        {
+          "source_doc_id": "ifs_new_dimensions",
+          "source_jsonl": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/medium_overlap/ifs_new_dimensions_chunks_medium_overlap.jsonl",
+          "count": 145
+        },
+        {
+          "source_doc_id": "ifs_skills_training",
+          "source_jsonl": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/medium_overlap/ifs_skills_training_chunks_medium_overlap.jsonl",
+          "count": 75
+        },
+        {
+          "source_doc_id": "ifs_therapy",
+          "source_jsonl": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/medium_overlap/ifs_therapy_chunks_medium_overlap.jsonl",
+          "count": 53
+        },
+        {
+          "source_doc_id": "ifs_therapy_for_addiction",
+          "source_jsonl": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/medium_overlap/ifs_therapy_for_addiction_chunks_medium_overlap.jsonl",
+          "count": 107
+        },
+        {
+          "source_doc_id": "transcending_trauma",
+          "source_jsonl": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/medium_overlap/transcending_trauma_chunks_medium_overlap.jsonl",
+          "count": 124
+        }
+      ]
+    },
+    "hierarchical_parent": {
+      "partition": "hierarchical_parent",
+      "record_count": 49,
+      "embedding_dim": 1024,
+      "metadata_path": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/test_embeddings/hierarchical/parent_metadata.jsonl",
+      "embeddings_path": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/test_embeddings/hierarchical/parent_embeddings.npy",
+      "source_file_count": 6,
+      "source_files": [
+        "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/hierarchical/parents/ifs_couple_therapy_parents.jsonl",
+        "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/hierarchical/parents/ifs_new_dimensions_parents.jsonl",
+        "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/hierarchical/parents/ifs_skills_training_parents.jsonl",
+        "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/hierarchical/parents/ifs_therapy_parents.jsonl",
+        "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/hierarchical/parents/ifs_therapy_for_addiction_parents.jsonl",
+        "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/hierarchical/parents/transcending_trauma_parents.jsonl"
+      ],
+      "per_doc_counts": [
+        {
+          "source_doc_id": "ifs_couple_therapy",
+          "source_jsonl": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/hierarchical/parents/ifs_couple_therapy_parents.jsonl",
+          "count": 9
+        },
+        {
+          "source_doc_id": "ifs_new_dimensions",
+          "source_jsonl": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/hierarchical/parents/ifs_new_dimensions_parents.jsonl",
+          "count": 9
+        },
+        {
+          "source_doc_id": "ifs_skills_training",
+          "source_jsonl": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/hierarchical/parents/ifs_skills_training_parents.jsonl",
+          "count": 3
+        },
+        {
+          "source_doc_id": "ifs_therapy",
+          "source_jsonl": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/hierarchical/parents/ifs_therapy_parents.jsonl",
+          "count": 4
+        },
+        {
+          "source_doc_id": "ifs_therapy_for_addiction",
+          "source_jsonl": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/hierarchical/parents/ifs_therapy_for_addiction_parents.jsonl",
+          "count": 17
+        },
+        {
+          "source_doc_id": "transcending_trauma",
+          "source_jsonl": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/hierarchical/parents/transcending_trauma_parents.jsonl",
+          "count": 7
+        }
+      ]
+    },
+    "hierarchical_child": {
+      "partition": "hierarchical_child",
+      "record_count": 1725,
+      "embedding_dim": 1024,
+      "metadata_path": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/test_embeddings/hierarchical/child_metadata.jsonl",
+      "embeddings_path": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/test_embeddings/hierarchical/child_embeddings.npy",
+      "source_file_count": 6,
+      "source_files": [
+        "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/hierarchical/children/ifs_couple_therapy_children.jsonl",
+        "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/hierarchical/children/ifs_new_dimensions_children.jsonl",
+        "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/hierarchical/children/ifs_skills_training_children.jsonl",
+        "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/hierarchical/children/ifs_therapy_children.jsonl",
+        "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/hierarchical/children/ifs_therapy_for_addiction_children.jsonl",
+        "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/hierarchical/children/transcending_trauma_children.jsonl"
+      ],
+      "per_doc_counts": [
+        {
+          "source_doc_id": "ifs_couple_therapy",
+          "source_jsonl": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/hierarchical/children/ifs_couple_therapy_children.jsonl",
+          "count": 231
+        },
+        {
+          "source_doc_id": "ifs_new_dimensions",
+          "source_jsonl": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/hierarchical/children/ifs_new_dimensions_children.jsonl",
+          "count": 444
+        },
+        {
+          "source_doc_id": "ifs_skills_training",
+          "source_jsonl": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/hierarchical/children/ifs_skills_training_children.jsonl",
+          "count": 177
+        },
+        {
+          "source_doc_id": "ifs_therapy",
+          "source_jsonl": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/hierarchical/children/ifs_therapy_children.jsonl",
+          "count": 163
+        },
+        {
+          "source_doc_id": "ifs_therapy_for_addiction",
+          "source_jsonl": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/hierarchical/children/ifs_therapy_for_addiction_children.jsonl",
+          "count": 348
+        },
+        {
+          "source_doc_id": "transcending_trauma",
+          "source_jsonl": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/hierarchical/children/transcending_trauma_children.jsonl",
+          "count": 362
+        }
+      ]
+    }
+  },
+  "totals": {
+    "small_fixed_total": 1246,
+    "medium_overlap_total": 595,
+    "hierarchical_parent_total": 49,
+    "hierarchical_child_total": 1725
+  }
+}

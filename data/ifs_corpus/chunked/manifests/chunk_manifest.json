@@ -66,8 +66,8 @@
         "max_tokens": 417
       },
       "outputs": {
-        "small_fixed": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/small_fixed/ifs_couple_therapy_chunks.jsonl",
-        "medium_overlap": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/medium_overlap/ifs_couple_therapy_chunks.jsonl",
+        "small_fixed": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/small_fixed/ifs_couple_therapy_chunks_small_fixed.jsonl",
+        "medium_overlap": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/medium_overlap/ifs_couple_therapy_chunks_medium_overlap.jsonl",
         "hierarchical_parents": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/hierarchical/parents/ifs_couple_therapy_parents.jsonl",
         "hierarchical_children": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/hierarchical/children/ifs_couple_therapy_children.jsonl"
       }
@@ -102,8 +102,8 @@
         "max_tokens": 491
       },
       "outputs": {
-        "small_fixed": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/small_fixed/ifs_new_dimensions_chunks.jsonl",
-        "medium_overlap": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/medium_overlap/ifs_new_dimensions_chunks.jsonl",
+        "small_fixed": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/small_fixed/ifs_new_dimensions_chunks_small_fixed.jsonl",
+        "medium_overlap": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/medium_overlap/ifs_new_dimensions_chunks_medium_overlap.jsonl",
         "hierarchical_parents": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/hierarchical/parents/ifs_new_dimensions_parents.jsonl",
         "hierarchical_children": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/hierarchical/children/ifs_new_dimensions_children.jsonl"
       }
@@ -138,8 +138,8 @@
         "max_tokens": 495
       },
       "outputs": {
-        "small_fixed": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/small_fixed/ifs_skills_training_chunks.jsonl",
-        "medium_overlap": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/medium_overlap/ifs_skills_training_chunks.jsonl",
+        "small_fixed": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/small_fixed/ifs_skills_training_chunks_small_fixed.jsonl",
+        "medium_overlap": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/medium_overlap/ifs_skills_training_chunks_medium_overlap.jsonl",
         "hierarchical_parents": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/hierarchical/parents/ifs_skills_training_parents.jsonl",
         "hierarchical_children": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/hierarchical/children/ifs_skills_training_children.jsonl"
       }
@@ -174,8 +174,8 @@
         "max_tokens": 420
       },
       "outputs": {
-        "small_fixed": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/small_fixed/ifs_therapy_chunks.jsonl",
-        "medium_overlap": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/medium_overlap/ifs_therapy_chunks.jsonl",
+        "small_fixed": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/small_fixed/ifs_therapy_chunks_small_fixed.jsonl",
+        "medium_overlap": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/medium_overlap/ifs_therapy_chunks_medium_overlap.jsonl",
         "hierarchical_parents": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/hierarchical/parents/ifs_therapy_parents.jsonl",
         "hierarchical_children": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/hierarchical/children/ifs_therapy_children.jsonl"
       }
@@ -210,8 +210,8 @@
         "max_tokens": 407
       },
       "outputs": {
-        "small_fixed": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/small_fixed/ifs_therapy_for_addiction_chunks.jsonl",
-        "medium_overlap": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/medium_overlap/ifs_therapy_for_addiction_chunks.jsonl",
+        "small_fixed": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/small_fixed/ifs_therapy_for_addiction_chunks_small_fixed.jsonl",
+        "medium_overlap": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/medium_overlap/ifs_therapy_for_addiction_chunks_medium_overlap.jsonl",
         "hierarchical_parents": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/hierarchical/parents/ifs_therapy_for_addiction_parents.jsonl",
         "hierarchical_children": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/hierarchical/children/ifs_therapy_for_addiction_children.jsonl"
       }
@@ -246,8 +246,8 @@
         "max_tokens": 411
       },
       "outputs": {
-        "small_fixed": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/small_fixed/transcending_trauma_chunks.jsonl",
-        "medium_overlap": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/medium_overlap/transcending_trauma_chunks.jsonl",
+        "small_fixed": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/small_fixed/transcending_trauma_chunks_small_fixed.jsonl",
+        "medium_overlap": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/medium_overlap/transcending_trauma_chunks_medium_overlap.jsonl",
         "hierarchical_parents": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/hierarchical/parents/transcending_trauma_parents.jsonl",
         "hierarchical_children": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/hierarchical/children/transcending_trauma_children.jsonl"
       }
