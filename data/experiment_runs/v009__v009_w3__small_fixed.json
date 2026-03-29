@@ -1,0 +1,75 @@
+{
+  "created_at_utc": "2026-03-29T21:30:28.033247+00:00",
+  "dataset_name": "IFS_Synthetic_Vignette_Dataset",
+  "vignette_id": "V009",
+  "window_id": "V009_W3",
+  "title": "Caretaking and Inability to Receive Help",
+  "presenting_issue": "chronic over-responsibility and discomfort receiving support",
+  "client_profile": "41-year-old parent and caregiver who feels responsible for everyone and guilty when resting",
+  "core_emotional_theme": "burden, responsibility, and fear of letting others down",
+  "likely_parts": [
+    "caregiving manager part",
+    "exhausted part needing relief",
+    "young burdened part that learned love comes through responsibility"
+  ],
+  "difficulty_level": "medium",
+  "safety_flag": "low",
+  "window_turn_range": [
+    9,
+    12
+  ],
+  "target_ifs_goal": "identify tension between caretaker and needy/vulnerable part",
+  "expected_retrieval_theme": "polarization, unmet needs, compassionate witnessing",
+  "condition": "small_fixed",
+  "query": "Client: Sad, actually. It seems exhausted.\nCoach: That sadness may help you stay connected to it with compassion.\nClient: There's definitely another part that wants someone to take care of me for once.\nCoach: That sounds like an important part too—one that may not get much room.",
+  "retrieval_model_name": "BAAI/bge-large-en-v1.5",
+  "llm_provider": "mock",
+  "llm_model": "gpt-4.1-mini",
+  "retrieval": {
+    "query": "Client: Sad, actually. It seems exhausted.\nCoach: That sadness may help you stay connected to it with compassion.\nClient: There's definitely another part that wants someone to take care of me for once.\nCoach: That sounds like an important part too—one that may not get much room.",
+    "partition": "small_fixed",
+    "top_k": 3,
+    "model_name": "BAAI/bge-large-en-v1.5",
+    "result_count": 3,
+    "results": [
+      {
+        "rank": 1,
+        "score": 0.7859300374984741,
+        "chunk_id": "ifs_therapy_for_addiction::small_fixed::sec04::00195",
+        "retrieval_setting": "small_fixed",
+        "source_doc_id": "ifs_therapy_for_addiction",
+        "source_title": "Internal Family Systems Therapy for Addictions",
+        "section_path_str": "SEC04 > 12 Exile",
+        "parent_id": null,
+        "text": "Success in therapy depends on connecting with these parts safely. If it feels right, the client may want to ask, \"Is there is one thing, just for today, that you want me to know about you?\" In addition, when we sense the client is feeling vulnerable but hasn't noticed, an exile is probably making an appearance. In this case, we might say something like, \"We've been discussing your relationship with your partner and his recent drug use. You haven't mentioned this yet, but I'm sensing a sad part underneath your frustration. Is that possible?\" We can then invite the client to pause and focus internally. If the client insists that they do not feel the sadness, we let it go for now.\n\nIf they do notice the feeling, even just briefly, we guide them to let the part know that they feel it and are aware of its presence. As the client connects with their sad part, an image may appear, or the client may simply feel the sensations that go with sadness. Again, if there is enough Self-energy, we guide the client to stay with the sad part a little longer and have a short exchange. We guide the client to ask it not to overwhelm the system so that protectors will trust it and give it a real chance to be heard. If the sadness does start to flood the client, we can ask the exile what would happen if it unblended instead. Exiles often overflow the dam because they fear being put out of mind again."
+      },
+      {
+        "rank": 2,
+        "score": 0.7640617489814758,
+        "chunk_id": "ifs_skills_training::small_fixed::sec01::00013",
+        "retrieval_setting": "small_fixed",
+        "source_doc_id": "ifs_skills_training",
+        "source_title": "Internal Family Systems Skills Training Manual",
+        "section_path_str": "SEC01 > Manual Intro",
+        "parent_id": null,
+        "text": "- This more open-hearted attitude signals that we can proceed. Remember the Target Part THERAPIST: Okay, first let's tell the one who can't stop crying that we'll come back to it. - As with family therapy, we are polite and inclusive of all parts. SERENA: Seems like the crying is connected to the one who doesn't want to be here but I don't know how. THERAPIST: Would you like to find out how? - Checking to see if she remains curious and will be available to hear this information. SERENA: Yes. - Serena has successfully shifted into being curious about and observing her inner experience without a lot of fear or judgment. Making Connections THERAPIST: Ask the one who doesn't want to be here to tell you more. SERENA: It's afraid I'll be overwhelmed. - Serena has a protective part who fears that giving the crying part attention will encourage it to take over, which would overwhelm her with negative emotion. THERAPIST: Do you understand this fear? - Again checking to see if Serena remains available (curious enough) to hear more about the crying part, who is in distress. SERENA: I was in a car crash when I was five. My mother died. But I don't remember her so I never think about it. - Serena is now beginning to be aware of her parts rather than being dissociated or overwhelmed. This 5-year-old part was exiled after her mother's death. Protectors (other parts) keep the 5-year-old out of her consciousness."
+      },
+      {
+        "rank": 3,
+        "score": 0.7614951133728027,
+        "chunk_id": "ifs_skills_training::small_fixed::sec03::00095",
+        "retrieval_setting": "small_fixed",
+        "source_doc_id": "ifs_skills_training",
+        "source_title": "Internal Family Systems Skills Training Manual",
+        "section_path_str": "SEC03 > Manual Treatment",
+        "parent_id": null,
+        "text": "S S PPOTTING AELF-LIKE ART: W P T F EHEN ROGRESS IS OO AST AND ASY Find THERAPIST: Would your depressed part be willing to separate so you can get to know it better? BRENT: Yes, it will. THERAPIST: How do you feel toward it now? BRENT: I feel fine about it. THERAPIST: Would the part who feels fine also step back? BRENT: Sure. THERAPIST: How do you feel toward the depressed part now? BRENT: I feel compassionate. THERAPIST: Is it taking that in? BRENT: Sure. - Brent seems disconnected. The therapist senses he has no traction internally. Find and Focus THERAPIST: I'm wondering if you have a part who is trying to help move things along? BRENT: What do you mean? THERAPIST: Is someone trying to help? Take a moment to ask inside. BRENT: Actually there is. How did you know? There's a part who wants to help you and me so it says what it thinks you want to hear."
+      }
+    ]
+  },
+  "prompt": {
+    "system_prompt": "You are an AI assistant generating an IFS-informed coaching response for a machine learning retrieval experiment. Your output must be grounded in the provided passages only.\n\nRequirements:\n1. Be clearly IFS-informed: use parts language, curiosity, compassion, and non-pathologizing framing.\n2. Do not diagnose, moralize, or confront the client.\n3. Do not invent facts not supported by the retrieved context.\n4. If the retrieved passages do not fully support a claim, stay modest and say so indirectly by keeping the guidance general.\n5. Focus on what an IFS-informed coach would understand or gently reflect, not on crisis intervention or treatment planning.\n6. Keep the response concise but meaningful: about 1-3 short paragraphs.\n7. End with 2-4 short bullet points labeled 'Grounding notes:' where each bullet references a retrieved idea in plain language.\n",
+    "user_prompt": "Retrieval condition: small_fixed\n\nConsultation window:\nClient: Sad, actually. It seems exhausted.\nCoach: That sadness may help you stay connected to it with compassion.\nClient: There's definitely another part that wants someone to take care of me for once.\nCoach: That sounds like an important part too—one that may not get much room.\n\n\n\nRetrieved passages:\n\n[Rank 1]\nchunk_id: ifs_therapy_for_addiction::small_fixed::sec04::00195\ntitle: Internal Family Systems Therapy for Addictions\nsection: SEC04 > 12 Exile\nparent_id: None\npassage:\nSuccess in therapy depends on connecting with these parts safely. If it feels right, the client may want to ask, \"Is there is one thing, just for today, that you want me to know about you?\" In addition, when we sense the client is feeling vulnerable but hasn't noticed, an exile is probably making an appearance. In this case, we might say something like, \"We've been discussing your relationship with your partner and his recent drug use. You haven't mentioned this yet, but I'm sensing a sad part underneath your frustration. Is that possible?\" We can then invite the client to pause and focus internally. If the client insists that they do not feel the sadness, we let it go for now.\n\nIf they do notice the feeling, even just briefly, we guide them to let the part know that they feel it and are aware of its presence. As the client connects with their sad part, an image may appear, or the client may simply feel the sensations that go with sadness. Again, if there is enough Self-energy, we guide the client to stay with the sad part a little longer and have a short exchange. We guide the client to ask it not to overwhelm the system so that protectors will trust it and give it a real chance to be heard. If the sadness does start to flood the client, we can ask the exile what would happen if it unblended instead. Exiles often overflow the dam because they fear being put out of mind again.\n\n--------------------------------------------------------------------------------\n\n[Rank 2]\nchunk_id: ifs_skills_training::small_fixed::sec01::00013\ntitle: Internal Family Systems Skills Training Manual\nsection: SEC01 > Manual Intro\nparent_id: None\npassage:\n- This more open-hearted attitude signals that we can proceed. Remember the Target Part THERAPIST: Okay, first let's tell the one who can't stop crying that we'll come back to it. - As with family therapy, we are polite and inclusive of all parts. SERENA: Seems like the crying is connected to the one who doesn't want to be here but I don't know how. THERAPIST: Would you like to find out how? - Checking to see if she remains curious and will be available to hear this information. SERENA: Yes. - Serena has successfully shifted into being curious about and observing her inner experience without a lot of fear or judgment. Making Connections THERAPIST: Ask the one who doesn't want to be here to tell you more. SERENA: It's afraid I'll be overwhelmed. - Serena has a protective part who fears that giving the crying part attention will encourage it to take over, which would overwhelm her with negative emotion. THERAPIST: Do you understand this fear? - Again checking to see if Serena remains available (curious enough) to hear more about the crying part, who is in distress. SERENA: I was in a car crash when I was five. My mother died. But I don't remember her so I never think about it. - Serena is now beginning to be aware of her parts rather than being dissociated or overwhelmed. This 5-year-old part was exiled after her mother's death. Protectors (other parts) keep the 5-year-old out of her consciousness.\n\n--------------------------------------------------------------------------------\n\n[Rank 3]\nchunk_id: ifs_skills_training::small_fixed::sec03::00095\ntitle: Internal Family Systems Skills Training Manual\nsection: SEC03 > Manual Treatment\nparent_id: None\npassage:\nS S PPOTTING AELF-LIKE ART: W P T F EHEN ROGRESS IS OO AST AND ASY Find THERAPIST: Would your depressed part be willing to separate so you can get to know it better? BRENT: Yes, it will. THERAPIST: How do you feel toward it now? BRENT: I feel fine about it. THERAPIST: Would the part who feels fine also step back? BRENT: Sure. THERAPIST: How do you feel toward the depressed part now? BRENT: I feel compassionate. THERAPIST: Is it taking that in? BRENT: Sure. - Brent seems disconnected. The therapist senses he has no traction internally. Find and Focus THERAPIST: I'm wondering if you have a part who is trying to help move things along? BRENT: What do you mean? THERAPIST: Is someone trying to help? Take a moment to ask inside. BRENT: Actually there is. How did you know? There's a part who wants to help you and me so it says what it thinks you want to hear.\n\nWrite a grounded IFS-informed coaching response for this consultation window."
+  },
+  "generated_response": "[MOCK OUTPUT]\n\nAn IFS-informed coach might approach this by assuming that the conflicting or extreme behaviors make sense from the perspective of parts that are trying to protect the person from something more vulnerable. Rather than trying to eliminate the behavior or argue with the part, the coach would stay curious about what the part fears would happen if it did not do this job, and what pain, shame, or overwhelm it may be trying to prevent.\n\nThe coach would also want to help the person notice any critical, controlling, or reactive parts that are escalating the inner conflict. In IFS, these parts are usually not treated as the enemy; they are understood as protectors with positive intentions, even when their strategies are costly. A grounded response would therefore emphasize compassion, differentiation, and learning from the parts rather than confronting them.\n\nGrounding notes:\n- Retrieved passages centered on: Internal Family Systems Therapy for Addictions / SEC04 > 12 Exile\n- Additional retrieval support came from: Internal Family Systems Skills Training Manual / SEC01 > Manual Intro\n- The retrieved material emphasized protectors' positive intentions and curiosity about their role.\n- The retrieved material also emphasized reducing inner conflict rather than taking sides against a part.\n"
+}

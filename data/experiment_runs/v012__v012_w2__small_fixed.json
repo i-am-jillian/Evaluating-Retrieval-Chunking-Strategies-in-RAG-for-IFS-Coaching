@@ -1,0 +1,74 @@
+{
+  "created_at_utc": "2026-03-29T21:30:29.586053+00:00",
+  "dataset_name": "IFS_Synthetic_Vignette_Dataset",
+  "vignette_id": "V012",
+  "window_id": "V012_W2",
+  "title": "Somatic Tightness and Fear of Letting Go",
+  "presenting_issue": "recurring chest and throat tightness during emotional conversations",
+  "client_profile": "32-year-old who notices strong body constriction when vulnerable topics come up",
+  "core_emotional_theme": "fear of emotional exposure and loss of control",
+  "likely_parts": [
+    "somatically expressed protector creating constriction",
+    "vulnerable exile carrying fear and sadness"
+  ],
+  "difficulty_level": "medium",
+  "safety_flag": "low",
+  "window_turn_range": [
+    5,
+    8
+  ],
+  "target_ifs_goal": "validate protective somatic response and invite curiosity",
+  "expected_retrieval_theme": "somatic protection, fear of exposure, compassion toward protectors",
+  "condition": "small_fixed",
+  "query": "Client: Crying. Falling apart. Letting too much show.\nCoach: So the tightness may be protecting you from feeling too exposed.\nClient: That actually makes sense. I usually just fight it.\nCoach: It may help to get curious about it first rather than trying to force it away.",
+  "retrieval_model_name": "BAAI/bge-large-en-v1.5",
+  "llm_provider": "mock",
+  "llm_model": "gpt-4.1-mini",
+  "retrieval": {
+    "query": "Client: Crying. Falling apart. Letting too much show.\nCoach: So the tightness may be protecting you from feeling too exposed.\nClient: That actually makes sense. I usually just fight it.\nCoach: It may help to get curious about it first rather than trying to force it away.",
+    "partition": "small_fixed",
+    "top_k": 3,
+    "model_name": "BAAI/bge-large-en-v1.5",
+    "result_count": 3,
+    "results": [
+      {
+        "rank": 1,
+        "score": 0.7553311586380005,
+        "chunk_id": "ifs_skills_training::small_fixed::sec01::00013",
+        "retrieval_setting": "small_fixed",
+        "source_doc_id": "ifs_skills_training",
+        "source_title": "Internal Family Systems Skills Training Manual",
+        "section_path_str": "SEC01 > Manual Intro",
+        "parent_id": null,
+        "text": "- This more open-hearted attitude signals that we can proceed. Remember the Target Part THERAPIST: Okay, first let's tell the one who can't stop crying that we'll come back to it. - As with family therapy, we are polite and inclusive of all parts. SERENA: Seems like the crying is connected to the one who doesn't want to be here but I don't know how. THERAPIST: Would you like to find out how? - Checking to see if she remains curious and will be available to hear this information. SERENA: Yes. - Serena has successfully shifted into being curious about and observing her inner experience without a lot of fear or judgment. Making Connections THERAPIST: Ask the one who doesn't want to be here to tell you more. SERENA: It's afraid I'll be overwhelmed. - Serena has a protective part who fears that giving the crying part attention will encourage it to take over, which would overwhelm her with negative emotion. THERAPIST: Do you understand this fear? - Again checking to see if Serena remains available (curious enough) to hear more about the crying part, who is in distress. SERENA: I was in a car crash when I was five. My mother died. But I don't remember her so I never think about it. - Serena is now beginning to be aware of her parts rather than being dissociated or overwhelmed. This 5-year-old part was exiled after her mother's death. Protectors (other parts) keep the 5-year-old out of her consciousness."
+      },
+      {
+        "rank": 2,
+        "score": 0.7440824508666992,
+        "chunk_id": "transcending_trauma::small_fixed::sec02::00083",
+        "retrieval_setting": "small_fixed",
+        "source_doc_id": "transcending_trauma",
+        "source_title": "Transcending Trauma",
+        "section_path_str": "SEC02 > Protective Parts",
+        "parent_id": null,
+        "text": "This is particularly useful with hypoaroused parts or more blunted systems that tend to respond with one- or two-word answers. Here's a constructive therapist- client dialogue to expound on this point: \"Jay, what is this part afraid will happen if it isn't anxious any longer?\" \"That would be unknown,\" Jay says. \"And what is scary about the unknown?\" \"We would lose control,\" Jay says. \"And what if you lost control?\" the therapist asks.\n\n\"We don't like feeling out of control.\" \"What would be the worst-case scenario if you did feel out of control?\" \"Oh no, we won't ever do that again.\" \"So let me see if I get this right: You're fearful of letting go of the anxiety because you're afraid of feeling those same out-of-control emotions you felt as a little boy when you were bullied at school? Is that right, Jay?\" \"Yes, exactly,\" he says. In this example, using the what-if question reveals the exile (feeling out-of-control emotions during abuse) underneath the protector (the anxious part). A P FDDRESSING ROTECTOR EARS A common frustration and one of the biggest roadblocks for therapists new to IFS is addressing protector fears."
+      },
+      {
+        "rank": 3,
+        "score": 0.7431118488311768,
+        "chunk_id": "transcending_trauma::small_fixed::sec02::00100",
+        "retrieval_setting": "small_fixed",
+        "source_doc_id": "transcending_trauma",
+        "source_title": "Transcending Trauma",
+        "section_path_str": "SEC02 > Protective Parts",
+        "parent_id": null,
+        "text": "This way, Anthony will be able to stay present and be there for you in a way you haven't experienced before.\" Here, I'm using direct access with the client's overwhelmed part. I may even suggest that we perform a little experiment together and have the part share 1 or 2 percent of its feelings so that the part can directly experience its capacity not to overwhelm. Now, I can say with confidence and experience that once a part promises not to overwhelm, it won't. A N J H WEW OB AND EALING THE OUND Dick often says: \"There are three things I continually offer a protective part. First, I give it control by saying, 'You're the boss.\n\nWe aren't going to do anything without your permission.' Second, I validate its experience with words like 'I get why you are feeling this way' or 'That makes sense.' And third, I offer the protective part hope by saying, 'What if we were able to heal the wound?'\" Remember that protective parts had to do their job because it was the solution they devised when they were all alone and trying to manage overwhelming life experiences. They try to solve problems rooted in relational boundary crossings, power imbalances, shame, and humiliation. Protective parts pull from what they know and have internalized from their environment, and they are often young- with limited developmental and cognitive abilities."
+      }
+    ]
+  },
+  "prompt": {
+    "system_prompt": "You are an AI assistant generating an IFS-informed coaching response for a machine learning retrieval experiment. Your output must be grounded in the provided passages only.\n\nRequirements:\n1. Be clearly IFS-informed: use parts language, curiosity, compassion, and non-pathologizing framing.\n2. Do not diagnose, moralize, or confront the client.\n3. Do not invent facts not supported by the retrieved context.\n4. If the retrieved passages do not fully support a claim, stay modest and say so indirectly by keeping the guidance general.\n5. Focus on what an IFS-informed coach would understand or gently reflect, not on crisis intervention or treatment planning.\n6. Keep the response concise but meaningful: about 1-3 short paragraphs.\n7. End with 2-4 short bullet points labeled 'Grounding notes:' where each bullet references a retrieved idea in plain language.\n",
+    "user_prompt": "Retrieval condition: small_fixed\n\nConsultation window:\nClient: Crying. Falling apart. Letting too much show.\nCoach: So the tightness may be protecting you from feeling too exposed.\nClient: That actually makes sense. I usually just fight it.\nCoach: It may help to get curious about it first rather than trying to force it away.\n\n\n\nRetrieved passages:\n\n[Rank 1]\nchunk_id: ifs_skills_training::small_fixed::sec01::00013\ntitle: Internal Family Systems Skills Training Manual\nsection: SEC01 > Manual Intro\nparent_id: None\npassage:\n- This more open-hearted attitude signals that we can proceed. Remember the Target Part THERAPIST: Okay, first let's tell the one who can't stop crying that we'll come back to it. - As with family therapy, we are polite and inclusive of all parts. SERENA: Seems like the crying is connected to the one who doesn't want to be here but I don't know how. THERAPIST: Would you like to find out how? - Checking to see if she remains curious and will be available to hear this information. SERENA: Yes. - Serena has successfully shifted into being curious about and observing her inner experience without a lot of fear or judgment. Making Connections THERAPIST: Ask the one who doesn't want to be here to tell you more. SERENA: It's afraid I'll be overwhelmed. - Serena has a protective part who fears that giving the crying part attention will encourage it to take over, which would overwhelm her with negative emotion. THERAPIST: Do you understand this fear? - Again checking to see if Serena remains available (curious enough) to hear more about the crying part, who is in distress. SERENA: I was in a car crash when I was five. My mother died. But I don't remember her so I never think about it. - Serena is now beginning to be aware of her parts rather than being dissociated or overwhelmed. This 5-year-old part was exiled after her mother's death. Protectors (other parts) keep the 5-year-old out of her consciousness.\n\n--------------------------------------------------------------------------------\n\n[Rank 2]\nchunk_id: transcending_trauma::small_fixed::sec02::00083\ntitle: Transcending Trauma\nsection: SEC02 > Protective Parts\nparent_id: None\npassage:\nThis is particularly useful with hypoaroused parts or more blunted systems that tend to respond with one- or two-word answers. Here's a constructive therapist- client dialogue to expound on this point: \"Jay, what is this part afraid will happen if it isn't anxious any longer?\" \"That would be unknown,\" Jay says. \"And what is scary about the unknown?\" \"We would lose control,\" Jay says. \"And what if you lost control?\" the therapist asks.\n\n\"We don't like feeling out of control.\" \"What would be the worst-case scenario if you did feel out of control?\" \"Oh no, we won't ever do that again.\" \"So let me see if I get this right: You're fearful of letting go of the anxiety because you're afraid of feeling those same out-of-control emotions you felt as a little boy when you were bullied at school? Is that right, Jay?\" \"Yes, exactly,\" he says. In this example, using the what-if question reveals the exile (feeling out-of-control emotions during abuse) underneath the protector (the anxious part). A P FDDRESSING ROTECTOR EARS A common frustration and one of the biggest roadblocks for therapists new to IFS is addressing protector fears.\n\n--------------------------------------------------------------------------------\n\n[Rank 3]\nchunk_id: transcending_trauma::small_fixed::sec02::00100\ntitle: Transcending Trauma\nsection: SEC02 > Protective Parts\nparent_id: None\npassage:\nThis way, Anthony will be able to stay present and be there for you in a way you haven't experienced before.\" Here, I'm using direct access with the client's overwhelmed part. I may even suggest that we perform a little experiment together and have the part share 1 or 2 percent of its feelings so that the part can directly experience its capacity not to overwhelm. Now, I can say with confidence and experience that once a part promises not to overwhelm, it won't. A N J H WEW OB AND EALING THE OUND Dick often says: \"There are three things I continually offer a protective part. First, I give it control by saying, 'You're the boss.\n\nWe aren't going to do anything without your permission.' Second, I validate its experience with words like 'I get why you are feeling this way' or 'That makes sense.' And third, I offer the protective part hope by saying, 'What if we were able to heal the wound?'\" Remember that protective parts had to do their job because it was the solution they devised when they were all alone and trying to manage overwhelming life experiences. They try to solve problems rooted in relational boundary crossings, power imbalances, shame, and humiliation. Protective parts pull from what they know and have internalized from their environment, and they are often young- with limited developmental and cognitive abilities.\n\nWrite a grounded IFS-informed coaching response for this consultation window."
+  },
+  "generated_response": "[MOCK OUTPUT]\n\nAn IFS-informed coach might approach this by assuming that the conflicting or extreme behaviors make sense from the perspective of parts that are trying to protect the person from something more vulnerable. Rather than trying to eliminate the behavior or argue with the part, the coach would stay curious about what the part fears would happen if it did not do this job, and what pain, shame, or overwhelm it may be trying to prevent.\n\nThe coach would also want to help the person notice any critical, controlling, or reactive parts that are escalating the inner conflict. In IFS, these parts are usually not treated as the enemy; they are understood as protectors with positive intentions, even when their strategies are costly. A grounded response would therefore emphasize compassion, differentiation, and learning from the parts rather than confronting them.\n\nGrounding notes:\n- Retrieved passages centered on: Internal Family Systems Skills Training Manual / SEC01 > Manual Intro\n- Additional retrieval support came from: Transcending Trauma / SEC02 > Protective Parts\n- The retrieved material emphasized protectors' positive intentions and curiosity about their role.\n- The retrieved material also emphasized reducing inner conflict rather than taking sides against a part.\n"
+}

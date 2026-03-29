@@ -1,0 +1,75 @@
+{
+  "created_at_utc": "2026-03-29T21:30:27.020903+00:00",
+  "dataset_name": "IFS_Synthetic_Vignette_Dataset",
+  "vignette_id": "V008",
+  "window_id": "V008_W1",
+  "title": "Trauma Trigger and Hypervigilance in Public",
+  "presenting_issue": "intense activation in crowded public environments",
+  "client_profile": "38-year-old who becomes highly alert and tense in stores or crowded places after past trauma",
+  "core_emotional_theme": "fear, lack of safety, and hypervigilance",
+  "likely_parts": [
+    "hypervigilant protector scanning for danger",
+    "terrified exile holding unresolved fear",
+    "distancing part trying to leave or disconnect"
+  ],
+  "difficulty_level": "hard",
+  "safety_flag": "medium",
+  "window_turn_range": [
+    1,
+    4
+  ],
+  "target_ifs_goal": "identify hypervigilance as a protector",
+  "expected_retrieval_theme": "trauma-informed protectors, vigilance, safety-based activation",
+  "condition": "small_fixed",
+  "query": "Client: When I'm in a crowded store, my whole body gets tense and I start scanning everyone.\nCoach: What feels most urgent inside in those moments?\nClient: It feels like I have to watch everything or something bad will happen.\nCoach: That sounds like a part working very hard to keep you safe.",
+  "retrieval_model_name": "BAAI/bge-large-en-v1.5",
+  "llm_provider": "mock",
+  "llm_model": "gpt-4.1-mini",
+  "retrieval": {
+    "query": "Client: When I'm in a crowded store, my whole body gets tense and I start scanning everyone.\nCoach: What feels most urgent inside in those moments?\nClient: It feels like I have to watch everything or something bad will happen.\nCoach: That sounds like a part working very hard to keep you safe.",
+    "partition": "small_fixed",
+    "top_k": 3,
+    "model_name": "BAAI/bge-large-en-v1.5",
+    "result_count": 3,
+    "results": [
+      {
+        "rank": 1,
+        "score": 0.7469391822814941,
+        "chunk_id": "ifs_couple_therapy::small_fixed::sec03::00155",
+        "retrieval_setting": "small_fixed",
+        "source_doc_id": "ifs_couple_therapy",
+        "source_title": "Internal Family Systems Couple Therapy",
+        "section_path_str": "SEC03 > Relational",
+        "parent_id": null,
+        "text": "I have a part that's fleeing big time. I can hear its voice saying, \"Get me out of here!\" Cate: And I'm in my usual place-itching for a fight. Dan: And what's happening in your body right now? Therapist: I'm cranking up. I'm tight. I can't help it. Dan: Got it, Dan. You're angry and getting more agitated. And you don't feel like you can Therapist: help yourself. Does that sound right? Mirroring Right. Dan:\n\nTherapist: [turning to Cate] And your body? I'm tense, but it's not like I am going to get up and run. Not now anyway. Breathing deeply Cate: helps. Great. If you can keep noticing your body and your parts, I want to spend a little time Therapist: with Dan. Fine with me. Cate: [to Dan] All this energy in your body makes sense to me. It sounds like you're Therapist: feeling unsafe? Can you look at me? Offering co-regulation through eye contact and tone of voice [continuing] I have heard from you, Dan, that when you feel offended or threatened, Therapist: you can get very angry, and the anger takes over your body. And sometimes it's hard for this angry part to unblend, as we say in IFS. It's hard to get yourself to the calm zone. And given your history, this makes complete sense to me. Is there more you want to say right now about how you're feeling? Validation and mirroring followed by an invitation to say more about feelings I'm a little better. But I feel angry."
+      },
+      {
+        "rank": 2,
+        "score": 0.7344025373458862,
+        "chunk_id": "ifs_therapy::small_fixed::pt01::00041",
+        "retrieval_setting": "small_fixed",
+        "source_doc_id": "ifs_therapy",
+        "source_title": "Internal Family Systems Therapy",
+        "section_path_str": "PT01 > 01 Origins",
+        "parent_id": null,
+        "text": "asking questions about the desires, distortions, and agendas of the inner system. In response, our clients' parts will answer clearly, take the client directly to crucial scenes from the past, and explain what is most important about their experience, removing the need for us to speculate, reframe, interpret, or instruct. Those painful scenes from the past often evoke internal waves of strong emotion that could easily overwhelm the client. But we can help the client's Self remain present even when he might seem to be overcome by emotion, as we describe later in this book.\n\nWhen the Self stays present and leads the way, the client's part will finally feel understood and its negative feelings will subside. I noticed that sometimes clients' bodies would move in unusual and even startling ways as they did this inner work. Again, after an initial period of worry, I learned that in order to feel fully witnessed and understood, some parts need to take over in the body temporarily.\n\nNow whenever I see signs, even subtle signs, of a somatic takeover, I encourage clients to stay with or even exaggerate that experience. If some of their other parts feel self-conscious or frightened, we stop first to help them feel safe so they are willing to step back and let us proceed."
+      },
+      {
+        "rank": 3,
+        "score": 0.7342386245727539,
+        "chunk_id": "ifs_couple_therapy::small_fixed::sec02::00060",
+        "retrieval_setting": "small_fixed",
+        "source_doc_id": "ifs_couple_therapy",
+        "source_title": "Internal Family Systems Couple Therapy",
+        "section_path_str": "SEC02 > PT03 > Communication",
+        "parent_id": null,
+        "text": "Checking for ANS activation and their level of blending My stomach is tight. Mark: Mateo? Therapist: My stomach too. But I would say I feel more fear more than anxiety. Mateo: Are you both available to speak for these feelings-these parts-with each other Therapist: now? [turning to Mark] I am really scared about what it will mean if I'm honest. I'm changing. Mateo: The cancer changed me. So many things are different, and I don't know what's going to happen. Even as I say this, I feel the fear getting bigger. Mateo, let's slow down and notice the fear. Where is it in your body? Therapist: All over really. I have the urge to disappear. Mateo: Can you say more? Therapist: I guess it's a fear of being left… rejected. Mateo: Does that make sense? Therapist: It does. Mateo: Great. Let the part know you get it. What does it need to feel your presence and not Therapist: take over? [after a few breaths] It's actually okay. We've needed to have this conversation for a while. Mateo: I feel scared, but I trust Mark, and I believe we'll get through it. This is helpful. Slowing down rather than jumping in and failing. That's how we get into a Mark: gridlock. [to Mark] And your anxiety? Therapist: I'm afraid we'll want different things. Mark: And then what? Therapist: The relationship will suffer. Mark: And then? Therapist:"
+      }
+    ]
+  },
+  "prompt": {
+    "system_prompt": "You are an AI assistant generating an IFS-informed coaching response for a machine learning retrieval experiment. Your output must be grounded in the provided passages only.\n\nRequirements:\n1. Be clearly IFS-informed: use parts language, curiosity, compassion, and non-pathologizing framing.\n2. Do not diagnose, moralize, or confront the client.\n3. Do not invent facts not supported by the retrieved context.\n4. If the retrieved passages do not fully support a claim, stay modest and say so indirectly by keeping the guidance general.\n5. Focus on what an IFS-informed coach would understand or gently reflect, not on crisis intervention or treatment planning.\n6. Keep the response concise but meaningful: about 1-3 short paragraphs.\n7. End with 2-4 short bullet points labeled 'Grounding notes:' where each bullet references a retrieved idea in plain language.\n",
+    "user_prompt": "Retrieval condition: small_fixed\n\nConsultation window:\nClient: When I'm in a crowded store, my whole body gets tense and I start scanning everyone.\nCoach: What feels most urgent inside in those moments?\nClient: It feels like I have to watch everything or something bad will happen.\nCoach: That sounds like a part working very hard to keep you safe.\n\n\n\nRetrieved passages:\n\n[Rank 1]\nchunk_id: ifs_couple_therapy::small_fixed::sec03::00155\ntitle: Internal Family Systems Couple Therapy\nsection: SEC03 > Relational\nparent_id: None\npassage:\nI have a part that's fleeing big time. I can hear its voice saying, \"Get me out of here!\" Cate: And I'm in my usual place-itching for a fight. Dan: And what's happening in your body right now? Therapist: I'm cranking up. I'm tight. I can't help it. Dan: Got it, Dan. You're angry and getting more agitated. And you don't feel like you can Therapist: help yourself. Does that sound right? Mirroring Right. Dan:\n\nTherapist: [turning to Cate] And your body? I'm tense, but it's not like I am going to get up and run. Not now anyway. Breathing deeply Cate: helps. Great. If you can keep noticing your body and your parts, I want to spend a little time Therapist: with Dan. Fine with me. Cate: [to Dan] All this energy in your body makes sense to me. It sounds like you're Therapist: feeling unsafe? Can you look at me? Offering co-regulation through eye contact and tone of voice [continuing] I have heard from you, Dan, that when you feel offended or threatened, Therapist: you can get very angry, and the anger takes over your body. And sometimes it's hard for this angry part to unblend, as we say in IFS. It's hard to get yourself to the calm zone. And given your history, this makes complete sense to me. Is there more you want to say right now about how you're feeling? Validation and mirroring followed by an invitation to say more about feelings I'm a little better. But I feel angry.\n\n--------------------------------------------------------------------------------\n\n[Rank 2]\nchunk_id: ifs_therapy::small_fixed::pt01::00041\ntitle: Internal Family Systems Therapy\nsection: PT01 > 01 Origins\nparent_id: None\npassage:\nasking questions about the desires, distortions, and agendas of the inner system. In response, our clients' parts will answer clearly, take the client directly to crucial scenes from the past, and explain what is most important about their experience, removing the need for us to speculate, reframe, interpret, or instruct. Those painful scenes from the past often evoke internal waves of strong emotion that could easily overwhelm the client. But we can help the client's Self remain present even when he might seem to be overcome by emotion, as we describe later in this book.\n\nWhen the Self stays present and leads the way, the client's part will finally feel understood and its negative feelings will subside. I noticed that sometimes clients' bodies would move in unusual and even startling ways as they did this inner work. Again, after an initial period of worry, I learned that in order to feel fully witnessed and understood, some parts need to take over in the body temporarily.\n\nNow whenever I see signs, even subtle signs, of a somatic takeover, I encourage clients to stay with or even exaggerate that experience. If some of their other parts feel self-conscious or frightened, we stop first to help them feel safe so they are willing to step back and let us proceed.\n\n--------------------------------------------------------------------------------\n\n[Rank 3]\nchunk_id: ifs_couple_therapy::small_fixed::sec02::00060\ntitle: Internal Family Systems Couple Therapy\nsection: SEC02 > PT03 > Communication\nparent_id: None\npassage:\nChecking for ANS activation and their level of blending My stomach is tight. Mark: Mateo? Therapist: My stomach too. But I would say I feel more fear more than anxiety. Mateo: Are you both available to speak for these feelings-these parts-with each other Therapist: now? [turning to Mark] I am really scared about what it will mean if I'm honest. I'm changing. Mateo: The cancer changed me. So many things are different, and I don't know what's going to happen. Even as I say this, I feel the fear getting bigger. Mateo, let's slow down and notice the fear. Where is it in your body? Therapist: All over really. I have the urge to disappear. Mateo: Can you say more? Therapist: I guess it's a fear of being left… rejected. Mateo: Does that make sense? Therapist: It does. Mateo: Great. Let the part know you get it. What does it need to feel your presence and not Therapist: take over? [after a few breaths] It's actually okay. We've needed to have this conversation for a while. Mateo: I feel scared, but I trust Mark, and I believe we'll get through it. This is helpful. Slowing down rather than jumping in and failing. That's how we get into a Mark: gridlock. [to Mark] And your anxiety? Therapist: I'm afraid we'll want different things. Mark: And then what? Therapist: The relationship will suffer. Mark: And then? Therapist:\n\nWrite a grounded IFS-informed coaching response for this consultation window."
+  },
+  "generated_response": "[MOCK OUTPUT]\n\nAn IFS-informed coach might approach this by assuming that the conflicting or extreme behaviors make sense from the perspective of parts that are trying to protect the person from something more vulnerable. Rather than trying to eliminate the behavior or argue with the part, the coach would stay curious about what the part fears would happen if it did not do this job, and what pain, shame, or overwhelm it may be trying to prevent.\n\nThe coach would also want to help the person notice any critical, controlling, or reactive parts that are escalating the inner conflict. In IFS, these parts are usually not treated as the enemy; they are understood as protectors with positive intentions, even when their strategies are costly. A grounded response would therefore emphasize compassion, differentiation, and learning from the parts rather than confronting them.\n\nGrounding notes:\n- Retrieved passages centered on: Internal Family Systems Couple Therapy / SEC03 > Relational\n- Additional retrieval support came from: Internal Family Systems Therapy / PT01 > 01 Origins\n- The retrieved material emphasized protectors' positive intentions and curiosity about their role.\n- The retrieved material also emphasized reducing inner conflict rather than taking sides against a part.\n"
+}

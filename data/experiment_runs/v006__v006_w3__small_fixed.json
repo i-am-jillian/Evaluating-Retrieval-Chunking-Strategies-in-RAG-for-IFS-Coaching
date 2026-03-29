@@ -1,0 +1,75 @@
+{
+  "created_at_utc": "2026-03-29T21:30:26.082367+00:00",
+  "dataset_name": "IFS_Synthetic_Vignette_Dataset",
+  "vignette_id": "V006",
+  "window_id": "V006_W3",
+  "title": "Stress Drinking as Protective Soothing",
+  "presenting_issue": "using alcohol at night to shut down stress",
+  "client_profile": "33-year-old professional who feels overwhelmed after work and drinks most evenings to turn off",
+  "core_emotional_theme": "overwhelm, exhaustion, and avoidance of painful feelings",
+  "likely_parts": [
+    "firefighter part using alcohol for quick relief",
+    "driven manager part that over-functions during the day",
+    "overwhelmed exile carrying pressure and loneliness"
+  ],
+  "difficulty_level": "medium",
+  "safety_flag": "medium",
+  "window_turn_range": [
+    9,
+    12
+  ],
+  "target_ifs_goal": "identify multiple parts and distinguish firefighter from critic",
+  "expected_retrieval_theme": "polarization, critics, burdens beneath compulsive behavior",
+  "condition": "small_fixed",
+  "query": "Client: Pressure. Loneliness. The feeling that I can't keep doing this.\nCoach: That sounds like an important burden underneath the urge.\nClient: Yeah, and then another part judges me for drinking at all.\nCoach: So there may be multiple parts here—one trying to numb and one criticizing afterward.",
+  "retrieval_model_name": "BAAI/bge-large-en-v1.5",
+  "llm_provider": "mock",
+  "llm_model": "gpt-4.1-mini",
+  "retrieval": {
+    "query": "Client: Pressure. Loneliness. The feeling that I can't keep doing this.\nCoach: That sounds like an important burden underneath the urge.\nClient: Yeah, and then another part judges me for drinking at all.\nCoach: So there may be multiple parts here—one trying to numb and one criticizing afterward.",
+    "partition": "small_fixed",
+    "top_k": 3,
+    "model_name": "BAAI/bge-large-en-v1.5",
+    "result_count": 3,
+    "results": [
+      {
+        "rank": 1,
+        "score": 0.7742809653282166,
+        "chunk_id": "ifs_therapy_for_addiction::small_fixed::sec04::00178",
+        "retrieval_setting": "small_fixed",
+        "source_doc_id": "ifs_therapy_for_addiction",
+        "source_title": "Internal Family Systems Therapy for Addictions",
+        "section_path_str": "SEC04 > 10 Reorienting Firefighters",
+        "parent_id": null,
+        "text": "Therapist: Right. You've been protecting Ida from feeling hopeless and miserable. I know it would be tough and scary to stop. Your help has been essential! But now if Ida could help that hopeless part so it felt stronger and not so alone, would you get a break? Ida's Drinking Part: I guess so. But I'm not sure anyone can help. Therapist: Right, you'd need evidence of that. Ida and I would need to show you. And, with your permission, we will. This session informed Ida about the benign intentions of her drinking part and opened her heart to its feelings. It also introduced her to a key exile. While it is unconventional to invite a client to come to- or stay in-a session while engaging in their compulsive behavior, it can serve to reassure parts quickly and powerfully that we mean what we say: All parts are welcome. We won't judge. WHEN Sykes, Cece, et al. Internal Family Systems Therapy for Addictions: Trauma-Informed, Compassion-Based Interventions for Substance Use, Eating, Gambling and More, PESI,"
+      },
+      {
+        "rank": 2,
+        "score": 0.7680449485778809,
+        "chunk_id": "ifs_couple_therapy::small_fixed::sec02::00115",
+        "retrieval_setting": "small_fixed",
+        "source_doc_id": "ifs_couple_therapy",
+        "source_title": "Internal Family Systems Couple Therapy",
+        "section_path_str": "SEC02 > PT03 > Intrapsychic",
+        "parent_id": null,
+        "text": "Reassuring the client and offering ongoing help [continuing with Wyatt] As I listened, I heard you speaking of many parts. A vigilant Therapist: part who tries to take care of Gwen, a part who withdraws to avoid conflict, and a part who doesn't want to fail in Gwen's eyes. Naming parts to differentiate them and support unblending Sounds right. I'm feeling defeated right now. Wyatt: What if we started right there? The defeated feeling. Therapist: It's heavy. Wyatt: Is it okay to focus on that? [he nods] Is the feeling familiar? Therapist: All my life. I try and try but never quite get things right. Except maybe parenting. I think I' Wyatt: ve done a good job with the kids. Oh, and I guess I've done okay in my career. But in relationships, I'm a loser. There's a judging part. It thinks you're a loser in your relationship with Gwen? Therapist: Naming inner shaming [angrily] Obviously Gwen thinks so. She complains enough. Wyatt: Revealing his external shaming part (the \"outer judge\") So there's a part who feels like you're a loser and a part who judges Gwen when you Therapist: feel that way. Would these parts move back slightly so you can focus on the one who feels so bad? Being pissed off feels better. Wyatt:"
+      },
+      {
+        "rank": 3,
+        "score": 0.7631760835647583,
+        "chunk_id": "ifs_new_dimensions::small_fixed::ch07::00263",
+        "retrieval_setting": "small_fixed",
+        "source_doc_id": "ifs_new_dimensions",
+        "source_title": "Internal Family Systems Therapy: New Dimensions",
+        "section_path_str": "CH07 > Pharma",
+        "parent_id": null,
+        "text": "MY PART FEELS PUSHED John and Michael come in for their usual appointment, however this particular week John seemed more agitated than usual. \"I can't take it anymore,\" he said. \"Michael is so depressed and unable to get anything done at home. I feel like I am doing everything! I work all day and then have to come home at night, cook dinner and clean the house. He does nothing all day long but sit on the couch playing games on the computer. We have been coming here for a while now,\" John looked at me fiercely. \"You are a psychiatrist.\n\nWhy don't you give him a pill or something to stop the drinking?\" I looked at Michael. \"How do you feel about what John just said?\" I asked. \"I am tired of being criticized by him,\" Michael said. \"I can't do anything right. I think I would drink a lot less if he would back off. I'm not that bad.\" \"John,\" I said, \"I think Michael might be able to take a look at his drinking if he felt less criticized.\" \"I knew it!\" he said. \"His drinking is my fault. Once again the responsibility lies on my shoulders. It always turns out that way, my whole life. I want out!\" Aware at this point that a part of mine had incensed a part of John, I took a moment to check inside."
+      }
+    ]
+  },
+  "prompt": {
+    "system_prompt": "You are an AI assistant generating an IFS-informed coaching response for a machine learning retrieval experiment. Your output must be grounded in the provided passages only.\n\nRequirements:\n1. Be clearly IFS-informed: use parts language, curiosity, compassion, and non-pathologizing framing.\n2. Do not diagnose, moralize, or confront the client.\n3. Do not invent facts not supported by the retrieved context.\n4. If the retrieved passages do not fully support a claim, stay modest and say so indirectly by keeping the guidance general.\n5. Focus on what an IFS-informed coach would understand or gently reflect, not on crisis intervention or treatment planning.\n6. Keep the response concise but meaningful: about 1-3 short paragraphs.\n7. End with 2-4 short bullet points labeled 'Grounding notes:' where each bullet references a retrieved idea in plain language.\n",
+    "user_prompt": "Retrieval condition: small_fixed\n\nConsultation window:\nClient: Pressure. Loneliness. The feeling that I can't keep doing this.\nCoach: That sounds like an important burden underneath the urge.\nClient: Yeah, and then another part judges me for drinking at all.\nCoach: So there may be multiple parts here—one trying to numb and one criticizing afterward.\n\n\n\nRetrieved passages:\n\n[Rank 1]\nchunk_id: ifs_therapy_for_addiction::small_fixed::sec04::00178\ntitle: Internal Family Systems Therapy for Addictions\nsection: SEC04 > 10 Reorienting Firefighters\nparent_id: None\npassage:\nTherapist: Right. You've been protecting Ida from feeling hopeless and miserable. I know it would be tough and scary to stop. Your help has been essential! But now if Ida could help that hopeless part so it felt stronger and not so alone, would you get a break? Ida's Drinking Part: I guess so. But I'm not sure anyone can help. Therapist: Right, you'd need evidence of that. Ida and I would need to show you. And, with your permission, we will. This session informed Ida about the benign intentions of her drinking part and opened her heart to its feelings. It also introduced her to a key exile. While it is unconventional to invite a client to come to- or stay in-a session while engaging in their compulsive behavior, it can serve to reassure parts quickly and powerfully that we mean what we say: All parts are welcome. We won't judge. WHEN Sykes, Cece, et al. Internal Family Systems Therapy for Addictions: Trauma-Informed, Compassion-Based Interventions for Substance Use, Eating, Gambling and More, PESI,\n\n--------------------------------------------------------------------------------\n\n[Rank 2]\nchunk_id: ifs_couple_therapy::small_fixed::sec02::00115\ntitle: Internal Family Systems Couple Therapy\nsection: SEC02 > PT03 > Intrapsychic\nparent_id: None\npassage:\nReassuring the client and offering ongoing help [continuing with Wyatt] As I listened, I heard you speaking of many parts. A vigilant Therapist: part who tries to take care of Gwen, a part who withdraws to avoid conflict, and a part who doesn't want to fail in Gwen's eyes. Naming parts to differentiate them and support unblending Sounds right. I'm feeling defeated right now. Wyatt: What if we started right there? The defeated feeling. Therapist: It's heavy. Wyatt: Is it okay to focus on that? [he nods] Is the feeling familiar? Therapist: All my life. I try and try but never quite get things right. Except maybe parenting. I think I' Wyatt: ve done a good job with the kids. Oh, and I guess I've done okay in my career. But in relationships, I'm a loser. There's a judging part. It thinks you're a loser in your relationship with Gwen? Therapist: Naming inner shaming [angrily] Obviously Gwen thinks so. She complains enough. Wyatt: Revealing his external shaming part (the \"outer judge\") So there's a part who feels like you're a loser and a part who judges Gwen when you Therapist: feel that way. Would these parts move back slightly so you can focus on the one who feels so bad? Being pissed off feels better. Wyatt:\n\n--------------------------------------------------------------------------------\n\n[Rank 3]\nchunk_id: ifs_new_dimensions::small_fixed::ch07::00263\ntitle: Internal Family Systems Therapy: New Dimensions\nsection: CH07 > Pharma\nparent_id: None\npassage:\nMY PART FEELS PUSHED John and Michael come in for their usual appointment, however this particular week John seemed more agitated than usual. \"I can't take it anymore,\" he said. \"Michael is so depressed and unable to get anything done at home. I feel like I am doing everything! I work all day and then have to come home at night, cook dinner and clean the house. He does nothing all day long but sit on the couch playing games on the computer. We have been coming here for a while now,\" John looked at me fiercely. \"You are a psychiatrist.\n\nWhy don't you give him a pill or something to stop the drinking?\" I looked at Michael. \"How do you feel about what John just said?\" I asked. \"I am tired of being criticized by him,\" Michael said. \"I can't do anything right. I think I would drink a lot less if he would back off. I'm not that bad.\" \"John,\" I said, \"I think Michael might be able to take a look at his drinking if he felt less criticized.\" \"I knew it!\" he said. \"His drinking is my fault. Once again the responsibility lies on my shoulders. It always turns out that way, my whole life. I want out!\" Aware at this point that a part of mine had incensed a part of John, I took a moment to check inside.\n\nWrite a grounded IFS-informed coaching response for this consultation window."
+  },
+  "generated_response": "[MOCK OUTPUT]\n\nAn IFS-informed coach might approach this by assuming that the conflicting or extreme behaviors make sense from the perspective of parts that are trying to protect the person from something more vulnerable. Rather than trying to eliminate the behavior or argue with the part, the coach would stay curious about what the part fears would happen if it did not do this job, and what pain, shame, or overwhelm it may be trying to prevent.\n\nThe coach would also want to help the person notice any critical, controlling, or reactive parts that are escalating the inner conflict. In IFS, these parts are usually not treated as the enemy; they are understood as protectors with positive intentions, even when their strategies are costly. A grounded response would therefore emphasize compassion, differentiation, and learning from the parts rather than confronting them.\n\nGrounding notes:\n- Retrieved passages centered on: Internal Family Systems Therapy for Addictions / SEC04 > 10 Reorienting Firefighters\n- Additional retrieval support came from: Internal Family Systems Couple Therapy / SEC02 > PT03 > Intrapsychic\n- The retrieved material emphasized protectors' positive intentions and curiosity about their role.\n- The retrieved material also emphasized reducing inner conflict rather than taking sides against a part.\n"
+}

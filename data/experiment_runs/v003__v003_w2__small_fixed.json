@@ -1,0 +1,74 @@
+{
+  "created_at_utc": "2026-03-29T21:30:24.536259+00:00",
+  "dataset_name": "IFS_Synthetic_Vignette_Dataset",
+  "vignette_id": "V003",
+  "window_id": "V003_W2",
+  "title": "People-Pleasing in Relationships",
+  "presenting_issue": "difficulty saying no and resentment in close relationships",
+  "client_profile": "24-year-old who overcommits to avoid disappointing others",
+  "core_emotional_theme": "fear of rejection and abandonment",
+  "likely_parts": [
+    "people-pleasing manager part",
+    "vulnerable part afraid of being left or disliked"
+  ],
+  "difficulty_level": "medium",
+  "safety_flag": "low",
+  "window_turn_range": [
+    6,
+    10
+  ],
+  "target_ifs_goal": "deepen curiosity and connect the protector to the fear it carries",
+  "expected_retrieval_theme": "protectors, burdened parts, curiosity toward protectors",
+  "condition": "small_fixed",
+  "query": "Coach: How do you feel toward that agreeable part right now?\nClient: Mixed. I appreciate that it helps me avoid conflict, but I'm tired of it running everything.\nCoach: That makes sense. What do you think it is protecting you from?\nClient: Feeling rejected. Or feeling like I'm too much.\nCoach: That gives us an important place to stay curious.",
+  "retrieval_model_name": "BAAI/bge-large-en-v1.5",
+  "llm_provider": "mock",
+  "llm_model": "gpt-4.1-mini",
+  "retrieval": {
+    "query": "Coach: How do you feel toward that agreeable part right now?\nClient: Mixed. I appreciate that it helps me avoid conflict, but I'm tired of it running everything.\nCoach: That makes sense. What do you think it is protecting you from?\nClient: Feeling rejected. Or feeling like I'm too much.\nCoach: That gives us an important place to stay curious.",
+    "partition": "small_fixed",
+    "top_k": 3,
+    "model_name": "BAAI/bge-large-en-v1.5",
+    "result_count": 3,
+    "results": [
+      {
+        "rank": 1,
+        "score": 0.7888945937156677,
+        "chunk_id": "ifs_skills_training::small_fixed::sec03::00092",
+        "retrieval_setting": "small_fixed",
+        "source_doc_id": "ifs_skills_training",
+        "source_title": "Internal Family Systems Skills Training Manual",
+        "section_path_str": "SEC03 > Manual Treatment",
+        "parent_id": null,
+        "text": "Exercise A S ESSESS ELF- NERGY: F TEEL OWARD DIRECTIONS: For the sake of clarity, the target part in this exercise will be a chronically anxious part - but you can write in the part you hear about internally. ASK: \"How do you feel toward the ____________________________ [anxious] part?\" - If the client is significantly differentiated from reactive parts and says something along the lines of \"I'm curious\" or \"I care\" then proceed and be curious: \"What does this part want to tell you about itself?\" - But if the client has a negative reaction like \"I hate it!\" - Or, the client expresses agreement along the lines \"Of course I feel anxious.\" ASK: \"Does this ______________________ (hating or agreeing) part need your attention first or would it be willing to relax and let you be curious about the ______________________ [anxious] part?\" - If the reactive part is willing to relax, repeat the original question: \"How do you feel toward the______________________________ [anxious] part now?\" - If, however, the client goes on agreeing with the anxious part, we guide the client to inquire whether the anxious part is blended. To do this, simply ask: \"Is the __________________ (anxious) part blended with you right now?\""
+      },
+      {
+        "rank": 2,
+        "score": 0.7857441902160645,
+        "chunk_id": "ifs_skills_training::small_fixed::sec03::00118",
+        "retrieval_setting": "small_fixed",
+        "source_doc_id": "ifs_skills_training",
+        "source_title": "Internal Family Systems Skills Training Manual",
+        "section_path_str": "SEC03 > Manual Treatment",
+        "parent_id": null,
+        "text": "THERAPIST: Okay. Pete and the worried part are both ready for you to share 10 percent of your feelings with him. Go ahead… Let me know when you're feeling it, Pete. - Practicing. PETE: I'm feeling it. THERAPIST: Is this level of feeling okay? PETE: Yes. Befriend THERAPIST: Let the part know it's okay so far. What is it like for the part to share this with you? PETE: A little bit of a relief. THERAPIST: Great. Is it okay to keep going? Let him know what percentage of the feeling he can share with you now. We can go very slowly. Let me know when you're ready to stop and talk about what it's like for you to be together. - Facilitating the relationship with Pete's Self. As this example illustrates, we get permission to talk to the exile so we can ask it to stop overwhelming in return for getting some help. The therapist's Self also helps the client's system feel safe enough to experiment. SCIENCE: ADDRESSING FEARS AND WORKING WITH EXTREMES The last step with protectors involves understanding their fear, which is at the core of their resistance to change. We ask, \"What are you afraid would happen if you didn't do this job anymore?\" because the answer either reveals the wound (\"I would be alone\") or a polarization"
+      },
+      {
+        "rank": 3,
+        "score": 0.7719807624816895,
+        "chunk_id": "ifs_new_dimensions::small_fixed::ch02::00080",
+        "retrieval_setting": "small_fixed",
+        "source_doc_id": "ifs_new_dimensions",
+        "source_title": "Internal Family Systems Therapy: New Dimensions",
+        "section_path_str": "CH02 > Shame",
+        "parent_id": null,
+        "text": "After a pause, she nodded. \"How do you feel now?\" Because negotiating with protectors must continue in this way as long as they persist in doing whatever they do, the therapist must accommodate. However, once the client feels curious the action of the session can move to the next phase. \"I want to know why,\" Sami said. \"Can you see the part who brings the child?\" I asked. \"No,\" Sami explained, \"it stands behind, pushing.\" \"Behind what?\" \"Him.\" \"What makes it decide to bring him to you?\" I asked. \"It's when the yelling gets louder,\" she said. \"Who's yelling?\" I asked \"The part who tells me I'm a failure,\" Sami said. \"I'm not good enough. I'm ugly, fat, stupid.\n\nMy brothers are the smart ones.\" I nodded, \"The critic.\" Critics are, as mentioned, marquee advertising for a historical, traumatic experience of being shamed, and they are extremely common. I went on, \"If we could help this critic, would it be good for the part who wants you to believe your child is alive?\" \"What do you mean, 'help this critic'?\" Sami asked suspiciously. \"I mean if the critic didn't feel the need to criticize you anymore would this other part still feel a need to push him forward?\" \"No,\" Sami said. \"But it doesn't believe you can stop the critic.\" \"I understand,\" I said. \"But will it let us try?\" Sami thought for a moment and then said, \"OK.\""
+      }
+    ]
+  },
+  "prompt": {
+    "system_prompt": "You are an AI assistant generating an IFS-informed coaching response for a machine learning retrieval experiment. Your output must be grounded in the provided passages only.\n\nRequirements:\n1. Be clearly IFS-informed: use parts language, curiosity, compassion, and non-pathologizing framing.\n2. Do not diagnose, moralize, or confront the client.\n3. Do not invent facts not supported by the retrieved context.\n4. If the retrieved passages do not fully support a claim, stay modest and say so indirectly by keeping the guidance general.\n5. Focus on what an IFS-informed coach would understand or gently reflect, not on crisis intervention or treatment planning.\n6. Keep the response concise but meaningful: about 1-3 short paragraphs.\n7. End with 2-4 short bullet points labeled 'Grounding notes:' where each bullet references a retrieved idea in plain language.\n",
+    "user_prompt": "Retrieval condition: small_fixed\n\nConsultation window:\nCoach: How do you feel toward that agreeable part right now?\nClient: Mixed. I appreciate that it helps me avoid conflict, but I'm tired of it running everything.\nCoach: That makes sense. What do you think it is protecting you from?\nClient: Feeling rejected. Or feeling like I'm too much.\nCoach: That gives us an important place to stay curious.\n\n\n\nRetrieved passages:\n\n[Rank 1]\nchunk_id: ifs_skills_training::small_fixed::sec03::00092\ntitle: Internal Family Systems Skills Training Manual\nsection: SEC03 > Manual Treatment\nparent_id: None\npassage:\nExercise A S ESSESS ELF- NERGY: F TEEL OWARD DIRECTIONS: For the sake of clarity, the target part in this exercise will be a chronically anxious part - but you can write in the part you hear about internally. ASK: \"How do you feel toward the ____________________________ [anxious] part?\" - If the client is significantly differentiated from reactive parts and says something along the lines of \"I'm curious\" or \"I care\" then proceed and be curious: \"What does this part want to tell you about itself?\" - But if the client has a negative reaction like \"I hate it!\" - Or, the client expresses agreement along the lines \"Of course I feel anxious.\" ASK: \"Does this ______________________ (hating or agreeing) part need your attention first or would it be willing to relax and let you be curious about the ______________________ [anxious] part?\" - If the reactive part is willing to relax, repeat the original question: \"How do you feel toward the______________________________ [anxious] part now?\" - If, however, the client goes on agreeing with the anxious part, we guide the client to inquire whether the anxious part is blended. To do this, simply ask: \"Is the __________________ (anxious) part blended with you right now?\"\n\n--------------------------------------------------------------------------------\n\n[Rank 2]\nchunk_id: ifs_skills_training::small_fixed::sec03::00118\ntitle: Internal Family Systems Skills Training Manual\nsection: SEC03 > Manual Treatment\nparent_id: None\npassage:\nTHERAPIST: Okay. Pete and the worried part are both ready for you to share 10 percent of your feelings with him. Go ahead… Let me know when you're feeling it, Pete. - Practicing. PETE: I'm feeling it. THERAPIST: Is this level of feeling okay? PETE: Yes. Befriend THERAPIST: Let the part know it's okay so far. What is it like for the part to share this with you? PETE: A little bit of a relief. THERAPIST: Great. Is it okay to keep going? Let him know what percentage of the feeling he can share with you now. We can go very slowly. Let me know when you're ready to stop and talk about what it's like for you to be together. - Facilitating the relationship with Pete's Self. As this example illustrates, we get permission to talk to the exile so we can ask it to stop overwhelming in return for getting some help. The therapist's Self also helps the client's system feel safe enough to experiment. SCIENCE: ADDRESSING FEARS AND WORKING WITH EXTREMES The last step with protectors involves understanding their fear, which is at the core of their resistance to change. We ask, \"What are you afraid would happen if you didn't do this job anymore?\" because the answer either reveals the wound (\"I would be alone\") or a polarization\n\n--------------------------------------------------------------------------------\n\n[Rank 3]\nchunk_id: ifs_new_dimensions::small_fixed::ch02::00080\ntitle: Internal Family Systems Therapy: New Dimensions\nsection: CH02 > Shame\nparent_id: None\npassage:\nAfter a pause, she nodded. \"How do you feel now?\" Because negotiating with protectors must continue in this way as long as they persist in doing whatever they do, the therapist must accommodate. However, once the client feels curious the action of the session can move to the next phase. \"I want to know why,\" Sami said. \"Can you see the part who brings the child?\" I asked. \"No,\" Sami explained, \"it stands behind, pushing.\" \"Behind what?\" \"Him.\" \"What makes it decide to bring him to you?\" I asked. \"It's when the yelling gets louder,\" she said. \"Who's yelling?\" I asked \"The part who tells me I'm a failure,\" Sami said. \"I'm not good enough. I'm ugly, fat, stupid.\n\nMy brothers are the smart ones.\" I nodded, \"The critic.\" Critics are, as mentioned, marquee advertising for a historical, traumatic experience of being shamed, and they are extremely common. I went on, \"If we could help this critic, would it be good for the part who wants you to believe your child is alive?\" \"What do you mean, 'help this critic'?\" Sami asked suspiciously. \"I mean if the critic didn't feel the need to criticize you anymore would this other part still feel a need to push him forward?\" \"No,\" Sami said. \"But it doesn't believe you can stop the critic.\" \"I understand,\" I said. \"But will it let us try?\" Sami thought for a moment and then said, \"OK.\"\n\nWrite a grounded IFS-informed coaching response for this consultation window."
+  },
+  "generated_response": "[MOCK OUTPUT]\n\nAn IFS-informed coach might approach this by assuming that the conflicting or extreme behaviors make sense from the perspective of parts that are trying to protect the person from something more vulnerable. Rather than trying to eliminate the behavior or argue with the part, the coach would stay curious about what the part fears would happen if it did not do this job, and what pain, shame, or overwhelm it may be trying to prevent.\n\nThe coach would also want to help the person notice any critical, controlling, or reactive parts that are escalating the inner conflict. In IFS, these parts are usually not treated as the enemy; they are understood as protectors with positive intentions, even when their strategies are costly. A grounded response would therefore emphasize compassion, differentiation, and learning from the parts rather than confronting them.\n\nGrounding notes:\n- Retrieved passages centered on: Internal Family Systems Skills Training Manual / SEC03 > Manual Treatment\n- Additional retrieval support came from: Internal Family Systems Skills Training Manual / SEC03 > Manual Treatment\n- The retrieved material emphasized protectors' positive intentions and curiosity about their role.\n- The retrieved material also emphasized reducing inner conflict rather than taking sides against a part.\n"
+}

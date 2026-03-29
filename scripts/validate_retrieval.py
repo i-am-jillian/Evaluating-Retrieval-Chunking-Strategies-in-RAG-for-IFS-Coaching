@@ -13,8 +13,8 @@ from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any, Dict, List, Optional
 
-from preprocessing.retrieve import search_partition
-from preprocessing.hierarchical_retrieve import hierarchical_retrieve
+from retrieval.retrieve import search_partition
+from retrieval.hierarchical_retrieve import hierarchical_retrieve
 
 
 DEFAULT_INDEX_ROOT = "data/test_indexes"

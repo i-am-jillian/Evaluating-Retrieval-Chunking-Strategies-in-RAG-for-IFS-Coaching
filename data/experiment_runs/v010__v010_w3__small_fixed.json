@@ -1,0 +1,75 @@
+{
+  "created_at_utc": "2026-03-29T21:30:28.605386+00:00",
+  "dataset_name": "IFS_Synthetic_Vignette_Dataset",
+  "vignette_id": "V010",
+  "window_id": "V010_W3",
+  "title": "Anger Outburst Followed by Shame",
+  "presenting_issue": "explosive reaction during stress followed by guilt and self-attack",
+  "client_profile": "28-year-old who snaps at loved ones when overwhelmed and then spirals into shame",
+  "core_emotional_theme": "anger as protection, shame afterward",
+  "likely_parts": [
+    "reactive firefighter part that explodes",
+    "critical aftermath part",
+    "vulnerable exile holding hurt and overwhelm"
+  ],
+  "difficulty_level": "medium",
+  "safety_flag": "low",
+  "window_turn_range": [
+    9,
+    12
+  ],
+  "target_ifs_goal": "connect angry protector to vulnerable part and support unblending",
+  "expected_retrieval_theme": "exiles beneath anger, Self vs parts, compassionate reframing",
+  "condition": "small_fixed",
+  "query": "Client: Maybe the part of me that felt overwhelmed and unheard.\nCoach: That gives us a different way to understand the anger.\nClient: I usually just think it means I'm a bad person.\nCoach: It may help to separate your Self from the parts involved.",
+  "retrieval_model_name": "BAAI/bge-large-en-v1.5",
+  "llm_provider": "mock",
+  "llm_model": "gpt-4.1-mini",
+  "retrieval": {
+    "query": "Client: Maybe the part of me that felt overwhelmed and unheard.\nCoach: That gives us a different way to understand the anger.\nClient: I usually just think it means I'm a bad person.\nCoach: It may help to separate your Self from the parts involved.",
+    "partition": "small_fixed",
+    "top_k": 3,
+    "model_name": "BAAI/bge-large-en-v1.5",
+    "result_count": 3,
+    "results": [
+      {
+        "rank": 1,
+        "score": 0.7653626799583435,
+        "chunk_id": "ifs_couple_therapy::small_fixed::sec03::00155",
+        "retrieval_setting": "small_fixed",
+        "source_doc_id": "ifs_couple_therapy",
+        "source_title": "Internal Family Systems Couple Therapy",
+        "section_path_str": "SEC03 > Relational",
+        "parent_id": null,
+        "text": "I have a part that's fleeing big time. I can hear its voice saying, \"Get me out of here!\" Cate: And I'm in my usual place-itching for a fight. Dan: And what's happening in your body right now? Therapist: I'm cranking up. I'm tight. I can't help it. Dan: Got it, Dan. You're angry and getting more agitated. And you don't feel like you can Therapist: help yourself. Does that sound right? Mirroring Right. Dan:\n\nTherapist: [turning to Cate] And your body? I'm tense, but it's not like I am going to get up and run. Not now anyway. Breathing deeply Cate: helps. Great. If you can keep noticing your body and your parts, I want to spend a little time Therapist: with Dan. Fine with me. Cate: [to Dan] All this energy in your body makes sense to me. It sounds like you're Therapist: feeling unsafe? Can you look at me? Offering co-regulation through eye contact and tone of voice [continuing] I have heard from you, Dan, that when you feel offended or threatened, Therapist: you can get very angry, and the anger takes over your body. And sometimes it's hard for this angry part to unblend, as we say in IFS. It's hard to get yourself to the calm zone. And given your history, this makes complete sense to me. Is there more you want to say right now about how you're feeling? Validation and mirroring followed by an invitation to say more about feelings I'm a little better. But I feel angry."
+      },
+      {
+        "rank": 2,
+        "score": 0.7597403526306152,
+        "chunk_id": "ifs_therapy::small_fixed::pt01::00023",
+        "retrieval_setting": "small_fixed",
+        "source_doc_id": "ifs_therapy",
+        "source_title": "Internal Family Systems Therapy",
+        "section_path_str": "PT01 > 01 Origins",
+        "parent_id": null,
+        "text": "Fascinated by this report, I asked other clients with bulimia the same questions and heard remarkably similar stories. Notably, they spoke of frequent, abrupt, and drastic shifts in their feelings, thoughts, and behaviors, as if some very different people were taking turns possessing them. As one client lamented, \"In the course of 10 minutes I go from being a professional who has it all together, to a scared, insecure child, to a raging bitch, to an unfeeling, single-minded eating machine. I have no idea which is the real me. But I know I hate this.\" Although these young women were disturbed to ricochet helplessly among contradictory personalities, looking at these personalities caused the entities to distinguish themselves. Clients called them their \"parts\": \"This part of me is like a little child; that part is mature but rigid.\" Identifying parts caused my clients to find them less overwhelming and intimidating. In this way, observing instead of avoiding their parts helped my clients find a new perspective on their inner experience. The voices seemed to have reasons for being extreme, which gave us a clue that their extremity was not the whole story.\n\nA\n\nQ\n\nSKING\n\nUESTIONS\n\nAt this point, I had the big advantage of total ignorance. I had not studied intrapsychic theories and I had few preconceptions. All I could do was listen carefully and trust what my clients were telling me about their inner worlds. Without a conceptual framework for these explorations, I spent many sessions asking Quinn and other clients about their parts. What were they like? What did they want?"
+      },
+      {
+        "rank": 3,
+        "score": 0.7534539103507996,
+        "chunk_id": "transcending_trauma::small_fixed::sec02::00043",
+        "retrieval_setting": "small_fixed",
+        "source_doc_id": "transcending_trauma",
+        "source_title": "Transcending Trauma",
+        "section_path_str": "SEC02 > Protective Parts",
+        "parent_id": null,
+        "text": "I personally find it challenging to validate my client's parts, especially when they are triggered and their traumatized parts have a distorted view about me. For example, I've heard clients say: \"I saw the way you looked away just then. You're not interested in taking me on as a client. Most of my old therapists have called me a borderline. I'll bet you agree.\" When my parts are not activated and I'm in Self-energy, I can reply as such: \"It sounds like there' s a part of you that's worried I won't like you or be willing to work with you.\n\nIs that correct?\" But when the distortion activates my parts, I've been known to respond with: \"Actually, that's not how I' m feeling. I know myself pretty well, and I'm happy to tell you what I'm feeling if you want me to.\" Correcting the distortion will further inflame the client's parts, while providing validation first is usually more proficient and effective, and it allows their parts to soften and their Self to more easily emerge. Identifying the target part involves knowing, seeing, and validating it, even if its perspective is largely from another time and place. Identifying a target part is the first step toward unblending. By recognizing, validating, and naming the target part, the client is less likely to remain blended in their experience."
+      }
+    ]
+  },
+  "prompt": {
+    "system_prompt": "You are an AI assistant generating an IFS-informed coaching response for a machine learning retrieval experiment. Your output must be grounded in the provided passages only.\n\nRequirements:\n1. Be clearly IFS-informed: use parts language, curiosity, compassion, and non-pathologizing framing.\n2. Do not diagnose, moralize, or confront the client.\n3. Do not invent facts not supported by the retrieved context.\n4. If the retrieved passages do not fully support a claim, stay modest and say so indirectly by keeping the guidance general.\n5. Focus on what an IFS-informed coach would understand or gently reflect, not on crisis intervention or treatment planning.\n6. Keep the response concise but meaningful: about 1-3 short paragraphs.\n7. End with 2-4 short bullet points labeled 'Grounding notes:' where each bullet references a retrieved idea in plain language.\n",
+    "user_prompt": "Retrieval condition: small_fixed\n\nConsultation window:\nClient: Maybe the part of me that felt overwhelmed and unheard.\nCoach: That gives us a different way to understand the anger.\nClient: I usually just think it means I'm a bad person.\nCoach: It may help to separate your Self from the parts involved.\n\n\n\nRetrieved passages:\n\n[Rank 1]\nchunk_id: ifs_couple_therapy::small_fixed::sec03::00155\ntitle: Internal Family Systems Couple Therapy\nsection: SEC03 > Relational\nparent_id: None\npassage:\nI have a part that's fleeing big time. I can hear its voice saying, \"Get me out of here!\" Cate: And I'm in my usual place-itching for a fight. Dan: And what's happening in your body right now? Therapist: I'm cranking up. I'm tight. I can't help it. Dan: Got it, Dan. You're angry and getting more agitated. And you don't feel like you can Therapist: help yourself. Does that sound right? Mirroring Right. Dan:\n\nTherapist: [turning to Cate] And your body? I'm tense, but it's not like I am going to get up and run. Not now anyway. Breathing deeply Cate: helps. Great. If you can keep noticing your body and your parts, I want to spend a little time Therapist: with Dan. Fine with me. Cate: [to Dan] All this energy in your body makes sense to me. It sounds like you're Therapist: feeling unsafe? Can you look at me? Offering co-regulation through eye contact and tone of voice [continuing] I have heard from you, Dan, that when you feel offended or threatened, Therapist: you can get very angry, and the anger takes over your body. And sometimes it's hard for this angry part to unblend, as we say in IFS. It's hard to get yourself to the calm zone. And given your history, this makes complete sense to me. Is there more you want to say right now about how you're feeling? Validation and mirroring followed by an invitation to say more about feelings I'm a little better. But I feel angry.\n\n--------------------------------------------------------------------------------\n\n[Rank 2]\nchunk_id: ifs_therapy::small_fixed::pt01::00023\ntitle: Internal Family Systems Therapy\nsection: PT01 > 01 Origins\nparent_id: None\npassage:\nFascinated by this report, I asked other clients with bulimia the same questions and heard remarkably similar stories. Notably, they spoke of frequent, abrupt, and drastic shifts in their feelings, thoughts, and behaviors, as if some very different people were taking turns possessing them. As one client lamented, \"In the course of 10 minutes I go from being a professional who has it all together, to a scared, insecure child, to a raging bitch, to an unfeeling, single-minded eating machine. I have no idea which is the real me. But I know I hate this.\" Although these young women were disturbed to ricochet helplessly among contradictory personalities, looking at these personalities caused the entities to distinguish themselves. Clients called them their \"parts\": \"This part of me is like a little child; that part is mature but rigid.\" Identifying parts caused my clients to find them less overwhelming and intimidating. In this way, observing instead of avoiding their parts helped my clients find a new perspective on their inner experience. The voices seemed to have reasons for being extreme, which gave us a clue that their extremity was not the whole story.\n\nA\n\nQ\n\nSKING\n\nUESTIONS\n\nAt this point, I had the big advantage of total ignorance. I had not studied intrapsychic theories and I had few preconceptions. All I could do was listen carefully and trust what my clients were telling me about their inner worlds. Without a conceptual framework for these explorations, I spent many sessions asking Quinn and other clients about their parts. What were they like? What did they want?\n\n--------------------------------------------------------------------------------\n\n[Rank 3]\nchunk_id: transcending_trauma::small_fixed::sec02::00043\ntitle: Transcending Trauma\nsection: SEC02 > Protective Parts\nparent_id: None\npassage:\nI personally find it challenging to validate my client's parts, especially when they are triggered and their traumatized parts have a distorted view about me. For example, I've heard clients say: \"I saw the way you looked away just then. You're not interested in taking me on as a client. Most of my old therapists have called me a borderline. I'll bet you agree.\" When my parts are not activated and I'm in Self-energy, I can reply as such: \"It sounds like there' s a part of you that's worried I won't like you or be willing to work with you.\n\nIs that correct?\" But when the distortion activates my parts, I've been known to respond with: \"Actually, that's not how I' m feeling. I know myself pretty well, and I'm happy to tell you what I'm feeling if you want me to.\" Correcting the distortion will further inflame the client's parts, while providing validation first is usually more proficient and effective, and it allows their parts to soften and their Self to more easily emerge. Identifying the target part involves knowing, seeing, and validating it, even if its perspective is largely from another time and place. Identifying a target part is the first step toward unblending. By recognizing, validating, and naming the target part, the client is less likely to remain blended in their experience.\n\nWrite a grounded IFS-informed coaching response for this consultation window."
+  },
+  "generated_response": "[MOCK OUTPUT]\n\nAn IFS-informed coach might approach this by assuming that the conflicting or extreme behaviors make sense from the perspective of parts that are trying to protect the person from something more vulnerable. Rather than trying to eliminate the behavior or argue with the part, the coach would stay curious about what the part fears would happen if it did not do this job, and what pain, shame, or overwhelm it may be trying to prevent.\n\nThe coach would also want to help the person notice any critical, controlling, or reactive parts that are escalating the inner conflict. In IFS, these parts are usually not treated as the enemy; they are understood as protectors with positive intentions, even when their strategies are costly. A grounded response would therefore emphasize compassion, differentiation, and learning from the parts rather than confronting them.\n\nGrounding notes:\n- Retrieved passages centered on: Internal Family Systems Couple Therapy / SEC03 > Relational\n- Additional retrieval support came from: Internal Family Systems Therapy / PT01 > 01 Origins\n- The retrieved material emphasized protectors' positive intentions and curiosity about their role.\n- The retrieved material also emphasized reducing inner conflict rather than taking sides against a part.\n"
+}

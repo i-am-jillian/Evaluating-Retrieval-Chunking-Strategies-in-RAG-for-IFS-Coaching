@@ -1,5 +1,17 @@
-CHUNK_SMALL = 350
-CHUNK_MEDIUM = 900
-CHUNK_OVERLAP = 0.2
-TOP_K = 5
-EMBED_MODEL = "bge-small-en"
+DEFAULT_INDEX_ROOT = "data/test_indexes"
+DEFAULT_EMBED_ROOT = "data/test_embeddings"
+DEFAULT_DATASET_PATH = "data/synthetic_vignettes.json"
+
+DEFAULT_RETRIEVAL_MODEL_NAME = "BAAI/bge-large-en-v1.5"
+
+DEFAULT_TOP_K = 3
+DEFAULT_PARENT_TOP_K = 3
+DEFAULT_CHILD_TOP_K_PER_PARENT = 2
+DEFAULT_FINAL_TOP_K = 5
+
+DEFAULT_LLM_PROVIDER = "mock"
+DEFAULT_LLM_MODEL = "gpt-4.1-mini"
+
+DEFAULT_GENERATION_OUTPUT_DIR = "data/generation_pilot"
+DEFAULT_RETRIEVAL_VALIDATION_OUTPUT_DIR = "data/retrieval_validation"
+DEFAULT_EXPERIMENT_OUTPUT_DIR = "data/experiment_runs"

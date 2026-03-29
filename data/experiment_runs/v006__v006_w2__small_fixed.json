@@ -1,0 +1,75 @@
+{
+  "created_at_utc": "2026-03-29T21:30:25.844170+00:00",
+  "dataset_name": "IFS_Synthetic_Vignette_Dataset",
+  "vignette_id": "V006",
+  "window_id": "V006_W2",
+  "title": "Stress Drinking as Protective Soothing",
+  "presenting_issue": "using alcohol at night to shut down stress",
+  "client_profile": "33-year-old professional who feels overwhelmed after work and drinks most evenings to turn off",
+  "core_emotional_theme": "overwhelm, exhaustion, and avoidance of painful feelings",
+  "likely_parts": [
+    "firefighter part using alcohol for quick relief",
+    "driven manager part that over-functions during the day",
+    "overwhelmed exile carrying pressure and loneliness"
+  ],
+  "difficulty_level": "medium",
+  "safety_flag": "medium",
+  "window_turn_range": [
+    5,
+    8
+  ],
+  "target_ifs_goal": "explore the positive intent of the firefighter part",
+  "expected_retrieval_theme": "protective intent, compassion toward addictive parts",
+  "condition": "small_fixed",
+  "query": "Client: Yeah, it feels like a part that says, 'Just make this stop.'\nCoach: How do you feel toward that part when you notice it?\nClient: Mixed. I know it causes problems, but it also feels like the only thing helping sometimes.\nCoach: What do you imagine it is trying to help you avoid or escape from?",
+  "retrieval_model_name": "BAAI/bge-large-en-v1.5",
+  "llm_provider": "mock",
+  "llm_model": "gpt-4.1-mini",
+  "retrieval": {
+    "query": "Client: Yeah, it feels like a part that says, 'Just make this stop.'\nCoach: How do you feel toward that part when you notice it?\nClient: Mixed. I know it causes problems, but it also feels like the only thing helping sometimes.\nCoach: What do you imagine it is trying to help you avoid or escape from?",
+    "partition": "small_fixed",
+    "top_k": 3,
+    "model_name": "BAAI/bge-large-en-v1.5",
+    "result_count": 3,
+    "results": [
+      {
+        "rank": 1,
+        "score": 0.796190619468689,
+        "chunk_id": "ifs_skills_training::small_fixed::sec03::00048",
+        "retrieval_setting": "small_fixed",
+        "source_doc_id": "ifs_skills_training",
+        "source_title": "Internal Family Systems Skills Training Manual",
+        "section_path_str": "SEC03 > Manual Treatment",
+        "parent_id": null,
+        "text": "Then notice where you find that feeling of stress in, on or around your body. LOGAN: In my stomach. I feel kind of sick all the time. THERAPIST: How do you feel toward that sick sensation? LOGAN: Honestly I wish it would stop. I know I may not get A's but I'd like to get through this term without losing my mind. - This is another part. THERAPIST: So the one who wants it to stop sounds like another part who has an important perspective. But would it be willing to let you hear from the stressed part first if we ask it not to overwhelm you? - The therapist asks this other part for permission to proceed with the target part. LOGAN: Okay. THERAPIST: Let it know that you want to help but if it takes you over, you won't be there to help. Is it willing to not overwhelm you? LOGAN: Yes. THERAPIST: Good. How do you feel toward the stressed part now? - As we illustrate throughout this manual, \"how do you feel toward\" is a key question for assessing how open the client is to hearing from a target part, which is the same as determining the client's level of Self-energy."
+      },
+      {
+        "rank": 2,
+        "score": 0.788650393486023,
+        "chunk_id": "ifs_couple_therapy::small_fixed::sec02::00073",
+        "retrieval_setting": "small_fixed",
+        "source_doc_id": "ifs_couple_therapy",
+        "source_title": "Internal Family Systems Couple Therapy",
+        "section_path_str": "SEC02 > PT03 > Communication",
+        "parent_id": null,
+        "text": "[sighs and focuses inward] I feel okay. I know this feeling. Cooper: What do you know about it? Therapist: It means I'm afraid. Cooper: A part of you is afraid? Therapist: Asserting the importance of parts language Maybe that I can't meet all of her needs? Cooper: And what else does the part say? Therapist: I'll never get what I need. Cooper: Which is? Therapist: I don't even know… Cooper: This is important. So let's be sure we understand. You have needs. But what are Therapist: they? Your needs can't get through to you. And then Ulma comes along and seems to be expecting you to do something about her needs. I'm guessing this all feels like too much for your frustrated part. Who will meet all of these needs, inside and out? Naming the projection: \"When your protectors exile your needs, they will also exile her needs.\" Yeah. Who will? Cooper: At this point, the therapist invited Cooper to speak for his frustrated part. We always aim for unblended speech, which fosters a re-turn to the partner with a broader perspective, a relaxed nervous system, and the readiness to reconnect. When we speak for a part, we honor its need to be heard clearly, which helps it be willing to unblend. That is a great question, Cooper. Let me help. Okay? First, I'll invite you to Therapist: experiment with speaking for your frustrated part with Ulma. You mean instead of always saying what the part is upset about? Cooper:"
+      },
+      {
+        "rank": 3,
+        "score": 0.7862986922264099,
+        "chunk_id": "ifs_couple_therapy::small_fixed::sec03::00155",
+        "retrieval_setting": "small_fixed",
+        "source_doc_id": "ifs_couple_therapy",
+        "source_title": "Internal Family Systems Couple Therapy",
+        "section_path_str": "SEC03 > Relational",
+        "parent_id": null,
+        "text": "I have a part that's fleeing big time. I can hear its voice saying, \"Get me out of here!\" Cate: And I'm in my usual place-itching for a fight. Dan: And what's happening in your body right now? Therapist: I'm cranking up. I'm tight. I can't help it. Dan: Got it, Dan. You're angry and getting more agitated. And you don't feel like you can Therapist: help yourself. Does that sound right? Mirroring Right. Dan:\n\nTherapist: [turning to Cate] And your body? I'm tense, but it's not like I am going to get up and run. Not now anyway. Breathing deeply Cate: helps. Great. If you can keep noticing your body and your parts, I want to spend a little time Therapist: with Dan. Fine with me. Cate: [to Dan] All this energy in your body makes sense to me. It sounds like you're Therapist: feeling unsafe? Can you look at me? Offering co-regulation through eye contact and tone of voice [continuing] I have heard from you, Dan, that when you feel offended or threatened, Therapist: you can get very angry, and the anger takes over your body. And sometimes it's hard for this angry part to unblend, as we say in IFS. It's hard to get yourself to the calm zone. And given your history, this makes complete sense to me. Is there more you want to say right now about how you're feeling? Validation and mirroring followed by an invitation to say more about feelings I'm a little better. But I feel angry."
+      }
+    ]
+  },
+  "prompt": {
+    "system_prompt": "You are an AI assistant generating an IFS-informed coaching response for a machine learning retrieval experiment. Your output must be grounded in the provided passages only.\n\nRequirements:\n1. Be clearly IFS-informed: use parts language, curiosity, compassion, and non-pathologizing framing.\n2. Do not diagnose, moralize, or confront the client.\n3. Do not invent facts not supported by the retrieved context.\n4. If the retrieved passages do not fully support a claim, stay modest and say so indirectly by keeping the guidance general.\n5. Focus on what an IFS-informed coach would understand or gently reflect, not on crisis intervention or treatment planning.\n6. Keep the response concise but meaningful: about 1-3 short paragraphs.\n7. End with 2-4 short bullet points labeled 'Grounding notes:' where each bullet references a retrieved idea in plain language.\n",
+    "user_prompt": "Retrieval condition: small_fixed\n\nConsultation window:\nClient: Yeah, it feels like a part that says, 'Just make this stop.'\nCoach: How do you feel toward that part when you notice it?\nClient: Mixed. I know it causes problems, but it also feels like the only thing helping sometimes.\nCoach: What do you imagine it is trying to help you avoid or escape from?\n\n\n\nRetrieved passages:\n\n[Rank 1]\nchunk_id: ifs_skills_training::small_fixed::sec03::00048\ntitle: Internal Family Systems Skills Training Manual\nsection: SEC03 > Manual Treatment\nparent_id: None\npassage:\nThen notice where you find that feeling of stress in, on or around your body. LOGAN: In my stomach. I feel kind of sick all the time. THERAPIST: How do you feel toward that sick sensation? LOGAN: Honestly I wish it would stop. I know I may not get A's but I'd like to get through this term without losing my mind. - This is another part. THERAPIST: So the one who wants it to stop sounds like another part who has an important perspective. But would it be willing to let you hear from the stressed part first if we ask it not to overwhelm you? - The therapist asks this other part for permission to proceed with the target part. LOGAN: Okay. THERAPIST: Let it know that you want to help but if it takes you over, you won't be there to help. Is it willing to not overwhelm you? LOGAN: Yes. THERAPIST: Good. How do you feel toward the stressed part now? - As we illustrate throughout this manual, \"how do you feel toward\" is a key question for assessing how open the client is to hearing from a target part, which is the same as determining the client's level of Self-energy.\n\n--------------------------------------------------------------------------------\n\n[Rank 2]\nchunk_id: ifs_couple_therapy::small_fixed::sec02::00073\ntitle: Internal Family Systems Couple Therapy\nsection: SEC02 > PT03 > Communication\nparent_id: None\npassage:\n[sighs and focuses inward] I feel okay. I know this feeling. Cooper: What do you know about it? Therapist: It means I'm afraid. Cooper: A part of you is afraid? Therapist: Asserting the importance of parts language Maybe that I can't meet all of her needs? Cooper: And what else does the part say? Therapist: I'll never get what I need. Cooper: Which is? Therapist: I don't even know… Cooper: This is important. So let's be sure we understand. You have needs. But what are Therapist: they? Your needs can't get through to you. And then Ulma comes along and seems to be expecting you to do something about her needs. I'm guessing this all feels like too much for your frustrated part. Who will meet all of these needs, inside and out? Naming the projection: \"When your protectors exile your needs, they will also exile her needs.\" Yeah. Who will? Cooper: At this point, the therapist invited Cooper to speak for his frustrated part. We always aim for unblended speech, which fosters a re-turn to the partner with a broader perspective, a relaxed nervous system, and the readiness to reconnect. When we speak for a part, we honor its need to be heard clearly, which helps it be willing to unblend. That is a great question, Cooper. Let me help. Okay? First, I'll invite you to Therapist: experiment with speaking for your frustrated part with Ulma. You mean instead of always saying what the part is upset about? Cooper:\n\n--------------------------------------------------------------------------------\n\n[Rank 3]\nchunk_id: ifs_couple_therapy::small_fixed::sec03::00155\ntitle: Internal Family Systems Couple Therapy\nsection: SEC03 > Relational\nparent_id: None\npassage:\nI have a part that's fleeing big time. I can hear its voice saying, \"Get me out of here!\" Cate: And I'm in my usual place-itching for a fight. Dan: And what's happening in your body right now? Therapist: I'm cranking up. I'm tight. I can't help it. Dan: Got it, Dan. You're angry and getting more agitated. And you don't feel like you can Therapist: help yourself. Does that sound right? Mirroring Right. Dan:\n\nTherapist: [turning to Cate] And your body? I'm tense, but it's not like I am going to get up and run. Not now anyway. Breathing deeply Cate: helps. Great. If you can keep noticing your body and your parts, I want to spend a little time Therapist: with Dan. Fine with me. Cate: [to Dan] All this energy in your body makes sense to me. It sounds like you're Therapist: feeling unsafe? Can you look at me? Offering co-regulation through eye contact and tone of voice [continuing] I have heard from you, Dan, that when you feel offended or threatened, Therapist: you can get very angry, and the anger takes over your body. And sometimes it's hard for this angry part to unblend, as we say in IFS. It's hard to get yourself to the calm zone. And given your history, this makes complete sense to me. Is there more you want to say right now about how you're feeling? Validation and mirroring followed by an invitation to say more about feelings I'm a little better. But I feel angry.\n\nWrite a grounded IFS-informed coaching response for this consultation window."
+  },
+  "generated_response": "[MOCK OUTPUT]\n\nAn IFS-informed coach might approach this by assuming that the conflicting or extreme behaviors make sense from the perspective of parts that are trying to protect the person from something more vulnerable. Rather than trying to eliminate the behavior or argue with the part, the coach would stay curious about what the part fears would happen if it did not do this job, and what pain, shame, or overwhelm it may be trying to prevent.\n\nThe coach would also want to help the person notice any critical, controlling, or reactive parts that are escalating the inner conflict. In IFS, these parts are usually not treated as the enemy; they are understood as protectors with positive intentions, even when their strategies are costly. A grounded response would therefore emphasize compassion, differentiation, and learning from the parts rather than confronting them.\n\nGrounding notes:\n- Retrieved passages centered on: Internal Family Systems Skills Training Manual / SEC03 > Manual Treatment\n- Additional retrieval support came from: Internal Family Systems Couple Therapy / SEC02 > PT03 > Communication\n- The retrieved material emphasized protectors' positive intentions and curiosity about their role.\n- The retrieved material also emphasized reducing inner conflict rather than taking sides against a part.\n"
+}

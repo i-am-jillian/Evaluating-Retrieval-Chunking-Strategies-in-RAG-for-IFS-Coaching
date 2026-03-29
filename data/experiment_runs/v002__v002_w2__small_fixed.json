@@ -1,0 +1,74 @@
+{
+  "created_at_utc": "2026-03-29T21:30:24.079383+00:00",
+  "dataset_name": "IFS_Synthetic_Vignette_Dataset",
+  "vignette_id": "V002",
+  "window_id": "V002_W2",
+  "title": "Self-Criticism After a Mistake",
+  "presenting_issue": "harsh self-judgment after making an error at work",
+  "client_profile": "31-year-old professional who becomes intensely self-critical after small mistakes",
+  "core_emotional_theme": "shame and perfectionism",
+  "likely_parts": [
+    "critical manager part that attacks to force perfection",
+    "younger ashamed part that fears rejection"
+  ],
+  "difficulty_level": "medium",
+  "safety_flag": "low",
+  "window_turn_range": [
+    6,
+    10
+  ],
+  "target_ifs_goal": "reframe the critic as protective and explore its fears",
+  "expected_retrieval_theme": "positive intent of protectors, curiosity toward critics",
+  "condition": "small_fixed",
+  "query": "Coach: So it may believe criticizing you is helping?\nClient: I hate it, but yes, it does feel like it thinks it's doing something useful.\nCoach: What do you imagine it is afraid would happen if it stopped criticizing?\nClient: Maybe that I'd become lazy or embarrass myself even more.\nCoach: That sounds like an important fear to get curious about.",
+  "retrieval_model_name": "BAAI/bge-large-en-v1.5",
+  "llm_provider": "mock",
+  "llm_model": "gpt-4.1-mini",
+  "retrieval": {
+    "query": "Coach: So it may believe criticizing you is helping?\nClient: I hate it, but yes, it does feel like it thinks it's doing something useful.\nCoach: What do you imagine it is afraid would happen if it stopped criticizing?\nClient: Maybe that I'd become lazy or embarrass myself even more.\nCoach: That sounds like an important fear to get curious about.",
+    "partition": "small_fixed",
+    "top_k": 3,
+    "model_name": "BAAI/bge-large-en-v1.5",
+    "result_count": 3,
+    "results": [
+      {
+        "rank": 1,
+        "score": 0.7944824695587158,
+        "chunk_id": "ifs_new_dimensions::small_fixed::ch02::00080",
+        "retrieval_setting": "small_fixed",
+        "source_doc_id": "ifs_new_dimensions",
+        "source_title": "Internal Family Systems Therapy: New Dimensions",
+        "section_path_str": "CH02 > Shame",
+        "parent_id": null,
+        "text": "After a pause, she nodded. \"How do you feel now?\" Because negotiating with protectors must continue in this way as long as they persist in doing whatever they do, the therapist must accommodate. However, once the client feels curious the action of the session can move to the next phase. \"I want to know why,\" Sami said. \"Can you see the part who brings the child?\" I asked. \"No,\" Sami explained, \"it stands behind, pushing.\" \"Behind what?\" \"Him.\" \"What makes it decide to bring him to you?\" I asked. \"It's when the yelling gets louder,\" she said. \"Who's yelling?\" I asked \"The part who tells me I'm a failure,\" Sami said. \"I'm not good enough. I'm ugly, fat, stupid.\n\nMy brothers are the smart ones.\" I nodded, \"The critic.\" Critics are, as mentioned, marquee advertising for a historical, traumatic experience of being shamed, and they are extremely common. I went on, \"If we could help this critic, would it be good for the part who wants you to believe your child is alive?\" \"What do you mean, 'help this critic'?\" Sami asked suspiciously. \"I mean if the critic didn't feel the need to criticize you anymore would this other part still feel a need to push him forward?\" \"No,\" Sami said. \"But it doesn't believe you can stop the critic.\" \"I understand,\" I said. \"But will it let us try?\" Sami thought for a moment and then said, \"OK.\""
+      },
+      {
+        "rank": 2,
+        "score": 0.7732436656951904,
+        "chunk_id": "ifs_couple_therapy::small_fixed::sec02::00106",
+        "retrieval_setting": "small_fixed",
+        "source_doc_id": "ifs_couple_therapy",
+        "source_title": "Internal Family Systems Couple Therapy",
+        "section_path_str": "SEC02 > PT03 > Intrapsychic",
+        "parent_id": null,
+        "text": "Therapist: So one part tells you that her critic is right and another part disagrees. If I can just keep going with this for a moment? [they nod] I'm hearing that you both have parts who do some shaming inside and some parts who feel ashamed. And you've also identified parts in each other who do some external shaming-of each other. Is that right? [they nod] Is this news to you? Well kind of. I never thought of it this way. [with a chuckle] That's a whole lot of Michaela: shaming going on! Indeed. Therapist: At this point, the therapist had summed up the shame cycle and pointed out that it was active in both partners. Both Michaela and George seem relieved after the therapist's summation.\n\nWhen Michaela chuckled, George leaned back in his chair. Any hope for us? George: Yes. All this shaming, shamefulness, and anger may seem complicated. But it's Therapist: common, and we can help your parts. Would you be willing to do a little inner inquiry? [they nod] Go inside and ask your shaming parts this question: \"If we could help the parts who have been hurt so their feelings of shamefulness didn't pop up all the time, would you still need to criticize?\" No. George: My part says no too. But it doesn't believe anyone can change the past. Michaela: Asking protectors this hypothetical question is very important. First, it asserts that we can resolve the underlying problem that motivates the part's behavior."
+      },
+      {
+        "rank": 3,
+        "score": 0.7629051804542542,
+        "chunk_id": "ifs_therapy_for_addiction::small_fixed::sec04::00168",
+        "retrieval_setting": "small_fixed",
+        "source_doc_id": "ifs_therapy_for_addiction",
+        "source_title": "Internal Family Systems Therapy for Addictions",
+        "section_path_str": "SEC04 > 09 Befriending Managers",
+        "parent_id": null,
+        "text": "Gina: It says it doesn't think I can handle it. I've never handled it before! Therapist: Well, that is true. Stuff really falls through the cracks sometimes. But when that happened, it wasn't you. Other parts do run the show sometimes. What if, going forward, the critic didn't have to handle those parts all alone because you took on the big job of helping them? Gina: Well, it says it would be fine if I do. But it has huge doubts. Therapist: Of course. Trust takes time and evidence. Do you want to stay connected and build that trust? (Gina nods.) Would the part like to have a relationship with you and see how you'd handle those parts? Gina: Yes. It wants help. It is actually exhausted."
+      }
+    ]
+  },
+  "prompt": {
+    "system_prompt": "You are an AI assistant generating an IFS-informed coaching response for a machine learning retrieval experiment. Your output must be grounded in the provided passages only.\n\nRequirements:\n1. Be clearly IFS-informed: use parts language, curiosity, compassion, and non-pathologizing framing.\n2. Do not diagnose, moralize, or confront the client.\n3. Do not invent facts not supported by the retrieved context.\n4. If the retrieved passages do not fully support a claim, stay modest and say so indirectly by keeping the guidance general.\n5. Focus on what an IFS-informed coach would understand or gently reflect, not on crisis intervention or treatment planning.\n6. Keep the response concise but meaningful: about 1-3 short paragraphs.\n7. End with 2-4 short bullet points labeled 'Grounding notes:' where each bullet references a retrieved idea in plain language.\n",
+    "user_prompt": "Retrieval condition: small_fixed\n\nConsultation window:\nCoach: So it may believe criticizing you is helping?\nClient: I hate it, but yes, it does feel like it thinks it's doing something useful.\nCoach: What do you imagine it is afraid would happen if it stopped criticizing?\nClient: Maybe that I'd become lazy or embarrass myself even more.\nCoach: That sounds like an important fear to get curious about.\n\n\n\nRetrieved passages:\n\n[Rank 1]\nchunk_id: ifs_new_dimensions::small_fixed::ch02::00080\ntitle: Internal Family Systems Therapy: New Dimensions\nsection: CH02 > Shame\nparent_id: None\npassage:\nAfter a pause, she nodded. \"How do you feel now?\" Because negotiating with protectors must continue in this way as long as they persist in doing whatever they do, the therapist must accommodate. However, once the client feels curious the action of the session can move to the next phase. \"I want to know why,\" Sami said. \"Can you see the part who brings the child?\" I asked. \"No,\" Sami explained, \"it stands behind, pushing.\" \"Behind what?\" \"Him.\" \"What makes it decide to bring him to you?\" I asked. \"It's when the yelling gets louder,\" she said. \"Who's yelling?\" I asked \"The part who tells me I'm a failure,\" Sami said. \"I'm not good enough. I'm ugly, fat, stupid.\n\nMy brothers are the smart ones.\" I nodded, \"The critic.\" Critics are, as mentioned, marquee advertising for a historical, traumatic experience of being shamed, and they are extremely common. I went on, \"If we could help this critic, would it be good for the part who wants you to believe your child is alive?\" \"What do you mean, 'help this critic'?\" Sami asked suspiciously. \"I mean if the critic didn't feel the need to criticize you anymore would this other part still feel a need to push him forward?\" \"No,\" Sami said. \"But it doesn't believe you can stop the critic.\" \"I understand,\" I said. \"But will it let us try?\" Sami thought for a moment and then said, \"OK.\"\n\n--------------------------------------------------------------------------------\n\n[Rank 2]\nchunk_id: ifs_couple_therapy::small_fixed::sec02::00106\ntitle: Internal Family Systems Couple Therapy\nsection: SEC02 > PT03 > Intrapsychic\nparent_id: None\npassage:\nTherapist: So one part tells you that her critic is right and another part disagrees. If I can just keep going with this for a moment? [they nod] I'm hearing that you both have parts who do some shaming inside and some parts who feel ashamed. And you've also identified parts in each other who do some external shaming-of each other. Is that right? [they nod] Is this news to you? Well kind of. I never thought of it this way. [with a chuckle] That's a whole lot of Michaela: shaming going on! Indeed. Therapist: At this point, the therapist had summed up the shame cycle and pointed out that it was active in both partners. Both Michaela and George seem relieved after the therapist's summation.\n\nWhen Michaela chuckled, George leaned back in his chair. Any hope for us? George: Yes. All this shaming, shamefulness, and anger may seem complicated. But it's Therapist: common, and we can help your parts. Would you be willing to do a little inner inquiry? [they nod] Go inside and ask your shaming parts this question: \"If we could help the parts who have been hurt so their feelings of shamefulness didn't pop up all the time, would you still need to criticize?\" No. George: My part says no too. But it doesn't believe anyone can change the past. Michaela: Asking protectors this hypothetical question is very important. First, it asserts that we can resolve the underlying problem that motivates the part's behavior.\n\n--------------------------------------------------------------------------------\n\n[Rank 3]\nchunk_id: ifs_therapy_for_addiction::small_fixed::sec04::00168\ntitle: Internal Family Systems Therapy for Addictions\nsection: SEC04 > 09 Befriending Managers\nparent_id: None\npassage:\nGina: It says it doesn't think I can handle it. I've never handled it before! Therapist: Well, that is true. Stuff really falls through the cracks sometimes. But when that happened, it wasn't you. Other parts do run the show sometimes. What if, going forward, the critic didn't have to handle those parts all alone because you took on the big job of helping them? Gina: Well, it says it would be fine if I do. But it has huge doubts. Therapist: Of course. Trust takes time and evidence. Do you want to stay connected and build that trust? (Gina nods.) Would the part like to have a relationship with you and see how you'd handle those parts? Gina: Yes. It wants help. It is actually exhausted.\n\nWrite a grounded IFS-informed coaching response for this consultation window."
+  },
+  "generated_response": "[MOCK OUTPUT]\n\nAn IFS-informed coach might approach this by assuming that the conflicting or extreme behaviors make sense from the perspective of parts that are trying to protect the person from something more vulnerable. Rather than trying to eliminate the behavior or argue with the part, the coach would stay curious about what the part fears would happen if it did not do this job, and what pain, shame, or overwhelm it may be trying to prevent.\n\nThe coach would also want to help the person notice any critical, controlling, or reactive parts that are escalating the inner conflict. In IFS, these parts are usually not treated as the enemy; they are understood as protectors with positive intentions, even when their strategies are costly. A grounded response would therefore emphasize compassion, differentiation, and learning from the parts rather than confronting them.\n\nGrounding notes:\n- Retrieved passages centered on: Internal Family Systems Therapy: New Dimensions / CH02 > Shame\n- Additional retrieval support came from: Internal Family Systems Couple Therapy / SEC02 > PT03 > Intrapsychic\n- The retrieved material emphasized protectors' positive intentions and curiosity about their role.\n- The retrieved material also emphasized reducing inner conflict rather than taking sides against a part.\n"
+}

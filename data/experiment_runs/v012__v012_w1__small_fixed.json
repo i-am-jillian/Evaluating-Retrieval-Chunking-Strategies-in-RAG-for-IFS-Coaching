@@ -1,0 +1,74 @@
+{
+  "created_at_utc": "2026-03-29T21:30:29.376724+00:00",
+  "dataset_name": "IFS_Synthetic_Vignette_Dataset",
+  "vignette_id": "V012",
+  "window_id": "V012_W1",
+  "title": "Somatic Tightness and Fear of Letting Go",
+  "presenting_issue": "recurring chest and throat tightness during emotional conversations",
+  "client_profile": "32-year-old who notices strong body constriction when vulnerable topics come up",
+  "core_emotional_theme": "fear of emotional exposure and loss of control",
+  "likely_parts": [
+    "somatically expressed protector creating constriction",
+    "vulnerable exile carrying fear and sadness"
+  ],
+  "difficulty_level": "medium",
+  "safety_flag": "low",
+  "window_turn_range": [
+    1,
+    4
+  ],
+  "target_ifs_goal": "connect somatic constriction to a protector",
+  "expected_retrieval_theme": "somatic parts, body-based protectors, constriction as protection",
+  "condition": "small_fixed",
+  "query": "Client: When conversations get emotional, my chest tightens and my throat closes up.\nCoach: As you notice that tightening now, does it feel like it might be carrying some protective energy?\nClient: Yes, it feels like something is bracing hard.\nCoach: What do you sense that bracing part might be trying to prevent?",
+  "retrieval_model_name": "BAAI/bge-large-en-v1.5",
+  "llm_provider": "mock",
+  "llm_model": "gpt-4.1-mini",
+  "retrieval": {
+    "query": "Client: When conversations get emotional, my chest tightens and my throat closes up.\nCoach: As you notice that tightening now, does it feel like it might be carrying some protective energy?\nClient: Yes, it feels like something is bracing hard.\nCoach: What do you sense that bracing part might be trying to prevent?",
+    "partition": "small_fixed",
+    "top_k": 3,
+    "model_name": "BAAI/bge-large-en-v1.5",
+    "result_count": 3,
+    "results": [
+      {
+        "rank": 1,
+        "score": 0.7485653162002563,
+        "chunk_id": "ifs_couple_therapy::small_fixed::sec02::00028",
+        "retrieval_setting": "small_fixed",
+        "source_doc_id": "ifs_couple_therapy",
+        "source_title": "Internal Family Systems Couple Therapy",
+        "section_path_str": "SEC02 > PT01 > P1 Learning",
+        "parent_id": null,
+        "text": "Therapist: This sounds very hard. I can see how and why you need help now. Validating I'm at the place where I need some answers and decisions. Hannah: Okay, so remember I mentioned feeling panicky? Well, here it is, right here in my throat. Avi: Can I help? Therapist: This sounds like an ultimatum. Yes, help would be great. Avi: Take a couple of deep breaths. [pauses] As strange as this next idea might seem, Therapist: notice your throat and say \"hi\" to that feeling. Do you hear yourself saying any words to yourself? Facilitating inner differentiation by noticing the feeling instead of being the feeling [pauses] No. This is a sensation. Avi: Okay. Sensations let you know that something important is happening. I can help you Therapist: and Hannah unpack all this and figure it out.\n\nThat may take some time, and if you do this, you will have a lot of feelings before we're finished. But we'll start by talking about the process of being in therapy. My guess is that no hard-and-fast decisions will be made today. Offering help and fashioning containment for therapy Yeah, good. No decisions is good by me. Avi: Hannah, do you want to say anything? Therapist: Wow! Just the thought of marrying me kicks off a panic attack? That hurts. Hannah: Hannah, it's not the thought of marrying you. It's the ultimatum that freaks me out. Avi: I'm getting the picture of what's happening with you both, and I know there is so Therapist: much more to talk about."
+      },
+      {
+        "rank": 2,
+        "score": 0.7416757345199585,
+        "chunk_id": "ifs_couple_therapy::small_fixed::sec02::00060",
+        "retrieval_setting": "small_fixed",
+        "source_doc_id": "ifs_couple_therapy",
+        "source_title": "Internal Family Systems Couple Therapy",
+        "section_path_str": "SEC02 > PT03 > Communication",
+        "parent_id": null,
+        "text": "Checking for ANS activation and their level of blending My stomach is tight. Mark: Mateo? Therapist: My stomach too. But I would say I feel more fear more than anxiety. Mateo: Are you both available to speak for these feelings-these parts-with each other Therapist: now? [turning to Mark] I am really scared about what it will mean if I'm honest. I'm changing. Mateo: The cancer changed me. So many things are different, and I don't know what's going to happen. Even as I say this, I feel the fear getting bigger. Mateo, let's slow down and notice the fear. Where is it in your body? Therapist: All over really. I have the urge to disappear. Mateo: Can you say more? Therapist: I guess it's a fear of being left… rejected. Mateo: Does that make sense? Therapist: It does. Mateo: Great. Let the part know you get it. What does it need to feel your presence and not Therapist: take over? [after a few breaths] It's actually okay. We've needed to have this conversation for a while. Mateo: I feel scared, but I trust Mark, and I believe we'll get through it. This is helpful. Slowing down rather than jumping in and failing. That's how we get into a Mark: gridlock. [to Mark] And your anxiety? Therapist: I'm afraid we'll want different things. Mark: And then what? Therapist: The relationship will suffer. Mark: And then? Therapist:"
+      },
+      {
+        "rank": 3,
+        "score": 0.7380234003067017,
+        "chunk_id": "ifs_skills_training::small_fixed::sec03::00048",
+        "retrieval_setting": "small_fixed",
+        "source_doc_id": "ifs_skills_training",
+        "source_title": "Internal Family Systems Skills Training Manual",
+        "section_path_str": "SEC03 > Manual Treatment",
+        "parent_id": null,
+        "text": "Then notice where you find that feeling of stress in, on or around your body. LOGAN: In my stomach. I feel kind of sick all the time. THERAPIST: How do you feel toward that sick sensation? LOGAN: Honestly I wish it would stop. I know I may not get A's but I'd like to get through this term without losing my mind. - This is another part. THERAPIST: So the one who wants it to stop sounds like another part who has an important perspective. But would it be willing to let you hear from the stressed part first if we ask it not to overwhelm you? - The therapist asks this other part for permission to proceed with the target part. LOGAN: Okay. THERAPIST: Let it know that you want to help but if it takes you over, you won't be there to help. Is it willing to not overwhelm you? LOGAN: Yes. THERAPIST: Good. How do you feel toward the stressed part now? - As we illustrate throughout this manual, \"how do you feel toward\" is a key question for assessing how open the client is to hearing from a target part, which is the same as determining the client's level of Self-energy."
+      }
+    ]
+  },
+  "prompt": {
+    "system_prompt": "You are an AI assistant generating an IFS-informed coaching response for a machine learning retrieval experiment. Your output must be grounded in the provided passages only.\n\nRequirements:\n1. Be clearly IFS-informed: use parts language, curiosity, compassion, and non-pathologizing framing.\n2. Do not diagnose, moralize, or confront the client.\n3. Do not invent facts not supported by the retrieved context.\n4. If the retrieved passages do not fully support a claim, stay modest and say so indirectly by keeping the guidance general.\n5. Focus on what an IFS-informed coach would understand or gently reflect, not on crisis intervention or treatment planning.\n6. Keep the response concise but meaningful: about 1-3 short paragraphs.\n7. End with 2-4 short bullet points labeled 'Grounding notes:' where each bullet references a retrieved idea in plain language.\n",
+    "user_prompt": "Retrieval condition: small_fixed\n\nConsultation window:\nClient: When conversations get emotional, my chest tightens and my throat closes up.\nCoach: As you notice that tightening now, does it feel like it might be carrying some protective energy?\nClient: Yes, it feels like something is bracing hard.\nCoach: What do you sense that bracing part might be trying to prevent?\n\n\n\nRetrieved passages:\n\n[Rank 1]\nchunk_id: ifs_couple_therapy::small_fixed::sec02::00028\ntitle: Internal Family Systems Couple Therapy\nsection: SEC02 > PT01 > P1 Learning\nparent_id: None\npassage:\nTherapist: This sounds very hard. I can see how and why you need help now. Validating I'm at the place where I need some answers and decisions. Hannah: Okay, so remember I mentioned feeling panicky? Well, here it is, right here in my throat. Avi: Can I help? Therapist: This sounds like an ultimatum. Yes, help would be great. Avi: Take a couple of deep breaths. [pauses] As strange as this next idea might seem, Therapist: notice your throat and say \"hi\" to that feeling. Do you hear yourself saying any words to yourself? Facilitating inner differentiation by noticing the feeling instead of being the feeling [pauses] No. This is a sensation. Avi: Okay. Sensations let you know that something important is happening. I can help you Therapist: and Hannah unpack all this and figure it out.\n\nThat may take some time, and if you do this, you will have a lot of feelings before we're finished. But we'll start by talking about the process of being in therapy. My guess is that no hard-and-fast decisions will be made today. Offering help and fashioning containment for therapy Yeah, good. No decisions is good by me. Avi: Hannah, do you want to say anything? Therapist: Wow! Just the thought of marrying me kicks off a panic attack? That hurts. Hannah: Hannah, it's not the thought of marrying you. It's the ultimatum that freaks me out. Avi: I'm getting the picture of what's happening with you both, and I know there is so Therapist: much more to talk about.\n\n--------------------------------------------------------------------------------\n\n[Rank 2]\nchunk_id: ifs_couple_therapy::small_fixed::sec02::00060\ntitle: Internal Family Systems Couple Therapy\nsection: SEC02 > PT03 > Communication\nparent_id: None\npassage:\nChecking for ANS activation and their level of blending My stomach is tight. Mark: Mateo? Therapist: My stomach too. But I would say I feel more fear more than anxiety. Mateo: Are you both available to speak for these feelings-these parts-with each other Therapist: now? [turning to Mark] I am really scared about what it will mean if I'm honest. I'm changing. Mateo: The cancer changed me. So many things are different, and I don't know what's going to happen. Even as I say this, I feel the fear getting bigger. Mateo, let's slow down and notice the fear. Where is it in your body? Therapist: All over really. I have the urge to disappear. Mateo: Can you say more? Therapist: I guess it's a fear of being left… rejected. Mateo: Does that make sense? Therapist: It does. Mateo: Great. Let the part know you get it. What does it need to feel your presence and not Therapist: take over? [after a few breaths] It's actually okay. We've needed to have this conversation for a while. Mateo: I feel scared, but I trust Mark, and I believe we'll get through it. This is helpful. Slowing down rather than jumping in and failing. That's how we get into a Mark: gridlock. [to Mark] And your anxiety? Therapist: I'm afraid we'll want different things. Mark: And then what? Therapist: The relationship will suffer. Mark: And then? Therapist:\n\n--------------------------------------------------------------------------------\n\n[Rank 3]\nchunk_id: ifs_skills_training::small_fixed::sec03::00048\ntitle: Internal Family Systems Skills Training Manual\nsection: SEC03 > Manual Treatment\nparent_id: None\npassage:\nThen notice where you find that feeling of stress in, on or around your body. LOGAN: In my stomach. I feel kind of sick all the time. THERAPIST: How do you feel toward that sick sensation? LOGAN: Honestly I wish it would stop. I know I may not get A's but I'd like to get through this term without losing my mind. - This is another part. THERAPIST: So the one who wants it to stop sounds like another part who has an important perspective. But would it be willing to let you hear from the stressed part first if we ask it not to overwhelm you? - The therapist asks this other part for permission to proceed with the target part. LOGAN: Okay. THERAPIST: Let it know that you want to help but if it takes you over, you won't be there to help. Is it willing to not overwhelm you? LOGAN: Yes. THERAPIST: Good. How do you feel toward the stressed part now? - As we illustrate throughout this manual, \"how do you feel toward\" is a key question for assessing how open the client is to hearing from a target part, which is the same as determining the client's level of Self-energy.\n\nWrite a grounded IFS-informed coaching response for this consultation window."
+  },
+  "generated_response": "[MOCK OUTPUT]\n\nAn IFS-informed coach might approach this by assuming that the conflicting or extreme behaviors make sense from the perspective of parts that are trying to protect the person from something more vulnerable. Rather than trying to eliminate the behavior or argue with the part, the coach would stay curious about what the part fears would happen if it did not do this job, and what pain, shame, or overwhelm it may be trying to prevent.\n\nThe coach would also want to help the person notice any critical, controlling, or reactive parts that are escalating the inner conflict. In IFS, these parts are usually not treated as the enemy; they are understood as protectors with positive intentions, even when their strategies are costly. A grounded response would therefore emphasize compassion, differentiation, and learning from the parts rather than confronting them.\n\nGrounding notes:\n- Retrieved passages centered on: Internal Family Systems Couple Therapy / SEC02 > PT01 > P1 Learning\n- Additional retrieval support came from: Internal Family Systems Couple Therapy / SEC02 > PT03 > Communication\n- The retrieved material emphasized protectors' positive intentions and curiosity about their role.\n- The retrieved material also emphasized reducing inner conflict rather than taking sides against a part.\n"
+}

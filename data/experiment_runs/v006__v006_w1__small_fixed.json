@@ -1,0 +1,75 @@
+{
+  "created_at_utc": "2026-03-29T21:30:25.615759+00:00",
+  "dataset_name": "IFS_Synthetic_Vignette_Dataset",
+  "vignette_id": "V006",
+  "window_id": "V006_W1",
+  "title": "Stress Drinking as Protective Soothing",
+  "presenting_issue": "using alcohol at night to shut down stress",
+  "client_profile": "33-year-old professional who feels overwhelmed after work and drinks most evenings to turn off",
+  "core_emotional_theme": "overwhelm, exhaustion, and avoidance of painful feelings",
+  "likely_parts": [
+    "firefighter part using alcohol for quick relief",
+    "driven manager part that over-functions during the day",
+    "overwhelmed exile carrying pressure and loneliness"
+  ],
+  "difficulty_level": "medium",
+  "safety_flag": "medium",
+  "window_turn_range": [
+    1,
+    4
+  ],
+  "target_ifs_goal": "identify the urge-to-drink part as a protective part",
+  "expected_retrieval_theme": "firefighters, compulsive soothing, protective numbing",
+  "condition": "small_fixed",
+  "query": "Client: By the end of the day I feel so wound up that I just want a drink immediately.\nCoach: What do you notice inside right before that urge shows up?\nClient: It feels like everything is buzzing. My mind won't stop.\nCoach: Does it seem like a part of you reaches for the drink to change that state?",
+  "retrieval_model_name": "BAAI/bge-large-en-v1.5",
+  "llm_provider": "mock",
+  "llm_model": "gpt-4.1-mini",
+  "retrieval": {
+    "query": "Client: By the end of the day I feel so wound up that I just want a drink immediately.\nCoach: What do you notice inside right before that urge shows up?\nClient: It feels like everything is buzzing. My mind won't stop.\nCoach: Does it seem like a part of you reaches for the drink to change that state?",
+    "partition": "small_fixed",
+    "top_k": 3,
+    "model_name": "BAAI/bge-large-en-v1.5",
+    "result_count": 3,
+    "results": [
+      {
+        "rank": 1,
+        "score": 0.7747514843940735,
+        "chunk_id": "ifs_couple_therapy::small_fixed::sec03::00155",
+        "retrieval_setting": "small_fixed",
+        "source_doc_id": "ifs_couple_therapy",
+        "source_title": "Internal Family Systems Couple Therapy",
+        "section_path_str": "SEC03 > Relational",
+        "parent_id": null,
+        "text": "I have a part that's fleeing big time. I can hear its voice saying, \"Get me out of here!\" Cate: And I'm in my usual place-itching for a fight. Dan: And what's happening in your body right now? Therapist: I'm cranking up. I'm tight. I can't help it. Dan: Got it, Dan. You're angry and getting more agitated. And you don't feel like you can Therapist: help yourself. Does that sound right? Mirroring Right. Dan:\n\nTherapist: [turning to Cate] And your body? I'm tense, but it's not like I am going to get up and run. Not now anyway. Breathing deeply Cate: helps. Great. If you can keep noticing your body and your parts, I want to spend a little time Therapist: with Dan. Fine with me. Cate: [to Dan] All this energy in your body makes sense to me. It sounds like you're Therapist: feeling unsafe? Can you look at me? Offering co-regulation through eye contact and tone of voice [continuing] I have heard from you, Dan, that when you feel offended or threatened, Therapist: you can get very angry, and the anger takes over your body. And sometimes it's hard for this angry part to unblend, as we say in IFS. It's hard to get yourself to the calm zone. And given your history, this makes complete sense to me. Is there more you want to say right now about how you're feeling? Validation and mirroring followed by an invitation to say more about feelings I'm a little better. But I feel angry."
+      },
+      {
+        "rank": 2,
+        "score": 0.7537317872047424,
+        "chunk_id": "ifs_therapy_for_addiction::small_fixed::sec04::00178",
+        "retrieval_setting": "small_fixed",
+        "source_doc_id": "ifs_therapy_for_addiction",
+        "source_title": "Internal Family Systems Therapy for Addictions",
+        "section_path_str": "SEC04 > 10 Reorienting Firefighters",
+        "parent_id": null,
+        "text": "Therapist: Right. You've been protecting Ida from feeling hopeless and miserable. I know it would be tough and scary to stop. Your help has been essential! But now if Ida could help that hopeless part so it felt stronger and not so alone, would you get a break? Ida's Drinking Part: I guess so. But I'm not sure anyone can help. Therapist: Right, you'd need evidence of that. Ida and I would need to show you. And, with your permission, we will. This session informed Ida about the benign intentions of her drinking part and opened her heart to its feelings. It also introduced her to a key exile. While it is unconventional to invite a client to come to- or stay in-a session while engaging in their compulsive behavior, it can serve to reassure parts quickly and powerfully that we mean what we say: All parts are welcome. We won't judge. WHEN Sykes, Cece, et al. Internal Family Systems Therapy for Addictions: Trauma-Informed, Compassion-Based Interventions for Substance Use, Eating, Gambling and More, PESI,"
+      },
+      {
+        "rank": 3,
+        "score": 0.750991940498352,
+        "chunk_id": "ifs_skills_training::small_fixed::sec03::00127",
+        "retrieval_setting": "small_fixed",
+        "source_doc_id": "ifs_skills_training",
+        "source_title": "Internal Family Systems Skills Training Manual",
+        "section_path_str": "SEC03 > Manual Treatment",
+        "parent_id": null,
+        "text": "Here are questions to help you assess a client's level of blunting. - \"Are you aware of your feet touching the floor?\" - \"Can you take a deep breath?\" - \"Can you look at me?\" - \"Can you put into words what you are feeling right now?\" In response to withdrawal we want to give alarmed parts as much time, space and control as they require, because it takes longer to recover from withdrawal than it does to recover from activation (Porges, 2011). If the client appears totally shut down, we again become the auxiliary brain by moving right into direct access, which helps the client shift to a mindful state more quickly.\n\nS D U DLOWING OWN AND SING IRECT A HCCESS WITH YPOAROUSAL When Ariel was in the middle of a session the door to the office opened and a loud voice asked, \"Where is Dr. Johnson's office? This is my first time here and I am lost.\" Ariel froze, the door closed. The Therapist is the Self of the Therapeutic System THERAPIST: Are you okay? Can you hear me, Ariel? Can you look at me? - No response, which tells the therapist that her dorsal parasympathetic nervous system is activated. THERAPIST (continuing) Can you let me know what's going on inside right now? I see you're struggling. Can you take a deep breath? - Ariel's continuing lack of response tells the therapist that she has shut down and is not feeling safe."
+      }
+    ]
+  },
+  "prompt": {
+    "system_prompt": "You are an AI assistant generating an IFS-informed coaching response for a machine learning retrieval experiment. Your output must be grounded in the provided passages only.\n\nRequirements:\n1. Be clearly IFS-informed: use parts language, curiosity, compassion, and non-pathologizing framing.\n2. Do not diagnose, moralize, or confront the client.\n3. Do not invent facts not supported by the retrieved context.\n4. If the retrieved passages do not fully support a claim, stay modest and say so indirectly by keeping the guidance general.\n5. Focus on what an IFS-informed coach would understand or gently reflect, not on crisis intervention or treatment planning.\n6. Keep the response concise but meaningful: about 1-3 short paragraphs.\n7. End with 2-4 short bullet points labeled 'Grounding notes:' where each bullet references a retrieved idea in plain language.\n",
+    "user_prompt": "Retrieval condition: small_fixed\n\nConsultation window:\nClient: By the end of the day I feel so wound up that I just want a drink immediately.\nCoach: What do you notice inside right before that urge shows up?\nClient: It feels like everything is buzzing. My mind won't stop.\nCoach: Does it seem like a part of you reaches for the drink to change that state?\n\n\n\nRetrieved passages:\n\n[Rank 1]\nchunk_id: ifs_couple_therapy::small_fixed::sec03::00155\ntitle: Internal Family Systems Couple Therapy\nsection: SEC03 > Relational\nparent_id: None\npassage:\nI have a part that's fleeing big time. I can hear its voice saying, \"Get me out of here!\" Cate: And I'm in my usual place-itching for a fight. Dan: And what's happening in your body right now? Therapist: I'm cranking up. I'm tight. I can't help it. Dan: Got it, Dan. You're angry and getting more agitated. And you don't feel like you can Therapist: help yourself. Does that sound right? Mirroring Right. Dan:\n\nTherapist: [turning to Cate] And your body? I'm tense, but it's not like I am going to get up and run. Not now anyway. Breathing deeply Cate: helps. Great. If you can keep noticing your body and your parts, I want to spend a little time Therapist: with Dan. Fine with me. Cate: [to Dan] All this energy in your body makes sense to me. It sounds like you're Therapist: feeling unsafe? Can you look at me? Offering co-regulation through eye contact and tone of voice [continuing] I have heard from you, Dan, that when you feel offended or threatened, Therapist: you can get very angry, and the anger takes over your body. And sometimes it's hard for this angry part to unblend, as we say in IFS. It's hard to get yourself to the calm zone. And given your history, this makes complete sense to me. Is there more you want to say right now about how you're feeling? Validation and mirroring followed by an invitation to say more about feelings I'm a little better. But I feel angry.\n\n--------------------------------------------------------------------------------\n\n[Rank 2]\nchunk_id: ifs_therapy_for_addiction::small_fixed::sec04::00178\ntitle: Internal Family Systems Therapy for Addictions\nsection: SEC04 > 10 Reorienting Firefighters\nparent_id: None\npassage:\nTherapist: Right. You've been protecting Ida from feeling hopeless and miserable. I know it would be tough and scary to stop. Your help has been essential! But now if Ida could help that hopeless part so it felt stronger and not so alone, would you get a break? Ida's Drinking Part: I guess so. But I'm not sure anyone can help. Therapist: Right, you'd need evidence of that. Ida and I would need to show you. And, with your permission, we will. This session informed Ida about the benign intentions of her drinking part and opened her heart to its feelings. It also introduced her to a key exile. While it is unconventional to invite a client to come to- or stay in-a session while engaging in their compulsive behavior, it can serve to reassure parts quickly and powerfully that we mean what we say: All parts are welcome. We won't judge. WHEN Sykes, Cece, et al. Internal Family Systems Therapy for Addictions: Trauma-Informed, Compassion-Based Interventions for Substance Use, Eating, Gambling and More, PESI,\n\n--------------------------------------------------------------------------------\n\n[Rank 3]\nchunk_id: ifs_skills_training::small_fixed::sec03::00127\ntitle: Internal Family Systems Skills Training Manual\nsection: SEC03 > Manual Treatment\nparent_id: None\npassage:\nHere are questions to help you assess a client's level of blunting. - \"Are you aware of your feet touching the floor?\" - \"Can you take a deep breath?\" - \"Can you look at me?\" - \"Can you put into words what you are feeling right now?\" In response to withdrawal we want to give alarmed parts as much time, space and control as they require, because it takes longer to recover from withdrawal than it does to recover from activation (Porges, 2011). If the client appears totally shut down, we again become the auxiliary brain by moving right into direct access, which helps the client shift to a mindful state more quickly.\n\nS D U DLOWING OWN AND SING IRECT A HCCESS WITH YPOAROUSAL When Ariel was in the middle of a session the door to the office opened and a loud voice asked, \"Where is Dr. Johnson's office? This is my first time here and I am lost.\" Ariel froze, the door closed. The Therapist is the Self of the Therapeutic System THERAPIST: Are you okay? Can you hear me, Ariel? Can you look at me? - No response, which tells the therapist that her dorsal parasympathetic nervous system is activated. THERAPIST (continuing) Can you let me know what's going on inside right now? I see you're struggling. Can you take a deep breath? - Ariel's continuing lack of response tells the therapist that she has shut down and is not feeling safe.\n\nWrite a grounded IFS-informed coaching response for this consultation window."
+  },
+  "generated_response": "[MOCK OUTPUT]\n\nAn IFS-informed coach might approach this by assuming that the conflicting or extreme behaviors make sense from the perspective of parts that are trying to protect the person from something more vulnerable. Rather than trying to eliminate the behavior or argue with the part, the coach would stay curious about what the part fears would happen if it did not do this job, and what pain, shame, or overwhelm it may be trying to prevent.\n\nThe coach would also want to help the person notice any critical, controlling, or reactive parts that are escalating the inner conflict. In IFS, these parts are usually not treated as the enemy; they are understood as protectors with positive intentions, even when their strategies are costly. A grounded response would therefore emphasize compassion, differentiation, and learning from the parts rather than confronting them.\n\nGrounding notes:\n- Retrieved passages centered on: Internal Family Systems Couple Therapy / SEC03 > Relational\n- Additional retrieval support came from: Internal Family Systems Therapy for Addictions / SEC04 > 10 Reorienting Firefighters\n- The retrieved material emphasized protectors' positive intentions and curiosity about their role.\n- The retrieved material also emphasized reducing inner conflict rather than taking sides against a part.\n"
+}

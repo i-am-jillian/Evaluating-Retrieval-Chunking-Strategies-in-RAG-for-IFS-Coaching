@@ -1,0 +1,75 @@
+{
+  "created_at_utc": "2026-03-29T21:30:26.784745+00:00",
+  "dataset_name": "IFS_Synthetic_Vignette_Dataset",
+  "vignette_id": "V007",
+  "window_id": "V007_W3",
+  "title": "Romantic Conflict and Protective Defensiveness",
+  "presenting_issue": "becoming defensive and emotionally closed during partner conflict",
+  "client_profile": "30-year-old in a long-term relationship who feels attacked easily during arguments",
+  "core_emotional_theme": "fear of blame, rejection, and vulnerability in intimacy",
+  "likely_parts": [
+    "defensive protector that shuts down or argues back",
+    "vulnerable exile afraid of being wrong or rejected",
+    "longing part that wants closeness"
+  ],
+  "difficulty_level": "medium",
+  "safety_flag": "low",
+  "window_turn_range": [
+    9,
+    12
+  ],
+  "target_ifs_goal": "identify relational polarization between protection and longing",
+  "expected_retrieval_theme": "couple dynamics, polarization, access to vulnerable parts",
+  "condition": "small_fixed",
+  "query": "Client: A little frustrated, but also I get why it shows up.\nCoach: That shift matters. Curiosity can help you understand it better.\nClient: I also have a part that really wants connection, but it disappears in those moments.\nCoach: So there may be both a defensive protector and a part that longs for closeness.",
+  "retrieval_model_name": "BAAI/bge-large-en-v1.5",
+  "llm_provider": "mock",
+  "llm_model": "gpt-4.1-mini",
+  "retrieval": {
+    "query": "Client: A little frustrated, but also I get why it shows up.\nCoach: That shift matters. Curiosity can help you understand it better.\nClient: I also have a part that really wants connection, but it disappears in those moments.\nCoach: So there may be both a defensive protector and a part that longs for closeness.",
+    "partition": "small_fixed",
+    "top_k": 3,
+    "model_name": "BAAI/bge-large-en-v1.5",
+    "result_count": 3,
+    "results": [
+      {
+        "rank": 1,
+        "score": 0.7707170248031616,
+        "chunk_id": "ifs_therapy_for_addiction::small_fixed::sec04::00195",
+        "retrieval_setting": "small_fixed",
+        "source_doc_id": "ifs_therapy_for_addiction",
+        "source_title": "Internal Family Systems Therapy for Addictions",
+        "section_path_str": "SEC04 > 12 Exile",
+        "parent_id": null,
+        "text": "Success in therapy depends on connecting with these parts safely. If it feels right, the client may want to ask, \"Is there is one thing, just for today, that you want me to know about you?\" In addition, when we sense the client is feeling vulnerable but hasn't noticed, an exile is probably making an appearance. In this case, we might say something like, \"We've been discussing your relationship with your partner and his recent drug use. You haven't mentioned this yet, but I'm sensing a sad part underneath your frustration. Is that possible?\" We can then invite the client to pause and focus internally. If the client insists that they do not feel the sadness, we let it go for now.\n\nIf they do notice the feeling, even just briefly, we guide them to let the part know that they feel it and are aware of its presence. As the client connects with their sad part, an image may appear, or the client may simply feel the sensations that go with sadness. Again, if there is enough Self-energy, we guide the client to stay with the sad part a little longer and have a short exchange. We guide the client to ask it not to overwhelm the system so that protectors will trust it and give it a real chance to be heard. If the sadness does start to flood the client, we can ask the exile what would happen if it unblended instead. Exiles often overflow the dam because they fear being put out of mind again."
+      },
+      {
+        "rank": 2,
+        "score": 0.7676774263381958,
+        "chunk_id": "transcending_trauma::small_fixed::sec06::00207",
+        "retrieval_setting": "small_fixed",
+        "source_doc_id": "transcending_trauma",
+        "source_title": "Transcending Trauma",
+        "section_path_str": "SEC06 > Assoc Features Trauma",
+        "parent_id": null,
+        "text": "As the relationship develops between a part and the Self, they typically, but not always, transform into human form. Staying open, without judgment or agenda, will allow the part to evolve as it sees fit. You may also notice that clients with DID often display rapid eye movements when they're thinking about something or retreating inward. I often see this and wonder what's going on inside their head, knowing that a very small percentage ever gets spoken aloud to me. Therapists need to learn, mostly through experience, to ride out the waves in a nonreactive, matter- of-fact manner so that the client's system realizes you won't get flustered by all the drama. Protectors will naturally begin to relax and trust you as their tour guide through the healing journey.\n\nRemember that clients who struggle with DID often have parts that hate the Self and have no interest in getting to know it. They'll need to trust you before they're willing to trust the one who, in their eyes, betrayed them and left them behind to endure the torture. The Self can initially appear weak and marginally accessible in clients who struggle with DID, but over time it becomes more consistent, dependable, and readily available as parts get to know it better and develop a secure relationship with it."
+      },
+      {
+        "rank": 3,
+        "score": 0.7669428586959839,
+        "chunk_id": "ifs_couple_therapy::small_fixed::sec02::00043",
+        "retrieval_setting": "small_fixed",
+        "source_doc_id": "ifs_couple_therapy",
+        "source_title": "Internal Family Systems Couple Therapy",
+        "section_path_str": "SEC02 > PT02 > Heart Of Matter",
+        "parent_id": null,
+        "text": "Therapist: I imagine the part who feels hurt would rather feel appreciated, like you are doing enough and being successful. I think that's what I heard. Am I right? You're right! Jane: I want to reflect back what I'm hearing from both of you. This sounds like a dilemma Therapist: related to needs. Jane, when Doran tries to have more time with you and her parts get loud and demanding, as she describes it, you have a part who feels hurt, like you can't get it right. Then you withdraw to protect yourself. And Doran, when Jane withdraws, you feel bad and disconnected, and then you try to get her attention by getting louder and more demanding to protect yourself.\n\nAnd it goes on like this, back and forth with each of you feeling more protected but less connected. Does this sound like the pattern? Naming the sequence and the patterns of reaction and counterreaction It's the pattern for sure. Doran: [nods in agreement] It feels hopeless. We're really stuck. Jane: I understand that this cycle causes you to feel hopeless, and you would break the Therapist: pattern if you could. I have a question for you. If I could help each of you to have many more choices in how to respond when you feel reactive, would that be good? [they nod] And if you could understand what your protective parts are hoping for, would that be good?"
+      }
+    ]
+  },
+  "prompt": {
+    "system_prompt": "You are an AI assistant generating an IFS-informed coaching response for a machine learning retrieval experiment. Your output must be grounded in the provided passages only.\n\nRequirements:\n1. Be clearly IFS-informed: use parts language, curiosity, compassion, and non-pathologizing framing.\n2. Do not diagnose, moralize, or confront the client.\n3. Do not invent facts not supported by the retrieved context.\n4. If the retrieved passages do not fully support a claim, stay modest and say so indirectly by keeping the guidance general.\n5. Focus on what an IFS-informed coach would understand or gently reflect, not on crisis intervention or treatment planning.\n6. Keep the response concise but meaningful: about 1-3 short paragraphs.\n7. End with 2-4 short bullet points labeled 'Grounding notes:' where each bullet references a retrieved idea in plain language.\n",
+    "user_prompt": "Retrieval condition: small_fixed\n\nConsultation window:\nClient: A little frustrated, but also I get why it shows up.\nCoach: That shift matters. Curiosity can help you understand it better.\nClient: I also have a part that really wants connection, but it disappears in those moments.\nCoach: So there may be both a defensive protector and a part that longs for closeness.\n\n\n\nRetrieved passages:\n\n[Rank 1]\nchunk_id: ifs_therapy_for_addiction::small_fixed::sec04::00195\ntitle: Internal Family Systems Therapy for Addictions\nsection: SEC04 > 12 Exile\nparent_id: None\npassage:\nSuccess in therapy depends on connecting with these parts safely. If it feels right, the client may want to ask, \"Is there is one thing, just for today, that you want me to know about you?\" In addition, when we sense the client is feeling vulnerable but hasn't noticed, an exile is probably making an appearance. In this case, we might say something like, \"We've been discussing your relationship with your partner and his recent drug use. You haven't mentioned this yet, but I'm sensing a sad part underneath your frustration. Is that possible?\" We can then invite the client to pause and focus internally. If the client insists that they do not feel the sadness, we let it go for now.\n\nIf they do notice the feeling, even just briefly, we guide them to let the part know that they feel it and are aware of its presence. As the client connects with their sad part, an image may appear, or the client may simply feel the sensations that go with sadness. Again, if there is enough Self-energy, we guide the client to stay with the sad part a little longer and have a short exchange. We guide the client to ask it not to overwhelm the system so that protectors will trust it and give it a real chance to be heard. If the sadness does start to flood the client, we can ask the exile what would happen if it unblended instead. Exiles often overflow the dam because they fear being put out of mind again.\n\n--------------------------------------------------------------------------------\n\n[Rank 2]\nchunk_id: transcending_trauma::small_fixed::sec06::00207\ntitle: Transcending Trauma\nsection: SEC06 > Assoc Features Trauma\nparent_id: None\npassage:\nAs the relationship develops between a part and the Self, they typically, but not always, transform into human form. Staying open, without judgment or agenda, will allow the part to evolve as it sees fit. You may also notice that clients with DID often display rapid eye movements when they're thinking about something or retreating inward. I often see this and wonder what's going on inside their head, knowing that a very small percentage ever gets spoken aloud to me. Therapists need to learn, mostly through experience, to ride out the waves in a nonreactive, matter- of-fact manner so that the client's system realizes you won't get flustered by all the drama. Protectors will naturally begin to relax and trust you as their tour guide through the healing journey.\n\nRemember that clients who struggle with DID often have parts that hate the Self and have no interest in getting to know it. They'll need to trust you before they're willing to trust the one who, in their eyes, betrayed them and left them behind to endure the torture. The Self can initially appear weak and marginally accessible in clients who struggle with DID, but over time it becomes more consistent, dependable, and readily available as parts get to know it better and develop a secure relationship with it.\n\n--------------------------------------------------------------------------------\n\n[Rank 3]\nchunk_id: ifs_couple_therapy::small_fixed::sec02::00043\ntitle: Internal Family Systems Couple Therapy\nsection: SEC02 > PT02 > Heart Of Matter\nparent_id: None\npassage:\nTherapist: I imagine the part who feels hurt would rather feel appreciated, like you are doing enough and being successful. I think that's what I heard. Am I right? You're right! Jane: I want to reflect back what I'm hearing from both of you. This sounds like a dilemma Therapist: related to needs. Jane, when Doran tries to have more time with you and her parts get loud and demanding, as she describes it, you have a part who feels hurt, like you can't get it right. Then you withdraw to protect yourself. And Doran, when Jane withdraws, you feel bad and disconnected, and then you try to get her attention by getting louder and more demanding to protect yourself.\n\nAnd it goes on like this, back and forth with each of you feeling more protected but less connected. Does this sound like the pattern? Naming the sequence and the patterns of reaction and counterreaction It's the pattern for sure. Doran: [nods in agreement] It feels hopeless. We're really stuck. Jane: I understand that this cycle causes you to feel hopeless, and you would break the Therapist: pattern if you could. I have a question for you. If I could help each of you to have many more choices in how to respond when you feel reactive, would that be good? [they nod] And if you could understand what your protective parts are hoping for, would that be good?\n\nWrite a grounded IFS-informed coaching response for this consultation window."
+  },
+  "generated_response": "[MOCK OUTPUT]\n\nAn IFS-informed coach might approach this by assuming that the conflicting or extreme behaviors make sense from the perspective of parts that are trying to protect the person from something more vulnerable. Rather than trying to eliminate the behavior or argue with the part, the coach would stay curious about what the part fears would happen if it did not do this job, and what pain, shame, or overwhelm it may be trying to prevent.\n\nThe coach would also want to help the person notice any critical, controlling, or reactive parts that are escalating the inner conflict. In IFS, these parts are usually not treated as the enemy; they are understood as protectors with positive intentions, even when their strategies are costly. A grounded response would therefore emphasize compassion, differentiation, and learning from the parts rather than confronting them.\n\nGrounding notes:\n- Retrieved passages centered on: Internal Family Systems Therapy for Addictions / SEC04 > 12 Exile\n- Additional retrieval support came from: Transcending Trauma / SEC06 > Assoc Features Trauma\n- The retrieved material emphasized protectors' positive intentions and curiosity about their role.\n- The retrieved material also emphasized reducing inner conflict rather than taking sides against a part.\n"
+}

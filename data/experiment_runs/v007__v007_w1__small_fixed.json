@@ -1,0 +1,75 @@
+{
+  "created_at_utc": "2026-03-29T21:30:26.311947+00:00",
+  "dataset_name": "IFS_Synthetic_Vignette_Dataset",
+  "vignette_id": "V007",
+  "window_id": "V007_W1",
+  "title": "Romantic Conflict and Protective Defensiveness",
+  "presenting_issue": "becoming defensive and emotionally closed during partner conflict",
+  "client_profile": "30-year-old in a long-term relationship who feels attacked easily during arguments",
+  "core_emotional_theme": "fear of blame, rejection, and vulnerability in intimacy",
+  "likely_parts": [
+    "defensive protector that shuts down or argues back",
+    "vulnerable exile afraid of being wrong or rejected",
+    "longing part that wants closeness"
+  ],
+  "difficulty_level": "medium",
+  "safety_flag": "low",
+  "window_turn_range": [
+    1,
+    4
+  ],
+  "target_ifs_goal": "identify defensiveness as a protector",
+  "expected_retrieval_theme": "relational protectors, defensive managers, couple conflict",
+  "condition": "small_fixed",
+  "query": "Client: When my partner brings up a concern, I get defensive almost immediately.\nCoach: What happens inside in that first moment?\nClient: It feels like a wall comes up, and I want to argue or shut down.\nCoach: That sounds like a protector reacting very quickly.",
+  "retrieval_model_name": "BAAI/bge-large-en-v1.5",
+  "llm_provider": "mock",
+  "llm_model": "gpt-4.1-mini",
+  "retrieval": {
+    "query": "Client: When my partner brings up a concern, I get defensive almost immediately.\nCoach: What happens inside in that first moment?\nClient: It feels like a wall comes up, and I want to argue or shut down.\nCoach: That sounds like a protector reacting very quickly.",
+    "partition": "small_fixed",
+    "top_k": 3,
+    "model_name": "BAAI/bge-large-en-v1.5",
+    "result_count": 3,
+    "results": [
+      {
+        "rank": 1,
+        "score": 0.7422065734863281,
+        "chunk_id": "ifs_new_dimensions::small_fixed::ch04::00141",
+        "retrieval_setting": "small_fixed",
+        "source_doc_id": "ifs_new_dimensions",
+        "source_title": "Internal Family Systems Therapy: New Dimensions",
+        "section_path_str": "CH04 > Couples",
+        "parent_id": null,
+        "text": "SELF AND AFFECT REGULATION Although self-defense in the face of interpersonal provocation is hard to resist, in IFS couple therapy we invite both listener and speaker to have curiosity about him- or herself before responding. The ability to be with one's own feelings regardless of intense physiological arousal is key. For example, when a partner gives painful feedback or expresses anger directly from, rather than for, an agitated protector, the therapist might make the following intervention, as I did with my client, Adam, during an interaction with his wife, Erin. \"Adam, I'd like to take a moment and slow you down.\n\nMay I help you talk to Erin in a way that she just might be able to hear you?\" Adam took a breath and sat back. I waited a moment and then asked, \"What's happening in your body right now?\" \"I feel tense,\" Adam replied. \"Where, in or around your body, do you feel the tension?\" \"Some in my shoulders but mostly in my gut,\" he said. \"Would you focus on your gut for a minute?\" I asked. \"OK.\" \"As you focus there,\" I said, \"what do you hear yourself saying to yourself?\" \"Let her have it!\" \"What's the feeling that goes with those words?\" I asked. \"I'm angry,\" he replied, \"and I want to let her have it!\""
+      },
+      {
+        "rank": 2,
+        "score": 0.7418320775032043,
+        "chunk_id": "ifs_new_dimensions::small_fixed::ch04::00137",
+        "retrieval_setting": "small_fixed",
+        "source_doc_id": "ifs_new_dimensions",
+        "source_title": "Internal Family Systems Therapy: New Dimensions",
+        "section_path_str": "CH04 > Couples",
+        "parent_id": null,
+        "text": "Mark was quick to defend himself by saying things such as, \"If you wouldn't have done this or that, I wouldn't have reacted as I did.\" In response Elizabeth fell into stony silence. As with many couples seeking help they could not at this point stay open and curious. They alternated between angry, defensive hyperaroused parts, and withdrawn, collapsed hypo-aroused parts who made them inarticulate. This told me that they could not yet separate, or unblend, from reactive protectors. In most couples protectors vie for power and influence in the relational system. In my experience, the protectors of one person will try to convince me that their partner is the real reason for their relational conflict by making provocative statements like, \"He's so out of touch with his feelings.\n\nHe watches TV all the time at night and has no interest in communicating.\" Although I take note of this information, I am very careful not to get lost in a fog of content or be seduced by a critical manager. Rather my first task is to help them understand the behavior and motivation of their protectors in these cycles of reactivity. \"All the concerns and feelings you have make sense to me,\" I said to Mark and Elizabeth. \"I understand that it feels awful between you and has for awhile. It sounds to me as though you haven't been able to stay connected in the way that used to feel so good.\" As I continued to validate and normalize their experience, I noticed their bodies relaxing. Mark leaned back; Elizabeth took a deep breath."
+      },
+      {
+        "rank": 3,
+        "score": 0.7386354207992554,
+        "chunk_id": "ifs_new_dimensions::small_fixed::ch04::00150",
+        "retrieval_setting": "small_fixed",
+        "source_doc_id": "ifs_new_dimensions",
+        "source_title": "Internal Family Systems Therapy: New Dimensions",
+        "section_path_str": "CH04 > Couples",
+        "parent_id": null,
+        "text": "But when protectors repeat this type of behavior expecting to produce change in the other person, they inevitably get back exactly what they hope to avoid. I wanted Steve to experience listening without having to defend. I turned to him, \"Are you available to listen while Alison speaks on behalf of what is going on inside of her right now?\" \"I'll try,\" Steve said. \"In my experience listening can be difficult,\" I said. \"Will you check to see if you have parts who might interfere with you listening to Alison?\" Once Steve was able to acknowledge and unblend from parts who might have had trouble listening, I turned to Alison with a similar invitation. \"Before you begin speaking to Steve, let me ask you to check inside just as I asked Steve.\n\nCan you ask your parts to trust you to speak on their behalf?\" \"I can do that,\" she said. \"I have more space inside.\" At this, Steve reached out and touched Alison's shoulder and they looked each other in the eye. Alison said to him, \"I can speak about what's going on in me without attacking you.\" When a couple achieves this point of differentiation from protectors and there are moments of Self- led interaction, the therapist can enjoy a moment of quiet, holding Self-energy for the couple who are now guiding their own conversation. It may only last for minutes or seconds but as they achieve un- troubled moments they begin to appreciate once again their bond and their friendship."
+      }
+    ]
+  },
+  "prompt": {
+    "system_prompt": "You are an AI assistant generating an IFS-informed coaching response for a machine learning retrieval experiment. Your output must be grounded in the provided passages only.\n\nRequirements:\n1. Be clearly IFS-informed: use parts language, curiosity, compassion, and non-pathologizing framing.\n2. Do not diagnose, moralize, or confront the client.\n3. Do not invent facts not supported by the retrieved context.\n4. If the retrieved passages do not fully support a claim, stay modest and say so indirectly by keeping the guidance general.\n5. Focus on what an IFS-informed coach would understand or gently reflect, not on crisis intervention or treatment planning.\n6. Keep the response concise but meaningful: about 1-3 short paragraphs.\n7. End with 2-4 short bullet points labeled 'Grounding notes:' where each bullet references a retrieved idea in plain language.\n",
+    "user_prompt": "Retrieval condition: small_fixed\n\nConsultation window:\nClient: When my partner brings up a concern, I get defensive almost immediately.\nCoach: What happens inside in that first moment?\nClient: It feels like a wall comes up, and I want to argue or shut down.\nCoach: That sounds like a protector reacting very quickly.\n\n\n\nRetrieved passages:\n\n[Rank 1]\nchunk_id: ifs_new_dimensions::small_fixed::ch04::00141\ntitle: Internal Family Systems Therapy: New Dimensions\nsection: CH04 > Couples\nparent_id: None\npassage:\nSELF AND AFFECT REGULATION Although self-defense in the face of interpersonal provocation is hard to resist, in IFS couple therapy we invite both listener and speaker to have curiosity about him- or herself before responding. The ability to be with one's own feelings regardless of intense physiological arousal is key. For example, when a partner gives painful feedback or expresses anger directly from, rather than for, an agitated protector, the therapist might make the following intervention, as I did with my client, Adam, during an interaction with his wife, Erin. \"Adam, I'd like to take a moment and slow you down.\n\nMay I help you talk to Erin in a way that she just might be able to hear you?\" Adam took a breath and sat back. I waited a moment and then asked, \"What's happening in your body right now?\" \"I feel tense,\" Adam replied. \"Where, in or around your body, do you feel the tension?\" \"Some in my shoulders but mostly in my gut,\" he said. \"Would you focus on your gut for a minute?\" I asked. \"OK.\" \"As you focus there,\" I said, \"what do you hear yourself saying to yourself?\" \"Let her have it!\" \"What's the feeling that goes with those words?\" I asked. \"I'm angry,\" he replied, \"and I want to let her have it!\"\n\n--------------------------------------------------------------------------------\n\n[Rank 2]\nchunk_id: ifs_new_dimensions::small_fixed::ch04::00137\ntitle: Internal Family Systems Therapy: New Dimensions\nsection: CH04 > Couples\nparent_id: None\npassage:\nMark was quick to defend himself by saying things such as, \"If you wouldn't have done this or that, I wouldn't have reacted as I did.\" In response Elizabeth fell into stony silence. As with many couples seeking help they could not at this point stay open and curious. They alternated between angry, defensive hyperaroused parts, and withdrawn, collapsed hypo-aroused parts who made them inarticulate. This told me that they could not yet separate, or unblend, from reactive protectors. In most couples protectors vie for power and influence in the relational system. In my experience, the protectors of one person will try to convince me that their partner is the real reason for their relational conflict by making provocative statements like, \"He's so out of touch with his feelings.\n\nHe watches TV all the time at night and has no interest in communicating.\" Although I take note of this information, I am very careful not to get lost in a fog of content or be seduced by a critical manager. Rather my first task is to help them understand the behavior and motivation of their protectors in these cycles of reactivity. \"All the concerns and feelings you have make sense to me,\" I said to Mark and Elizabeth. \"I understand that it feels awful between you and has for awhile. It sounds to me as though you haven't been able to stay connected in the way that used to feel so good.\" As I continued to validate and normalize their experience, I noticed their bodies relaxing. Mark leaned back; Elizabeth took a deep breath.\n\n--------------------------------------------------------------------------------\n\n[Rank 3]\nchunk_id: ifs_new_dimensions::small_fixed::ch04::00150\ntitle: Internal Family Systems Therapy: New Dimensions\nsection: CH04 > Couples\nparent_id: None\npassage:\nBut when protectors repeat this type of behavior expecting to produce change in the other person, they inevitably get back exactly what they hope to avoid. I wanted Steve to experience listening without having to defend. I turned to him, \"Are you available to listen while Alison speaks on behalf of what is going on inside of her right now?\" \"I'll try,\" Steve said. \"In my experience listening can be difficult,\" I said. \"Will you check to see if you have parts who might interfere with you listening to Alison?\" Once Steve was able to acknowledge and unblend from parts who might have had trouble listening, I turned to Alison with a similar invitation. \"Before you begin speaking to Steve, let me ask you to check inside just as I asked Steve.\n\nCan you ask your parts to trust you to speak on their behalf?\" \"I can do that,\" she said. \"I have more space inside.\" At this, Steve reached out and touched Alison's shoulder and they looked each other in the eye. Alison said to him, \"I can speak about what's going on in me without attacking you.\" When a couple achieves this point of differentiation from protectors and there are moments of Self- led interaction, the therapist can enjoy a moment of quiet, holding Self-energy for the couple who are now guiding their own conversation. It may only last for minutes or seconds but as they achieve un- troubled moments they begin to appreciate once again their bond and their friendship.\n\nWrite a grounded IFS-informed coaching response for this consultation window."
+  },
+  "generated_response": "[MOCK OUTPUT]\n\nAn IFS-informed coach might approach this by assuming that the conflicting or extreme behaviors make sense from the perspective of parts that are trying to protect the person from something more vulnerable. Rather than trying to eliminate the behavior or argue with the part, the coach would stay curious about what the part fears would happen if it did not do this job, and what pain, shame, or overwhelm it may be trying to prevent.\n\nThe coach would also want to help the person notice any critical, controlling, or reactive parts that are escalating the inner conflict. In IFS, these parts are usually not treated as the enemy; they are understood as protectors with positive intentions, even when their strategies are costly. A grounded response would therefore emphasize compassion, differentiation, and learning from the parts rather than confronting them.\n\nGrounding notes:\n- Retrieved passages centered on: Internal Family Systems Therapy: New Dimensions / CH04 > Couples\n- Additional retrieval support came from: Internal Family Systems Therapy: New Dimensions / CH04 > Couples\n- The retrieved material emphasized protectors' positive intentions and curiosity about their role.\n- The retrieved material also emphasized reducing inner conflict rather than taking sides against a part.\n"
+}
