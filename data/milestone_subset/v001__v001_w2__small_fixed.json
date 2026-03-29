@@ -1,0 +1,74 @@
+{
+  "created_at_utc": "2026-03-29T22:07:06.200718+00:00",
+  "dataset_name": "IFS_Synthetic_Vignette_Dataset",
+  "vignette_id": "V001",
+  "window_id": "V001_W2",
+  "title": "Work Avoidance and Fear of Failure",
+  "presenting_issue": "procrastination and shutting down around academic work",
+  "client_profile": "27-year-old graduate student who avoids assignments and email when overwhelmed",
+  "core_emotional_theme": "fear of failure and shame",
+  "likely_parts": [
+    "protector/manager part that avoids work to prevent failure",
+    "vulnerable part carrying shame and inadequacy"
+  ],
+  "difficulty_level": "medium",
+  "safety_flag": "low",
+  "window_turn_range": [
+    5,
+    10
+  ],
+  "target_ifs_goal": "deepen curiosity toward a protector and reduce frustration toward it",
+  "expected_retrieval_theme": "protectors, fear of failure, curiosity toward parts, unblending",
+  "condition": "small_fixed",
+  "query": "Client: It feels scared. Like if I really try and fail, that would prove I'm not good enough.\nCoach: So there may be a part trying to protect you from that feeling?\nClient: Yeah, that actually fits. It's like it would rather avoid everything than risk that.\nCoach: How do you feel toward that part as you notice it now?\nClient: Honestly, frustrated. But also kind of sad for it.\nCoach: That's helpful to notice. There may be room to get curious about what it has been trying to do for you.",
+  "retrieval_model_name": "BAAI/bge-large-en-v1.5",
+  "llm_provider": "mock",
+  "llm_model": "gpt-4.1-mini",
+  "retrieval": {
+    "query": "Client: It feels scared. Like if I really try and fail, that would prove I'm not good enough.\nCoach: So there may be a part trying to protect you from that feeling?\nClient: Yeah, that actually fits. It's like it would rather avoid everything than risk that.\nCoach: How do you feel toward that part as you notice it now?\nClient: Honestly, frustrated. But also kind of sad for it.\nCoach: That's helpful to notice. There may be room to get curious about what it has been trying to do for you.",
+    "partition": "small_fixed",
+    "top_k": 3,
+    "model_name": "BAAI/bge-large-en-v1.5",
+    "result_count": 3,
+    "results": [
+      {
+        "rank": 1,
+        "score": 0.8064180612564087,
+        "chunk_id": "ifs_couple_therapy::small_fixed::sec02::00115",
+        "retrieval_setting": "small_fixed",
+        "source_doc_id": "ifs_couple_therapy",
+        "source_title": "Internal Family Systems Couple Therapy",
+        "section_path_str": "SEC02 > PT03 > Intrapsychic",
+        "parent_id": null,
+        "text": "Reassuring the client and offering ongoing help [continuing with Wyatt] As I listened, I heard you speaking of many parts. A vigilant Therapist: part who tries to take care of Gwen, a part who withdraws to avoid conflict, and a part who doesn't want to fail in Gwen's eyes. Naming parts to differentiate them and support unblending Sounds right. I'm feeling defeated right now. Wyatt: What if we started right there? The defeated feeling. Therapist: It's heavy. Wyatt: Is it okay to focus on that? [he nods] Is the feeling familiar? Therapist: All my life. I try and try but never quite get things right. Except maybe parenting. I think I' Wyatt: ve done a good job with the kids. Oh, and I guess I've done okay in my career. But in relationships, I'm a loser. There's a judging part. It thinks you're a loser in your relationship with Gwen? Therapist: Naming inner shaming [angrily] Obviously Gwen thinks so. She complains enough. Wyatt: Revealing his external shaming part (the \"outer judge\") So there's a part who feels like you're a loser and a part who judges Gwen when you Therapist: feel that way. Would these parts move back slightly so you can focus on the one who feels so bad? Being pissed off feels better. Wyatt:"
+      },
+      {
+        "rank": 2,
+        "score": 0.8038355708122253,
+        "chunk_id": "ifs_skills_training::small_fixed::sec03::00118",
+        "retrieval_setting": "small_fixed",
+        "source_doc_id": "ifs_skills_training",
+        "source_title": "Internal Family Systems Skills Training Manual",
+        "section_path_str": "SEC03 > Manual Treatment",
+        "parent_id": null,
+        "text": "THERAPIST: Okay. Pete and the worried part are both ready for you to share 10 percent of your feelings with him. Go ahead… Let me know when you're feeling it, Pete. - Practicing. PETE: I'm feeling it. THERAPIST: Is this level of feeling okay? PETE: Yes. Befriend THERAPIST: Let the part know it's okay so far. What is it like for the part to share this with you? PETE: A little bit of a relief. THERAPIST: Great. Is it okay to keep going? Let him know what percentage of the feeling he can share with you now. We can go very slowly. Let me know when you're ready to stop and talk about what it's like for you to be together. - Facilitating the relationship with Pete's Self. As this example illustrates, we get permission to talk to the exile so we can ask it to stop overwhelming in return for getting some help. The therapist's Self also helps the client's system feel safe enough to experiment. SCIENCE: ADDRESSING FEARS AND WORKING WITH EXTREMES The last step with protectors involves understanding their fear, which is at the core of their resistance to change. We ask, \"What are you afraid would happen if you didn't do this job anymore?\" because the answer either reveals the wound (\"I would be alone\") or a polarization"
+      },
+      {
+        "rank": 3,
+        "score": 0.8020361065864563,
+        "chunk_id": "transcending_trauma::small_fixed::sec02::00083",
+        "retrieval_setting": "small_fixed",
+        "source_doc_id": "transcending_trauma",
+        "source_title": "Transcending Trauma",
+        "section_path_str": "SEC02 > Protective Parts",
+        "parent_id": null,
+        "text": "This is particularly useful with hypoaroused parts or more blunted systems that tend to respond with one- or two-word answers. Here's a constructive therapist- client dialogue to expound on this point: \"Jay, what is this part afraid will happen if it isn't anxious any longer?\" \"That would be unknown,\" Jay says. \"And what is scary about the unknown?\" \"We would lose control,\" Jay says. \"And what if you lost control?\" the therapist asks.\n\n\"We don't like feeling out of control.\" \"What would be the worst-case scenario if you did feel out of control?\" \"Oh no, we won't ever do that again.\" \"So let me see if I get this right: You're fearful of letting go of the anxiety because you're afraid of feeling those same out-of-control emotions you felt as a little boy when you were bullied at school? Is that right, Jay?\" \"Yes, exactly,\" he says. In this example, using the what-if question reveals the exile (feeling out-of-control emotions during abuse) underneath the protector (the anxious part). A P FDDRESSING ROTECTOR EARS A common frustration and one of the biggest roadblocks for therapists new to IFS is addressing protector fears."
+      }
+    ]
+  },
+  "prompt": {
+    "system_prompt": "You are an AI assistant generating an IFS-informed coaching response for a machine learning retrieval experiment. Your output must be grounded in the provided passages only.\n\nRequirements:\n1. Be clearly IFS-informed: use parts language, curiosity, compassion, and non-pathologizing framing.\n2. Do not diagnose, moralize, or confront the client.\n3. Do not invent facts not supported by the retrieved context.\n4. If the retrieved passages do not fully support a claim, stay modest and say so indirectly by keeping the guidance general.\n5. Focus on what an IFS-informed coach would understand or gently reflect, not on crisis intervention or treatment planning.\n6. Keep the response concise but meaningful: about 1-3 short paragraphs.\n7. End with 2-4 short bullet points labeled 'Grounding notes:' where each bullet references a retrieved idea in plain language.\n",
+    "user_prompt": "Retrieval condition: small_fixed\n\nConsultation window:\nClient: It feels scared. Like if I really try and fail, that would prove I'm not good enough.\nCoach: So there may be a part trying to protect you from that feeling?\nClient: Yeah, that actually fits. It's like it would rather avoid everything than risk that.\nCoach: How do you feel toward that part as you notice it now?\nClient: Honestly, frustrated. But also kind of sad for it.\nCoach: That's helpful to notice. There may be room to get curious about what it has been trying to do for you.\n\n\n\nRetrieved passages:\n\n[Rank 1]\nchunk_id: ifs_couple_therapy::small_fixed::sec02::00115\ntitle: Internal Family Systems Couple Therapy\nsection: SEC02 > PT03 > Intrapsychic\nparent_id: None\npassage:\nReassuring the client and offering ongoing help [continuing with Wyatt] As I listened, I heard you speaking of many parts. A vigilant Therapist: part who tries to take care of Gwen, a part who withdraws to avoid conflict, and a part who doesn't want to fail in Gwen's eyes. Naming parts to differentiate them and support unblending Sounds right. I'm feeling defeated right now. Wyatt: What if we started right there? The defeated feeling. Therapist: It's heavy. Wyatt: Is it okay to focus on that? [he nods] Is the feeling familiar? Therapist: All my life. I try and try but never quite get things right. Except maybe parenting. I think I' Wyatt: ve done a good job with the kids. Oh, and I guess I've done okay in my career. But in relationships, I'm a loser. There's a judging part. It thinks you're a loser in your relationship with Gwen? Therapist: Naming inner shaming [angrily] Obviously Gwen thinks so. She complains enough. Wyatt: Revealing his external shaming part (the \"outer judge\") So there's a part who feels like you're a loser and a part who judges Gwen when you Therapist: feel that way. Would these parts move back slightly so you can focus on the one who feels so bad? Being pissed off feels better. Wyatt:\n\n--------------------------------------------------------------------------------\n\n[Rank 2]\nchunk_id: ifs_skills_training::small_fixed::sec03::00118\ntitle: Internal Family Systems Skills Training Manual\nsection: SEC03 > Manual Treatment\nparent_id: None\npassage:\nTHERAPIST: Okay. Pete and the worried part are both ready for you to share 10 percent of your feelings with him. Go ahead… Let me know when you're feeling it, Pete. - Practicing. PETE: I'm feeling it. THERAPIST: Is this level of feeling okay? PETE: Yes. Befriend THERAPIST: Let the part know it's okay so far. What is it like for the part to share this with you? PETE: A little bit of a relief. THERAPIST: Great. Is it okay to keep going? Let him know what percentage of the feeling he can share with you now. We can go very slowly. Let me know when you're ready to stop and talk about what it's like for you to be together. - Facilitating the relationship with Pete's Self. As this example illustrates, we get permission to talk to the exile so we can ask it to stop overwhelming in return for getting some help. The therapist's Self also helps the client's system feel safe enough to experiment. SCIENCE: ADDRESSING FEARS AND WORKING WITH EXTREMES The last step with protectors involves understanding their fear, which is at the core of their resistance to change. We ask, \"What are you afraid would happen if you didn't do this job anymore?\" because the answer either reveals the wound (\"I would be alone\") or a polarization\n\n--------------------------------------------------------------------------------\n\n[Rank 3]\nchunk_id: transcending_trauma::small_fixed::sec02::00083\ntitle: Transcending Trauma\nsection: SEC02 > Protective Parts\nparent_id: None\npassage:\nThis is particularly useful with hypoaroused parts or more blunted systems that tend to respond with one- or two-word answers. Here's a constructive therapist- client dialogue to expound on this point: \"Jay, what is this part afraid will happen if it isn't anxious any longer?\" \"That would be unknown,\" Jay says. \"And what is scary about the unknown?\" \"We would lose control,\" Jay says. \"And what if you lost control?\" the therapist asks.\n\n\"We don't like feeling out of control.\" \"What would be the worst-case scenario if you did feel out of control?\" \"Oh no, we won't ever do that again.\" \"So let me see if I get this right: You're fearful of letting go of the anxiety because you're afraid of feeling those same out-of-control emotions you felt as a little boy when you were bullied at school? Is that right, Jay?\" \"Yes, exactly,\" he says. In this example, using the what-if question reveals the exile (feeling out-of-control emotions during abuse) underneath the protector (the anxious part). A P FDDRESSING ROTECTOR EARS A common frustration and one of the biggest roadblocks for therapists new to IFS is addressing protector fears.\n\nWrite a grounded IFS-informed coaching response for this consultation window."
+  },
+  "generated_response": "[MOCK OUTPUT]\n\nAn IFS-informed coach might approach this by assuming that the conflicting or extreme behaviors make sense from the perspective of parts that are trying to protect the person from something more vulnerable. Rather than trying to eliminate the behavior or argue with the part, the coach would stay curious about what the part fears would happen if it did not do this job, and what pain, shame, or overwhelm it may be trying to prevent.\n\nThe coach would also want to help the person notice any critical, controlling, or reactive parts that are escalating the inner conflict. In IFS, these parts are usually not treated as the enemy; they are understood as protectors with positive intentions, even when their strategies are costly. A grounded response would therefore emphasize compassion, differentiation, and learning from the parts rather than confronting them.\n\nGrounding notes:\n- Retrieved passages centered on: Internal Family Systems Couple Therapy / SEC02 > PT03 > Intrapsychic\n- Additional retrieval support came from: Internal Family Systems Skills Training Manual / SEC03 > Manual Treatment\n- The retrieved material emphasized protectors' positive intentions and curiosity about their role.\n- The retrieved material also emphasized reducing inner conflict rather than taking sides against a part.\n"
+}

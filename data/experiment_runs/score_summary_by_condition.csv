@@ -1,0 +1,4 @@
+condition,total_outputs,scored_outputs,mean_ifs_adherence,mean_grounding
+hierarchical,30,0,,
+medium_overlap,30,0,,
+small_fixed,30,0,,
