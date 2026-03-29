@@ -1,0 +1,14 @@
+{
+  "partition": "small_fixed",
+  "created_at_utc": "2026-03-29T16:59:31.991095+00:00",
+  "metric": "inner_product",
+  "vector_count": 1246,
+  "embedding_dim": 1024,
+  "faiss_index_type": "IndexFlatIP",
+  "index_path": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/test_indexes/small_fixed/index.faiss",
+  "metadata_path": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/test_embeddings/small_fixed/metadata.jsonl",
+  "embeddings_path": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/test_embeddings/small_fixed/embeddings.npy",
+  "embedding_model_name": "BAAI/bge-large-en-v1.5",
+  "normalize_embeddings": true,
+  "sample_chunk_id": "ifs_couple_therapy::small_fixed::ch00::00000"
+}

@@ -1,0 +1,67 @@
+{
+  "created_at_utc": "2026-03-29T16:59:31.911582+00:00",
+  "embed_root": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/test_embeddings",
+  "index_root": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/test_indexes",
+  "metric": "inner_product",
+  "source_embedding_manifest": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/test_embeddings/manifests/embedding_manifest.json",
+  "embedding_model_name": "BAAI/bge-large-en-v1.5",
+  "normalize_embeddings": true,
+  "partitions": {
+    "small_fixed": {
+      "partition": "small_fixed",
+      "created_at_utc": "2026-03-29T16:59:31.991095+00:00",
+      "metric": "inner_product",
+      "vector_count": 1246,
+      "embedding_dim": 1024,
+      "faiss_index_type": "IndexFlatIP",
+      "index_path": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/test_indexes/small_fixed/index.faiss",
+      "metadata_path": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/test_embeddings/small_fixed/metadata.jsonl",
+      "embeddings_path": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/test_embeddings/small_fixed/embeddings.npy",
+      "embedding_model_name": "BAAI/bge-large-en-v1.5",
+      "normalize_embeddings": true,
+      "sample_chunk_id": "ifs_couple_therapy::small_fixed::ch00::00000"
+    },
+    "medium_overlap": {
+      "partition": "medium_overlap",
+      "created_at_utc": "2026-03-29T16:59:32.013990+00:00",
+      "metric": "inner_product",
+      "vector_count": 595,
+      "embedding_dim": 1024,
+      "faiss_index_type": "IndexFlatIP",
+      "index_path": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/test_indexes/medium_overlap/index.faiss",
+      "metadata_path": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/test_embeddings/medium_overlap/metadata.jsonl",
+      "embeddings_path": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/test_embeddings/medium_overlap/embeddings.npy",
+      "embedding_model_name": "BAAI/bge-large-en-v1.5",
+      "normalize_embeddings": true,
+      "sample_chunk_id": "ifs_couple_therapy::medium_overlap::ch00::00000"
+    },
+    "hierarchical_parent": {
+      "partition": "hierarchical_parent",
+      "created_at_utc": "2026-03-29T16:59:32.026277+00:00",
+      "metric": "inner_product",
+      "vector_count": 49,
+      "embedding_dim": 1024,
+      "faiss_index_type": "IndexFlatIP",
+      "index_path": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/test_indexes/hierarchical_parent/index.faiss",
+      "metadata_path": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/test_embeddings/hierarchical/parent_metadata.jsonl",
+      "embeddings_path": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/test_embeddings/hierarchical/parent_embeddings.npy",
+      "embedding_model_name": "BAAI/bge-large-en-v1.5",
+      "normalize_embeddings": true,
+      "sample_chunk_id": "ifs_couple_therapy::hier_parent::ch00::00000"
+    },
+    "hierarchical_child": {
+      "partition": "hierarchical_child",
+      "created_at_utc": "2026-03-29T16:59:32.059351+00:00",
+      "metric": "inner_product",
+      "vector_count": 1725,
+      "embedding_dim": 1024,
+      "faiss_index_type": "IndexFlatIP",
+      "index_path": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/test_indexes/hierarchical_child/index.faiss",
+      "metadata_path": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/test_embeddings/hierarchical/child_metadata.jsonl",
+      "embeddings_path": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/test_embeddings/hierarchical/child_embeddings.npy",
+      "embedding_model_name": "BAAI/bge-large-en-v1.5",
+      "normalize_embeddings": true,
+      "sample_chunk_id": "ifs_couple_therapy::hier_child::ch00::00000"
+    }
+  }
+}
