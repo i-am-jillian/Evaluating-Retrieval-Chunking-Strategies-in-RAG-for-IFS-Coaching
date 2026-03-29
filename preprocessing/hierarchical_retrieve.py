@@ -3,7 +3,7 @@ from __future__ import annotations
 import argparse
 import json
 from pathlib import Path
-from typing import Any, Dict, List, Set, Tuple
+from typing import Any, Dict, List, Optional, Set, Tuple
 
 import numpy as np
 from sentence_transformers import SentenceTransformer
@@ -42,6 +42,12 @@ def embed_query(model: SentenceTransformer, query: str, model_name: str) -> np.n
     text = maybe_prefix_query(query, model_name)
     vec = model.encode([text], normalize_embeddings=True, convert_to_numpy=True)
     return vec.astype(np.float32, copy=False)
+
+def get_or_load_model(
+    model_name: str,
+    model: Optional[SentenceTransformer] = None,
+) -> SentenceTransformer:
+    return model if model is not None else SentenceTransformer(model_name)
 
 
 def load_parent_resources(index_root: Path, embed_root: Path):
@@ -197,8 +203,9 @@ def hierarchical_retrieve(
     parent_top_k: int,
     child_top_k_per_parent: int,
     final_top_k: int,
+    model: Optional[SentenceTransformer] = None,
 ) -> Dict[str, Any]:
-    model = SentenceTransformer(model_name)
+    model = get_or_load_model(model_name, model)
     query_vec = embed_query(model, query, model_name)
 
     parent_index, parent_rows = load_parent_resources(index_root, embed_root)

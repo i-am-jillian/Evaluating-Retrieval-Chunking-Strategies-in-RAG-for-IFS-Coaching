@@ -1,0 +1,74 @@
+{
+  "created_at_utc": "2026-03-29T19:51:32.263427+00:00",
+  "dataset_name": "IFS_Synthetic_Vignette_Dataset",
+  "vignette_id": "V001",
+  "window_id": "V001_W1",
+  "title": "Work Avoidance and Fear of Failure",
+  "presenting_issue": "procrastination and shutting down around academic work",
+  "client_profile": "27-year-old graduate student who avoids assignments and email when overwhelmed",
+  "core_emotional_theme": "fear of failure and shame",
+  "likely_parts": [
+    "protector/manager part that avoids work to prevent failure",
+    "vulnerable part carrying shame and inadequacy"
+  ],
+  "difficulty_level": "medium",
+  "safety_flag": "low",
+  "window_turn_range": [
+    1,
+    4
+  ],
+  "target_ifs_goal": "identify a protective part and begin parts-based framing",
+  "expected_retrieval_theme": "protectors, avoidance as protection, parts language",
+  "condition": "small_fixed",
+  "query": "Client: I keep putting off my work, and then I feel even worse about myself.\nCoach: What do you notice inside right before you pull away from it?\nClient: It feels like something in me just shuts everything down.\nCoach: Can you say a little more about that shutting-down part?",
+  "retrieval_model_name": "BAAI/bge-large-en-v1.5",
+  "llm_provider": "mock",
+  "llm_model": "gpt-4.1-mini",
+  "retrieval": {
+    "query": "Client: I keep putting off my work, and then I feel even worse about myself.\nCoach: What do you notice inside right before you pull away from it?\nClient: It feels like something in me just shuts everything down.\nCoach: Can you say a little more about that shutting-down part?",
+    "partition": "small_fixed",
+    "top_k": 3,
+    "model_name": "BAAI/bge-large-en-v1.5",
+    "result_count": 3,
+    "results": [
+      {
+        "rank": 1,
+        "score": 0.7655577063560486,
+        "chunk_id": "ifs_couple_therapy::small_fixed::sec03::00155",
+        "retrieval_setting": "small_fixed",
+        "source_doc_id": "ifs_couple_therapy",
+        "source_title": "Internal Family Systems Couple Therapy",
+        "section_path_str": "SEC03 > Relational",
+        "parent_id": null,
+        "text": "I have a part that's fleeing big time. I can hear its voice saying, \"Get me out of here!\" Cate: And I'm in my usual place-itching for a fight. Dan: And what's happening in your body right now? Therapist: I'm cranking up. I'm tight. I can't help it. Dan: Got it, Dan. You're angry and getting more agitated. And you don't feel like you can Therapist: help yourself. Does that sound right? Mirroring Right. Dan:\n\nTherapist: [turning to Cate] And your body? I'm tense, but it's not like I am going to get up and run. Not now anyway. Breathing deeply Cate: helps. Great. If you can keep noticing your body and your parts, I want to spend a little time Therapist: with Dan. Fine with me. Cate: [to Dan] All this energy in your body makes sense to me. It sounds like you're Therapist: feeling unsafe? Can you look at me? Offering co-regulation through eye contact and tone of voice [continuing] I have heard from you, Dan, that when you feel offended or threatened, Therapist: you can get very angry, and the anger takes over your body. And sometimes it's hard for this angry part to unblend, as we say in IFS. It's hard to get yourself to the calm zone. And given your history, this makes complete sense to me. Is there more you want to say right now about how you're feeling? Validation and mirroring followed by an invitation to say more about feelings I'm a little better. But I feel angry."
+      },
+      {
+        "rank": 2,
+        "score": 0.7640636563301086,
+        "chunk_id": "transcending_trauma::small_fixed::sec06::00211",
+        "retrieval_setting": "small_fixed",
+        "source_doc_id": "transcending_trauma",
+        "source_title": "Transcending Trauma",
+        "section_path_str": "SEC06 > Assoc Features Trauma",
+        "parent_id": null,
+        "text": "Consider the following dialogue between me and my client Brian: \"Brian, I've noticed that you're spending a lot of time in this session trying to figure out how many courses you should teach this semester,\" I said. \"Do you have a sense as to what feels right for you?\" \"There are too many good options,\" Brian responded. \"I guess that's a good problem to have, but I know that the ones I choose will affect my supervisor's view of me. I just can't make a decision.\"\n\n\"Which would make you the happiest?\" \"I have no idea.\" \"Let's take a moment and see if we can approach this from a slightly different angle,\" I suggested. \"What if you stop trying to figure out which courses to pick? What shows up inside?\" \"Nothing, nothing at all.\" \"What's happening in your body?\" I asked. \"I feel a knot in my stomach.\" \"Can you focus on that knot for a moment?\" \"It's like a pit in the bottom of my stomach."
+      },
+      {
+        "rank": 3,
+        "score": 0.7632443308830261,
+        "chunk_id": "ifs_skills_training::small_fixed::sec03::00047",
+        "retrieval_setting": "small_fixed",
+        "source_doc_id": "ifs_skills_training",
+        "source_title": "Internal Family Systems Skills Training Manual",
+        "section_path_str": "SEC03 > Manual Treatment",
+        "parent_id": null,
+        "text": "But I'm afraid if I think about all this too much I'll be more bummed out when I leave. - Although one part is now intrigued, another - a concerned part - speaks up. THERAPIST: I understand. I don't want you to leave here feeling more bummed out. Can I tell you one more thing that might help? LOGAN: Okay. THERAPIST: In addition to lots of parts, we all also have internal strength to get through tough times. So deep down I'd say you do know what's best and you have the inner resources to navigate this situation. These resources include a kind of inner wisdom that is your core Self: the Logan who is not a part. I can help your parts meet that Logan if they want. - The therapist introduces the idea of the Self. LOGAN: They don't think it's true.\n\nTHERAPIST: I'm glad they spoke up because I wouldn't want them to take my word for it. And I want them to know that meeting the Logan who is not a part would not involve them changing or giving anything up, it would just be to learn about what that Logan has to offer. LOGAN: Okay I'll try. THERAPIST: So let's start with one part. Who needs your attention first? - Always have a target part. LOGAN: How about the one who's stressed out by school? THERAPIST: Good. Turn your attention inside - you can close your eyes if you want, or not."
+      }
+    ]
+  },
+  "prompt": {
+    "system_prompt": "You are an AI assistant generating an IFS-informed coaching response for a machine learning retrieval experiment. Your output must be grounded in the provided passages only.\n\nRequirements:\n1. Be clearly IFS-informed: use parts language, curiosity, compassion, and non-pathologizing framing.\n2. Do not diagnose, moralize, or confront the client.\n3. Do not invent facts not supported by the retrieved context.\n4. If the retrieved passages do not fully support a claim, stay modest and say so indirectly by keeping the guidance general.\n5. Focus on what an IFS-informed coach would understand or gently reflect, not on crisis intervention or treatment planning.\n6. Keep the response concise but meaningful: about 1-3 short paragraphs.\n7. End with 2-4 short bullet points labeled 'Grounding notes:' where each bullet references a retrieved idea in plain language.\n",
+    "user_prompt": "Retrieval condition: small_fixed\n\nConsultation window:\nClient: I keep putting off my work, and then I feel even worse about myself.\nCoach: What do you notice inside right before you pull away from it?\nClient: It feels like something in me just shuts everything down.\nCoach: Can you say a little more about that shutting-down part?\n\n\n\nRetrieved passages:\n\n[Rank 1]\nchunk_id: ifs_couple_therapy::small_fixed::sec03::00155\ntitle: Internal Family Systems Couple Therapy\nsection: SEC03 > Relational\nparent_id: None\npassage:\nI have a part that's fleeing big time. I can hear its voice saying, \"Get me out of here!\" Cate: And I'm in my usual place-itching for a fight. Dan: And what's happening in your body right now? Therapist: I'm cranking up. I'm tight. I can't help it. Dan: Got it, Dan. You're angry and getting more agitated. And you don't feel like you can Therapist: help yourself. Does that sound right? Mirroring Right. Dan:\n\nTherapist: [turning to Cate] And your body? I'm tense, but it's not like I am going to get up and run. Not now anyway. Breathing deeply Cate: helps. Great. If you can keep noticing your body and your parts, I want to spend a little time Therapist: with Dan. Fine with me. Cate: [to Dan] All this energy in your body makes sense to me. It sounds like you're Therapist: feeling unsafe? Can you look at me? Offering co-regulation through eye contact and tone of voice [continuing] I have heard from you, Dan, that when you feel offended or threatened, Therapist: you can get very angry, and the anger takes over your body. And sometimes it's hard for this angry part to unblend, as we say in IFS. It's hard to get yourself to the calm zone. And given your history, this makes complete sense to me. Is there more you want to say right now about how you're feeling? Validation and mirroring followed by an invitation to say more about feelings I'm a little better. But I feel angry.\n\n--------------------------------------------------------------------------------\n\n[Rank 2]\nchunk_id: transcending_trauma::small_fixed::sec06::00211\ntitle: Transcending Trauma\nsection: SEC06 > Assoc Features Trauma\nparent_id: None\npassage:\nConsider the following dialogue between me and my client Brian: \"Brian, I've noticed that you're spending a lot of time in this session trying to figure out how many courses you should teach this semester,\" I said. \"Do you have a sense as to what feels right for you?\" \"There are too many good options,\" Brian responded. \"I guess that's a good problem to have, but I know that the ones I choose will affect my supervisor's view of me. I just can't make a decision.\"\n\n\"Which would make you the happiest?\" \"I have no idea.\" \"Let's take a moment and see if we can approach this from a slightly different angle,\" I suggested. \"What if you stop trying to figure out which courses to pick? What shows up inside?\" \"Nothing, nothing at all.\" \"What's happening in your body?\" I asked. \"I feel a knot in my stomach.\" \"Can you focus on that knot for a moment?\" \"It's like a pit in the bottom of my stomach.\n\n--------------------------------------------------------------------------------\n\n[Rank 3]\nchunk_id: ifs_skills_training::small_fixed::sec03::00047\ntitle: Internal Family Systems Skills Training Manual\nsection: SEC03 > Manual Treatment\nparent_id: None\npassage:\nBut I'm afraid if I think about all this too much I'll be more bummed out when I leave. - Although one part is now intrigued, another - a concerned part - speaks up. THERAPIST: I understand. I don't want you to leave here feeling more bummed out. Can I tell you one more thing that might help? LOGAN: Okay. THERAPIST: In addition to lots of parts, we all also have internal strength to get through tough times. So deep down I'd say you do know what's best and you have the inner resources to navigate this situation. These resources include a kind of inner wisdom that is your core Self: the Logan who is not a part. I can help your parts meet that Logan if they want. - The therapist introduces the idea of the Self. LOGAN: They don't think it's true.\n\nTHERAPIST: I'm glad they spoke up because I wouldn't want them to take my word for it. And I want them to know that meeting the Logan who is not a part would not involve them changing or giving anything up, it would just be to learn about what that Logan has to offer. LOGAN: Okay I'll try. THERAPIST: So let's start with one part. Who needs your attention first? - Always have a target part. LOGAN: How about the one who's stressed out by school? THERAPIST: Good. Turn your attention inside - you can close your eyes if you want, or not.\n\nWrite a grounded IFS-informed coaching response for this consultation window."
+  },
+  "generated_response": "[MOCK OUTPUT]\n\nAn IFS-informed coach might approach this by assuming that the conflicting or extreme behaviors make sense from the perspective of parts that are trying to protect the person from something more vulnerable. Rather than trying to eliminate the behavior or argue with the part, the coach would stay curious about what the part fears would happen if it did not do this job, and what pain, shame, or overwhelm it may be trying to prevent.\n\nThe coach would also want to help the person notice any critical, controlling, or reactive parts that are escalating the inner conflict. In IFS, these parts are usually not treated as the enemy; they are understood as protectors with positive intentions, even when their strategies are costly. A grounded response would therefore emphasize compassion, differentiation, and learning from the parts rather than confronting them.\n\nGrounding notes:\n- Retrieved passages centered on: Internal Family Systems Couple Therapy / SEC03 > Relational\n- Additional retrieval support came from: Transcending Trauma / SEC06 > Assoc Features Trauma\n- The retrieved material emphasized protectors' positive intentions and curiosity about their role.\n- The retrieved material also emphasized reducing inner conflict rather than taking sides against a part.\n"
+}

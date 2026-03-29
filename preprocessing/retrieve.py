@@ -3,7 +3,7 @@ from __future__ import annotations
 import argparse
 import json
 from pathlib import Path
-from typing import Any, Dict, List
+from typing import Any, Dict, List, Optional
 
 import numpy as np
 from sentence_transformers import SentenceTransformer
@@ -58,6 +58,12 @@ def embed_query(model: SentenceTransformer, query: str, model_name: str) -> np.n
     vec = model.encode([text], normalize_embeddings=True, convert_to_numpy=True)
     return vec.astype(np.float32, copy=False)
 
+def get_or_load_model(
+    model_name: str,
+    model: Optional[SentenceTransformer] = None,
+) -> SentenceTransformer:
+    return model if model is not None else SentenceTransformer(model_name)
+
 
 def load_resources(index_root: Path, embed_root: Path, partition: str):
     faiss = load_faiss()
@@ -94,11 +100,12 @@ def search_partition(
     embed_root: Path,
     model_name: str,
     top_k: int,
+    model: Optional[SentenceTransformer] = None,
 ) -> Dict[str, Any]:
     if partition not in PARTITIONS:
         raise ValueError(f"partition must be one of {PARTITIONS}")
 
-    model = SentenceTransformer(model_name)
+    model = get_or_load_model(model_name, model)
     index, rows = load_resources(index_root, embed_root, partition)
     q_vec = embed_query(model, query, model_name)
 
