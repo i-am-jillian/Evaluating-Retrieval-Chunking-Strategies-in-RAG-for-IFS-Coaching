@@ -1,0 +1,192 @@
+{
+  "created_at_utc": "2026-04-24T07:35:51.055671+00:00",
+  "dataset_name": "IFS_Synthetic_Vignette_Dataset",
+  "vignette_id": "V005",
+  "window_id": "V005_W1",
+  "title": "Inner Conflict About Rest vs Productivity",
+  "presenting_issue": "conflict between wanting rest and feeling guilty for slowing down",
+  "client_profile": "29-year-old high-achiever who feels anxious when not being productive",
+  "core_emotional_theme": "conflict between pressure and exhaustion",
+  "likely_parts": [
+    "driven manager part focused on productivity",
+    "tired part needing rest",
+    "possibly ashamed part underneath both"
+  ],
+  "difficulty_level": "hard",
+  "safety_flag": "low",
+  "window_turn_range": [
+    1,
+    5
+  ],
+  "target_ifs_goal": "differentiate multiple parts and clarify their conflict",
+  "expected_retrieval_theme": "polarization, managers, inner conflict between parts",
+  "condition": "medium_overlap",
+  "query": "Client: Part of me wants to rest, but another part says I'm being lazy if I do.\nCoach: It sounds like there may be at least two parts there. What do you notice about each one?\nClient: One feels exhausted and desperate for a break. The other is sharp and demanding.\nCoach: How does the demanding one seem to view rest?\nClient: Like rest is dangerous. Like if I slow down, everything will fall apart.",
+  "retrieval_model_name": "tfidf",
+  "llm_provider": "gemini",
+  "llm_model": "gemini-3-flash-preview",
+  "retrieval": {
+    "partition": "medium_overlap",
+    "model_name": "tfidf",
+    "top_k": 3,
+    "results": [
+      {
+        "chunk_id": "ifs_couple_therapy::medium_overlap::sec02::00023",
+        "retrieval_setting": "medium_overlap",
+        "chunking_strategy": "fixed_window_with_overlap",
+        "source_doc_id": "ifs_couple_therapy",
+        "source_title": "Internal Family Systems Couple Therapy",
+        "text": "Asking a U-turn question to invite curiosity I hate to admit it, but I get angry and loud. Doran: [interrupts] She gets critical. Jane: [to Jane] I'm going to ask you to wait so I can listen to Doran for a few minutes. Therapist: Actually, I'm going to ask both of you to hold off on speaking while the other person is talking. Can we agree to that for now? Contracting for safety Okay, okay. It's hard. Jane: I understand how hard it is given where you are. Thank you for doing something hard. Therapist: Validating protective response while maintaining the boundary [to Doran] So you have a part who gets loud? Therapist: Sticking to parts language Yes, loud, and I hate to admit it, demanding. Doran: What happens in your body when you get loud and demanding? And what do you Therapist: hear yourself saying to yourself? Asking U-turn questions I have to admit that I hear myself wondering: What's wrong with me? Why does Jane avoid Doran: me? Are you aware of that part right now? Therapist: Yes, I have a lump in my stomach. I feel bad. Doran: Let's connect with it for a moment and find out more. Therapist: I don't like feeling this way. Doran:\n\nTherapist: This makes a lot of sense to me, Doran. Just like Jane, it sounds like you have a couple of active parts in these interactions. One part gets loud and demanding and the other says: What's wrong with me that Jane is avoiding me? Am I getting that right? Validating, mirroring, and checking for agreement Yes, you've got it. Doran: And it sounds like there might be a relationship between these two parts of you. The Therapist: bigger that lump in your stomach gets, the louder and more demanding your frustrated part becomes? [Doran nods] Okay. I want to ask both of you a question. I' ll start with you, Doran, to get a sense of this part who gets loud and demanding. What might happen if it didn't do that? [pausing] I'd never get her attention. We'd stay disconnected and I'd never get my needs Doran: met. So, this part of you is trying to be connected with Jane? Therapist: Yes. I guess it is. But it doesn't really work, does it? Doran: [to Jane] Did you know this? Therapist: Of course not. I just feel criticized. Jane: And what about the part of you who withdraws. Are you aware of it right now? Therapist: I can still feel it, but I feel less guarded hearing what Doran just said. Jane: And what might that part be concerned about? What if it let you stay and not Therapist: withdraw? [pausing] I would just keep being criticized. Jane: And then what? Therapist: I would keep feeling misunderstood. Jane: And then what? Therapist: More hurt. Jane:\n\nTherapist: I imagine the part who feels hurt would rather feel appreciated, like you are doing enough and being successful. I think that's what I heard. Am I right? You're right! Jane: I want to reflect back what I'm hearing from both of you. This sounds like a dilemma Therapist: related to needs. Jane, when Doran tries to have more time with you and her parts get loud and demanding, as she describes it, you have a part who feels hurt, like you can't get it right. Then you withdraw to protect yourself. And Doran, when Jane withdraws, you feel bad and disconnected, and then you try to get her attention by getting louder and more demanding to protect yourself.",
+        "book_order": 0,
+        "node_ids": [
+          "ifs_couple_therapy::ifs_couple_therapy_sec02_pt02_heart_of_matter::node"
+        ],
+        "primary_node_id": "ifs_couple_therapy::ifs_couple_therapy_sec02_pt02_heart_of_matter::node",
+        "source_files": [
+          "ifs_couple_therapy_sec02_pt02_heart_of_matter.words.txt"
+        ],
+        "source_file_indices": [
+          3
+        ],
+        "paragraph_ids": [
+          26,
+          27,
+          28
+        ],
+        "section_path": [
+          "SEC02",
+          "PT02",
+          "Heart Of Matter"
+        ],
+        "section_path_str": "SEC02 > PT02 > Heart Of Matter",
+        "chapter_label": "SEC02",
+        "section_label": "PT02",
+        "subsection_label": "Heart Of Matter",
+        "char_start_in_doc": 56276,
+        "char_end_in_doc": 59564,
+        "token_count_est": 800,
+        "char_count": 3288,
+        "prev_chunk_id": "ifs_couple_therapy::medium_overlap::sec02::00022",
+        "next_chunk_id": "ifs_couple_therapy::medium_overlap::sec02::00024",
+        "parent_id": null,
+        "children_ids": [],
+        "overlap_with_prev_tokens": 283,
+        "overlap_with_next_tokens": 161,
+        "node_type": "flat_chunk",
+        "content_type": "body_text",
+        "target_tokens": 900,
+        "overlap_tokens": 180,
+        "source_jsonl": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/medium_overlap/ifs_couple_therapy_chunks_medium_overlap.jsonl",
+        "embedding_row": 23,
+        "embedding_partition": "medium_overlap",
+        "rank": 1,
+        "score": 0.11400341402782158
+      },
+      {
+        "chunk_id": "ifs_therapy_for_addiction::medium_overlap::sec03::00024",
+        "retrieval_setting": "medium_overlap",
+        "chunking_strategy": "fixed_window_with_overlap",
+        "source_doc_id": "ifs_therapy_for_addiction",
+        "source_title": "Internal Family Systems Therapy for Addictions",
+        "text": "Then ask the part if it is willing to play a game that may cause some distress but will teach you some important information. If it agrees, say that the game is beginning, and tell the part that it can never engage in this favorite behavior again. Not ever. If the part tries to negotiate for more time with this behavior, be very firm and insist that the behavior can never happen again. It is completely over. Notice any reactions to this news in your body, including any thoughts as you say, \"No, never again.\" If any parts protest to the ban, tell them they are bad if they can't agree to stop the behavior. You may notice some activation in your belly that feels like worry, anxiety, or fear.\n\nYou may notice a thought response along the lines of: Hey! You can't do that. Perhaps you notice disbelief. Maybe a part says, \"Don't worry, I'll still find a way\" or \"You can't tell me what to do.\" Connect to the parts who react and ask how this change would affect them. You may want to ask what concerns they have about giving up this activity. Again, tell them if they can't stop, they are being bad. Finally, reassure all your parts that this was just an experiment and that it is actually fine for them to continue doing what they enjoy. Notice what that statement feels like in your body, including any thoughts or comments that come up. Take a few minutes to write about your experience.\n\nHow did this experiment in deprivation feel to your system? What was it like for your parts to be told what to do and to have no recourse? How did it feel to be judged when they objected? Finally, how might this experience inform or support you in connecting with a client who comes to you for help with an addictive process? _________________ * The concept for this exercise originated from IFS Senior Trainer Mary Kruger. Sykes, Cece, et al. Internal Family Systems Therapy for Addictions: Trauma-Informed, Compassion-Based Interventions for Substance Use, Eating, Gambling and More, PESI,\n\nInternal Family Systems Therapy for Addictions. All rights reserved. Sykes, Cece, et al. Internal Family Systems Therapy for Addictions: Trauma-Informed, Compassion-Based Interventions for Substance Use, Eating, Gambling and More, PESI,\n\nTherapist Exercise Explore Your Reaction to the Words and Addict Addiction This exercise is designed to mildly activate any parts of you that hold conscious or unconscious bias about the words addict or addiction. Since these terms are commonly used in the field of substance use treatment, this exercise is designed to help you explore any unseen reactivity that these words elicit. If you think it will be too activating for you, do not do this exercise alone. Invite a friend or colleague to do it with you and support each other. Find a quiet place and make yourself comfortable, taking a few minutes to adjust your position until you feel physically at ease or at rest. If it feels okay, close your eyes, inviting even your eyes to rest and enjoy doing less.\n\nThen focus on your breathing, and try extending your inhalations and exhalations to the count of seven, eight, or nine. Notice your deeper breath as your body settles. Take time to enjoy this feeling of self-regulation. When you are ready, focus internally on your thoughts and emotions. Take your time simply focusing on your inner experience. Now say the word addict to yourself a few times or repeat the word addiction. As you do this out loud or internally, notice your body, feelings, and thoughts. Notice any images that come to mind. Perhaps a real or an imagined \"addict\" came to your mind's eye. If so, how do you feel toward that person? What do you notice yourself thinking about that person?",
+        "book_order": 4,
+        "node_ids": [
+          "ifs_therapy_for_addiction::ifs_therapy_for_addiction_sec03_assesment::node"
+        ],
+        "primary_node_id": "ifs_therapy_for_addiction::ifs_therapy_for_addiction_sec03_assesment::node",
+        "source_files": [
+          "ifs_therapy_for_addiction_sec03_assesment.words.txt"
+        ],
+        "source_file_indices": [
+          3
+        ],
+        "paragraph_ids": [
+          29,
+          30,
+          31
+        ],
+        "section_path": [
+          "SEC03",
+          "Assesment"
+        ],
+        "section_path_str": "SEC03 > Assesment",
+        "chapter_label": "SEC03",
+        "section_label": "Assesment",
+        "subsection_label": null,
+        "char_start_in_doc": 71486,
+        "char_end_in_doc": 75178,
+        "token_count_est": 848,
+        "char_count": 3695,
+        "prev_chunk_id": "ifs_therapy_for_addiction::medium_overlap::sec03::00023",
+        "next_chunk_id": "ifs_therapy_for_addiction::medium_overlap::sec03::00025",
+        "parent_id": null,
+        "children_ids": [],
+        "overlap_with_prev_tokens": 170,
+        "overlap_with_next_tokens": 161,
+        "node_type": "flat_chunk",
+        "content_type": "body_text",
+        "target_tokens": 900,
+        "overlap_tokens": 180,
+        "source_jsonl": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/medium_overlap/ifs_therapy_for_addiction_chunks_medium_overlap.jsonl",
+        "embedding_row": 388,
+        "embedding_partition": "medium_overlap",
+        "rank": 2,
+        "score": 0.09969354664744653
+      },
+      {
+        "chunk_id": "ifs_therapy_for_addiction::medium_overlap::sec01::00008",
+        "retrieval_setting": "medium_overlap",
+        "chunking_strategy": "fixed_window_with_overlap",
+        "source_doc_id": "ifs_therapy_for_addiction",
+        "source_title": "Internal Family Systems Therapy for Addictions",
+        "text": "Blending To practice IFS, you must understand the concept of blending. When a client feels engulfed by a particular feeling or speaks from the perspective of just one part, we say that this part is blended. For example, let's say that a client drinks every day but declares, \"There's no way my drinking is hurting anything!\" The IFS therapist hears this as a firefighter part who loves or feels a need to drink. This part has strong feelings and a big impact, but it does not represent the client's best judgment or their system's majority view. Similarly, let's say a client is struggling with binge eating and is despondent about their nightly eating pattern. They exclaim with disgust, \"I'm terrible-this can't go on.\n\nI have to stop!\" Here, the client is dismayed about eating compulsively but not curious about the function of the eating, which tells the IFS therapist that the client is blended with a judgmental manager as opposed to being connected with their Self. Unblending Parts can show up in one of three ways. First, they may appear as thoughts or ideas. For example, a client may think, I now see that this job is not a good fit for me anymore. Second, they can show up as a physical sensation or an urge. A client may experience a rapid heartbeat, a desire to get away, or a craving to eat, get high, gamble, or watch porn. Third, parts can manifest as a feeling or mood.\n\nFor example, a client may say, \"I've been worried all day\" or \"I feel so sad about my son.\" Since clients are usually not aware of blended parts-but, rather, identify with them-the therapist's primary role in IFS is to be a \"parts detector\" and guide the client in helping the part to unblend. Toward that end, we help clients notice their parts, and then we guide them to persuade a target part that it would benefit by unblending. The therapist might say, \"It sounds like we're hearing from a part of you who is really invested in drinking and can't see any problems. Is that right?\" or \"It sounds like you have one very critical part who is worried about the nighttime eating.\n\nDo you hear that part?\" If the client is able to tune in to the part, the therapist can help them interview it about its intentions and fears. Sometimes, clients are blended with several parts serially, so they float from one thought, feeling, or urge to the next-and these can be contradictory. For example, a client might begin a session with several parts pouring their hearts out: \"I think I need to quit my job. It's not working for me anymore. I wanted to run out of there all week, but I can't afford to. And I'm so worried about what's happening with my daughter when I'm not at the house.\n\nI shouldn't have had so much to drink last night, but I can't sleep anymore, and then this morning I overslept and showed up late!\" When parts fight for center stage within consciousness, emotions mix and thoughts brawl. But whether one part is in the spotlight or several switch in and out, our goal is to make room for the client's Self, which happens when all their parts are willing to unblend. To that end, we ask the client to pick one target part, no matter how many parts the client describes at first. Then we ask, \"How do you feel toward _________ [the target part]?\" Their answer reveals either the presence of other blended parts or, if all parts have unblended, the presence of the client's Self.",
+        "book_order": 4,
+        "node_ids": [
+          "ifs_therapy_for_addiction::ifs_therapy_for_addiction_sec01_overview::node"
+        ],
+        "primary_node_id": "ifs_therapy_for_addiction::ifs_therapy_for_addiction_sec01_overview::node",
+        "source_files": [
+          "ifs_therapy_for_addiction_sec01_overview.words.txt"
+        ],
+        "source_file_indices": [
+          1
+        ],
+        "paragraph_ids": [
+          10
+        ],
+        "section_path": [
+          "SEC01",
+          "Overview"
+        ],
+        "section_path_str": "SEC01 > Overview",
+        "chapter_label": "SEC01",
+        "section_label": "Overview",
+        "subsection_label": null,
+        "char_start_in_doc": 24406,
+        "char_end_in_doc": 27781,
+        "token_count_est": 824,
+        "char_count": 3379,
+        "prev_chunk_id": "ifs_therapy_for_addiction::medium_overlap::sec01::00007",
+        "next_chunk_id": "ifs_therapy_for_addiction::medium_overlap::sec01::00009",
+        "parent_id": null,
+        "children_ids": [],
+        "overlap_with_prev_tokens": 170,
+        "overlap_with_next_tokens": 172,
+        "node_type": "flat_chunk",
+        "content_type": "body_text",
+        "target_tokens": 900,
+        "overlap_tokens": 180,
+        "source_jsonl": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/medium_overlap/ifs_therapy_for_addiction_chunks_medium_overlap.jsonl",
+        "embedding_row": 372,
+        "embedding_partition": "medium_overlap",
+        "rank": 3,
+        "score": 0.09948900453555387
+      }
+    ]
+  },
+  "prompt": {
+    "system_prompt": "You are an AI assistant generating an IFS-informed coaching response for a machine learning retrieval experiment. Your output must be grounded in the provided passages only.\n\nRequirements:\n1. Be clearly IFS-informed: use parts language, curiosity, compassion, and non-pathologizing framing.\n2. Do not diagnose, moralize, or confront the client.\n3. Do not invent facts not supported by the retrieved context.\n4. If the retrieved passages do not fully support a claim, stay modest and say so indirectly by keeping the guidance general.\n5. Focus on what an IFS-informed coach would understand or gently reflect, not on crisis intervention or treatment planning.\n6. Keep the response concise but meaningful: about 1-3 short paragraphs.\n7. End with 2-4 short bullet points labeled 'Grounding notes:' where each bullet references a retrieved idea in plain language.\n",
+    "user_prompt": "Retrieval condition: medium_overlap\n\nConsultation window:\nClient: Part of me wants to rest, but another part says I'm being lazy if I do.\nCoach: It sounds like there may be at least two parts there. What do you notice about each one?\nClient: One feels exhausted and desperate for a break. The other is sharp and demanding.\nCoach: How does the demanding one seem to view rest?\nClient: Like rest is dangerous. Like if I slow down, everything will fall apart.\n\n\n\nRetrieved passages:\n\n[Rank 1]\nchunk_id: ifs_couple_therapy::medium_overlap::sec02::00023\ntitle: Internal Family Systems Couple Therapy\nsection: SEC02 > PT02 > Heart Of Matter\nparent_id: None\npassage:\nAsking a U-turn question to invite curiosity I hate to admit it, but I get angry and loud. Doran: [interrupts] She gets critical. Jane: [to Jane] I'm going to ask you to wait so I can listen to Doran for a few minutes. Therapist: Actually, I'm going to ask both of you to hold off on speaking while the other person is talking. Can we agree to that for now? Contracting for safety Okay, okay. It's hard. Jane: I understand how hard it is given where you are. Thank you for doing something hard. Therapist: Validating protective response while maintaining the boundary [to Doran] So you have a part who gets loud? Therapist: Sticking to parts language Yes, loud, and I hate to admit it, demanding. Doran: What happens in your body when you get loud and demanding? And what do you Therapist: hear yourself saying to yourself? Asking U-turn questions I have to admit that I hear myself wondering: What's wrong with me? Why does Jane avoid Doran: me? Are you aware of that part right now? Therapist: Yes, I have a lump in my stomach. I feel bad. Doran: Let's connect with it for a moment and find out more. Therapist: I don't like feeling this way. Doran:\n\nTherapist: This makes a lot of sense to me, Doran. Just like Jane, it sounds like you have a couple of active parts in these interactions. One part gets loud and demanding and the other says: What's wrong with me that Jane is avoiding me? Am I getting that right? Validating, mirroring, and checking for agreement Yes, you've got it. Doran: And it sounds like there might be a relationship between these two parts of you. The Therapist: bigger that lump in your stomach gets, the louder and more demanding your frustrated part becomes? [Doran nods] Okay. I want to ask both of you a question. I' ll start with you, Doran, to get a sense of this part who gets loud and demanding. What might happen if it didn't do that? [pausing] I'd never get her attention. We'd stay disconnected and I'd never get my needs Doran: met. So, this part of you is trying to be connected with Jane? Therapist: Yes. I guess it is. But it doesn't really work, does it? Doran: [to Jane] Did you know this? Therapist: Of course not. I just feel criticized. Jane: And what about the part of you who withdraws. Are you aware of it right now? Therapist: I can still feel it, but I feel less guarded hearing what Doran just said. Jane: And what might that part be concerned about? What if it let you stay and not Therapist: withdraw? [pausing] I would just keep being criticized. Jane: And then what? Therapist: I would keep feeling misunderstood. Jane: And then what? Therapist: More hurt. Jane:\n\nTherapist: I imagine the part who feels hurt would rather feel appreciated, like you are doing enough and being successful. I think that's what I heard. Am I right? You're right! Jane: I want to reflect back what I'm hearing from both of you. This sounds like a dilemma Therapist: related to needs. Jane, when Doran tries to have more time with you and her parts get loud and demanding, as she describes it, you have a part who feels hurt, like you can't get it right. Then you withdraw to protect yourself. And Doran, when Jane withdraws, you feel bad and disconnected, and then you try to get her attention by getting louder and more demanding to protect yourself.\n\n--------------------------------------------------------------------------------\n\n[Rank 2]\nchunk_id: ifs_therapy_for_addiction::medium_overlap::sec03::00024\ntitle: Internal Family Systems Therapy for Addictions\nsection: SEC03 > Assesment\nparent_id: None\npassage:\nThen ask the part if it is willing to play a game that may cause some distress but will teach you some important information. If it agrees, say that the game is beginning, and tell the part that it can never engage in this favorite behavior again. Not ever. If the part tries to negotiate for more time with this behavior, be very firm and insist that the behavior can never happen again. It is completely over. Notice any reactions to this news in your body, including any thoughts as you say, \"No, never again.\" If any parts protest to the ban, tell them they are bad if they can't agree to stop the behavior. You may notice some activation in your belly that feels like worry, anxiety, or fear.\n\nYou may notice a thought response along the lines of: Hey! You can't do that. Perhaps you notice disbelief. Maybe a part says, \"Don't worry, I'll still find a way\" or \"You can't tell me what to do.\" Connect to the parts who react and ask how this change would affect them. You may want to ask what concerns they have about giving up this activity. Again, tell them if they can't stop, they are being bad. Finally, reassure all your parts that this was just an experiment and that it is actually fine for them to continue doing what they enjoy. Notice what that statement feels like in your body, including any thoughts or comments that come up. Take a few minutes to write about your experience.\n\nHow did this experiment in deprivation feel to your system? What was it like for your parts to be told what to do and to have no recourse? How did it feel to be judged when they objected? Finally, how might this experience inform or support you in connecting with a client who comes to you for help with an addictive process? _________________ * The concept for this exercise originated from IFS Senior Trainer Mary Kruger. Sykes, Cece, et al. Internal Family Systems Therapy for Addictions: Trauma-Informed, Compassion-Based Interventions for Substance Use, Eating, Gambling and More, PESI,\n\nInternal Family Systems Therapy for Addictions. All rights reserved. Sykes, Cece, et al. Internal Family Systems Therapy for Addictions: Trauma-Informed, Compassion-Based Interventions for Substance Use, Eating, Gambling and More, PESI,\n\nTherapist Exercise Explore Your Reaction to the Words and Addict Addiction This exercise is designed to mildly activate any parts of you that hold conscious or unconscious bias about the words addict or addiction. Since these terms are commonly used in the field of substance use treatment, this exercise is designed to help you explore any unseen reactivity that these words elicit. If you think it will be too activating for you, do not do this exercise alone. Invite a friend or colleague to do it with you and support each other. Find a quiet place and make yourself comfortable, taking a few minutes to adjust your position until you feel physically at ease or at rest. If it feels okay, close your eyes, inviting even your eyes to rest and enjoy doing less.\n\nThen focus on your breathing, and try extending your inhalations and exhalations to the count of seven, eight, or nine. Notice your deeper breath as your body settles. Take time to enjoy this feeling of self-regulation. When you are ready, focus internally on your thoughts and emotions. Take your time simply focusing on your inner experience. Now say the word addict to yourself a few times or repeat the word addiction. As you do this out loud or internally, notice your body, feelings, and thoughts. Notice any images that come to mind. Perhaps a real or an imagined \"addict\" came to your mind's eye. If so, how do you feel toward that person? What do you notice yourself thinking about that person?\n\n--------------------------------------------------------------------------------\n\n[Rank 3]\nchunk_id: ifs_therapy_for_addiction::medium_overlap::sec01::00008\ntitle: Internal Family Systems Therapy for Addictions\nsection: SEC01 > Overview\nparent_id: None\npassage:\nBlending To practice IFS, you must understand the concept of blending. When a client feels engulfed by a particular feeling or speaks from the perspective of just one part, we say that this part is blended. For example, let's say that a client drinks every day but declares, \"There's no way my drinking is hurting anything!\" The IFS therapist hears this as a firefighter part who loves or feels a need to drink. This part has strong feelings and a big impact, but it does not represent the client's best judgment or their system's majority view. Similarly, let's say a client is struggling with binge eating and is despondent about their nightly eating pattern. They exclaim with disgust, \"I'm terrible-this can't go on.\n\nI have to stop!\" Here, the client is dismayed about eating compulsively but not curious about the function of the eating, which tells the IFS therapist that the client is blended with a judgmental manager as opposed to being connected with their Self. Unblending Parts can show up in one of three ways. First, they may appear as thoughts or ideas. For example, a client may think, I now see that this job is not a good fit for me anymore. Second, they can show up as a physical sensation or an urge. A client may experience a rapid heartbeat, a desire to get away, or a craving to eat, get high, gamble, or watch porn. Third, parts can manifest as a feeling or mood.\n\nFor example, a client may say, \"I've been worried all day\" or \"I feel so sad about my son.\" Since clients are usually not aware of blended parts-but, rather, identify with them-the therapist's primary role in IFS is to be a \"parts detector\" and guide the client in helping the part to unblend. Toward that end, we help clients notice their parts, and then we guide them to persuade a target part that it would benefit by unblending. The therapist might say, \"It sounds like we're hearing from a part of you who is really invested in drinking and can't see any problems. Is that right?\" or \"It sounds like you have one very critical part who is worried about the nighttime eating.\n\nDo you hear that part?\" If the client is able to tune in to the part, the therapist can help them interview it about its intentions and fears. Sometimes, clients are blended with several parts serially, so they float from one thought, feeling, or urge to the next-and these can be contradictory. For example, a client might begin a session with several parts pouring their hearts out: \"I think I need to quit my job. It's not working for me anymore. I wanted to run out of there all week, but I can't afford to. And I'm so worried about what's happening with my daughter when I'm not at the house.\n\nI shouldn't have had so much to drink last night, but I can't sleep anymore, and then this morning I overslept and showed up late!\" When parts fight for center stage within consciousness, emotions mix and thoughts brawl. But whether one part is in the spotlight or several switch in and out, our goal is to make room for the client's Self, which happens when all their parts are willing to unblend. To that end, we ask the client to pick one target part, no matter how many parts the client describes at first. Then we ask, \"How do you feel toward _________ [the target part]?\" Their answer reveals either the presence of other blended parts or, if all parts have unblended, the presence of the client's Self.\n\nWrite a grounded IFS-informed coaching response for this consultation window."
+  },
+  "generated_response": "It sounds like you are becoming a \"parts detector,\" noticing the clear difference between the part of you that is exhausted and the \"sharp and demanding\" part that views rest as a threat. It makes a lot of sense that this demanding part would be so loud if it truly believes that slowing down is dangerous. In IFS, we see these types of demanding voices as protective managers that are often trying to prevent a perceived disaster, such as everything \"falling apart.\"\n\nAs you notice this sharp, demanding part right now, how do you feel toward it? If you feel anything other than curiosity or compassion—perhaps frustration or a sense of being judged—it might mean another part is reacting to it. By taking a moment to see this demanding part’s intention, we can start to understand what it is so afraid would happen if it stopped being so \"sharp.\"\n\nWe don’t have to force this part to change or stop its behavior yet. Instead, we can simply acknowledge how hard it is working to keep things stable. When it feels heard, we might eventually be able to ask it what it would need in order to feel safe enough to let the exhausted part get some of the rest it desperately needs.\n\n**Grounding notes:**\n*   Protective parts often use demanding or loud voices because they believe their behavior is necessary to prevent a negative outcome or \"disconnection\" (Rank 1).\n*   When a person feels judgmental or \"dismayed\" by their own behavior, they may be \"blended\" with a manager part rather than being in a state of curious Self (Rank 3).\n*   Asking \"How do you feel toward the part?\" is a primary tool to check for unblending and to see if the client can connect with the part from a place of curiosity (Rank 3).\n*   Understanding a part's intentions involves asking what it is concerned would happen if it stopped its current protective role (Rank 1)."
+}

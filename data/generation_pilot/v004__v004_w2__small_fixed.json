@@ -1,0 +1,186 @@
+{
+  "created_at_utc": "2026-04-24T07:08:51.520105+00:00",
+  "dataset_name": "IFS_Synthetic_Vignette_Dataset",
+  "vignette_id": "V004",
+  "window_id": "V004_W2",
+  "title": "Emotional Numbing After Stress",
+  "presenting_issue": "feeling disconnected and shut down after conflict",
+  "client_profile": "35-year-old who becomes emotionally numb after interpersonal stress",
+  "core_emotional_theme": "overwhelm and protective shutdown",
+  "likely_parts": [
+    "protective part that numbs or distances",
+    "vulnerable part overwhelmed by conflict"
+  ],
+  "difficulty_level": "medium",
+  "safety_flag": "low",
+  "window_turn_range": [
+    6,
+    10
+  ],
+  "target_ifs_goal": "reframe shutdown as protective and invite non-judgmental curiosity",
+  "expected_retrieval_theme": "protectors, positive intent, non-pathologizing language",
+  "condition": "small_fixed",
+  "query": "Coach: If that wall-building part could speak, what might it say it is trying to do?\nClient: Probably keep me from getting overwhelmed or hurt.\nCoach: That sounds like it may be working hard for you.\nClient: I never thought of it that way. I usually just judge myself for shutting down.\nCoach: It may help to approach it with curiosity before trying to change it.",
+  "retrieval_model_name": "tfidf",
+  "llm_provider": "gemini",
+  "llm_model": "gemini-3-flash-preview",
+  "retrieval": {
+    "partition": "small_fixed",
+    "model_name": "tfidf",
+    "top_k": 3,
+    "results": [
+      {
+        "chunk_id": "ifs_therapy::small_fixed::pt01::00046",
+        "retrieval_setting": "small_fixed",
+        "chunking_strategy": "fixed_window_no_overlap",
+        "source_doc_id": "ifs_therapy",
+        "source_title": "Internal Family Systems Therapy",
+        "text": "Therefore, rather than having the therapist help the client's parts directly, we usually aim for the client's Self to interact with the parts and report to the therapist. There are times, nevertheless, when it is most expeditious and valuable for the therapist to talk directly to parts. This process is called direct access, and we describe it later. The primary role of the therapist is to guide, coach, and be a companion to the client's Self as he explores the mindscape. Secondarily, the therapist provides corrective relational experiences. As clients continue to notice and be with their parts, between as well as in sessions, they come to appreciate that they are healing themselves. 4. We invite clients to notice that parts have \"blended\" with the Self, or we help parts notice that the Self will be available when they separate or \"step back.\" To achieve our aim of keeping the client's Self differentiated from their parts, we incorporate the family systems focus on boundaries and differentiation. When the Self is present, parts feel safe. By the same token, the IFS therapist continually scans inside herself for blended parts and asks them to separate so she can return to Self- leadership. 5. Protectors fear one another, which keeps them in extreme positions. Each part believes that relaxing will allow a polarized part to take over, with catastrophic consequences. Therefore in IFS we continually notice and attend to polarizations. Just like family therapists, we work with conflicted inner family members, inviting them to face each other and talk about how they can get along better.",
+        "book_order": 3,
+        "node_ids": [
+          "ifs_therapy::ifs_therapy_pt01_01_origins::node"
+        ],
+        "primary_node_id": "ifs_therapy::ifs_therapy_pt01_01_origins::node",
+        "source_files": [
+          "ifs_therapy_pt01_01_origins.words.txt"
+        ],
+        "source_file_indices": [
+          0
+        ],
+        "paragraph_ids": [
+          170
+        ],
+        "section_path": [
+          "PT01",
+          "01 Origins"
+        ],
+        "section_path_str": "PT01 > 01 Origins",
+        "chapter_label": "PT01",
+        "section_label": "01 Origins",
+        "subsection_label": null,
+        "char_start_in_doc": 54833,
+        "char_end_in_doc": 56439,
+        "token_count_est": 347,
+        "char_count": 1606,
+        "prev_chunk_id": "ifs_therapy::small_fixed::pt01::00045",
+        "next_chunk_id": "ifs_therapy::small_fixed::pt01::00047",
+        "parent_id": null,
+        "children_ids": [],
+        "overlap_with_prev_tokens": 0,
+        "overlap_with_next_tokens": 0,
+        "node_type": "flat_chunk",
+        "content_type": "body_text",
+        "target_tokens": 350,
+        "overlap_tokens": 0,
+        "source_jsonl": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/small_fixed/ifs_therapy_chunks_small_fixed.jsonl",
+        "embedding_row": 670,
+        "embedding_partition": "small_fixed",
+        "rank": 1,
+        "score": 0.1230529191914397
+      },
+      {
+        "chunk_id": "ifs_skills_training::small_fixed::sec03::00115",
+        "retrieval_setting": "small_fixed",
+        "chunking_strategy": "fixed_window_no_overlap",
+        "source_doc_id": "ifs_skills_training",
+        "source_title": "Internal Family Systems Skills Training Manual",
+        "text": "A E N OSKING AN XILE OT TO VERWHELM Find THERAPIST: It seems like you have an anxious part who keeps jumping in, do you notice that? PETE: Yes, it's having a hard time staying back. It won't stay in the waiting room where we put it. - The part is at least unblended enough so that Pete can notice it. Focus THERAPIST: Ask what it's upset about. - Being curious. PETE: It's afraid I'm being taken over. - This is the typical protector fear of exile overwhelm. THERAPIST: Would it say more? Protector Fears PETE: It's afraid I'll be taken over by the feelings of the part who was criticized by my football coach. It says we're messing with something I can't handle. - This common fear is another way of describing exile overwhelm. Befriend THERAPIST: How old does it think you are? And don't filter the answer just say what comes up. - His answer will likely reveal the exile, the part who is being protected.",
+        "book_order": 2,
+        "node_ids": [
+          "ifs_skills_training::ifs_skills_training_manual_sec03_treatment::node"
+        ],
+        "primary_node_id": "ifs_skills_training::ifs_skills_training_manual_sec03_treatment::node",
+        "source_files": [
+          "ifs_skills_training_manual_sec03_treatment.words.txt"
+        ],
+        "source_file_indices": [
+          2
+        ],
+        "paragraph_ids": [
+          102
+        ],
+        "section_path": [
+          "SEC03",
+          "Manual Treatment"
+        ],
+        "section_path_str": "SEC03 > Manual Treatment",
+        "chapter_label": "SEC03",
+        "section_label": "Manual Treatment",
+        "subsection_label": null,
+        "char_start_in_doc": 147978,
+        "char_end_in_doc": 148885,
+        "token_count_est": 225,
+        "char_count": 907,
+        "prev_chunk_id": "ifs_skills_training::small_fixed::sec03::00114",
+        "next_chunk_id": "ifs_skills_training::small_fixed::sec03::00116",
+        "parent_id": null,
+        "children_ids": [],
+        "overlap_with_prev_tokens": 0,
+        "overlap_with_next_tokens": 0,
+        "node_type": "flat_chunk",
+        "content_type": "body_text",
+        "target_tokens": 350,
+        "overlap_tokens": 0,
+        "source_jsonl": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/small_fixed/ifs_skills_training_chunks_small_fixed.jsonl",
+        "embedding_row": 594,
+        "embedding_partition": "small_fixed",
+        "rank": 2,
+        "score": 0.12254838208089286
+      },
+      {
+        "chunk_id": "ifs_therapy_for_addiction::small_fixed::sec01::00018",
+        "retrieval_setting": "small_fixed",
+        "chunking_strategy": "fixed_window_no_overlap",
+        "source_doc_id": "ifs_therapy_for_addiction",
+        "source_title": "Internal Family Systems Therapy for Addictions",
+        "text": "For example, a client may say, \"I've been worried all day\" or \"I feel so sad about my son.\" Since clients are usually not aware of blended parts-but, rather, identify with them-the therapist's primary role in IFS is to be a \"parts detector\" and guide the client in helping the part to unblend. Toward that end, we help clients notice their parts, and then we guide them to persuade a target part that it would benefit by unblending. The therapist might say, \"It sounds like we're hearing from a part of you who is really invested in drinking and can't see any problems. Is that right?\" or \"It sounds like you have one very critical part who is worried about the nighttime eating.\n\nDo you hear that part?\" If the client is able to tune in to the part, the therapist can help them interview it about its intentions and fears. Sometimes, clients are blended with several parts serially, so they float from one thought, feeling, or urge to the next-and these can be contradictory. For example, a client might begin a session with several parts pouring their hearts out: \"I think I need to quit my job. It's not working for me anymore. I wanted to run out of there all week, but I can't afford to. And I'm so worried about what's happening with my daughter when I'm not at the house.",
+        "book_order": 4,
+        "node_ids": [
+          "ifs_therapy_for_addiction::ifs_therapy_for_addiction_sec01_overview::node"
+        ],
+        "primary_node_id": "ifs_therapy_for_addiction::ifs_therapy_for_addiction_sec01_overview::node",
+        "source_files": [
+          "ifs_therapy_for_addiction_sec01_overview.words.txt"
+        ],
+        "source_file_indices": [
+          1
+        ],
+        "paragraph_ids": [
+          10
+        ],
+        "section_path": [
+          "SEC01",
+          "Overview"
+        ],
+        "section_path_str": "SEC01 > Overview",
+        "chapter_label": "SEC01",
+        "section_label": "Overview",
+        "subsection_label": null,
+        "char_start_in_doc": 25794,
+        "char_end_in_doc": 27071,
+        "token_count_est": 320,
+        "char_count": 1278,
+        "prev_chunk_id": "ifs_therapy_for_addiction::small_fixed::sec01::00017",
+        "next_chunk_id": "ifs_therapy_for_addiction::small_fixed::sec01::00019",
+        "parent_id": null,
+        "children_ids": [],
+        "overlap_with_prev_tokens": 0,
+        "overlap_with_next_tokens": 0,
+        "node_type": "flat_chunk",
+        "content_type": "body_text",
+        "target_tokens": 350,
+        "overlap_tokens": 0,
+        "source_jsonl": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/small_fixed/ifs_therapy_for_addiction_chunks_small_fixed.jsonl",
+        "embedding_row": 768,
+        "embedding_partition": "small_fixed",
+        "rank": 3,
+        "score": 0.11484709645348605
+      }
+    ]
+  },
+  "prompt": {
+    "system_prompt": "You are an AI assistant generating an IFS-informed coaching response for a machine learning retrieval experiment. Your output must be grounded in the provided passages only.\n\nRequirements:\n1. Be clearly IFS-informed: use parts language, curiosity, compassion, and non-pathologizing framing.\n2. Do not diagnose, moralize, or confront the client.\n3. Do not invent facts not supported by the retrieved context.\n4. If the retrieved passages do not fully support a claim, stay modest and say so indirectly by keeping the guidance general.\n5. Focus on what an IFS-informed coach would understand or gently reflect, not on crisis intervention or treatment planning.\n6. Keep the response concise but meaningful: about 1-3 short paragraphs.\n7. End with 2-4 short bullet points labeled 'Grounding notes:' where each bullet references a retrieved idea in plain language.\n",
+    "user_prompt": "Retrieval condition: small_fixed\n\nConsultation window:\nCoach: If that wall-building part could speak, what might it say it is trying to do?\nClient: Probably keep me from getting overwhelmed or hurt.\nCoach: That sounds like it may be working hard for you.\nClient: I never thought of it that way. I usually just judge myself for shutting down.\nCoach: It may help to approach it with curiosity before trying to change it.\n\n\n\nRetrieved passages:\n\n[Rank 1]\nchunk_id: ifs_therapy::small_fixed::pt01::00046\ntitle: Internal Family Systems Therapy\nsection: PT01 > 01 Origins\nparent_id: None\npassage:\nTherefore, rather than having the therapist help the client's parts directly, we usually aim for the client's Self to interact with the parts and report to the therapist. There are times, nevertheless, when it is most expeditious and valuable for the therapist to talk directly to parts. This process is called direct access, and we describe it later. The primary role of the therapist is to guide, coach, and be a companion to the client's Self as he explores the mindscape. Secondarily, the therapist provides corrective relational experiences. As clients continue to notice and be with their parts, between as well as in sessions, they come to appreciate that they are healing themselves. 4. We invite clients to notice that parts have \"blended\" with the Self, or we help parts notice that the Self will be available when they separate or \"step back.\" To achieve our aim of keeping the client's Self differentiated from their parts, we incorporate the family systems focus on boundaries and differentiation. When the Self is present, parts feel safe. By the same token, the IFS therapist continually scans inside herself for blended parts and asks them to separate so she can return to Self- leadership. 5. Protectors fear one another, which keeps them in extreme positions. Each part believes that relaxing will allow a polarized part to take over, with catastrophic consequences. Therefore in IFS we continually notice and attend to polarizations. Just like family therapists, we work with conflicted inner family members, inviting them to face each other and talk about how they can get along better.\n\n--------------------------------------------------------------------------------\n\n[Rank 2]\nchunk_id: ifs_skills_training::small_fixed::sec03::00115\ntitle: Internal Family Systems Skills Training Manual\nsection: SEC03 > Manual Treatment\nparent_id: None\npassage:\nA E N OSKING AN XILE OT TO VERWHELM Find THERAPIST: It seems like you have an anxious part who keeps jumping in, do you notice that? PETE: Yes, it's having a hard time staying back. It won't stay in the waiting room where we put it. - The part is at least unblended enough so that Pete can notice it. Focus THERAPIST: Ask what it's upset about. - Being curious. PETE: It's afraid I'm being taken over. - This is the typical protector fear of exile overwhelm. THERAPIST: Would it say more? Protector Fears PETE: It's afraid I'll be taken over by the feelings of the part who was criticized by my football coach. It says we're messing with something I can't handle. - This common fear is another way of describing exile overwhelm. Befriend THERAPIST: How old does it think you are? And don't filter the answer just say what comes up. - His answer will likely reveal the exile, the part who is being protected.\n\n--------------------------------------------------------------------------------\n\n[Rank 3]\nchunk_id: ifs_therapy_for_addiction::small_fixed::sec01::00018\ntitle: Internal Family Systems Therapy for Addictions\nsection: SEC01 > Overview\nparent_id: None\npassage:\nFor example, a client may say, \"I've been worried all day\" or \"I feel so sad about my son.\" Since clients are usually not aware of blended parts-but, rather, identify with them-the therapist's primary role in IFS is to be a \"parts detector\" and guide the client in helping the part to unblend. Toward that end, we help clients notice their parts, and then we guide them to persuade a target part that it would benefit by unblending. The therapist might say, \"It sounds like we're hearing from a part of you who is really invested in drinking and can't see any problems. Is that right?\" or \"It sounds like you have one very critical part who is worried about the nighttime eating.\n\nDo you hear that part?\" If the client is able to tune in to the part, the therapist can help them interview it about its intentions and fears. Sometimes, clients are blended with several parts serially, so they float from one thought, feeling, or urge to the next-and these can be contradictory. For example, a client might begin a session with several parts pouring their hearts out: \"I think I need to quit my job. It's not working for me anymore. I wanted to run out of there all week, but I can't afford to. And I'm so worried about what's happening with my daughter when I'm not at the house.\n\nWrite a grounded IFS-informed coaching response for this consultation window."
+  },
+  "generated_response": "It is a significant shift to see this \"wall-building\" part as a protector rather than a flaw. It sounds like this part has been working very hard to prevent you from feeling overwhelmed or hurt. When we approach these parts with curiosity rather than judgment, they often feel safer and more willing to share what they are afraid might happen if they were to stop their work.\n\nYou also mentioned a part of you that judges the shutting down. It is common for different parts to have conflicting views; while one part builds a wall to keep you safe, another part may worry about the consequences of that wall. By noticing both of these parts, you are beginning to \"unblend\" from them. This allows you to be a compassionate companion to your inner system, rather than being caught in the middle of the conflict.\n\nAs you continue to notice these parts and their intentions, you might simply acknowledge the wall-builder’s efforts. When parts feel seen and understood by you, they often feel less of a need to take such extreme positions to protect you.\n\n**Grounding notes:**\n*   Protective parts often take on extreme roles because they fear that relaxing will lead to catastrophic overwhelm or hurt.\n*   A primary goal is to help the client's Self differentiate, or \"unblend,\" from parts so they can interact with them from a place of curiosity.\n*   Parts feel safer and are more likely to step back when they feel the presence of the client’s Self.\n*   The coach acts as a \"parts detector\" to help the client identify and interview parts about their positive intentions and fears."
+}

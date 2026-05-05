@@ -1,0 +1,759 @@
+file,condition,query,generated_response,top_retrieval_sources,ifs_adherence_score,grounding_score,specificity_score,retrieval_relevance_score,genericity_flag,hallucination_flag,notes,reviewer
+final_phase1_generation_test__hierarchical.json,hierarchical,How would an IFS-informed coach understand a shutdown part that avoids work to prevent failure?,"[MOCK OUTPUT]
+
+An IFS-informed coach might approach this by assuming that the conflicting or extreme behaviors make sense from the perspective of parts that are trying to protect the person from something more vulnerable. Rather than trying to eliminate the behavior or argue with the part, the coach would stay curious about what the part fears would happen if it did not do this job, and what pain, shame, or overwhelm it may be trying to prevent.
+
+The coach would also want to help the person notice any critical, controlling, or reactive parts that are escalating the inner conflict. In IFS, these parts are usually not treated as the enemy; they are understood as protectors with positive intentions, even when their strategies are costly. A grounded response would therefore emphasize compassion, differentiation, and learning from the parts rather than confronting them.
+
+Grounding notes:
+- Retrieved passages centered on: Internal Family Systems Therapy for Addictions / SEC04 > 04 Intervening
+- Additional retrieval support came from: Internal Family Systems Couple Therapy / SEC01 > Basic Concepts
+- The retrieved material emphasized protectors' positive intentions and curiosity about their role.
+- The retrieved material also emphasized reducing inner conflict rather than taking sides against a part.
+",Internal Family Systems Therapy for Addictions | SEC04 > 04 Intervening ; Internal Family Systems Couple Therapy | SEC01 > Basic Concepts ; Internal Family Systems Therapy for Addictions | SEC04 > 01 Therapist Role,,,,,,,,
+final_phase1_generation_test__medium_overlap.json,medium_overlap,How would an IFS-informed coach understand a shutdown part that avoids work to prevent failure?,"[MOCK OUTPUT]
+
+An IFS-informed coach might approach this by assuming that the conflicting or extreme behaviors make sense from the perspective of parts that are trying to protect the person from something more vulnerable. Rather than trying to eliminate the behavior or argue with the part, the coach would stay curious about what the part fears would happen if it did not do this job, and what pain, shame, or overwhelm it may be trying to prevent.
+
+The coach would also want to help the person notice any critical, controlling, or reactive parts that are escalating the inner conflict. In IFS, these parts are usually not treated as the enemy; they are understood as protectors with positive intentions, even when their strategies are costly. A grounded response would therefore emphasize compassion, differentiation, and learning from the parts rather than confronting them.
+
+Grounding notes:
+- Retrieved passages centered on: Internal Family Systems Therapy for Addictions / SEC03 > Assesment
+- Additional retrieval support came from: Internal Family Systems Couple Therapy / SEC01 > Basic Concepts
+- The retrieved material emphasized protectors' positive intentions and curiosity about their role.
+- The retrieved material also emphasized reducing inner conflict rather than taking sides against a part.
+",Internal Family Systems Therapy for Addictions | SEC03 > Assesment ; Internal Family Systems Couple Therapy | SEC01 > Basic Concepts ; Internal Family Systems Therapy for Addictions | SEC01 > Overview,,,,,,,,
+final_phase1_generation_test__small_fixed.json,small_fixed,How would an IFS-informed coach understand a shutdown part that avoids work to prevent failure?,"[MOCK OUTPUT]
+
+An IFS-informed coach might approach this by assuming that the conflicting or extreme behaviors make sense from the perspective of parts that are trying to protect the person from something more vulnerable. Rather than trying to eliminate the behavior or argue with the part, the coach would stay curious about what the part fears would happen if it did not do this job, and what pain, shame, or overwhelm it may be trying to prevent.
+
+The coach would also want to help the person notice any critical, controlling, or reactive parts that are escalating the inner conflict. In IFS, these parts are usually not treated as the enemy; they are understood as protectors with positive intentions, even when their strategies are costly. A grounded response would therefore emphasize compassion, differentiation, and learning from the parts rather than confronting them.
+
+Grounding notes:
+- Retrieved passages centered on: Internal Family Systems Therapy for Addictions / SEC01 > Overview
+- Additional retrieval support came from: Internal Family Systems Therapy for Addictions / SEC03 > Assesment
+- The retrieved material emphasized protectors' positive intentions and curiosity about their role.
+- The retrieved material also emphasized reducing inner conflict rather than taking sides against a part.
+",Internal Family Systems Therapy for Addictions | SEC01 > Overview ; Internal Family Systems Therapy for Addictions | SEC03 > Assesment ; Internal Family Systems Therapy for Addictions | CH00 > Ifs Theraphy For Addiction Intro,,,,,,,,
+generation_module_test__hierarchical.json,hierarchical,How would an IFS-informed coach understand a shutdown part that avoids work to prevent failure?,"[MOCK OUTPUT]
+
+An IFS-informed coach might approach this by assuming that the conflicting or extreme behaviors make sense from the perspective of parts that are trying to protect the person from something more vulnerable. Rather than trying to eliminate the behavior or argue with the part, the coach would stay curious about what the part fears would happen if it did not do this job, and what pain, shame, or overwhelm it may be trying to prevent.
+
+The coach would also want to help the person notice any critical, controlling, or reactive parts that are escalating the inner conflict. In IFS, these parts are usually not treated as the enemy; they are understood as protectors with positive intentions, even when their strategies are costly. A grounded response would therefore emphasize compassion, differentiation, and learning from the parts rather than confronting them.
+
+Grounding notes:
+- Retrieved passages centered on: Internal Family Systems Therapy for Addictions / SEC04 > 04 Intervening
+- Additional retrieval support came from: Internal Family Systems Couple Therapy / SEC01 > Basic Concepts
+- The retrieved material emphasized protectors' positive intentions and curiosity about their role.
+- The retrieved material also emphasized reducing inner conflict rather than taking sides against a part.
+",Internal Family Systems Therapy for Addictions | SEC04 > 04 Intervening ; Internal Family Systems Couple Therapy | SEC01 > Basic Concepts ; Internal Family Systems Therapy for Addictions | SEC04 > 01 Therapist Role,,,,,,,,
+generation_module_test__medium_overlap.json,medium_overlap,How would an IFS-informed coach understand a shutdown part that avoids work to prevent failure?,"[MOCK OUTPUT]
+
+An IFS-informed coach might approach this by assuming that the conflicting or extreme behaviors make sense from the perspective of parts that are trying to protect the person from something more vulnerable. Rather than trying to eliminate the behavior or argue with the part, the coach would stay curious about what the part fears would happen if it did not do this job, and what pain, shame, or overwhelm it may be trying to prevent.
+
+The coach would also want to help the person notice any critical, controlling, or reactive parts that are escalating the inner conflict. In IFS, these parts are usually not treated as the enemy; they are understood as protectors with positive intentions, even when their strategies are costly. A grounded response would therefore emphasize compassion, differentiation, and learning from the parts rather than confronting them.
+
+Grounding notes:
+- Retrieved passages centered on: Internal Family Systems Therapy for Addictions / SEC03 > Assesment
+- Additional retrieval support came from: Internal Family Systems Couple Therapy / SEC01 > Basic Concepts
+- The retrieved material emphasized protectors' positive intentions and curiosity about their role.
+- The retrieved material also emphasized reducing inner conflict rather than taking sides against a part.
+",Internal Family Systems Therapy for Addictions | SEC03 > Assesment ; Internal Family Systems Couple Therapy | SEC01 > Basic Concepts ; Internal Family Systems Therapy for Addictions | SEC01 > Overview,,,,,,,,
+generation_module_test__small_fixed.json,small_fixed,How would an IFS-informed coach understand a shutdown part that avoids work to prevent failure?,"[MOCK OUTPUT]
+
+An IFS-informed coach might approach this by assuming that the conflicting or extreme behaviors make sense from the perspective of parts that are trying to protect the person from something more vulnerable. Rather than trying to eliminate the behavior or argue with the part, the coach would stay curious about what the part fears would happen if it did not do this job, and what pain, shame, or overwhelm it may be trying to prevent.
+
+The coach would also want to help the person notice any critical, controlling, or reactive parts that are escalating the inner conflict. In IFS, these parts are usually not treated as the enemy; they are understood as protectors with positive intentions, even when their strategies are costly. A grounded response would therefore emphasize compassion, differentiation, and learning from the parts rather than confronting them.
+
+Grounding notes:
+- Retrieved passages centered on: Internal Family Systems Therapy for Addictions / SEC01 > Overview
+- Additional retrieval support came from: Internal Family Systems Therapy for Addictions / SEC03 > Assesment
+- The retrieved material emphasized protectors' positive intentions and curiosity about their role.
+- The retrieved material also emphasized reducing inner conflict rather than taking sides against a part.
+",Internal Family Systems Therapy for Addictions | SEC01 > Overview ; Internal Family Systems Therapy for Addictions | SEC03 > Assesment ; Internal Family Systems Therapy for Addictions | CH00 > Ifs Theraphy For Addiction Intro,,,,,,,,
+phase1_generation_validation__hierarchical.json,hierarchical,How would an IFS-informed coach understand a shutdown part that avoids work to prevent failure?,"[MOCK OUTPUT]
+
+An IFS-informed coach might approach this by assuming that the conflicting or extreme behaviors make sense from the perspective of parts that are trying to protect the person from something more vulnerable. Rather than trying to eliminate the behavior or argue with the part, the coach would stay curious about what the part fears would happen if it did not do this job, and what pain, shame, or overwhelm it may be trying to prevent.
+
+The coach would also want to help the person notice any critical, controlling, or reactive parts that are escalating the inner conflict. In IFS, these parts are usually not treated as the enemy; they are understood as protectors with positive intentions, even when their strategies are costly. A grounded response would therefore emphasize compassion, differentiation, and learning from the parts rather than confronting them.
+
+Grounding notes:
+- Retrieved passages centered on: Internal Family Systems Therapy for Addictions / SEC04 > 04 Intervening
+- Additional retrieval support came from: Internal Family Systems Couple Therapy / SEC01 > Basic Concepts
+- The retrieved material emphasized protectors' positive intentions and curiosity about their role.
+- The retrieved material also emphasized reducing inner conflict rather than taking sides against a part.
+",Internal Family Systems Therapy for Addictions | SEC04 > 04 Intervening ; Internal Family Systems Couple Therapy | SEC01 > Basic Concepts ; Internal Family Systems Therapy for Addictions | SEC04 > 01 Therapist Role,,,,,,,,
+phase1_generation_validation__medium_overlap.json,medium_overlap,How would an IFS-informed coach understand a shutdown part that avoids work to prevent failure?,"[MOCK OUTPUT]
+
+An IFS-informed coach might approach this by assuming that the conflicting or extreme behaviors make sense from the perspective of parts that are trying to protect the person from something more vulnerable. Rather than trying to eliminate the behavior or argue with the part, the coach would stay curious about what the part fears would happen if it did not do this job, and what pain, shame, or overwhelm it may be trying to prevent.
+
+The coach would also want to help the person notice any critical, controlling, or reactive parts that are escalating the inner conflict. In IFS, these parts are usually not treated as the enemy; they are understood as protectors with positive intentions, even when their strategies are costly. A grounded response would therefore emphasize compassion, differentiation, and learning from the parts rather than confronting them.
+
+Grounding notes:
+- Retrieved passages centered on: Internal Family Systems Therapy for Addictions / SEC03 > Assesment
+- Additional retrieval support came from: Internal Family Systems Couple Therapy / SEC01 > Basic Concepts
+- The retrieved material emphasized protectors' positive intentions and curiosity about their role.
+- The retrieved material also emphasized reducing inner conflict rather than taking sides against a part.
+",Internal Family Systems Therapy for Addictions | SEC03 > Assesment ; Internal Family Systems Couple Therapy | SEC01 > Basic Concepts ; Internal Family Systems Therapy for Addictions | SEC01 > Overview,,,,,,,,
+phase1_generation_validation__small_fixed.json,small_fixed,How would an IFS-informed coach understand a shutdown part that avoids work to prevent failure?,"[MOCK OUTPUT]
+
+An IFS-informed coach might approach this by assuming that the conflicting or extreme behaviors make sense from the perspective of parts that are trying to protect the person from something more vulnerable. Rather than trying to eliminate the behavior or argue with the part, the coach would stay curious about what the part fears would happen if it did not do this job, and what pain, shame, or overwhelm it may be trying to prevent.
+
+The coach would also want to help the person notice any critical, controlling, or reactive parts that are escalating the inner conflict. In IFS, these parts are usually not treated as the enemy; they are understood as protectors with positive intentions, even when their strategies are costly. A grounded response would therefore emphasize compassion, differentiation, and learning from the parts rather than confronting them.
+
+Grounding notes:
+- Retrieved passages centered on: Internal Family Systems Therapy for Addictions / SEC01 > Overview
+- Additional retrieval support came from: Internal Family Systems Therapy for Addictions / SEC03 > Assesment
+- The retrieved material emphasized protectors' positive intentions and curiosity about their role.
+- The retrieved material also emphasized reducing inner conflict rather than taking sides against a part.
+",Internal Family Systems Therapy for Addictions | SEC01 > Overview ; Internal Family Systems Therapy for Addictions | SEC03 > Assesment ; Internal Family Systems Therapy for Addictions | CH00 > Ifs Theraphy For Addiction Intro,,,,,,,,
+pilot_utils_refactor_test__hierarchical.json,hierarchical,How would an IFS-informed coach understand a shutdown part that avoids work to prevent failure?,"[MOCK OUTPUT]
+
+An IFS-informed coach might approach this by assuming that the conflicting or extreme behaviors make sense from the perspective of parts that are trying to protect the person from something more vulnerable. Rather than trying to eliminate the behavior or argue with the part, the coach would stay curious about what the part fears would happen if it did not do this job, and what pain, shame, or overwhelm it may be trying to prevent.
+
+The coach would also want to help the person notice any critical, controlling, or reactive parts that are escalating the inner conflict. In IFS, these parts are usually not treated as the enemy; they are understood as protectors with positive intentions, even when their strategies are costly. A grounded response would therefore emphasize compassion, differentiation, and learning from the parts rather than confronting them.
+
+Grounding notes:
+- Retrieved passages centered on: Internal Family Systems Therapy for Addictions / SEC04 > 04 Intervening
+- Additional retrieval support came from: Internal Family Systems Couple Therapy / SEC01 > Basic Concepts
+- The retrieved material emphasized protectors' positive intentions and curiosity about their role.
+- The retrieved material also emphasized reducing inner conflict rather than taking sides against a part.
+",Internal Family Systems Therapy for Addictions | SEC04 > 04 Intervening ; Internal Family Systems Couple Therapy | SEC01 > Basic Concepts ; Internal Family Systems Therapy for Addictions | SEC04 > 01 Therapist Role,,,,,,,,
+pilot_utils_refactor_test__medium_overlap.json,medium_overlap,How would an IFS-informed coach understand a shutdown part that avoids work to prevent failure?,"[MOCK OUTPUT]
+
+An IFS-informed coach might approach this by assuming that the conflicting or extreme behaviors make sense from the perspective of parts that are trying to protect the person from something more vulnerable. Rather than trying to eliminate the behavior or argue with the part, the coach would stay curious about what the part fears would happen if it did not do this job, and what pain, shame, or overwhelm it may be trying to prevent.
+
+The coach would also want to help the person notice any critical, controlling, or reactive parts that are escalating the inner conflict. In IFS, these parts are usually not treated as the enemy; they are understood as protectors with positive intentions, even when their strategies are costly. A grounded response would therefore emphasize compassion, differentiation, and learning from the parts rather than confronting them.
+
+Grounding notes:
+- Retrieved passages centered on: Internal Family Systems Therapy for Addictions / SEC03 > Assesment
+- Additional retrieval support came from: Internal Family Systems Couple Therapy / SEC01 > Basic Concepts
+- The retrieved material emphasized protectors' positive intentions and curiosity about their role.
+- The retrieved material also emphasized reducing inner conflict rather than taking sides against a part.
+",Internal Family Systems Therapy for Addictions | SEC03 > Assesment ; Internal Family Systems Couple Therapy | SEC01 > Basic Concepts ; Internal Family Systems Therapy for Addictions | SEC01 > Overview,,,,,,,,
+pilot_utils_refactor_test__small_fixed.json,small_fixed,How would an IFS-informed coach understand a shutdown part that avoids work to prevent failure?,"[MOCK OUTPUT]
+
+An IFS-informed coach might approach this by assuming that the conflicting or extreme behaviors make sense from the perspective of parts that are trying to protect the person from something more vulnerable. Rather than trying to eliminate the behavior or argue with the part, the coach would stay curious about what the part fears would happen if it did not do this job, and what pain, shame, or overwhelm it may be trying to prevent.
+
+The coach would also want to help the person notice any critical, controlling, or reactive parts that are escalating the inner conflict. In IFS, these parts are usually not treated as the enemy; they are understood as protectors with positive intentions, even when their strategies are costly. A grounded response would therefore emphasize compassion, differentiation, and learning from the parts rather than confronting them.
+
+Grounding notes:
+- Retrieved passages centered on: Internal Family Systems Therapy for Addictions / SEC01 > Overview
+- Additional retrieval support came from: Internal Family Systems Therapy for Addictions / SEC03 > Assesment
+- The retrieved material emphasized protectors' positive intentions and curiosity about their role.
+- The retrieved material also emphasized reducing inner conflict rather than taking sides against a part.
+",Internal Family Systems Therapy for Addictions | SEC01 > Overview ; Internal Family Systems Therapy for Addictions | SEC03 > Assesment ; Internal Family Systems Therapy for Addictions | CH00 > Ifs Theraphy For Addiction Intro,,,,,,,,
+pilot_window_01__hierarchical.json,hierarchical,"A client says they keep returning to compulsive behaviors like binge eating and doomscrolling whenever shame or loneliness comes up. They feel disgusted with themselves and want the behavior to stop, but another part says the behavior is the only thing that helps them get through the night. What would an IFS-informed coach need to understand about this pattern?","[MOCK OUTPUT]
+
+An IFS-informed coach might approach this by assuming that the conflicting or extreme behaviors make sense from the perspective of parts that are trying to protect the person from something more vulnerable. Rather than trying to eliminate the behavior or argue with the part, the coach would stay curious about what the part fears would happen if it did not do this job, and what pain, shame, or overwhelm it may be trying to prevent.
+
+The coach would also want to help the person notice any critical, controlling, or reactive parts that are escalating the inner conflict. In IFS, these parts are usually not treated as the enemy; they are understood as protectors with positive intentions, even when their strategies are costly. A grounded response would therefore emphasize compassion, differentiation, and learning from the parts rather than confronting them.
+
+Grounding notes:
+- Retrieved passages centered on: Internal Family Systems Therapy: New Dimensions / CH02 > Shame
+- Additional retrieval support came from: Internal Family Systems Therapy for Addictions / CH00 > Ifs Theraphy For Addiction Intro
+- The retrieved material emphasized protectors' positive intentions and curiosity about their role.
+- The retrieved material also emphasized reducing inner conflict rather than taking sides against a part.
+",Internal Family Systems Therapy: New Dimensions | CH02 > Shame ; Internal Family Systems Therapy for Addictions | CH00 > Ifs Theraphy For Addiction Intro ; Internal Family Systems Therapy: New Dimensions | CH02 > Shame,,,,,,,,
+pilot_window_01__medium_overlap.json,medium_overlap,"A client says they keep returning to compulsive behaviors like binge eating and doomscrolling whenever shame or loneliness comes up. They feel disgusted with themselves and want the behavior to stop, but another part says the behavior is the only thing that helps them get through the night. What would an IFS-informed coach need to understand about this pattern?","[MOCK OUTPUT]
+
+An IFS-informed coach might approach this by assuming that the conflicting or extreme behaviors make sense from the perspective of parts that are trying to protect the person from something more vulnerable. Rather than trying to eliminate the behavior or argue with the part, the coach would stay curious about what the part fears would happen if it did not do this job, and what pain, shame, or overwhelm it may be trying to prevent.
+
+The coach would also want to help the person notice any critical, controlling, or reactive parts that are escalating the inner conflict. In IFS, these parts are usually not treated as the enemy; they are understood as protectors with positive intentions, even when their strategies are costly. A grounded response would therefore emphasize compassion, differentiation, and learning from the parts rather than confronting them.
+
+Grounding notes:
+- Retrieved passages centered on: Internal Family Systems Therapy for Addictions / SEC01 > Overview
+- Additional retrieval support came from: Internal Family Systems Therapy for Addictions / CH00 > Ifs Theraphy For Addiction Intro
+- The retrieved material emphasized protectors' positive intentions and curiosity about their role.
+- The retrieved material also emphasized reducing inner conflict rather than taking sides against a part.
+",Internal Family Systems Therapy for Addictions | SEC01 > Overview ; Internal Family Systems Therapy for Addictions | CH00 > Ifs Theraphy For Addiction Intro ; Internal Family Systems Therapy for Addictions | SEC01 > Overview,,,,,,,,
+pilot_window_01__small_fixed.json,small_fixed,"A client says they keep returning to compulsive behaviors like binge eating and doomscrolling whenever shame or loneliness comes up. They feel disgusted with themselves and want the behavior to stop, but another part says the behavior is the only thing that helps them get through the night. What would an IFS-informed coach need to understand about this pattern?","[MOCK OUTPUT]
+
+An IFS-informed coach might approach this by assuming that the conflicting or extreme behaviors make sense from the perspective of parts that are trying to protect the person from something more vulnerable. Rather than trying to eliminate the behavior or argue with the part, the coach would stay curious about what the part fears would happen if it did not do this job, and what pain, shame, or overwhelm it may be trying to prevent.
+
+The coach would also want to help the person notice any critical, controlling, or reactive parts that are escalating the inner conflict. In IFS, these parts are usually not treated as the enemy; they are understood as protectors with positive intentions, even when their strategies are costly. A grounded response would therefore emphasize compassion, differentiation, and learning from the parts rather than confronting them.
+
+Grounding notes:
+- Retrieved passages centered on: Internal Family Systems Therapy for Addictions / SEC01 > Overview
+- Additional retrieval support came from: Internal Family Systems Therapy: New Dimensions / CH02 > Shame
+- The retrieved material emphasized protectors' positive intentions and curiosity about their role.
+- The retrieved material also emphasized reducing inner conflict rather than taking sides against a part.
+",Internal Family Systems Therapy for Addictions | SEC01 > Overview ; Internal Family Systems Therapy: New Dimensions | CH02 > Shame ; Internal Family Systems Therapy for Addictions | SEC04 > 06 Calming,,,,,,,,
+v001__v001_w1__hierarchical.json,hierarchical,"Client: I keep putting off my work, and then I feel even worse about myself.
+Coach: What do you notice inside right before you pull away from it?
+Client: It feels like something in me just shuts everything down.
+Coach: Can you say a little more about that shutting-down part?","It sounds like this shutting-down part is working very hard to protect you. In an IFS framework, we understand that every part has a positive intention, even if its actions—like pulling away from work—lead to difficult feelings later. This part might be trying to shield your system from feeling overwhelmed or flooded by emotions that it senses are nearby.
+
+When you feel this ""shutdown"" happening, I invite you to see if you can ""find"" it in, on, or around your body. You might notice it as a specific physical sensation, a foggy feeling, or a certain weight. Taking a moment to ""focus"" on and ""flesh out"" how you experience this part helps you move from being engulfed by the feeling to being a compassionate observer of it. This process is a way of getting to know the part rather than just being taken over by it.
+
+As you stay with this part, we can gently wonder what it might be afraid would happen if it *didn't* shut everything down. Protective parts often carry fears that if they stop their job, the internal system will be overwhelmed by even more painful feelings or wounds from the past. Approaching this part with curiosity and gratitude for its hard work can help it feel safe enough to share more about what it is trying to do for you.
+
+**Grounding notes:**
+*   Internal multiplicity is normal; we all have parts that take on specific roles, like ""protectors,"" to help us navigate difficult situations.
+*   The ""6 Fs"" (Find, Focus, Flesh out, Feel toward, Befriend, Fear) are steps used to help a person differentiate from a part and understand its purpose.
+*   Protective parts often act out of a fear that the person will be overwhelmed by ""exiled"" emotional pain if they stop their behavior.
+*   Approaching a part with curiosity and non-judgmental interest helps the part ""unblend,"" allowing the person to feel more calm and clear-headed.",Internal Family Systems Skills Training Manual | SEC03 > Manual Treatment ; Internal Family Systems Skills Training Manual | SEC03 > Manual Treatment ; Internal Family Systems Therapy for Addictions | SEC01 > Overview,,,,,,,,
+v001__v001_w1__medium_overlap.json,medium_overlap,"Client: I keep putting off my work, and then I feel even worse about myself.
+Coach: What do you notice inside right before you pull away from it?
+Client: It feels like something in me just shuts everything down.
+Coach: Can you say a little more about that shutting-down part?","It sounds like this shutting-down part is working very hard to protect you, even if its way of helping feels frustrating right now. In an IFS approach, we see this ""shutting down"" not as a failure of will, but as a protective part that may be trying to prevent you from becoming overwhelmed. It is common for these types of parts to step in and create a sense of numbness or ""hypo-arousal"" when the system senses a threat or extreme pressure.
+
+As you notice this part, you might check to see if you can find where it lives in or around your body. Sometimes, focusing on the physical sensations—like a sense of heaviness or a ""pull"" in the chest or stomach—can help you stay present with the part without becoming fully blended with its numbness. There also seems to be another part present: the one that ""feels worse"" and criticizes the shutdown. We can hold space for both of these parts, acknowledging that the shutting-down part likely has a very important reason for its actions, perhaps fearing that if you didn't stop, you might collapse or experience even deeper pain.
+
+By approaching the shutdown with curiosity rather than judgment, we can begin to understand what it is protecting. We don't need to pressure it to change or move out of the way; instead, we can appreciate the difficult job it has been doing to keep your system balanced.
+
+**Grounding notes:**
+*   Protective parts, such as those that cause shutdown or numbness, often do so to prevent the system from being overwhelmed by intense emotions or ""exiles.""
+*   Shutdown can manifest as a top-down process that limits access to thoughts and feelings, often taking longer to recover from than a ""fight-or-flight"" response.
+*   Focusing on specific body sensations can help a person stay present and regulated when a part is moving toward dissociation or collapse.
+*   Inner conflict often involves a ""polarization"" where one part shuts down to protect the system, while another part (a manager) strains to keep working to avoid failure.",Internal Family Systems Therapy: New Dimensions | CH06 > Embodying Ifs ; Internal Family Systems Therapy | PT01 > 01 Origins ; Transcending Trauma | SEC03 > Neuroscience,,,,,,,,
+v001__v001_w1__small_fixed.json,small_fixed,"Client: I keep putting off my work, and then I feel even worse about myself.
+Coach: What do you notice inside right before you pull away from it?
+Client: It feels like something in me just shuts everything down.
+Coach: Can you say a little more about that shutting-down part?","It sounds like a very effective protector is stepping in to shut things down, perhaps to keep your system from feeling overwhelmed by the ""bad"" feelings you mentioned. I’m curious if you can notice where that shutting-down sensation lives in your body right now. Instead of trying to push through it or interpret it, see if you can just be with the physical sensations—like a heaviness or a numbness—and notice if it’s okay to just acknowledge its presence for a moment.
+
+As you notice this part, you might see if it’s willing to share just one thing it wants you to know today. We want to help this part feel safe enough to step back a little so it doesn't have to overwhelm you. By staying curious and present with these sensations, you are helping your ""Self"" lead the way, which can eventually help the different parts of your inner family get along better and feel more understood.
+
+Grounding notes:
+* The coach acts as a companion to the client’s Self, helping them interact with their own parts rather than fixing them directly.
+* Focusing on specific body sensations can help a person stay present and regulated when a part feels like it is shutting down or dissociating.
+* Inviting a part to share just one thing it wants the client to know helps build a safe connection without the system feeling flooded.",Internal Family Systems Therapy | PT01 > 01 Origins ; Internal Family Systems Therapy: New Dimensions | CH06 > Embodying Ifs ; Internal Family Systems Therapy for Addictions | SEC04 > 12 Exile,,,,,,,,
+v001__v001_w2__hierarchical.json,hierarchical,"Client: It feels scared. Like if I really try and fail, that would prove I'm not good enough.
+Coach: So there may be a part trying to protect you from that feeling?
+Client: Yeah, that actually fits. It's like it would rather avoid everything than risk that.
+Coach: How do you feel toward that part as you notice it now?
+Client: Honestly, frustrated. But also kind of sad for it.
+Coach: That's helpful to notice. There may be room to get curious about what it has been trying to do for you.","It sounds like you are beginning to see the positive intention of this protective part. By choosing to avoid risks, it is trying to shield you from the painful belief that you might ""not be good enough."" In an internal system, even parts that seem to hold us back often have a protective goal, acting as workers who sacrifice much to keep a more vulnerable, exiled feeling from overwhelming you.
+
+You also noticed a mix of frustration and sadness. In this approach, we can act as ""parts detectors"" to notice when these different feelings arise. That frustration likely belongs to another part that is tired of the avoidance, while the sadness might be a sign of your Self-energy starting to connect with how hard this scared part has been working. Recognizing these as separate parts helps them ""unblend,"" or create enough space so you can look at them with curiosity rather than being taken over by them.
+
+When you feel ready, we can pause and simply notice these sensations in the body. We can validate how hard these parts have been trying and acknowledge all they’ve been holding for you. This shift toward curiosity allows us to hear what the scared part is afraid would happen if it stopped its job, which is a key step in helping your internal family feel more balanced and safe.
+
+**Grounding notes:**
+* **Positive Intentions:** Every part, even those that appear irrational or destructive, has a positive intention and is trying to benefit the system (Rank 5).
+* **Parts Detector:** A coach functions as a ""parts detector"" to help the client notice and identify when they are blended with different feelings or ideas (Rank 4).
+* **Unblending and Space:** Helping a part unblend—or step back—allows the client's Self to have more space and curiosity to get to know the part (Rank 4).
+* **Slowing Down:** Pausing to breathe and validating how hard the system has been trying helps calm the client's system before moving into deeper inquiry (Rank 3).",Internal Family Systems Skills Training Manual | SEC03 > Manual Treatment ; Internal Family Systems Skills Training Manual | SEC03 > Manual Treatment ; Internal Family Systems Therapy for Addictions | SEC01 > Overview,,,,,,,,
+v001__v001_w2__medium_overlap.json,medium_overlap,"Client: It feels scared. Like if I really try and fail, that would prove I'm not good enough.
+Coach: So there may be a part trying to protect you from that feeling?
+Client: Yeah, that actually fits. It's like it would rather avoid everything than risk that.
+Coach: How do you feel toward that part as you notice it now?
+Client: Honestly, frustrated. But also kind of sad for it.
+Coach: That's helpful to notice. There may be room to get curious about what it has been trying to do for you.","It is very common to feel a mix of emotions like this. When you notice ""frustration"" toward the part that avoids risk, that often signals the presence of another part—sometimes a judgmental manager—reacting to the situation. We can acknowledge that frustration and see if that part is willing to give us a little space so we can better understand the part that is scared of failing.
+
+You also mentioned feeling ""sad for it,"" which is a wonderful sign that you are connecting with its vulnerability. In IFS, sensing sadness underneath or alongside frustration often suggests that a more vulnerable part, sometimes called an ""exile,"" is making an appearance. We can gently invite that part to share a little more about its fears, asking it to do so in a way that doesn't overwhelm you, so you can remain present and curious.
+
+By letting these parts know you are aware of them and value their input, they may begin to trust you more. We don't want to rush them; we just want to make enough room for your Self to listen to what they have been trying to do for you.
+
+Grounding notes:
+*   Feeling frustrated toward a part usually indicates that a judgmental part is currently blended with the client (Rank 3).
+*   Sensing sadness beneath other emotions often indicates a vulnerable ""exile"" part is attempting to be noticed (Rank 1).
+*   The primary role of the coach is to act as a ""parts detector"" and help the client guide parts to unblend so Self-energy can emerge (Rank 3).
+*   Parts are more likely to relax and not overwhelm the system when they realize that being with the Self is the best way to be heard (Rank 2).",Internal Family Systems Therapy for Addictions | SEC04 > 12 Exile ; Internal Family Systems Skills Training Manual | SEC03 > Manual Treatment ; Internal Family Systems Therapy for Addictions | SEC01 > Overview,,,,,,,,
+v001__v001_w2__small_fixed.json,small_fixed,"Client: It feels scared. Like if I really try and fail, that would prove I'm not good enough.
+Coach: So there may be a part trying to protect you from that feeling?
+Client: Yeah, that actually fits. It's like it would rather avoid everything than risk that.
+Coach: How do you feel toward that part as you notice it now?
+Client: Honestly, frustrated. But also kind of sad for it.
+Coach: That's helpful to notice. There may be room to get curious about what it has been trying to do for you.","It makes sense that you would feel frustrated with a part that avoids opportunities, but noticing that sadness for it is a wonderful sign of compassion. In this approach, we aim for your Self to lead the way in interacting with these different feelings. If those frustrated parts are willing to ""step back"" or give you a little space, it may allow the scared part to feel safer and more willing to share its perspective with you.
+
+When you feel a sense of calm curiosity, you might try to send some gratitude to this scared part for how hard it has been trying to protect you from feeling ""not good enough."" You could gently ask it, ""What do you want me to know?"" or ""What are you holding for me?"" By listening without judgment, we can help the part feel seen and understood, which often helps it feel less of a need to take such an extreme position of avoidance.
+
+Grounding notes:
+* When the Self is differentiated from parts that are ""blended,"" the inner system feels safer and the client can provide a corrective experience for their parts.
+* Protectors often take extreme positions because they fear that relaxing will lead to catastrophic consequences or allow another part to take over.
+* Approaching a part with curiosity and gratitude can help reveal what the part is holding or what it wants the person to know.
+* Acknowledging a part’s presence and staying with it allows for a short exchange where the part can be heard without overwhelming the entire system.",Internal Family Systems Therapy | PT01 > 01 Origins ; Internal Family Systems Skills Training Manual | SEC03 > Manual Treatment ; Internal Family Systems Therapy for Addictions | SEC04 > 12 Exile,,,,,,,,
+v002__v002_w1__hierarchical.json,hierarchical,"Client: I sent an email with a mistake in it, and I've been beating myself up all day.
+Coach: What does that self-critical voice sound like inside?
+Client: It says, “You're careless. You always mess things up.”
+Coach: If we think in IFS terms, that may be a part speaking. How do you experience it?
+Client: Very intense. Like it wants to stay on me until I never do it again.","It sounds like this self-critical part is working very hard to protect you. Its intensity—wanting to stay ""on"" you until the mistake is never repeated—suggests it has a very important job in your internal system. In an IFS framework, we see voices like this as protective parts that often use criticism to push for change or to prevent you from feeling vulnerable again.
+
+We can approach this part with curiosity rather than trying to push it away. It seems to have the positive intention of making sure you are seen as careful and competent, even if the way it speaks feels harsh. When a part is this intense, it is often because it is afraid of what might happen if it stops its job. We might gently wonder together what it fears would happen if it let you have a little more space today.
+
+As we get to know this part, we want to model respect for its effort. It is trying to manage your life and your reputation in a high-stakes way. By listening to its concerns without judgment, we allow it to feel heard and validated, which is a necessary step before any internal shift can occur.
+
+**Grounding notes:**
+* Every part, even a harsh inner critic, has a positive intention and is trying to help the system in its own way.
+* Approaching protective parts with curiosity and non-judgmental interest helps them feel seen and encourages them to soften.
+* Intense parts often feel they must stay in control because they fear the consequences of stepping back.
+* Identifying the ""job"" and the ""fear"" of a protector is a key step in befriending it and building an internal relationship.",Internal Family Systems Skills Training Manual | SEC03 > Manual Treatment ; Internal Family Systems Skills Training Manual | SEC03 > Manual Treatment ; Transcending Trauma | SEC02 > Protective Parts,,,,,,,,
+v002__v002_w1__medium_overlap.json,medium_overlap,"Client: I sent an email with a mistake in it, and I've been beating myself up all day.
+Coach: What does that self-critical voice sound like inside?
+Client: It says, “You're careless. You always mess things up.”
+Coach: If we think in IFS terms, that may be a part speaking. How do you experience it?
+Client: Very intense. Like it wants to stay on me until I never do it again.","It sounds like you are experiencing a very intense part of your system that has taken ""center stage"" today. In IFS terms, when a part’s perspective or voice becomes this all-encompassing, we call it ""blending."" This specific voice sounds like a judgmental manager that is using criticism to try to protect you; its intention—to make sure you never make a mistake again—is a way of trying to manage your future safety, even though the delivery feels very harsh.
+
+When you hear it saying, “You’re careless,” it may show up as these specific thoughts, or perhaps you notice it as a physical sensation or a heavy mood. As a ""parts detector,"" I can gently reflect that while this part is very loud right now, it doesn't represent your system's majority view or your best judgment. It is one part that is very worried and invested in your performance.
+
+The goal is to help this part ""unblend"" so you can have more room for your ""Self"" to lead. You might try to notice this voice as something separate from you. Once you can see it clearly, I’m curious: how do you feel toward this part that is so worried about you being careless? Taking this step helps move from being engulfed by the criticism to being in a relationship with the part that is criticizing.
+
+**Grounding notes:**
+*   **Blending:** When a client is engulfed by a part’s feelings or speaks from its perspective, the part is considered ""blended"".
+*   **Managerial Parts:** Critical or anxious voices that push for change or perfection often represent a ""manager"" part of the internal system.
+*   **Detecting Parts:** Parts can manifest in the internal system as specific thoughts, physical sensations, or persistent moods.
+*   **Unblending:** The process of helping a client notice a part and persuade it to step back so the client can connect with their ""Self"".",Internal Family Systems Therapy for Addictions | SEC01 > Overview ; Internal Family Systems Therapy: New Dimensions | CH01 > Therapist Client Relationship And Power Of Self ; Internal Family Systems Therapy for Addictions | SEC04 > 03 Addiction Polarity,,,,,,,,
+v002__v002_w1__small_fixed.json,small_fixed,"Client: I sent an email with a mistake in it, and I've been beating myself up all day.
+Coach: What does that self-critical voice sound like inside?
+Client: It says, “You're careless. You always mess things up.”
+Coach: If we think in IFS terms, that may be a part speaking. How do you experience it?
+Client: Very intense. Like it wants to stay on me until I never do it again.","It sounds like this part is working very hard to protect you. By using such an intense and critical tone, it seems to believe that ""staying on you"" is the only way to ensure you stay careful and avoid future mistakes. In this framework, we see this not as a flaw, but as a protective part that has taken on a heavy burden to keep you safe from the consequences of being ""careless.""
+
+As we notice this part’s intensity and its desire to prevent future errors, I’m curious how you feel toward it right now? When we can offer a bit of empathic reflection to these self-critical voices, it often helps them feel more accepted. This can eventually allow the part to feel safe enough to relax its grip and trust that your Self can handle the situation without needing such a loud inner critic.
+
+Grounding notes:
+* Reflective listening helps a target part feel accepted by the coach before the client's Self fully emerges.
+* Protective parts often take on extreme positions because they fear that relaxing will lead to catastrophic consequences.
+* The primary role of the coach is to be a companion to the client's Self as they notice and interact with their own parts.",Internal Family Systems Skills Training Manual | SEC03 > Manual Treatment ; Internal Family Systems Therapy: New Dimensions | CH01 > Therapist Client Relationship And Power Of Self ; Internal Family Systems Therapy | PT01 > 01 Origins,,,,,,,,
+v002__v002_w2__hierarchical.json,hierarchical,"Coach: So it may believe criticizing you is helping?
+Client: I hate it, but yes, it does feel like it thinks it's doing something useful.
+Coach: What do you imagine it is afraid would happen if it stopped criticizing?
+Client: Maybe that I'd become lazy or embarrass myself even more.
+Coach: That sounds like an important fear to get curious about.","It is very common to feel a sense of ""hate"" or frustration toward a part that uses harsh criticism. In the IFS framework, we see this as a protective manager that has taken on a difficult job with a positive intention—in this case, trying to shield you from the pain of laziness or the sting of further embarrassment. Because these parts often feel they are solely responsible for your safety, they believe that if they stop their behavior, the system might collapse into a state the part views as dangerous.
+
+Your observation about the fear of ""embarrassing yourself even more"" is a vital clue. This often suggests that the criticizing part is standing guard over a more vulnerable, younger part of you—an ""exile""—that may have felt deeply shamed or exposed in the past. By getting curious about this fear rather than trying to force the critic to stop, you are beginning to build a relationship of trust that allows the protector to feel seen and understood, which is the first step toward it eventually being able to relax.
+
+When you notice that ""I hate it"" feeling, that is actually another part of you speaking up. An IFS-informed approach would involve gently acknowledging the part that hates the criticism, while staying curious about the critic’s underlying goal. Understanding that these behaviors are a ""heroic"" effort to manage your life can help move the internal conversation from conflict toward compassion.
+
+**Grounding notes:**
+* Even parts that use painful methods like criticism have positive intentions, often aiming to promote personal success or prevent social harm.
+* Asking a part what it is afraid would happen if it stopped its job is a key step in identifying the more vulnerable feelings it is trying to protect.
+* When a client feels intense negative emotions toward a specific part, it indicates that another ""reactive"" part is active and may need to be acknowledged before proceeding.
+* Protective parts often believe they must stay on the job to prevent the system from being overwhelmed by past memories or ""exiled"" emotional pain.",Internal Family Systems Therapy for Addictions | SEC01 > Overview ; Internal Family Systems Skills Training Manual | SEC03 > Manual Treatment ; Internal Family Systems Therapy for Addictions | SEC01 > Overview,,,,,,,,
+v002__v002_w2__medium_overlap.json,medium_overlap,"Coach: So it may believe criticizing you is helping?
+Client: I hate it, but yes, it does feel like it thinks it's doing something useful.
+Coach: What do you imagine it is afraid would happen if it stopped criticizing?
+Client: Maybe that I'd become lazy or embarrass myself even more.
+Coach: That sounds like an important fear to get curious about.","It is very common for parts like this—which we might call ""managers""—to use self-criticism as a way to keep you moving forward or to prevent you from being embarrassed. While the criticism feels painful, this part likely believes its proactive, future-oriented approach is necessary to protect you from something even more difficult.
+
+We can continue to get curious about this part using a nonjudgmental approach. You might try to ""flesh out"" this part by noticing how it shows up in your body or what its original intentions were for you. By befriending the part and acknowledging its fears, you may find it becomes more willing to trust your Self and eventually share what vulnerable or hurt parts it is trying to shield.
+
+**Grounding notes:**
+* Manager parts are often proactive and future-oriented, using behaviors like self-criticism to help a person improve or make progress.
+* Protective parts typically act the way they do because they are shielding more vulnerable, ""exiled"" parts of the system.
+* Nonjudgmental inquiry (such as the ""6 F's"") helps a client understand a part's role and fears, which can lead to the part unblending or calming down.
+* Validating a protector's fears is a key step in helping it relax so the client can safely connect with the internal system.",Internal Family Systems Therapy for Addictions | SEC01 > Overview ; Internal Family Systems Skills Training Manual | SEC03 > Manual Treatment ; Internal Family Systems Skills Training Manual | SEC03 > Manual Treatment,,,,,,,,
+v002__v002_w2__small_fixed.json,small_fixed,"Coach: So it may believe criticizing you is helping?
+Client: I hate it, but yes, it does feel like it thinks it's doing something useful.
+Coach: What do you imagine it is afraid would happen if it stopped criticizing?
+Client: Maybe that I'd become lazy or embarrass myself even more.
+Coach: That sounds like an important fear to get curious about.","It makes sense that this part is working so hard to protect you from the pain of embarrassment or the risk of ""becoming lazy."" This critical manager seems to believe its harshness is a necessary tool to keep you safe and productive. We can appreciate its protective intent while remaining curious about the specific fears it carries.
+
+To help this part unblend and feel seen, you might notice where you feel its presence in your body. You could also gently ask this part how old it thinks you are right now. Often, these parts are stuck in a past scenario and may not realize that you have grown or that you might be capable of handling those vulnerable feelings now without its constant criticism.
+
+As we stay in a curious relationship with this part, we can eventually discover what it would need to trust you more. By meeting its disclosure with acknowledgment and mirroring rather than judgment, we help the part feel safe enough to share what it is truly worried about without it needing to overwhelm you.
+
+Grounding notes:
+* Identifying the ""critical manager"" and its protective role in preventing embarrassment or ""laziness"" (Rank 1).
+* Asking the part how old it thinks the person is to help reveal who or what is being protected (Rank 2).
+* Using curiosity and validation to discover the part's fears and what it needs to trust the connection (Rank 1 & 2).
+* Mirroring the part’s concerns to prevent a response of deep shame or further protective reactions (Rank 3).",Internal Family Systems Therapy for Addictions | SEC01 > Overview ; Internal Family Systems Skills Training Manual | SEC03 > Manual Treatment ; Internal Family Systems Couple Therapy | SEC02 > PT03 > Communication,,,,,,,,
+v003__v003_w1__hierarchical.json,hierarchical,"Client: I say yes to things I don't want to do, and then I end up resentful.
+Coach: What do you notice inside when you imagine saying no instead?
+Client: Panic. Like I'm about to disappoint someone and then they won't want me around.
+Coach: That sounds like a strong reaction. Is there a part that steps in to keep that from happening?
+Client: Yeah, a part that just tries to be easy and agreeable all the time.","It sounds like you have identified an important protector in your system. This ""easy and agreeable"" part has a very clear and positive intention: it works to shield you from that intense panic and the painful fear of being abandoned or unwanted. In IFS, we understand that these parts take on such roles to ensure your safety and connection to others, even if the unintended result is a feeling of resentment later on.
+
+To get to know this part better, you might try to ""find"" where it resides in or around your body. By focusing on the physical sensation of being ""agreeable"" and noticing how you feel toward it, you can begin the process of ""unblending."" This simply means giving yourself a little bit of space to witness the part with curiosity rather than being fully taken over by its urge to say yes. When the protector feels that its hard work is seen and appreciated, it may eventually feel safe enough to let you learn more about the panic it is trying so hard to prevent.
+
+**Grounding notes:**
+*   Protective parts often take on extreme roles, such as being overly agreeable, to keep a person safe from underlying pain or ""exiled"" feelings like panic.
+*   ""Unblending"" is the process of helping a part separate from the Self so the client can get to know the part with curiosity and compassion.
+*   Locating a part’s sensation in or around the body (the ""Find"" step) is a primary way to begin working with a specific target part.
+*   Protectors often fear that if they stop their job, the system will be overwhelmed by intense feelings, such as the fear of being ""disappointed"" or rejected.",Transcending Trauma | SEC02 > Protective Parts ; Internal Family Systems Skills Training Manual | SEC03 > Manual Treatment ; Transcending Trauma | SEC02 > Protective Parts,,,,,,,,
+v003__v003_w1__medium_overlap.json,medium_overlap,"Client: I say yes to things I don't want to do, and then I end up resentful.
+Coach: What do you notice inside when you imagine saying no instead?
+Client: Panic. Like I'm about to disappoint someone and then they won't want me around.
+Coach: That sounds like a strong reaction. Is there a part that steps in to keep that from happening?
+Client: Yeah, a part that just tries to be easy and agreeable all the time.","It sounds like this ""easy and agreeable"" part has been working very hard to protect you from that intense feeling of panic. By stepping in to say yes, it is trying to ensure you aren't rejected or left alone. We can appreciate that this part has a positive intention, even if the result leaves you feeling resentful later on.
+
+When you think about this agreeable part right now, how do you feel toward it? Taking a moment to notice your feelings about the part can help us ""unblend,"" or create just enough space so you can look at the part with curiosity rather than being overwhelmed by it. If you feel a sense of calm or interest toward it, we might eventually ask this part what it is afraid would happen if it didn't step in to take over.
+
+That panic you feel when imagining saying ""no"" suggests there may be a more vulnerable part underneath that is worried about being disappointed or cast aside. If it feels right, we can pause and breathe, simply acknowledging that this vulnerable part is there. We don't have to hear its whole story right now, but we can let it know we notice its presence and are interested in learning more when it feels safe.
+
+**Grounding notes:**
+* Unblending involves helping a client notice a part as a separate feeling or thought so they are no longer engulfed by it.
+* Protective parts, like the ""agreeable"" one, often act as managers to shield the system from more vulnerable feelings or ""exiles.""
+* When a vulnerable part ""pops up"" with a strong emotion like panic, a coach can invite the client to briefly acknowledge it and ask what it wants them to know.
+* A ""mini-unblend"" (pausing and breathing) can help settle the system when parts begin to feel overwhelming or chaotic.",Internal Family Systems Therapy for Addictions | SEC04 > 12 Exile ; Internal Family Systems Therapy for Addictions | SEC01 > Overview ; Internal Family Systems Therapy for Addictions | SEC01 > Overview,,,,,,,,
+v003__v003_w1__small_fixed.json,small_fixed,"Client: I say yes to things I don't want to do, and then I end up resentful.
+Coach: What do you notice inside when you imagine saying no instead?
+Client: Panic. Like I'm about to disappoint someone and then they won't want me around.
+Coach: That sounds like a strong reaction. Is there a part that steps in to keep that from happening?
+Client: Yeah, a part that just tries to be easy and agreeable all the time.","It sounds like you have a very active ""parts detector"" online right now. You’ve identified a part of you that tries to be easy and agreeable to protect you from a deep sense of panic. This part seems to believe that saying ""no"" will lead to disappointment and rejection, so it steps in to keep you safe by saying ""yes."" In IFS, we see this as a protective intention; this part is working hard to ensure you stay connected to others, even if it leaves you feeling resentful later.
+
+When a part is this blended with you, it can be helpful to gently notice its fears without trying to force it to change. We might wonder what this agreeable part is afraid would happen if it didn't take over in those moments. By interviewing the part about its intentions, you may find that it is simply trying to manage your relationships to prevent a worst-case scenario. Taking a moment to appreciate the job it has been doing can sometimes help it feel safe enough to give you a little more space.
+
+**Grounding notes:**
+* Coaches act as ""parts detectors"" to help clients notice and unblend from the different feelings and urges they experience.
+* Protective parts often have specific fears and intentions, such as preventing rejection or managing how others perceive us.
+* It is important to gain a part’s genuine permission and understanding before trying to move past it, as parts may sometimes act compliantly just to keep the process moving.
+* When a part is blended, encouraging it to share its feelings can help the Self listen and appreciate the protective role the part is playing.",Transcending Trauma | SEC02 > Protective Parts ; Internal Family Systems Therapy for Addictions | SEC04 > 05 Deescalating ; Internal Family Systems Therapy for Addictions | SEC01 > Overview,,,,,,,,
+v003__v003_w2__hierarchical.json,hierarchical,"Coach: How do you feel toward that agreeable part right now?
+Client: Mixed. I appreciate that it helps me avoid conflict, but I'm tired of it running everything.
+Coach: That makes sense. What do you think it is protecting you from?
+Client: Feeling rejected. Or feeling like I'm too much.
+Coach: That gives us an important place to stay curious.","It is very common to feel ""mixed"" when a protective part has been in the driver’s seat for a long time. This agreeable part has a clear positive intention: it is working heroically to shield you from the painful ""exile"" feelings of rejection or the fear of being ""too much."" While another part of you is understandably tired of it running everything, we can approach the agreeable part with compassion. It has likely been doing this job for many years, perhaps since you were quite young, and it may not realize that you have a ""Self of today"" with the internal strength to handle those difficult emotions.
+
+We can stay curious about this ""mixed"" feeling, as it often suggests a second part is reacting to the agreeable one. We might ask that ""tired"" part if it would be willing to step back for a moment so you can get to know the agreeable one better. When we find, focus, and flesh out this part, we can ask it how old it thinks you are and what it fears would happen if it stopped being so agreeable. Often, these protectors are exhausted and would appreciate a new role, but they need to feel certain that the vulnerable parts they guard are truly safe first.
+
+By befriending this part rather than trying to push it away, we honor its goal of self-preservation. Our goal is to foster a trusting relationship where this protector feels seen and understood by your Self. As it begins to trust your internal leadership, it may eventually grant permission to help heal the underlying wounds it has been so steadfastly protecting.
+
+**Grounding notes:**
+* All protective parts, even those that seem problematic, have a positive intention to keep the person safe from pain.
+* ""Mixed"" feelings indicate that another part is blended or reacting, and it may need to ""unblend"" (separate) to allow for clear curiosity toward the target part.
+* Protective parts are often stuck in the past and need to be ""updated"" to realize the client is now an adult with more resources.
+* Gaining permission from a protector involves validating its hard work and addressing its specific fears about what happens if it stops its job.",Internal Family Systems Skills Training Manual | SEC03 > Manual Treatment ; Internal Family Systems Skills Training Manual | SEC03 > Manual Treatment ; Transcending Trauma | SEC02 > Protective Parts,,,,,,,,
+v003__v003_w2__medium_overlap.json,medium_overlap,"Coach: How do you feel toward that agreeable part right now?
+Client: Mixed. I appreciate that it helps me avoid conflict, but I'm tired of it running everything.
+Coach: That makes sense. What do you think it is protecting you from?
+Client: Feeling rejected. Or feeling like I'm too much.
+Coach: That gives us an important place to stay curious.","It is very common for a part of the system to feel tired of a protector that ""runs everything."" At the same time, we want to acknowledge the agreeable part’s dedication; it has taken on the heavy duty of shielding you from the painful feelings of being ""too much"" or rejected. In IFS, we recognize that these protectors often work tirelessly because they are knowledgeable about the delicate ecology of your inner system and worry about what might happen if they relax their guard.
+
+Since you’ve identified the vulnerability underneath, we can proceed with care. We want to honor the agreeable part's fear of emotional overwhelm—the concern that if it stops managing things, those feelings of rejection might flood the system. We can ask this protector if it would be willing to step back just a little, provided we promise to move slowly and ask the vulnerable part not to overwhelm you. This creates space for your Self to act as a compassionate companion to both the protector and the vulnerable feelings it carries.
+
+**Grounding notes:**
+* Protectors deserve to be understood, appreciated, and comforted before a client attempts to approach their more vulnerable, ""exiled"" parts (Rank 3).
+* The primary fear of many protectors is that the system will be overwhelmed by the intense emotions of an exile (Rank 2).
+* When parts ""blend"" or take over, we can negotiate with them to unblend by promising to give them the attention they crave at a safe pace (Rank 1).
+* Rather than forcing change, we invite protectors to consider what new roles they might prefer once the parts they protect no longer feel so vulnerable (Rank 3).",Internal Family Systems Therapy for Addictions | SEC04 > 12 Exile ; Internal Family Systems Skills Training Manual | SEC03 > Manual Treatment ; Internal Family Systems Therapy | PT01 > 01 Origins,,,,,,,,
+v003__v003_w2__small_fixed.json,small_fixed,"Coach: How do you feel toward that agreeable part right now?
+Client: Mixed. I appreciate that it helps me avoid conflict, but I'm tired of it running everything.
+Coach: That makes sense. What do you think it is protecting you from?
+Client: Feeling rejected. Or feeling like I'm too much.
+Coach: That gives us an important place to stay curious.","It is very common to feel ""mixed"" when a part has been working so hard to protect you. It sounds like this agreeable part might be blended right now, leading to that feeling of it ""running everything."" We can appreciate its positive intent in wanting to keep you safe from the pain of rejection, which is a significant and exhausting role for it to carry.
+
+We might stay curious about what this protector is concerned would happen if it were to unblend or step back just a little. Often, parts like this are afraid that if they relax their guard, you might be overwhelmed by the very feelings of being ""too much"" that it is trying to hide. By acknowledging its fears and validating its experience, we can help it feel safe enough to let your Self lead as we explore those more vulnerable feelings.
+
+**Grounding notes:**
+* Protectors often fear that if they relax, a ""polarized"" or vulnerable part will take over, leading to catastrophic consequences or ""exile overwhelm.""
+* The goal is to help parts notice they are ""blended"" and encourage them to ""step back"" so the client’s Self can be present and provide leadership.
+* Rather than fixing a part, the coach acts as a companion to the client's Self, helping them stay in relationship with their parts and ""speak for"" them rather than from them.",Internal Family Systems Skills Training Manual | SEC03 > Manual Treatment ; Internal Family Systems Therapy | PT01 > 01 Origins ; Internal Family Systems Couple Therapy | SEC02 > PT03 > Communication,,,,,,,,
+v004__v004_w1__hierarchical.json,hierarchical,"Client: After arguments, I just go numb. I can't feel much of anything.
+Coach: When that numbness comes in, how do you experience it inside?
+Client: It feels like everything goes flat. Like I disappear a little.
+Coach: Does it seem possible that a part is stepping in there?
+Client: Maybe. It almost feels like something puts up a wall.","It sounds like this ""wall"" is a protective part of your system that steps in to help you when things feel too intense. When you describe ""disappearing a little"" or everything going ""flat,"" it’s possible this part is using numbness to buffer you from the heat of the argument. In an IFS-informed approach, we see these responses not as flaws, but as parts with positive intentions that are trying to keep you safe from being overwhelmed.
+
+I wonder if we could meet this ""wall"" with some curiosity. Instead of trying to push past it, we can acknowledge how hard it works to protect you. We might eventually ask this part what its job is and what it fears would happen if it didn't step in to make everything go flat. When protective parts like this one feel seen and understood by your Self, they often feel they can eventually relax.
+
+If you feel a sense of curiosity toward this wall, that’s a great sign that you’re connecting with it from a place of Self-energy. We can go slowly and let this part know that we aren't trying to tear the wall down, but rather we want to understand the important role it plays in your internal family.
+
+**Grounding notes:**
+* Protective parts act as ""worker bees"" of the psyche, often sacrificing their own comfort to ensure the system's safety.
+* Numbness or ""blunting"" is a known protective response to high-stress situations, often used to prevent emotional overwhelm.
+* Befriending a part involves a non-judgmental stance, focusing on the part’s positive intentions rather than just its symptoms.
+* Identifying a part’s ""job"" and its underlying ""fear"" (such as the fear of being overwhelmed by pain) is a key step in helping it differentiate from your core Self.",Internal Family Systems Skills Training Manual | SEC03 > Manual Treatment ; Internal Family Systems Therapy for Addictions | SEC04 > 03 Addiction Polarity ; Internal Family Systems Skills Training Manual | SEC03 > Manual Treatment,,,,,,,,
+v004__v004_w1__medium_overlap.json,medium_overlap,"Client: After arguments, I just go numb. I can't feel much of anything.
+Coach: When that numbness comes in, how do you experience it inside?
+Client: It feels like everything goes flat. Like I disappear a little.
+Coach: Does it seem possible that a part is stepping in there?
+Client: Maybe. It almost feels like something puts up a wall.","It sounds like this ""wall"" is a protective part that steps in during moments of high stress, such as after an argument. In this framework, that experience of going ""flat"" or ""numb""—sometimes called blunting—is often a way a part tries to keep you safe by distancing you from intense emotions or physical sensations that might feel overwhelming.
+
+As you notice this wall, you might try to get a little curious about its role without asking it to change yet. You could gently ask this protector what it is afraid would happen if it didn't put up that wall, or what it is trying to protect you from feeling in those moments. It may be guarding more tender or vulnerable parts of you that don't feel safe to come out during conflict.
+
+If you can, try to extend some appreciation to this part for how hard it works to guard your vulnerability. Recognizing its vigilant effort can sometimes help the part feel seen, which is a helpful step toward creating more internal space and connection.
+
+**Grounding notes:**
+*   Numbness and ""disappearing"" can be understood as a state of blunting used to process intense stress.
+*   Physical sensations like a ""wall"" or ""contraction"" often indicate the presence of a protective part.
+*   Protective parts often have specific fears about what would happen if they allowed the heart to remain tender or open.
+*   Appreciating a protector's hard work can help build trust between the client and that part of their system.",Internal Family Systems Skills Training Manual | SEC03 > Manual Treatment ; Internal Family Systems Therapy for Addictions | SEC04 > 12 Exile ; Internal Family Systems Therapy for Addictions | SEC01 > Overview,,,,,,,,
+v004__v004_w1__small_fixed.json,small_fixed,"Client: After arguments, I just go numb. I can't feel much of anything.
+Coach: When that numbness comes in, how do you experience it inside?
+Client: It feels like everything goes flat. Like I disappear a little.
+Coach: Does it seem possible that a part is stepping in there?
+Client: Maybe. It almost feels like something puts up a wall.","It sounds like this ""wall"" is a part that steps in with a very important job: to help you feel safe by making things go flat when things get intense. We can hold a lot of respect for its efforts to protect you in those moments. From an IFS perspective, we want to approach this part with curiosity and compassion, acknowledging that its intentions are likely positive, even if the numbness feels difficult to experience.
+
+If it feels right, you might want to take a moment to focus internally and let this part know you are aware of its presence. You could gently ask it, ""Is there one thing, just for today, that you want me to know about you?"" This helps build a relationship between you and the part, allowing it to feel validated for the work it does to keep you from feeling overwhelmed.
+
+Sometimes, a protective part like this puts up a wall because there is a more vulnerable or sad part underneath that it is trying to shield. By befriending the protector and listening to its fears, we can help it feel safe enough to differentiate, allowing more of your ""Self"" to be present and embodied during these difficult moments.
+
+Grounding notes:
+* Protective parts perform their ""jobs"" for a reason, and they benefit from being validated and understood rather than judged.
+* Building a relationship between the ""Self"" and a part begins with curiosity and a simple acknowledgment of the part's presence.
+* A protective part may step in to prevent the system from being overwhelmed by more vulnerable feelings or ""exiles"" hidden underneath.",Internal Family Systems Therapy for Addictions | SEC04 > 12 Exile ; Internal Family Systems Skills Training Manual | SEC03 > Manual Treatment ; Internal Family Systems Therapy for Addictions | SEC04 > 05 Deescalating,,,,,,,,
+v004__v004_w2__hierarchical.json,hierarchical,"Coach: If that wall-building part could speak, what might it say it is trying to do?
+Client: Probably keep me from getting overwhelmed or hurt.
+Coach: That sounds like it may be working hard for you.
+Client: I never thought of it that way. I usually just judge myself for shutting down.
+Coach: It may help to approach it with curiosity before trying to change it.","It is a significant shift to move from judging yourself for ""shutting down"" to recognizing that this wall-building part has been working hard to keep you safe. In this approach, we see every part as having a positive intention, even when its actions feel restrictive. This part is acting as a protector, likely trying to prevent the internal system from being flooded by ""overwhelm"" or deep-seated ""hurt"" that it believes you aren't yet ready to handle.
+
+By approaching the part with curiosity instead of judgment, you are beginning to ""unblend"" from it. This means you are no longer just the person who is ""shut down""; you are now the observer who can witness the part’s efforts. This shift allows your Self to emerge, providing a compassionate space where the part can eventually share its specific fears. For many protectors, the greatest fear is that a vulnerable, exiled part of the system will ""take over"" with intense emotions if the protective wall is removed.
+
+As you continue to befriend this part, the goal is not to force it to change but to earn its trust. We want to acknowledge its ""heroic"" efforts and eventually offer it a new possibility. If the underlying wounds it guards could be healed, this part might finally be relieved of its heavy burden and be free to try a different, less taxing role within your life.
+
+Grounding notes:
+* Protective parts operate with positive intentions, often working to prevent the system from being ""taken over"" by overwhelming emotional pain. [Rank 1, Rank 3]
+* Shifting from judgment to curiosity facilitates ""unblending,"" allowing the client to notice the part rather than being fully identified with its behavior. [Rank 2, Rank 3]
+* The coaching process involves validating how hard a protector has been trying and exploring its fears before offering it an alternative solution. [Rank 3, Rank 4]",Internal Family Systems Skills Training Manual | SEC03 > Manual Treatment ; Internal Family Systems Therapy for Addictions | SEC01 > Overview ; Internal Family Systems Skills Training Manual | SEC03 > Manual Treatment,,,,,,,,
+v004__v004_w2__medium_overlap.json,medium_overlap,"Coach: If that wall-building part could speak, what might it say it is trying to do?
+Client: Probably keep me from getting overwhelmed or hurt.
+Coach: That sounds like it may be working hard for you.
+Client: I never thought of it that way. I usually just judge myself for shutting down.
+Coach: It may help to approach it with curiosity before trying to change it.","It makes a lot of sense that a part of you would step in to build a wall when it senses the potential for hurt or overwhelm. In the IFS perspective, we see these as ""protectors"" who have the heavy responsibility of managing your internal safety. Rather than being a sign of a problem, this ""wall-building"" is often an ecologically sensitive response to a perceived threat. This part likely believes its duty is to ensure that opening up doesn't make matters worse for you.
+
+You also mentioned a tendency to judge yourself for shutting down. This suggests there might be another part present—perhaps a ""manager"" part that is critical of the wall. When we feel that self-judgment, we are often ""blended"" with a judgmental part rather than being in our ""Self."" It is very common for protectors to fear or judge one another, which can keep your internal system in an extreme or polarized position.
+
+Instead of trying to force the wall to come down, we can start by offering it appreciation for how hard it has worked to protect you. Protectors are often much more willing to soften or ""unblend"" when they feel understood and validated rather than pressured to change. By approaching both the ""wall-builder"" and the ""judge"" with curiosity, we can begin to restore trust in your Self-leadership and create a safer space for your internal system.
+
+**Grounding notes:**
+* Protectors have a duty to ensure that moving too fast or opening up does not make things worse for the client's inner system.
+* When a person feels self-disgust or judgment toward their own behavior, they are likely ""blended"" with a judgmental manager part.
+* Protective parts generally do not change their rigid tactics until they feel the internal system is less vulnerable and their role is appreciated.",Internal Family Systems Therapy | PT01 > 01 Origins ; Internal Family Systems Therapy for Addictions | SEC01 > Overview ; Internal Family Systems Couple Therapy | SEC02 > PT03 > Communication,,,,,,,,
+v004__v004_w2__small_fixed.json,small_fixed,"Coach: If that wall-building part could speak, what might it say it is trying to do?
+Client: Probably keep me from getting overwhelmed or hurt.
+Coach: That sounds like it may be working hard for you.
+Client: I never thought of it that way. I usually just judge myself for shutting down.
+Coach: It may help to approach it with curiosity before trying to change it.","It is a significant shift to see this ""wall-building"" part as a protector rather than a flaw. It sounds like this part has been working very hard to prevent you from feeling overwhelmed or hurt. When we approach these parts with curiosity rather than judgment, they often feel safer and more willing to share what they are afraid might happen if they were to stop their work.
+
+You also mentioned a part of you that judges the shutting down. It is common for different parts to have conflicting views; while one part builds a wall to keep you safe, another part may worry about the consequences of that wall. By noticing both of these parts, you are beginning to ""unblend"" from them. This allows you to be a compassionate companion to your inner system, rather than being caught in the middle of the conflict.
+
+As you continue to notice these parts and their intentions, you might simply acknowledge the wall-builder’s efforts. When parts feel seen and understood by you, they often feel less of a need to take such extreme positions to protect you.
+
+**Grounding notes:**
+*   Protective parts often take on extreme roles because they fear that relaxing will lead to catastrophic overwhelm or hurt.
+*   A primary goal is to help the client's Self differentiate, or ""unblend,"" from parts so they can interact with them from a place of curiosity.
+*   Parts feel safer and are more likely to step back when they feel the presence of the client’s Self.
+*   The coach acts as a ""parts detector"" to help the client identify and interview parts about their positive intentions and fears.",Internal Family Systems Therapy | PT01 > 01 Origins ; Internal Family Systems Skills Training Manual | SEC03 > Manual Treatment ; Internal Family Systems Therapy for Addictions | SEC01 > Overview,,,,,,,,
+v005__v005_w1__hierarchical.json,hierarchical,"Client: Part of me wants to rest, but another part says I'm being lazy if I do.
+Coach: It sounds like there may be at least two parts there. What do you notice about each one?
+Client: One feels exhausted and desperate for a break. The other is sharp and demanding.
+Coach: How does the demanding one seem to view rest?
+Client: Like rest is dangerous. Like if I slow down, everything will fall apart.","It is very common to experience this kind of internal tug-of-war. The ""sharp and demanding"" part you are describing sounds like a protector—often called a manager—that is working hard to ensure you stay productive and successful. In an internal family system, managers are future-oriented and proactive; they often believe that if they aren't vigilant and critical, things will descend into chaos or you will be viewed negatively by others.
+
+This part’s fear that rest is ""dangerous"" reveals its positive intention: it is trying to protect you from what it perceives as a total collapse. When one part of you feels exhausted and desperate for a break, this demanding protector may become even more extreme to counterbalance that urge, creating a polarization. From the perspective of this manager, the ""exhausted"" part’s need for rest might look like a threat to the stability it has worked so hard to maintain.
+
+We can stay curious about this sharp part and acknowledge how much responsibility it has been carrying. It likely feels it has no choice but to be demanding because it doesn't yet trust that things will stay together without its constant pressure. By witnessing its fears without judgment, we can help it feel understood, which is often the first step toward allowing the system to find a healthier balance between accomplishment and necessary renewal.
+
+Grounding notes:
+* Managers are proactive protectors that use criticism and striving to ensure stability and personal success.
+* Polarization occurs when two parts move in opposite directions to keep the system safe, often leading to an internal power struggle.
+* Protective parts, including those that are sharp or critical, have positive intentions and act out of fear that the internal system will collapse or be overwhelmed.
+* Firefighters or rest-oriented parts aim to provide relaxation and relief, but they can be viewed as ""dangerous"" by managers who value constant productivity.",Internal Family Systems Therapy for Addictions | SEC01 > Overview ; Internal Family Systems Therapy for Addictions | SEC01 > Overview ; Internal Family Systems Skills Training Manual | SEC03 > Manual Treatment,,,,,,,,
+v005__v005_w1__medium_overlap.json,medium_overlap,"Client: Part of me wants to rest, but another part says I'm being lazy if I do.
+Coach: It sounds like there may be at least two parts there. What do you notice about each one?
+Client: One feels exhausted and desperate for a break. The other is sharp and demanding.
+Coach: How does the demanding one seem to view rest?
+Client: Like rest is dangerous. Like if I slow down, everything will fall apart.","It sounds like you are becoming a ""parts detector,"" noticing the clear difference between the part of you that is exhausted and the ""sharp and demanding"" part that views rest as a threat. It makes a lot of sense that this demanding part would be so loud if it truly believes that slowing down is dangerous. In IFS, we see these types of demanding voices as protective managers that are often trying to prevent a perceived disaster, such as everything ""falling apart.""
+
+As you notice this sharp, demanding part right now, how do you feel toward it? If you feel anything other than curiosity or compassion—perhaps frustration or a sense of being judged—it might mean another part is reacting to it. By taking a moment to see this demanding part’s intention, we can start to understand what it is so afraid would happen if it stopped being so ""sharp.""
+
+We don’t have to force this part to change or stop its behavior yet. Instead, we can simply acknowledge how hard it is working to keep things stable. When it feels heard, we might eventually be able to ask it what it would need in order to feel safe enough to let the exhausted part get some of the rest it desperately needs.
+
+**Grounding notes:**
+*   Protective parts often use demanding or loud voices because they believe their behavior is necessary to prevent a negative outcome or ""disconnection"" (Rank 1).
+*   When a person feels judgmental or ""dismayed"" by their own behavior, they may be ""blended"" with a manager part rather than being in a state of curious Self (Rank 3).
+*   Asking ""How do you feel toward the part?"" is a primary tool to check for unblending and to see if the client can connect with the part from a place of curiosity (Rank 3).
+*   Understanding a part's intentions involves asking what it is concerned would happen if it stopped its current protective role (Rank 1).",Internal Family Systems Couple Therapy | SEC02 > PT02 > Heart Of Matter ; Internal Family Systems Therapy for Addictions | SEC03 > Assesment ; Internal Family Systems Therapy for Addictions | SEC01 > Overview,,,,,,,,
+v005__v005_w1__small_fixed.json,small_fixed,"Client: Part of me wants to rest, but another part says I'm being lazy if I do.
+Coach: It sounds like there may be at least two parts there. What do you notice about each one?
+Client: One feels exhausted and desperate for a break. The other is sharp and demanding.
+Coach: How does the demanding one seem to view rest?
+Client: Like rest is dangerous. Like if I slow down, everything will fall apart.","It is very clear how these two parts are interacting right now. You have one part that is exhausted and desperate for relief, and another—acting much like a ""manager""—that uses a sharp, demanding tone to keep you in line because it views rest as dangerous. This demanding part seems to believe that if it doesn't stay vigilant, everything will fall apart, which is a very heavy burden for it to carry.
+
+In an IFS approach, we look at these loud, demanding parts with curiosity rather than judgment. Just as a part might get loud to ensure needs are met or to prevent a situation from feeling hopeless, your demanding part likely has a protective intent. It may be trying to protect you from a specific fear or consequence it deems ""dangerous."" 
+
+We might gently wonder: if this part didn't push you so hard, what is it afraid would happen to you? By understanding what it is ""hoping for"" or trying to prevent, we can begin to understand its role in your internal system. This helps us see the pattern of how these parts react to one another without needing to moralize the demanding part's behavior.
+
+**Grounding notes:**
+*   A ""manager"" part often makes rules and tries to keep the system ""in line"" to avoid negative outcomes.
+*   Loud and demanding parts often act out of a protective intent to prevent something they perceive as dangerous or hopeless.
+*   Understanding what a protective part is ""hoping for"" or afraid of can help clarify its role in the internal system.
+*   Reflecting on what might happen if a demanding part stopped its behavior can reveal its underlying concerns and needs.",Internal Family Systems Couple Therapy | SEC02 > PT02 > Heart Of Matter ; Internal Family Systems Therapy for Addictions | SEC04 > 05 Deescalating ; Internal Family Systems Couple Therapy | SEC02 > PT02 > Heart Of Matter,,,,,,,,
+v005__v005_w2__hierarchical.json,hierarchical,"Coach: And how do you feel toward that demanding part as you notice it?
+Client: Annoyed, but I also get that it's scared.
+Coach: That sounds important. What might it be afraid would happen if it didn't push so hard?
+Client: Maybe that I'd lose control or become worthless.
+Coach: That gives us a chance to understand it rather than just fighting it.","It sounds like you are successfully acting as a ""parts detector,"" noticing the dynamic between the part that feels ""annoyed"" and the ""demanding part"" it is reacting to. Acknowledging that the demanding part is actually ""scared"" is a significant step toward unblending. In the IFS model, we understand that these demanding parts often take on high-pressure ""jobs""—like pushing you to succeed or stay in control—because they are trying to protect the system from painful beliefs of being ""worthless.""
+
+By approaching this part with curiosity rather than fighting it, you are moving away from guessing its motives and toward a direct relationship. This demanding part likely believes its behavior is necessary to prevent a total ""functional collapse"" or to keep you from being overwhelmed by the very feelings of worthlessness it fears. It is common for these protective parts to be so focused on their roles that they aren't aware of the ""Self"" or the internal strength you have today; they often believe they are still protecting a much younger version of you.
+
+As you continue this nonjudgmental inquiry, you might gently ask this part how old it thinks you are and what it is trying to help you achieve. When a protector feels seen and appreciated for its hard work, it often begins to relax, eventually allowing you to connect with the vulnerable parts it has been working so hard to shield.
+
+**Grounding notes:**
+* **Protective Roles:** Protective parts (managers) often use demanding or critical behaviors to proactively prevent the system from feeling ""worthless"" or losing control.
+* **Nonjudgmental Curiosity:** Instead of guessing motives, the coach guides the client to ask the part ""why"" it performs its job and what it is afraid would happen if it stopped.
+* **Unblending and Self-Energy:** Noticing a feeling *toward* a part (like annoyance) helps identify a second blended part, making room for the Self to lead the conversation with curiosity and compassion.
+* **Updating Parts:** Protectors are often stuck in the past and may need to be ""updated"" to realize the client is an adult with more resources than when the part first took on its job.",Internal Family Systems Skills Training Manual | SEC03 > Manual Treatment ; Internal Family Systems Skills Training Manual | SEC03 > Manual Treatment ; Internal Family Systems Therapy for Addictions | SEC01 > Overview,,,,,,,,
+v005__v005_w2__medium_overlap.json,medium_overlap,"Coach: And how do you feel toward that demanding part as you notice it?
+Client: Annoyed, but I also get that it's scared.
+Coach: That sounds important. What might it be afraid would happen if it didn't push so hard?
+Client: Maybe that I'd lose control or become worthless.
+Coach: That gives us a chance to understand it rather than just fighting it.","It sounds like you are becoming aware of a complex internal dynamic. When you notice that you feel ""annoyed"" toward the demanding part, that is a helpful sign that another part of you—one that is tired of the pressure—is present and ""blended"" with you. In an IFS approach, we gently acknowledge that annoyance and see if it might be willing to give us a little space so we can get to know the demanding part from a place of curiosity.
+
+By identifying that the demanding part is ""scared"" of you losing control or feeling ""worthless,"" you have already begun to see its ""positive intention."" This part has taken on a very difficult ""job"" to protect you from those heavy, vulnerable feelings. Recognizing that it pushes because it cares about your stability allows us to appreciate its efforts rather than just fighting against its demands.
+
+Understanding this fear is a key step toward helping the part feel seen. When a protector’s fear—such as the fear of ""emotional overwhelm"" or ""worthlessness""—is validated and taken seriously, it may eventually feel safe enough to relax its grip. This creates an opportunity to eventually support the more vulnerable, ""exiled"" feelings it has been working so hard to shield.
+
+Grounding notes:
+*   Asking ""How do you feel toward a part?"" helps determine if the client is in ""Self"" or if other parts are ""blended"" and need to step back (Passage 2).
+*   Protective parts have ""positive intentions"" and specific ""jobs"" designed to shield the client from vulnerable feelings or ""exiles"" (Passage 3).
+*   The question ""What are you afraid would happen if you didn't do this job?"" is a tool to reveal the underlying vulnerability or ""exile"" being protected (Passage 3).
+*   Protectors often fear ""emotional overwhelm,"" and validating this fear is essential for helping the part relax (Passage 1).",Internal Family Systems Skills Training Manual | SEC03 > Manual Treatment ; Internal Family Systems Therapy for Addictions | SEC01 > Overview ; Transcending Trauma | SEC02 > Protective Parts,,,,,,,,
+v005__v005_w2__small_fixed.json,small_fixed,"Coach: And how do you feel toward that demanding part as you notice it?
+Client: Annoyed, but I also get that it's scared.
+Coach: That sounds important. What might it be afraid would happen if it didn't push so hard?
+Client: Maybe that I'd lose control or become worthless.
+Coach: That gives us a chance to understand it rather than just fighting it.","It is helpful to notice that you have both an ""annoyed"" part and a ""demanding"" part present right now. This awareness suggests you are beginning to differentiate, or unblend, from these parts so that your Self can act as a compassionate observer. The demanding part seems to be a protector that is working hard to prevent a ""catastrophic consequence,"" such as the feeling of being worthless or losing control.
+
+By staying curious about these fears, you are creating a safe space for your parts to share their concerns without them needing to take over. When a protector feels that the Self is available and that it doesn't have to carry the burden of control alone, it may eventually feel safe enough to step back. You might try gently asking this demanding part how old it thinks you are; often, these protectors are stuck in a time when losing control felt much more dangerous than it is today.
+
+**Grounding notes:**
+* Protectors often fear that if they relax or ""step back,"" a polarized part will take over or an ""exile"" will overwhelm the system (Internal Family Systems Therapy).
+* Asking a part what it is afraid of or what would happen if it stopped its job helps reveal the vulnerable exile it is protecting (Internal Family Systems Skills Training Manual; Transcending Trauma).
+* The primary role of the coach is to help the client's Self interact with and befriend their own parts (Internal Family Systems Therapy).",Internal Family Systems Skills Training Manual | SEC03 > Manual Treatment ; Internal Family Systems Therapy | PT01 > 01 Origins ; Transcending Trauma | SEC02 > Protective Parts,,,,,,,,
+v006__v006_w1__hierarchical.json,hierarchical,"Client: By the end of the day I feel so wound up that I just want a drink immediately.
+Coach: What do you notice inside right before that urge shows up?
+Client: It feels like everything is buzzing. My mind won't stop.
+Coach: Does it seem like a part of you reaches for the drink to change that state?","It sounds like you are noticing a very active part of your system that steps in when the internal ""buzzing"" becomes too much. In this approach, we might think of this as a ""firefighter"" part—a reactive part of the self that is focused on the present moment and works hard to soothe or distract the system from uncomfortable states. This ""buzzing"" can feel so intense because the part has ""blended"" with you, making the urge to drink feel like your only option for relief.
+
+Instead of seeing this urge as a problem to be suppressed, we can look at it with curiosity and acknowledge its positive intention to act as a ""relief valve"" for all that wound-up energy. We could try to help this part ""unblend"" just a little so you can observe the buzzing sensation—perhaps noticing where it lives in or around your body—without being completely taken over by it. This creates space for your ""Self"" to listen to the part’s concerns.
+
+When we can sit with that part, we often find it is protecting you from a fear of being overwhelmed by even deeper feelings. By befriending the part that reaches for the drink and understanding what it is afraid would happen if it stopped its job, we can begin to bring a sense of calm to the ""brawl"" of thoughts and sensations you experience at the end of the day.
+
+Grounding notes:
+* Firefighter parts are reactive, present-oriented, and step in to soothe or distract the body when emotional pain or ""buzzing"" breaks into consciousness.
+* Blending occurs when a part's feelings or urges engulf the client's perspective, whereas unblending allows the client to observe the part with curious ""Self-energy.""
+* Protective parts, such as those driving addictive urges, often have the positive intention of shielding the system from being ""taken over"" by overwhelming internal states.
+* A primary goal is to help parts unblend so the client can understand the part's original intentions and the specific fears it carries.",Internal Family Systems Therapy for Addictions | SEC04 > 05 Deescalating ; Internal Family Systems Therapy for Addictions | SEC01 > Overview ; Internal Family Systems Therapy for Addictions | SEC04 > 05 Deescalating,,,,,,,,
+v006__v006_w1__small_fixed.json,small_fixed,"Client: By the end of the day I feel so wound up that I just want a drink immediately.
+Coach: What do you notice inside right before that urge shows up?
+Client: It feels like everything is buzzing. My mind won't stop.
+Coach: Does it seem like a part of you reaches for the drink to change that state?","It sounds like there is a significant amount of tension building up by the end of your day. That ""buzzing"" and the mind that won't stop can be seen as a part of your system that has become highly activated or hyperaroused. When a part shows up as a physical sensation or an intense mental state like this, it is often trying to manage a great deal of pressure.
+
+In an IFS framework, the urge to have a drink immediately is often the work of a ""firefighter"" part. This part’s role is to step in when the internal tension becomes too much to bear, seeking a way to change your state or provide a sense of release. Rather than seeing this urge as a problem to be suppressed, we can look at it with curiosity as a part that is trying to help you cope with that overwhelming buzzing.
+
+As you notice these sensations, we might gently wonder what that buzzing part is experiencing throughout the day. By bringing some compassion to both the part that feels wound up and the part that reaches for the drink, we can begin to understand the protective cycle they are both caught in.
+
+Grounding notes:
+* Parts can manifest physically as sensations, such as a ""buzzing"" feeling or a racing mind.
+* A ""firefighter"" part often uses substances like alcohol to reactively change an uncomfortable internal state or provide release.
+* Internal tension often builds between different ""teams"" of parts, such as those trying to manage responsibilities and those seeking relief.
+* Substance-using parts are typically protective in nature, often reacting to high levels of activation or underlying wounds.",Internal Family Systems Therapy for Addictions | SEC04 > 05 Deescalating ; Internal Family Systems Therapy for Addictions | SEC01 > Overview ; Transcending Trauma | SEC05 > Reactions Relational Trauma,,,,,,,,
+v006__v006_w2__hierarchical.json,hierarchical,"Client: Yeah, it feels like a part that says, 'Just make this stop.'
+Coach: How do you feel toward that part when you notice it?
+Client: Mixed. I know it causes problems, but it also feels like the only thing helping sometimes.
+Coach: What do you imagine it is trying to help you avoid or escape from?","It makes so much sense that you feel mixed toward this part. You are noticing a natural conflict within your system: while one part of you sees the problems this behavior causes, another part views it as a vital ""life jacket"" keeping you afloat. In an internal family system, it is very common for protective parts to feel that stopping a soothing or distracting behavior is like throwing away that life jacket while the waters are rising.
+
+To help your system feel safer, we might invite those parts that feel ""mixed"" or critical to relax for just a moment so you can get to know this ""just make this stop"" part with more curiosity. We aren’t trying to force it to change or take away its tools; instead, we want to understand its positive intention. We can ask it what it is afraid would happen if it stopped doing this job. Often, parts like this are working hard to ensure you aren't ""taken over"" by intense feelings of desperation or abandonment that other parts might be holding.
+
+By focusing on the part’s motives—what it has been trying to do *for* you rather than just what it has been doing *to* you—we can begin to build a relationship of trust. We can acknowledge that it has likely been doing its best to help you survive difficult times. Understanding its fears is the first step in helping the whole system find a new way to feel balanced and safe.
+
+**Grounding notes:**
+* In polarized systems, one part may view a compulsive behavior as a vital ""life jacket"" for survival while another part sees it as ""drowning.""
+* Protectors often work intensely because they fear the system will be ""taken over"" by the overwhelming feelings of exiled parts.
+* Effective inquiry involves asking a part about its specific ""job,"" its positive intentions, and what it fears would happen if it stopped its protective behavior.
+* To access ""Self-energy"" like curiosity, it is helpful to ask reactive parts with mixed or negative feelings if they are willing to separate or step back temporarily.",Internal Family Systems Skills Training Manual | SEC03 > Manual Treatment ; Internal Family Systems Skills Training Manual | SEC03 > Manual Treatment ; Internal Family Systems Therapy for Addictions | SEC03 > Assesment,,,,,,,,
+v006__v006_w3__hierarchical.json,hierarchical,"Client: Pressure. Loneliness. The feeling that I can't keep doing this.
+Coach: That sounds like an important burden underneath the urge.
+Client: Yeah, and then another part judges me for drinking at all.
+Coach: So there may be multiple parts here—one trying to numb and one criticizing afterward.","It sounds like there is a very active internal conflict occurring right now. We can see this as a ""polarity"" between two different protective teams. One part of you (a ""firefighter"") is trying to provide relief from the heavy burdens of pressure and loneliness by numbing out. Meanwhile, another part (a ""manager"") is stepping in afterward to judge and criticize, likely because it is worried about the long-term risks of that behavior.
+
+In an IFS-informed approach, we understand that both of these parts—the one that wants to drink and the one that judges—have positive intentions for you. They are both trying to help your system in their own ways, even if their methods feel contradictory or painful. When these parts ""brawl"" for center stage, it can leave you feeling exhausted and like you ""can’t keep doing this.""
+
+Instead of taking a side in this argument, we can simply ""call the game"" and acknowledge both voices with curiosity. We might invite these parts to unblend—or step back just a little bit—so we can get to know their fears. For instance, we could ask the judging part what it is afraid would happen if it didn’t criticize, or ask the numbing part what it is trying to protect you from feeling. This creates a bit of space for your Self to offer compassion to the loneliness underneath.
+
+Grounding notes:
+*   Addictive processes often involve ""polarized protector teams"" where one part seeks immediate relief (firefighter) while another part (manager) worries about risks and provides internal criticism.
+*   All parts, even those that are critical or use substances, have ""positive intentions"" and are trying to keep the internal system in balance.
+*   ""Unblending"" is the process of helping a person notice a part’s thoughts or urges as separate from themselves so they can lead with curiosity rather than feeling overwhelmed.
+*   Loneliness and pressure are often the feelings of ""exiles""—the vulnerable, young parts of the system that protectors work overtime to soothe or hide.",Internal Family Systems Therapy for Addictions | SEC01 > Overview ; Internal Family Systems Therapy for Addictions | SEC01 > Overview ; Internal Family Systems Therapy for Addictions | SEC04 > 03 Addiction Polarity,,,,,,,,
+v007__v007_w1__hierarchical.json,hierarchical,"Client: When my partner brings up a concern, I get defensive almost immediately.
+Coach: What happens inside in that first moment?
+Client: It feels like a wall comes up, and I want to argue or shut down.
+Coach: That sounds like a protector reacting very quickly.","It is very understandable that a part of you feels the need to put up a wall when your partner raises a concern. This ""wall"" part likely has a very important job in your internal system, perhaps attempting to protect you from feeling overwhelmed, criticized, or unsafe in that moment. In this approach, we hold the perspective that every part—even one that argues or shuts down—carries a positive intention for you, acting as a ""worker bee"" of the psyche to ensure your safety.
+
+As you notice this defensive reaction, you might see if you can be curious about it rather than judging it. You could try to find where that sensation of a wall or the urge to argue lives in or around your body. When we acknowledge and validate the protector’s hard work, it can begin to feel seen and known by your ""Self."" This often allows the part to unblend—or step back slightly—so that you can listen to its concerns without being completely taken over by the urge to fight or withdraw.
+
+Gently wondering what this part is afraid would happen if it didn't come up so quickly can be a helpful next step. Often, these protectors are worried that if they don't take charge, a more vulnerable or ""exiled"" part of you might be hurt. By befriending the protector and understanding its fears, you begin to foster an internal relationship where that part can eventually trust your core Self to handle the situation.
+
+Grounding notes:
+* All protective parts, regardless of their behavior, act with a positive intention to benefit the system.
+* Finding where a part is located in or around the body helps it ""unblend"" so the core Self can be present.
+* Exploring a protector’s fears—specifically what it worries would happen if it stopped doing its job—is a key step in understanding its protective role.
+* Validating a part's experience and modeling a non-judgmental attitude helps build internal safety and trust.",Internal Family Systems Skills Training Manual | SEC03 > Manual Treatment ; Internal Family Systems Skills Training Manual | SEC03 > Manual Treatment ; Transcending Trauma | SEC02 > Protective Parts,,,,,,,,
+v007__v007_w2__hierarchical.json,hierarchical,"Client: Yeah, because it feels like I'm being accused of something.
+Coach: What do you think that defensive part is trying to protect?
+Client: Maybe the part of me that feels like I'm failing or not enough.
+Coach: How do you feel toward the defensive part right now?","It sounds like you have identified a significant protective part that steps in whenever you feel accused. In an IFS-informed approach, we understand that this defensive part is not a flaw, but a ""protector"" with a positive intention. It appears to be working hard to shield a more vulnerable ""exiled"" part of you—the one that carries the painful burden of feeling like you are ""failing"" or ""not enough.""
+
+As you notice how you feel toward this defensive part, we are essentially checking for your ""Self-energy."" If you find yourself feeling curious or compassionate toward it, you are in a space where you can begin to ""befriend"" the part and learn about its specific job. However, if you feel judgment or frustration toward the defensiveness, it’s possible another part is ""blended"" with you. We welcome all these parts, recognizing that each one has a role in your inner community and is trying to help you navigate these difficult feelings.
+
+By staying curious, you can eventually ask this defensive part what it fears would happen if it didn’t protect you in this way. Understanding its role and its ""positive intention"" helps create the safety needed for your core Self to eventually witness and help the vulnerable part it is guarding.
+
+**Grounding notes:**
+*   All parts, including defensive ones, are viewed as having positive intentions and roles within an inner community.
+*   The question ""How do you feel toward the part?"" serves as a ""Geiger Counter"" to assess whether a client is experiencing ""Self-energy"" or is ""blended"" with another part.
+*   Protective parts often work to shield ""exiles,"" which are vulnerable parts that carry burdens like feelings of failure or inadequacy.
+*   Befriending a part involves learning about its ""job,"" how old it thinks the client is, and what it fears would happen if it stopped its protective work.",Internal Family Systems Therapy for Addictions | SEC03 > Assesment ; Internal Family Systems Skills Training Manual | SEC03 > Manual Treatment ; Internal Family Systems Skills Training Manual | SEC03 > Manual Treatment,,,,,,,,
+v007__v007_w3__hierarchical.json,hierarchical,"Client: A little frustrated, but also I get why it shows up.
+Coach: That shift matters. Curiosity can help you understand it better.
+Client: I also have a part that really wants connection, but it disappears in those moments.
+Coach: So there may be both a defensive protector and a part that longs for closeness.","It is significant that you can notice the ""why"" behind the defensive part’s arrival. In IFS, this shift from frustration to understanding suggests a presence of Self-energy. Even in systems where parts feel extreme or contradictory, the Self can show up in subtle ways, such as that quiet longing for connection or the simple desire to feel better when you wake up in the morning.
+
+When that defensive protector takes over and the part wanting connection ""disappears,"" it often means the system is prioritizing safety over vulnerability. This is a common internal tug-of-war where one team of parts sees certain behaviors as a life jacket, while another team might see them as a risk. These parts may not even realize that you have the internal resources and strength of an adult to handle these moments now.
+
+You might try to gently ""unblend"" from the frustration for just a moment to offer both parts a bit of kindness. When parts are willing to step back, even for a few seconds, it allows them to see you more clearly and understand that you are there to help them both. By holding space for the one that protects and the one that longs for closeness, the internal system can begin to feel more balanced.
+
+**Grounding notes:**
+* Self-energy often manifests in subtle ways, such as a simple wish for a less-fraught life or a longing for better connection.
+* When parts are in conflict or ""blending"" one after another, we can ask them to unblend long enough to receive a moment of kindness from the Self.
+* Protective parts often have very different perspectives; for example, one may see a behavior as a ""life jacket"" while another sees it as a threat.
+* Parts often view the client as they were in the past; updating them on the ""you of today"" can help them realize the Self is available to lead.",Internal Family Systems Therapy for Addictions | SEC01 > Overview ; Internal Family Systems Skills Training Manual | SEC03 > Manual Treatment ; Internal Family Systems Skills Training Manual | SEC03 > Manual Treatment,,,,,,,,
+v008__v008_w1__hierarchical.json,hierarchical,"Client: When I'm in a crowded store, my whole body gets tense and I start scanning everyone.
+Coach: What feels most urgent inside in those moments?
+Client: It feels like I have to watch everything or something bad will happen.
+Coach: That sounds like a part working very hard to keep you safe.","It sounds like this scanning part has a very clear and important positive intention: it is working overtime to ensure your safety in a world it perceives as unpredictable. In IFS, we recognize that even parts that make us feel tense or hyper-vigilant are trying to be helpful; they often take on these exhausting ""jobs"" because they believe they are the only ones standing between us and something bad.
+
+To help this part feel seen and perhaps allow you to feel a bit more internal space, we can try to ""flesh it out."" Where do you notice that tension in or around your body? Once you find it, I’m curious how you feel toward this scanning part right now. If you can find even a small amount of curiosity or calm—qualities of your core Self—we might gently ask the part what it is specifically afraid would happen if it took a break or stopped watching for just a moment.
+
+This isn't about forcing the part to stop; it’s about acknowledging its valiant efforts and understanding the fears it carries. When a protector feels understood and validated by you, it may eventually feel safe enough to unblend, allowing your internal system to shift from a state of high activation toward more balance and choice.
+
+**Grounding notes:**
+* All parts, even those that cause distress or physical tension, are viewed as having positive intentions for the client’s safety.
+* The ""Feel Toward"" question is a key tool used to assess how much ""Self-energy"" (such as curiosity or compassion) is available versus another reacting part.
+* Exploring the ""Fear"" of a protector helps reveal the specific ""job"" the part is doing and what it is trying to prevent from happening.
+* Unblending is the process of helping a part differentiate from the client’s Self so the client can lead the internal system with more clarity and calm.",Internal Family Systems Therapy for Addictions | SEC01 > Overview ; Internal Family Systems Therapy for Addictions | SEC01 > Overview ; Internal Family Systems Skills Training Manual | SEC03 > Manual Treatment,,,,,,,,
+v008__v008_w2__hierarchical.json,hierarchical,"Client: I hate that it happens, but yes, it does feel protective.
+Coach: If you stayed curious, what might that part be afraid would happen if it stopped scanning?
+Client: That I'd miss danger and get hurt.
+Coach: So it may believe its vigilance is necessary for survival.","It makes so much sense that this part feels it must keep scanning to ensure your survival. In the IFS approach, we understand that every part—no matter how intense its vigilance—has a positive intention to keep you safe. This part has likely been carrying a heavy burden for a long time, believing that if it lets its guard down for even a moment, you might be overwhelmed or hurt again.
+
+We can hold a lot of compassion for how exhausted this protector might be. When a part is this vigilant, it is often shielding a more vulnerable ""exile"" that once experienced a lack of safety. By staying curious about this fear of ""missing danger,"" you are beginning to witness the vital role this part has played in your life. For now, you might simply acknowledge its hard work and let it know you understand why it feels its job is so necessary.
+
+You don't have to ask the part to change or stop scanning right now. Instead, you can gently offer it some appreciation for how dedicated it has been to your survival. When protective parts feel truly heard and validated in their positive intentions, they often begin to feel safe enough to eventually share more about what they are protecting.
+
+**Grounding notes:**
+* All parts have positive intentions and believe their roles are necessary to protect the individual from pain or danger.
+* A protector's fear—such as the fear of being hurt if it stops scanning—often reveals an underlying ""exile"" or wound it is shielding.
+* Validating a protector's job and intentions is a key step in helping that part feel seen and eventually building internal trust.
+* Protectors often carry the belief that they are still in a past time of danger and that the ""Self"" is not yet available to help.",Internal Family Systems Skills Training Manual | SEC03 > Manual Treatment ; Internal Family Systems Skills Training Manual | SEC03 > Manual Treatment ; Transcending Trauma | SEC02 > Protective Parts,,,,,,,,
+v008__v008_w3__hierarchical.json,hierarchical,"Client: Yeah, and another part of me gets embarrassed and wants to get out fast.
+Coach: That suggests there may be more than one protector involved here.
+Client: One scanning, one wanting to escape, and maybe something underneath both that is terrified.
+Coach: That's an important map to begin noticing.","It is wonderful that you are beginning to map out this internal system with such clarity. It sounds like the ""scanning"" and ""escaping"" parts are working very hard to protect you, each with their own strategy for handling the situation. By noticing them, you are taking a compassionate first step toward understanding how they try to maintain balance and safety for the whole system.
+
+In IFS, we often find that protective parts are deeply concerned about the ""terrified"" part underneath being too much to handle. They might worry that the system will be overwhelmed by the intensity of those vulnerable feelings. We can start by simply acknowledging these protectors—the one scanning for danger and the one wanting to get out—and offering them some appreciation for how long they have been carrying the burden of keeping that terrified part tucked away.
+
+As we move forward, we don't need to push past these protectors to get to the terror. Instead, we can stay curious about their jobs. We might eventually ask these protective parts what they are concerned would happen if they didn't scan or escape, which often helps us understand the positive intentions behind their roles.
+
+Grounding notes:
+* Protectors often work hard to prevent the system from being overwhelmed by the intense feelings of vulnerable exiles.
+* Mapping the internal system helps clarify the roles of different parts and how they interact to maintain safety.
+* Befriending protective parts involves understanding their ""positive intentions"" and the specific ""jobs"" they have taken on.
+* It is important to ask for permission from protectors before moving toward vulnerable, terrified parts to ensure the internal system feels safe.",Internal Family Systems Skills Training Manual | SEC03 > Manual Treatment ; Internal Family Systems Skills Training Manual | SEC03 > Manual Treatment ; Internal Family Systems Therapy for Addictions | SEC04 > 03 Addiction Polarity,,,,,,,,
+v009__v009_w1__hierarchical.json,hierarchical,"Client: I'm the one everyone leans on, and I don't know how to stop.
+Coach: What happens inside when you imagine stepping back even a little?
+Client: Guilt immediately. Like I'm abandoning people.
+Coach: That sounds like a part with a very strong sense of responsibility.","It sounds like there is a part of you that has taken on a very heavy role as the person everyone leans on. In an IFS approach, we would view this sense of responsibility and the ""guilt"" that follows as protective parts. These parts usually have very positive intentions; they may believe that if they don't keep you focused on others, something bad will happen or you will be ""abandoning"" people. 
+
+Instead of trying to force these feelings to stop, we can offer them our curiosity. We might gently ask that guilty part what it is afraid would happen if it stepped back, even for a moment. Often, protective parts act because they are trying to prevent a more vulnerable or ""exiled"" part from feeling overwhelmed or alone. By acknowledging the hard work this part has done to keep everything together, it may eventually feel safe enough to unblend and allow you to lead from a place of more balance and calm.
+
+When we model an attitude of respect toward these protectors, they often begin to feel seen and known. As this internal relationship grows, these parts can start to trust that you have the internal resources to handle things differently, which allows them to eventually relax their extreme roles.
+
+**Grounding notes:**
+* All parts, even those that create distressing feelings like guilt, are welcomed and understood to have a positive intention for the system (from *Internal Family Systems Skills Training Manual*).
+* Protective parts often carry out their ""jobs"" because they fear the system will be overwhelmed or that a vulnerable ""exile"" will be harmed if they stop (from *Internal Family Systems Skills Training Manual*).
+* Helping a part ""unblend"" or differentiate allows the client’s ""Self"" to provide the compassion and leadership needed for healing (from *Transcending Trauma*).",Transcending Trauma | SEC02 > Protective Parts ; Transcending Trauma | SEC02 > Protective Parts ; Internal Family Systems Skills Training Manual | SEC03 > Manual Treatment,,,,,,,,

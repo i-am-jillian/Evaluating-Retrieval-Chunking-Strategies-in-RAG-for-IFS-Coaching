@@ -1,0 +1,191 @@
+{
+  "created_at_utc": "2026-04-24T08:41:13.350173+00:00",
+  "dataset_name": "IFS_Synthetic_Vignette_Dataset",
+  "vignette_id": "V005",
+  "window_id": "V005_W2",
+  "title": "Inner Conflict About Rest vs Productivity",
+  "presenting_issue": "conflict between wanting rest and feeling guilty for slowing down",
+  "client_profile": "29-year-old high-achiever who feels anxious when not being productive",
+  "core_emotional_theme": "conflict between pressure and exhaustion",
+  "likely_parts": [
+    "driven manager part focused on productivity",
+    "tired part needing rest",
+    "possibly ashamed part underneath both"
+  ],
+  "difficulty_level": "hard",
+  "safety_flag": "low",
+  "window_turn_range": [
+    6,
+    10
+  ],
+  "target_ifs_goal": "shift from annoyance to curiosity and explore the manager's fear",
+  "expected_retrieval_theme": "protectors, polarization, fear underneath control",
+  "condition": "medium_overlap",
+  "query": "Coach: And how do you feel toward that demanding part as you notice it?\nClient: Annoyed, but I also get that it's scared.\nCoach: That sounds important. What might it be afraid would happen if it didn't push so hard?\nClient: Maybe that I'd lose control or become worthless.\nCoach: That gives us a chance to understand it rather than just fighting it.",
+  "retrieval_model_name": "tfidf",
+  "llm_provider": "gemini",
+  "llm_model": "gemini-3-flash-preview",
+  "retrieval": {
+    "partition": "medium_overlap",
+    "model_name": "tfidf",
+    "top_k": 3,
+    "results": [
+      {
+        "chunk_id": "ifs_skills_training::medium_overlap::sec03::00058",
+        "retrieval_setting": "medium_overlap",
+        "chunking_strategy": "fixed_window_with_overlap",
+        "source_doc_id": "ifs_skills_training",
+        "source_title": "Internal Family Systems Skills Training Manual",
+        "text": "1. If a protector will not relax because it fears emotional overwhelm, we offer to ask the overwhelming part (an exile) to not overwhelm. - \"I hear that you are concerned about Sean (the client) feeling overwhelmed. That makes sense. We don't want that either. With your permission we can ask that part not to overwhelm.\" 2. If this protector fears that a polarized protector will get too much influence over the client, we suggest a parlay to get the client's Self between warring parts (Krause, Rosenberg & Sweezy, 2016) - \"If the part who you're worried about is willing to sit down with you and Sean instead of taking over, would you be willing too?\" - \"Sean, can you hear how each of these parts is trying to help you? Let them know that you value their input and ask if they're willing to trust you enough to make room so all three of you can talk.\" 3. Finally, if an exiled part is overwhelming the client, the therapist can talk to it directly. - \"I'm really glad you're here. I see that you're afraid. Would you be willing to make just a little room so Sean can be here, too? If you let him come in with you, he'll help.\" - Note: This is where we urge you to revert to your expertise. Do not try to use IFS with exiles unless you have IFS training. THE #1 FEAR: EXILE OVERWHELM The number one concern of protectors is fear of emotional overwhelm. They've seen it happen and they've seen it debilitate the client, often with crippling depressions, anxiety or repeated hospitalizations. We validate their fear and take their concerns seriously. Dealing with emotional overwhelm upfront is one reason IFS doesn't require stabilization before attending to trauma. If overwhelm is not a threat, protectors relax and the client's Self remains present and available.\n\nV A PALIDATING AND DDRESSING AROTECTOR'S F E OEAR OF XILE VERWHELM THERAPIST: Let's thank this part for sharing its concern. Let it know that we can ask the one who feels terrible not to overwhelm. - Exiles generally agree not to overwhelm when they realize that separating and being with the Self is the best way of getting attention. THERAPIST: Did you hear? The part says it will not overwhelm. Can we talk to it now? - Once the exile agrees not to overwhelm, we check back with protectors to get their permission to proceed. Here is an example:\n\nA E N OSKING AN XILE OT TO VERWHELM Find THERAPIST: It seems like you have an anxious part who keeps jumping in, do you notice that? PETE: Yes, it's having a hard time staying back. It won't stay in the waiting room where we put it. - The part is at least unblended enough so that Pete can notice it. Focus THERAPIST: Ask what it's upset about. - Being curious. PETE: It's afraid I'm being taken over. - This is the typical protector fear of exile overwhelm. THERAPIST: Would it say more? Protector Fears PETE: It's afraid I'll be taken over by the feelings of the part who was criticized by my football coach. It says we're messing with something I can't handle. - This common fear is another way of describing exile overwhelm. Befriend THERAPIST: How old does it think you are? And don't filter the answer just say what comes up. - His answer will likely reveal the exile, the part who is being protected.",
+        "book_order": 2,
+        "node_ids": [
+          "ifs_skills_training::ifs_skills_training_manual_sec03_treatment::node"
+        ],
+        "primary_node_id": "ifs_skills_training::ifs_skills_training_manual_sec03_treatment::node",
+        "source_files": [
+          "ifs_skills_training_manual_sec03_treatment.words.txt"
+        ],
+        "source_file_indices": [
+          2
+        ],
+        "paragraph_ids": [
+          100,
+          101,
+          102
+        ],
+        "section_path": [
+          "SEC03",
+          "Manual Treatment"
+        ],
+        "section_path_str": "SEC03 > Manual Treatment",
+        "chapter_label": "SEC03",
+        "section_label": "Manual Treatment",
+        "subsection_label": null,
+        "char_start_in_doc": 145658,
+        "char_end_in_doc": 148885,
+        "token_count_est": 771,
+        "char_count": 3227,
+        "prev_chunk_id": "ifs_skills_training::medium_overlap::sec03::00057",
+        "next_chunk_id": "ifs_skills_training::medium_overlap::sec03::00059",
+        "parent_id": null,
+        "children_ids": [],
+        "overlap_with_prev_tokens": 416,
+        "overlap_with_next_tokens": 225,
+        "node_type": "flat_chunk",
+        "content_type": "body_text",
+        "target_tokens": 900,
+        "overlap_tokens": 180,
+        "source_jsonl": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/medium_overlap/ifs_skills_training_chunks_medium_overlap.jsonl",
+        "embedding_row": 294,
+        "embedding_partition": "medium_overlap",
+        "rank": 1,
+        "score": 0.08611201136837687
+      },
+      {
+        "chunk_id": "ifs_therapy_for_addiction::medium_overlap::sec01::00009",
+        "retrieval_setting": "medium_overlap",
+        "chunking_strategy": "fixed_window_with_overlap",
+        "source_doc_id": "ifs_therapy_for_addiction",
+        "source_title": "Internal Family Systems Therapy for Addictions",
+        "text": "I shouldn't have had so much to drink last night, but I can't sleep anymore, and then this morning I overslept and showed up late!\" When parts fight for center stage within consciousness, emotions mix and thoughts brawl. But whether one part is in the spotlight or several switch in and out, our goal is to make room for the client's Self, which happens when all their parts are willing to unblend. To that end, we ask the client to pick one target part, no matter how many parts the client describes at first. Then we ask, \"How do you feel toward _________ [the target part]?\" Their answer reveals either the presence of other blended parts or, if all parts have unblended, the presence of the client's Self.\n\nIf one part will not unblend, or many parts are blending in a serial fashion, we point out their conflict-for example, how one part wants to leave a certain job and another doesn't, or how one part wants to drink at night and another doesn't-and offer to help both sides. We ask if these parts would all be willing to unblend at least long enough to accept one moment of kindness and attention from the client's Self. Once they get connected in that way, we can ask which part needs the client's attention first. Just a few moments of everyone noticing each other can be revelatory and counts as unblending practice, with an aim of helping all parts unblend over time. When parts unblend, the client can see them more clearly, understand their desire for relief, and offer to help. The Mini-Unblend for Quick Calming Sykes, Cece, et al. Internal Family Systems Therapy for Addictions: Trauma-Informed, Compassion-Based Interventions for Substance Use, Eating, Gambling and More, PESI,\n\nClients with addictive processes often show up for sessions feeling overwhelmed. Their emotions are running high, one chaotic story is spilling into another, and they are hungry for attention and care. This blast is likely to rouse the therapist's own managers, who want order, yet we also know that an abrupt push for clients' unblending may be received as unempathetic and dismissive. As a result, it's good to have another strategy for calming clients and slowing their systems down. We recommend a mini-unblend (pause, breathe, notice), which welcomes the client's whole system, just as it is right now. Here's how to do it: We start with attuned, concerned listening and no agenda. We let the client spill all the information they need to.\n\nIf it feels right, we make a mirroring statement or two, or ask a clarifying question. After a short while, we validate how hard the client has been trying, notice all they've been holding this week, or acknowledge all they had to do just to get here, and then suggest pausing to breath together. When the client calms, we can speak with the blended part directly, or the client can choose a target part for inquiry. The 6 F's Traditional talk therapy involves dialogue and a lot of guesswork. The client reports on their week, the therapist is empathic and asks insightful questions, the client responds, they ponder motives together, and so on.\n\nIn IFS, instead of helping the client guess about their motives (Maybe you binged because you were angry with your partner?), we promptly move to nonjudgmental curiosity (Let's find the part who binged last night and ask why). If the bingeing part says it behaved this way because it didn't want the client to be angry, we understand the behavioral sequence, and we can then help the client build relationships with both the bingeing part and the angry part-and we can move toward learning whom they protect. In this way, the client repeatedly discovers that protective parts shield vulnerable parts, which naturally leads to the key question, Would you need to act this way if we could help the vulnerable part?",
+        "book_order": 4,
+        "node_ids": [
+          "ifs_therapy_for_addiction::ifs_therapy_for_addiction_sec01_overview::node"
+        ],
+        "primary_node_id": "ifs_therapy_for_addiction::ifs_therapy_for_addiction_sec01_overview::node",
+        "source_files": [
+          "ifs_therapy_for_addiction_sec01_overview.words.txt"
+        ],
+        "source_file_indices": [
+          1
+        ],
+        "paragraph_ids": [
+          10,
+          11
+        ],
+        "section_path": [
+          "SEC01",
+          "Overview"
+        ],
+        "section_path_str": "SEC01 > Overview",
+        "chapter_label": "SEC01",
+        "section_label": "Overview",
+        "subsection_label": null,
+        "char_start_in_doc": 27072,
+        "char_end_in_doc": 30872,
+        "token_count_est": 876,
+        "char_count": 3803,
+        "prev_chunk_id": "ifs_therapy_for_addiction::medium_overlap::sec01::00008",
+        "next_chunk_id": "ifs_therapy_for_addiction::medium_overlap::sec01::00010",
+        "parent_id": null,
+        "children_ids": [],
+        "overlap_with_prev_tokens": 172,
+        "overlap_with_next_tokens": 161,
+        "node_type": "flat_chunk",
+        "content_type": "body_text",
+        "target_tokens": 900,
+        "overlap_tokens": 180,
+        "source_jsonl": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/medium_overlap/ifs_therapy_for_addiction_chunks_medium_overlap.jsonl",
+        "embedding_row": 373,
+        "embedding_partition": "medium_overlap",
+        "rank": 2,
+        "score": 0.08601579668280429
+      },
+      {
+        "chunk_id": "transcending_trauma::medium_overlap::sec02::00041",
+        "retrieval_setting": "medium_overlap",
+        "chunking_strategy": "fixed_window_with_overlap",
+        "source_doc_id": "transcending_trauma",
+        "source_title": "Transcending Trauma",
+        "text": "It's an important first step in gaining permission from the part to access the wound. Genuine permission occurs with a heartfelt awareness of the part's true intention. Learning about the positive intention is learning about its job. Once the job is revealed, it's a good idea to ask the part what else it wants to share, as feeling heard, known, and seen goes a long way toward getting permission to access the wounds it protects. F F: E ROCUSING ON EAR XILES EVEALED Once you and your client have aligned with the positive intention of the protective part, it's essential to learn about its fear.\n\nAsk the client's part this crucial question: \"What are you afraid would happen if you didn't do this job?\" As many of you have learned from your Level 1 training, this question will either reveal the exile that the protective part is protecting or reveal a different part within the client's system that is polarized from (or in conflict with) the protector on which you're focusing. The client may say: \"If I stop drinking, James (another protective part) will get suicidal\" or \"If I stop drinking, James will see how alone he is in the world (an exile).\" Try not to get frustrated if this question doesn' t reveal either of these responses. Remember that protective parts are good at being protective; they don't like to reveal important or vulnerable information so easily. In these circumstances, asking the \"And then what?\" question is often helpful.\n\nThis is particularly useful with hypoaroused parts or more blunted systems that tend to respond with one- or two-word answers. Here's a constructive therapist- client dialogue to expound on this point: \"Jay, what is this part afraid will happen if it isn't anxious any longer?\" \"That would be unknown,\" Jay says. \"And what is scary about the unknown?\" \"We would lose control,\" Jay says. \"And what if you lost control?\" the therapist asks.\n\n\"We don't like feeling out of control.\" \"What would be the worst-case scenario if you did feel out of control?\" \"Oh no, we won't ever do that again.\" \"So let me see if I get this right: You're fearful of letting go of the anxiety because you're afraid of feeling those same out-of-control emotions you felt as a little boy when you were bullied at school? Is that right, Jay?\" \"Yes, exactly,\" he says. In this example, using the what-if question reveals the exile (feeling out-of-control emotions during abuse) underneath the protector (the anxious part). A P FDDRESSING ROTECTOR EARS A common frustration and one of the biggest roadblocks for therapists new to IFS is addressing protector fears.\n\nIt's common to get stuck, not know what to ask next, give up, and resort to your familiar way of providing therapy. For nearly 35 years, Dick Schwartz has been addressing protector fears with clients. I often watch him at work with amazement, realizing how masterful and efficient he is at convincing protectors to relax. Addressing protector fears is one of those steps in the IFS model that takes practice, trial-and- error tenacity, and patience. The chart on the next page provides a list of common protector fears, along with some common responses.",
+        "book_order": 5,
+        "node_ids": [
+          "transcending_trauma::transcending_trauma_sec02_protective_parts::node"
+        ],
+        "primary_node_id": "transcending_trauma::transcending_trauma_sec02_protective_parts::node",
+        "source_files": [
+          "transcending_trauma_sec02_protective_parts.words.txt"
+        ],
+        "source_file_indices": [
+          2
+        ],
+        "paragraph_ids": [
+          51,
+          52
+        ],
+        "section_path": [
+          "SEC02",
+          "Protective Parts"
+        ],
+        "section_path_str": "SEC02 > Protective Parts",
+        "chapter_label": "SEC02",
+        "section_label": "Protective Parts",
+        "subsection_label": null,
+        "char_start_in_doc": 106058,
+        "char_end_in_doc": 109203,
+        "token_count_est": 725,
+        "char_count": 3148,
+        "prev_chunk_id": "transcending_trauma::medium_overlap::sec02::00040",
+        "next_chunk_id": "transcending_trauma::medium_overlap::sec02::00042",
+        "parent_id": null,
+        "children_ids": [],
+        "overlap_with_prev_tokens": 142,
+        "overlap_with_next_tokens": 124,
+        "node_type": "flat_chunk",
+        "content_type": "body_text",
+        "target_tokens": 900,
+        "overlap_tokens": 180,
+        "source_jsonl": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/medium_overlap/transcending_trauma_chunks_medium_overlap.jsonl",
+        "embedding_row": 512,
+        "embedding_partition": "medium_overlap",
+        "rank": 3,
+        "score": 0.08429392641417402
+      }
+    ]
+  },
+  "prompt": {
+    "system_prompt": "You are an AI assistant generating an IFS-informed coaching response for a machine learning retrieval experiment. Your output must be grounded in the provided passages only.\n\nRequirements:\n1. Be clearly IFS-informed: use parts language, curiosity, compassion, and non-pathologizing framing.\n2. Do not diagnose, moralize, or confront the client.\n3. Do not invent facts not supported by the retrieved context.\n4. If the retrieved passages do not fully support a claim, stay modest and say so indirectly by keeping the guidance general.\n5. Focus on what an IFS-informed coach would understand or gently reflect, not on crisis intervention or treatment planning.\n6. Keep the response concise but meaningful: about 1-3 short paragraphs.\n7. End with 2-4 short bullet points labeled 'Grounding notes:' where each bullet references a retrieved idea in plain language.\n",
+    "user_prompt": "Retrieval condition: medium_overlap\n\nConsultation window:\nCoach: And how do you feel toward that demanding part as you notice it?\nClient: Annoyed, but I also get that it's scared.\nCoach: That sounds important. What might it be afraid would happen if it didn't push so hard?\nClient: Maybe that I'd lose control or become worthless.\nCoach: That gives us a chance to understand it rather than just fighting it.\n\n\n\nRetrieved passages:\n\n[Rank 1]\nchunk_id: ifs_skills_training::medium_overlap::sec03::00058\ntitle: Internal Family Systems Skills Training Manual\nsection: SEC03 > Manual Treatment\nparent_id: None\npassage:\n1. If a protector will not relax because it fears emotional overwhelm, we offer to ask the overwhelming part (an exile) to not overwhelm. - \"I hear that you are concerned about Sean (the client) feeling overwhelmed. That makes sense. We don't want that either. With your permission we can ask that part not to overwhelm.\" 2. If this protector fears that a polarized protector will get too much influence over the client, we suggest a parlay to get the client's Self between warring parts (Krause, Rosenberg & Sweezy, 2016) - \"If the part who you're worried about is willing to sit down with you and Sean instead of taking over, would you be willing too?\" - \"Sean, can you hear how each of these parts is trying to help you? Let them know that you value their input and ask if they're willing to trust you enough to make room so all three of you can talk.\" 3. Finally, if an exiled part is overwhelming the client, the therapist can talk to it directly. - \"I'm really glad you're here. I see that you're afraid. Would you be willing to make just a little room so Sean can be here, too? If you let him come in with you, he'll help.\" - Note: This is where we urge you to revert to your expertise. Do not try to use IFS with exiles unless you have IFS training. THE #1 FEAR: EXILE OVERWHELM The number one concern of protectors is fear of emotional overwhelm. They've seen it happen and they've seen it debilitate the client, often with crippling depressions, anxiety or repeated hospitalizations. We validate their fear and take their concerns seriously. Dealing with emotional overwhelm upfront is one reason IFS doesn't require stabilization before attending to trauma. If overwhelm is not a threat, protectors relax and the client's Self remains present and available.\n\nV A PALIDATING AND DDRESSING AROTECTOR'S F E OEAR OF XILE VERWHELM THERAPIST: Let's thank this part for sharing its concern. Let it know that we can ask the one who feels terrible not to overwhelm. - Exiles generally agree not to overwhelm when they realize that separating and being with the Self is the best way of getting attention. THERAPIST: Did you hear? The part says it will not overwhelm. Can we talk to it now? - Once the exile agrees not to overwhelm, we check back with protectors to get their permission to proceed. Here is an example:\n\nA E N OSKING AN XILE OT TO VERWHELM Find THERAPIST: It seems like you have an anxious part who keeps jumping in, do you notice that? PETE: Yes, it's having a hard time staying back. It won't stay in the waiting room where we put it. - The part is at least unblended enough so that Pete can notice it. Focus THERAPIST: Ask what it's upset about. - Being curious. PETE: It's afraid I'm being taken over. - This is the typical protector fear of exile overwhelm. THERAPIST: Would it say more? Protector Fears PETE: It's afraid I'll be taken over by the feelings of the part who was criticized by my football coach. It says we're messing with something I can't handle. - This common fear is another way of describing exile overwhelm. Befriend THERAPIST: How old does it think you are? And don't filter the answer just say what comes up. - His answer will likely reveal the exile, the part who is being protected.\n\n--------------------------------------------------------------------------------\n\n[Rank 2]\nchunk_id: ifs_therapy_for_addiction::medium_overlap::sec01::00009\ntitle: Internal Family Systems Therapy for Addictions\nsection: SEC01 > Overview\nparent_id: None\npassage:\nI shouldn't have had so much to drink last night, but I can't sleep anymore, and then this morning I overslept and showed up late!\" When parts fight for center stage within consciousness, emotions mix and thoughts brawl. But whether one part is in the spotlight or several switch in and out, our goal is to make room for the client's Self, which happens when all their parts are willing to unblend. To that end, we ask the client to pick one target part, no matter how many parts the client describes at first. Then we ask, \"How do you feel toward _________ [the target part]?\" Their answer reveals either the presence of other blended parts or, if all parts have unblended, the presence of the client's Self.\n\nIf one part will not unblend, or many parts are blending in a serial fashion, we point out their conflict-for example, how one part wants to leave a certain job and another doesn't, or how one part wants to drink at night and another doesn't-and offer to help both sides. We ask if these parts would all be willing to unblend at least long enough to accept one moment of kindness and attention from the client's Self. Once they get connected in that way, we can ask which part needs the client's attention first. Just a few moments of everyone noticing each other can be revelatory and counts as unblending practice, with an aim of helping all parts unblend over time. When parts unblend, the client can see them more clearly, understand their desire for relief, and offer to help. The Mini-Unblend for Quick Calming Sykes, Cece, et al. Internal Family Systems Therapy for Addictions: Trauma-Informed, Compassion-Based Interventions for Substance Use, Eating, Gambling and More, PESI,\n\nClients with addictive processes often show up for sessions feeling overwhelmed. Their emotions are running high, one chaotic story is spilling into another, and they are hungry for attention and care. This blast is likely to rouse the therapist's own managers, who want order, yet we also know that an abrupt push for clients' unblending may be received as unempathetic and dismissive. As a result, it's good to have another strategy for calming clients and slowing their systems down. We recommend a mini-unblend (pause, breathe, notice), which welcomes the client's whole system, just as it is right now. Here's how to do it: We start with attuned, concerned listening and no agenda. We let the client spill all the information they need to.\n\nIf it feels right, we make a mirroring statement or two, or ask a clarifying question. After a short while, we validate how hard the client has been trying, notice all they've been holding this week, or acknowledge all they had to do just to get here, and then suggest pausing to breath together. When the client calms, we can speak with the blended part directly, or the client can choose a target part for inquiry. The 6 F's Traditional talk therapy involves dialogue and a lot of guesswork. The client reports on their week, the therapist is empathic and asks insightful questions, the client responds, they ponder motives together, and so on.\n\nIn IFS, instead of helping the client guess about their motives (Maybe you binged because you were angry with your partner?), we promptly move to nonjudgmental curiosity (Let's find the part who binged last night and ask why). If the bingeing part says it behaved this way because it didn't want the client to be angry, we understand the behavioral sequence, and we can then help the client build relationships with both the bingeing part and the angry part-and we can move toward learning whom they protect. In this way, the client repeatedly discovers that protective parts shield vulnerable parts, which naturally leads to the key question, Would you need to act this way if we could help the vulnerable part?\n\n--------------------------------------------------------------------------------\n\n[Rank 3]\nchunk_id: transcending_trauma::medium_overlap::sec02::00041\ntitle: Transcending Trauma\nsection: SEC02 > Protective Parts\nparent_id: None\npassage:\nIt's an important first step in gaining permission from the part to access the wound. Genuine permission occurs with a heartfelt awareness of the part's true intention. Learning about the positive intention is learning about its job. Once the job is revealed, it's a good idea to ask the part what else it wants to share, as feeling heard, known, and seen goes a long way toward getting permission to access the wounds it protects. F F: E ROCUSING ON EAR XILES EVEALED Once you and your client have aligned with the positive intention of the protective part, it's essential to learn about its fear.\n\nAsk the client's part this crucial question: \"What are you afraid would happen if you didn't do this job?\" As many of you have learned from your Level 1 training, this question will either reveal the exile that the protective part is protecting or reveal a different part within the client's system that is polarized from (or in conflict with) the protector on which you're focusing. The client may say: \"If I stop drinking, James (another protective part) will get suicidal\" or \"If I stop drinking, James will see how alone he is in the world (an exile).\" Try not to get frustrated if this question doesn' t reveal either of these responses. Remember that protective parts are good at being protective; they don't like to reveal important or vulnerable information so easily. In these circumstances, asking the \"And then what?\" question is often helpful.\n\nThis is particularly useful with hypoaroused parts or more blunted systems that tend to respond with one- or two-word answers. Here's a constructive therapist- client dialogue to expound on this point: \"Jay, what is this part afraid will happen if it isn't anxious any longer?\" \"That would be unknown,\" Jay says. \"And what is scary about the unknown?\" \"We would lose control,\" Jay says. \"And what if you lost control?\" the therapist asks.\n\n\"We don't like feeling out of control.\" \"What would be the worst-case scenario if you did feel out of control?\" \"Oh no, we won't ever do that again.\" \"So let me see if I get this right: You're fearful of letting go of the anxiety because you're afraid of feeling those same out-of-control emotions you felt as a little boy when you were bullied at school? Is that right, Jay?\" \"Yes, exactly,\" he says. In this example, using the what-if question reveals the exile (feeling out-of-control emotions during abuse) underneath the protector (the anxious part). A P FDDRESSING ROTECTOR EARS A common frustration and one of the biggest roadblocks for therapists new to IFS is addressing protector fears.\n\nIt's common to get stuck, not know what to ask next, give up, and resort to your familiar way of providing therapy. For nearly 35 years, Dick Schwartz has been addressing protector fears with clients. I often watch him at work with amazement, realizing how masterful and efficient he is at convincing protectors to relax. Addressing protector fears is one of those steps in the IFS model that takes practice, trial-and- error tenacity, and patience. The chart on the next page provides a list of common protector fears, along with some common responses.\n\nWrite a grounded IFS-informed coaching response for this consultation window."
+  },
+  "generated_response": "It sounds like you are becoming aware of a complex internal dynamic. When you notice that you feel \"annoyed\" toward the demanding part, that is a helpful sign that another part of you—one that is tired of the pressure—is present and \"blended\" with you. In an IFS approach, we gently acknowledge that annoyance and see if it might be willing to give us a little space so we can get to know the demanding part from a place of curiosity.\n\nBy identifying that the demanding part is \"scared\" of you losing control or feeling \"worthless,\" you have already begun to see its \"positive intention.\" This part has taken on a very difficult \"job\" to protect you from those heavy, vulnerable feelings. Recognizing that it pushes because it cares about your stability allows us to appreciate its efforts rather than just fighting against its demands.\n\nUnderstanding this fear is a key step toward helping the part feel seen. When a protector’s fear—such as the fear of \"emotional overwhelm\" or \"worthlessness\"—is validated and taken seriously, it may eventually feel safe enough to relax its grip. This creates an opportunity to eventually support the more vulnerable, \"exiled\" feelings it has been working so hard to shield.\n\nGrounding notes:\n*   Asking \"How do you feel toward a part?\" helps determine if the client is in \"Self\" or if other parts are \"blended\" and need to step back (Passage 2).\n*   Protective parts have \"positive intentions\" and specific \"jobs\" designed to shield the client from vulnerable feelings or \"exiles\" (Passage 3).\n*   The question \"What are you afraid would happen if you didn't do this job?\" is a tool to reveal the underlying vulnerability or \"exile\" being protected (Passage 3).\n*   Protectors often fear \"emotional overwhelm,\" and validating this fear is essential for helping the part relax (Passage 1)."
+}

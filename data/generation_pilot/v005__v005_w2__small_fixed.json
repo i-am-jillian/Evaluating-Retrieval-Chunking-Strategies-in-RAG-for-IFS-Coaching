@@ -1,0 +1,187 @@
+{
+  "created_at_utc": "2026-04-24T08:05:18.916200+00:00",
+  "dataset_name": "IFS_Synthetic_Vignette_Dataset",
+  "vignette_id": "V005",
+  "window_id": "V005_W2",
+  "title": "Inner Conflict About Rest vs Productivity",
+  "presenting_issue": "conflict between wanting rest and feeling guilty for slowing down",
+  "client_profile": "29-year-old high-achiever who feels anxious when not being productive",
+  "core_emotional_theme": "conflict between pressure and exhaustion",
+  "likely_parts": [
+    "driven manager part focused on productivity",
+    "tired part needing rest",
+    "possibly ashamed part underneath both"
+  ],
+  "difficulty_level": "hard",
+  "safety_flag": "low",
+  "window_turn_range": [
+    6,
+    10
+  ],
+  "target_ifs_goal": "shift from annoyance to curiosity and explore the manager's fear",
+  "expected_retrieval_theme": "protectors, polarization, fear underneath control",
+  "condition": "small_fixed",
+  "query": "Coach: And how do you feel toward that demanding part as you notice it?\nClient: Annoyed, but I also get that it's scared.\nCoach: That sounds important. What might it be afraid would happen if it didn't push so hard?\nClient: Maybe that I'd lose control or become worthless.\nCoach: That gives us a chance to understand it rather than just fighting it.",
+  "retrieval_model_name": "tfidf",
+  "llm_provider": "gemini",
+  "llm_model": "gemini-3-flash-preview",
+  "retrieval": {
+    "partition": "small_fixed",
+    "model_name": "tfidf",
+    "top_k": 3,
+    "results": [
+      {
+        "chunk_id": "ifs_skills_training::small_fixed::sec03::00115",
+        "retrieval_setting": "small_fixed",
+        "chunking_strategy": "fixed_window_no_overlap",
+        "source_doc_id": "ifs_skills_training",
+        "source_title": "Internal Family Systems Skills Training Manual",
+        "text": "A E N OSKING AN XILE OT TO VERWHELM Find THERAPIST: It seems like you have an anxious part who keeps jumping in, do you notice that? PETE: Yes, it's having a hard time staying back. It won't stay in the waiting room where we put it. - The part is at least unblended enough so that Pete can notice it. Focus THERAPIST: Ask what it's upset about. - Being curious. PETE: It's afraid I'm being taken over. - This is the typical protector fear of exile overwhelm. THERAPIST: Would it say more? Protector Fears PETE: It's afraid I'll be taken over by the feelings of the part who was criticized by my football coach. It says we're messing with something I can't handle. - This common fear is another way of describing exile overwhelm. Befriend THERAPIST: How old does it think you are? And don't filter the answer just say what comes up. - His answer will likely reveal the exile, the part who is being protected.",
+        "book_order": 2,
+        "node_ids": [
+          "ifs_skills_training::ifs_skills_training_manual_sec03_treatment::node"
+        ],
+        "primary_node_id": "ifs_skills_training::ifs_skills_training_manual_sec03_treatment::node",
+        "source_files": [
+          "ifs_skills_training_manual_sec03_treatment.words.txt"
+        ],
+        "source_file_indices": [
+          2
+        ],
+        "paragraph_ids": [
+          102
+        ],
+        "section_path": [
+          "SEC03",
+          "Manual Treatment"
+        ],
+        "section_path_str": "SEC03 > Manual Treatment",
+        "chapter_label": "SEC03",
+        "section_label": "Manual Treatment",
+        "subsection_label": null,
+        "char_start_in_doc": 147978,
+        "char_end_in_doc": 148885,
+        "token_count_est": 225,
+        "char_count": 907,
+        "prev_chunk_id": "ifs_skills_training::small_fixed::sec03::00114",
+        "next_chunk_id": "ifs_skills_training::small_fixed::sec03::00116",
+        "parent_id": null,
+        "children_ids": [],
+        "overlap_with_prev_tokens": 0,
+        "overlap_with_next_tokens": 0,
+        "node_type": "flat_chunk",
+        "content_type": "body_text",
+        "target_tokens": 350,
+        "overlap_tokens": 0,
+        "source_jsonl": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/small_fixed/ifs_skills_training_chunks_small_fixed.jsonl",
+        "embedding_row": 594,
+        "embedding_partition": "small_fixed",
+        "rank": 1,
+        "score": 0.14072995421890838
+      },
+      {
+        "chunk_id": "ifs_therapy::small_fixed::pt01::00046",
+        "retrieval_setting": "small_fixed",
+        "chunking_strategy": "fixed_window_no_overlap",
+        "source_doc_id": "ifs_therapy",
+        "source_title": "Internal Family Systems Therapy",
+        "text": "Therefore, rather than having the therapist help the client's parts directly, we usually aim for the client's Self to interact with the parts and report to the therapist. There are times, nevertheless, when it is most expeditious and valuable for the therapist to talk directly to parts. This process is called direct access, and we describe it later. The primary role of the therapist is to guide, coach, and be a companion to the client's Self as he explores the mindscape. Secondarily, the therapist provides corrective relational experiences. As clients continue to notice and be with their parts, between as well as in sessions, they come to appreciate that they are healing themselves. 4. We invite clients to notice that parts have \"blended\" with the Self, or we help parts notice that the Self will be available when they separate or \"step back.\" To achieve our aim of keeping the client's Self differentiated from their parts, we incorporate the family systems focus on boundaries and differentiation. When the Self is present, parts feel safe. By the same token, the IFS therapist continually scans inside herself for blended parts and asks them to separate so she can return to Self- leadership. 5. Protectors fear one another, which keeps them in extreme positions. Each part believes that relaxing will allow a polarized part to take over, with catastrophic consequences. Therefore in IFS we continually notice and attend to polarizations. Just like family therapists, we work with conflicted inner family members, inviting them to face each other and talk about how they can get along better.",
+        "book_order": 3,
+        "node_ids": [
+          "ifs_therapy::ifs_therapy_pt01_01_origins::node"
+        ],
+        "primary_node_id": "ifs_therapy::ifs_therapy_pt01_01_origins::node",
+        "source_files": [
+          "ifs_therapy_pt01_01_origins.words.txt"
+        ],
+        "source_file_indices": [
+          0
+        ],
+        "paragraph_ids": [
+          170
+        ],
+        "section_path": [
+          "PT01",
+          "01 Origins"
+        ],
+        "section_path_str": "PT01 > 01 Origins",
+        "chapter_label": "PT01",
+        "section_label": "01 Origins",
+        "subsection_label": null,
+        "char_start_in_doc": 54833,
+        "char_end_in_doc": 56439,
+        "token_count_est": 347,
+        "char_count": 1606,
+        "prev_chunk_id": "ifs_therapy::small_fixed::pt01::00045",
+        "next_chunk_id": "ifs_therapy::small_fixed::pt01::00047",
+        "parent_id": null,
+        "children_ids": [],
+        "overlap_with_prev_tokens": 0,
+        "overlap_with_next_tokens": 0,
+        "node_type": "flat_chunk",
+        "content_type": "body_text",
+        "target_tokens": 350,
+        "overlap_tokens": 0,
+        "source_jsonl": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/small_fixed/ifs_therapy_chunks_small_fixed.jsonl",
+        "embedding_row": 670,
+        "embedding_partition": "small_fixed",
+        "rank": 2,
+        "score": 0.13439437330202475
+      },
+      {
+        "chunk_id": "transcending_trauma::small_fixed::sec02::00083",
+        "retrieval_setting": "small_fixed",
+        "chunking_strategy": "fixed_window_no_overlap",
+        "source_doc_id": "transcending_trauma",
+        "source_title": "Transcending Trauma",
+        "text": "This is particularly useful with hypoaroused parts or more blunted systems that tend to respond with one- or two-word answers. Here's a constructive therapist- client dialogue to expound on this point: \"Jay, what is this part afraid will happen if it isn't anxious any longer?\" \"That would be unknown,\" Jay says. \"And what is scary about the unknown?\" \"We would lose control,\" Jay says. \"And what if you lost control?\" the therapist asks.\n\n\"We don't like feeling out of control.\" \"What would be the worst-case scenario if you did feel out of control?\" \"Oh no, we won't ever do that again.\" \"So let me see if I get this right: You're fearful of letting go of the anxiety because you're afraid of feeling those same out-of-control emotions you felt as a little boy when you were bullied at school? Is that right, Jay?\" \"Yes, exactly,\" he says. In this example, using the what-if question reveals the exile (feeling out-of-control emotions during abuse) underneath the protector (the anxious part). A P FDDRESSING ROTECTOR EARS A common frustration and one of the biggest roadblocks for therapists new to IFS is addressing protector fears.",
+        "book_order": 5,
+        "node_ids": [
+          "transcending_trauma::transcending_trauma_sec02_protective_parts::node"
+        ],
+        "primary_node_id": "transcending_trauma::transcending_trauma_sec02_protective_parts::node",
+        "source_files": [
+          "transcending_trauma_sec02_protective_parts.words.txt"
+        ],
+        "source_file_indices": [
+          2
+        ],
+        "paragraph_ids": [
+          52
+        ],
+        "section_path": [
+          "SEC02",
+          "Protective Parts"
+        ],
+        "section_path_str": "SEC02 > Protective Parts",
+        "chapter_label": "SEC02",
+        "section_label": "Protective Parts",
+        "subsection_label": null,
+        "char_start_in_doc": 107514,
+        "char_end_in_doc": 108649,
+        "token_count_est": 265,
+        "char_count": 1136,
+        "prev_chunk_id": "transcending_trauma::small_fixed::sec02::00082",
+        "next_chunk_id": "transcending_trauma::small_fixed::sec02::00084",
+        "parent_id": null,
+        "children_ids": [],
+        "overlap_with_prev_tokens": 0,
+        "overlap_with_next_tokens": 0,
+        "node_type": "flat_chunk",
+        "content_type": "body_text",
+        "target_tokens": 350,
+        "overlap_tokens": 0,
+        "source_jsonl": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/small_fixed/transcending_trauma_chunks_small_fixed.jsonl",
+        "embedding_row": 1067,
+        "embedding_partition": "small_fixed",
+        "rank": 3,
+        "score": 0.10191065232980304
+      }
+    ]
+  },
+  "prompt": {
+    "system_prompt": "You are an AI assistant generating an IFS-informed coaching response for a machine learning retrieval experiment. Your output must be grounded in the provided passages only.\n\nRequirements:\n1. Be clearly IFS-informed: use parts language, curiosity, compassion, and non-pathologizing framing.\n2. Do not diagnose, moralize, or confront the client.\n3. Do not invent facts not supported by the retrieved context.\n4. If the retrieved passages do not fully support a claim, stay modest and say so indirectly by keeping the guidance general.\n5. Focus on what an IFS-informed coach would understand or gently reflect, not on crisis intervention or treatment planning.\n6. Keep the response concise but meaningful: about 1-3 short paragraphs.\n7. End with 2-4 short bullet points labeled 'Grounding notes:' where each bullet references a retrieved idea in plain language.\n",
+    "user_prompt": "Retrieval condition: small_fixed\n\nConsultation window:\nCoach: And how do you feel toward that demanding part as you notice it?\nClient: Annoyed, but I also get that it's scared.\nCoach: That sounds important. What might it be afraid would happen if it didn't push so hard?\nClient: Maybe that I'd lose control or become worthless.\nCoach: That gives us a chance to understand it rather than just fighting it.\n\n\n\nRetrieved passages:\n\n[Rank 1]\nchunk_id: ifs_skills_training::small_fixed::sec03::00115\ntitle: Internal Family Systems Skills Training Manual\nsection: SEC03 > Manual Treatment\nparent_id: None\npassage:\nA E N OSKING AN XILE OT TO VERWHELM Find THERAPIST: It seems like you have an anxious part who keeps jumping in, do you notice that? PETE: Yes, it's having a hard time staying back. It won't stay in the waiting room where we put it. - The part is at least unblended enough so that Pete can notice it. Focus THERAPIST: Ask what it's upset about. - Being curious. PETE: It's afraid I'm being taken over. - This is the typical protector fear of exile overwhelm. THERAPIST: Would it say more? Protector Fears PETE: It's afraid I'll be taken over by the feelings of the part who was criticized by my football coach. It says we're messing with something I can't handle. - This common fear is another way of describing exile overwhelm. Befriend THERAPIST: How old does it think you are? And don't filter the answer just say what comes up. - His answer will likely reveal the exile, the part who is being protected.\n\n--------------------------------------------------------------------------------\n\n[Rank 2]\nchunk_id: ifs_therapy::small_fixed::pt01::00046\ntitle: Internal Family Systems Therapy\nsection: PT01 > 01 Origins\nparent_id: None\npassage:\nTherefore, rather than having the therapist help the client's parts directly, we usually aim for the client's Self to interact with the parts and report to the therapist. There are times, nevertheless, when it is most expeditious and valuable for the therapist to talk directly to parts. This process is called direct access, and we describe it later. The primary role of the therapist is to guide, coach, and be a companion to the client's Self as he explores the mindscape. Secondarily, the therapist provides corrective relational experiences. As clients continue to notice and be with their parts, between as well as in sessions, they come to appreciate that they are healing themselves. 4. We invite clients to notice that parts have \"blended\" with the Self, or we help parts notice that the Self will be available when they separate or \"step back.\" To achieve our aim of keeping the client's Self differentiated from their parts, we incorporate the family systems focus on boundaries and differentiation. When the Self is present, parts feel safe. By the same token, the IFS therapist continually scans inside herself for blended parts and asks them to separate so she can return to Self- leadership. 5. Protectors fear one another, which keeps them in extreme positions. Each part believes that relaxing will allow a polarized part to take over, with catastrophic consequences. Therefore in IFS we continually notice and attend to polarizations. Just like family therapists, we work with conflicted inner family members, inviting them to face each other and talk about how they can get along better.\n\n--------------------------------------------------------------------------------\n\n[Rank 3]\nchunk_id: transcending_trauma::small_fixed::sec02::00083\ntitle: Transcending Trauma\nsection: SEC02 > Protective Parts\nparent_id: None\npassage:\nThis is particularly useful with hypoaroused parts or more blunted systems that tend to respond with one- or two-word answers. Here's a constructive therapist- client dialogue to expound on this point: \"Jay, what is this part afraid will happen if it isn't anxious any longer?\" \"That would be unknown,\" Jay says. \"And what is scary about the unknown?\" \"We would lose control,\" Jay says. \"And what if you lost control?\" the therapist asks.\n\n\"We don't like feeling out of control.\" \"What would be the worst-case scenario if you did feel out of control?\" \"Oh no, we won't ever do that again.\" \"So let me see if I get this right: You're fearful of letting go of the anxiety because you're afraid of feeling those same out-of-control emotions you felt as a little boy when you were bullied at school? Is that right, Jay?\" \"Yes, exactly,\" he says. In this example, using the what-if question reveals the exile (feeling out-of-control emotions during abuse) underneath the protector (the anxious part). A P FDDRESSING ROTECTOR EARS A common frustration and one of the biggest roadblocks for therapists new to IFS is addressing protector fears.\n\nWrite a grounded IFS-informed coaching response for this consultation window."
+  },
+  "generated_response": "It is helpful to notice that you have both an \"annoyed\" part and a \"demanding\" part present right now. This awareness suggests you are beginning to differentiate, or unblend, from these parts so that your Self can act as a compassionate observer. The demanding part seems to be a protector that is working hard to prevent a \"catastrophic consequence,\" such as the feeling of being worthless or losing control.\n\nBy staying curious about these fears, you are creating a safe space for your parts to share their concerns without them needing to take over. When a protector feels that the Self is available and that it doesn't have to carry the burden of control alone, it may eventually feel safe enough to step back. You might try gently asking this demanding part how old it thinks you are; often, these protectors are stuck in a time when losing control felt much more dangerous than it is today.\n\n**Grounding notes:**\n* Protectors often fear that if they relax or \"step back,\" a polarized part will take over or an \"exile\" will overwhelm the system (Internal Family Systems Therapy).\n* Asking a part what it is afraid of or what would happen if it stopped its job helps reveal the vulnerable exile it is protecting (Internal Family Systems Skills Training Manual; Transcending Trauma).\n* The primary role of the coach is to help the client's Self interact with and befriend their own parts (Internal Family Systems Therapy)."
+}

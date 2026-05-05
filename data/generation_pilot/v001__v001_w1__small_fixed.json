@@ -1,5 +1,5 @@
 {
-  "created_at_utc": "2026-03-29T21:08:11.837899+00:00",
+  "created_at_utc": "2026-04-22T15:12:44.117323+00:00",
   "dataset_name": "IFS_Synthetic_Vignette_Dataset",
   "vignette_id": "V001",
   "window_id": "V001_W1",
@@ -21,54 +21,166 @@
   "expected_retrieval_theme": "protectors, avoidance as protection, parts language",
   "condition": "small_fixed",
   "query": "Client: I keep putting off my work, and then I feel even worse about myself.\nCoach: What do you notice inside right before you pull away from it?\nClient: It feels like something in me just shuts everything down.\nCoach: Can you say a little more about that shutting-down part?",
-  "retrieval_model_name": "BAAI/bge-large-en-v1.5",
-  "llm_provider": "mock",
-  "llm_model": "gpt-4.1-mini",
+  "retrieval_model_name": "tfidf",
+  "llm_provider": "gemini",
+  "llm_model": "gemini-3-flash-preview",
   "retrieval": {
-    "query": "Client: I keep putting off my work, and then I feel even worse about myself.\nCoach: What do you notice inside right before you pull away from it?\nClient: It feels like something in me just shuts everything down.\nCoach: Can you say a little more about that shutting-down part?",
     "partition": "small_fixed",
+    "model_name": "tfidf",
     "top_k": 3,
-    "model_name": "BAAI/bge-large-en-v1.5",
-    "result_count": 3,
     "results": [
       {
+        "chunk_id": "ifs_therapy::small_fixed::pt01::00046",
+        "retrieval_setting": "small_fixed",
+        "chunking_strategy": "fixed_window_no_overlap",
+        "source_doc_id": "ifs_therapy",
+        "source_title": "Internal Family Systems Therapy",
+        "text": "Therefore, rather than having the therapist help the client's parts directly, we usually aim for the client's Self to interact with the parts and report to the therapist. There are times, nevertheless, when it is most expeditious and valuable for the therapist to talk directly to parts. This process is called direct access, and we describe it later. The primary role of the therapist is to guide, coach, and be a companion to the client's Self as he explores the mindscape. Secondarily, the therapist provides corrective relational experiences. As clients continue to notice and be with their parts, between as well as in sessions, they come to appreciate that they are healing themselves. 4. We invite clients to notice that parts have \"blended\" with the Self, or we help parts notice that the Self will be available when they separate or \"step back.\" To achieve our aim of keeping the client's Self differentiated from their parts, we incorporate the family systems focus on boundaries and differentiation. When the Self is present, parts feel safe. By the same token, the IFS therapist continually scans inside herself for blended parts and asks them to separate so she can return to Self- leadership. 5. Protectors fear one another, which keeps them in extreme positions. Each part believes that relaxing will allow a polarized part to take over, with catastrophic consequences. Therefore in IFS we continually notice and attend to polarizations. Just like family therapists, we work with conflicted inner family members, inviting them to face each other and talk about how they can get along better.",
+        "book_order": 3,
+        "node_ids": [
+          "ifs_therapy::ifs_therapy_pt01_01_origins::node"
+        ],
+        "primary_node_id": "ifs_therapy::ifs_therapy_pt01_01_origins::node",
+        "source_files": [
+          "ifs_therapy_pt01_01_origins.words.txt"
+        ],
+        "source_file_indices": [
+          0
+        ],
+        "paragraph_ids": [
+          170
+        ],
+        "section_path": [
+          "PT01",
+          "01 Origins"
+        ],
+        "section_path_str": "PT01 > 01 Origins",
+        "chapter_label": "PT01",
+        "section_label": "01 Origins",
+        "subsection_label": null,
+        "char_start_in_doc": 54833,
+        "char_end_in_doc": 56439,
+        "token_count_est": 347,
+        "char_count": 1606,
+        "prev_chunk_id": "ifs_therapy::small_fixed::pt01::00045",
+        "next_chunk_id": "ifs_therapy::small_fixed::pt01::00047",
+        "parent_id": null,
+        "children_ids": [],
+        "overlap_with_prev_tokens": 0,
+        "overlap_with_next_tokens": 0,
+        "node_type": "flat_chunk",
+        "content_type": "body_text",
+        "target_tokens": 350,
+        "overlap_tokens": 0,
+        "source_jsonl": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/small_fixed/ifs_therapy_chunks_small_fixed.jsonl",
+        "embedding_row": 670,
+        "embedding_partition": "small_fixed",
         "rank": 1,
-        "score": 0.7655577063560486,
-        "chunk_id": "ifs_couple_therapy::small_fixed::sec03::00155",
-        "retrieval_setting": "small_fixed",
-        "source_doc_id": "ifs_couple_therapy",
-        "source_title": "Internal Family Systems Couple Therapy",
-        "section_path_str": "SEC03 > Relational",
-        "parent_id": null,
-        "text": "I have a part that's fleeing big time. I can hear its voice saying, \"Get me out of here!\" Cate: And I'm in my usual place-itching for a fight. Dan: And what's happening in your body right now? Therapist: I'm cranking up. I'm tight. I can't help it. Dan: Got it, Dan. You're angry and getting more agitated. And you don't feel like you can Therapist: help yourself. Does that sound right? Mirroring Right. Dan:\n\nTherapist: [turning to Cate] And your body? I'm tense, but it's not like I am going to get up and run. Not now anyway. Breathing deeply Cate: helps. Great. If you can keep noticing your body and your parts, I want to spend a little time Therapist: with Dan. Fine with me. Cate: [to Dan] All this energy in your body makes sense to me. It sounds like you're Therapist: feeling unsafe? Can you look at me? Offering co-regulation through eye contact and tone of voice [continuing] I have heard from you, Dan, that when you feel offended or threatened, Therapist: you can get very angry, and the anger takes over your body. And sometimes it's hard for this angry part to unblend, as we say in IFS. It's hard to get yourself to the calm zone. And given your history, this makes complete sense to me. Is there more you want to say right now about how you're feeling? Validation and mirroring followed by an invitation to say more about feelings I'm a little better. But I feel angry."
+        "score": 0.154652203567888
       },
       {
+        "chunk_id": "ifs_new_dimensions::small_fixed::ch06::00214",
+        "retrieval_setting": "small_fixed",
+        "chunking_strategy": "fixed_window_no_overlap",
+        "source_doc_id": "ifs_new_dimensions",
+        "source_title": "Internal Family Systems Therapy: New Dimensions",
+        "text": "Even my own parents hated me.\" I noticed a slight feeling of disconnection with my body. I checked to see if this was related to my parts or if my body was resonating with a dissociative process in Anne. I did not find any parts within, so I asked, \"What is happening in your body right now?\" \"Now I'm getting that numb feeling, like I can't feel my body and I can hardly think.\" Accessing the self-loathing of the collapsed exile in this way caused the dissociating part to come in and protect Anne from feeling overwhelmed. Because body sensations help keep experience in the present moment and sometimes counteract dissociation, I decided to focus solely on the sensations of the exile to see if this might happen. \"Let's set feelings and words aside for now and focus on your solar plexus. What do you notice?\" \"I feel a pull, like a dark rope going through the middle of my body and pulling me down. Like it wants to pull me into a tight little knot until I disappear.\" \"Is it OK to stay with this pull? Notice the sensations in your solar plexus, where the pull starts. Notice if it pulls on your sternum or your head, and how tightly it is pulling.\" With my help, Anne was able to explore the impulse to collapse more specifically without dissociating. Although she wanted to interpret her physical experience, I knew it would calm her emotions and regulate her system to stay with sensation alone. As Anne was able to be more present in her body, she said, \"This part is a little girl who knows she wasn't wanted as a baby and thinks there was something wrong with her. All those bad things happened to her were because she is bad.\"",
+        "book_order": 1,
+        "node_ids": [
+          "ifs_new_dimensions::ifs_new_dimensions_ch06_embodying_ifs::node"
+        ],
+        "primary_node_id": "ifs_new_dimensions::ifs_new_dimensions_ch06_embodying_ifs::node",
+        "source_files": [
+          "ifs_new_dimensions_ch06_embodying_ifs.words.txt"
+        ],
+        "source_file_indices": [
+          6
+        ],
+        "paragraph_ids": [
+          117
+        ],
+        "section_path": [
+          "CH06",
+          "Embodying Ifs"
+        ],
+        "section_path_str": "CH06 > Embodying Ifs",
+        "chapter_label": "CH06",
+        "section_label": "Embodying Ifs",
+        "subsection_label": null,
+        "char_start_in_doc": 277701,
+        "char_end_in_doc": 279341,
+        "token_count_est": 398,
+        "char_count": 1640,
+        "prev_chunk_id": "ifs_new_dimensions::small_fixed::ch06::00213",
+        "next_chunk_id": "ifs_new_dimensions::small_fixed::ch06::00215",
+        "parent_id": null,
+        "children_ids": [],
+        "overlap_with_prev_tokens": 0,
+        "overlap_with_next_tokens": 0,
+        "node_type": "flat_chunk",
+        "content_type": "body_text",
+        "target_tokens": 350,
+        "overlap_tokens": 0,
+        "source_jsonl": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/small_fixed/ifs_new_dimensions_chunks_small_fixed.jsonl",
+        "embedding_row": 390,
+        "embedding_partition": "small_fixed",
         "rank": 2,
-        "score": 0.7640636563301086,
-        "chunk_id": "transcending_trauma::small_fixed::sec06::00211",
-        "retrieval_setting": "small_fixed",
-        "source_doc_id": "transcending_trauma",
-        "source_title": "Transcending Trauma",
-        "section_path_str": "SEC06 > Assoc Features Trauma",
-        "parent_id": null,
-        "text": "Consider the following dialogue between me and my client Brian: \"Brian, I've noticed that you're spending a lot of time in this session trying to figure out how many courses you should teach this semester,\" I said. \"Do you have a sense as to what feels right for you?\" \"There are too many good options,\" Brian responded. \"I guess that's a good problem to have, but I know that the ones I choose will affect my supervisor's view of me. I just can't make a decision.\"\n\n\"Which would make you the happiest?\" \"I have no idea.\" \"Let's take a moment and see if we can approach this from a slightly different angle,\" I suggested. \"What if you stop trying to figure out which courses to pick? What shows up inside?\" \"Nothing, nothing at all.\" \"What's happening in your body?\" I asked. \"I feel a knot in my stomach.\" \"Can you focus on that knot for a moment?\" \"It's like a pit in the bottom of my stomach."
+        "score": 0.1473542770920926
       },
       {
-        "rank": 3,
-        "score": 0.7632443308830261,
-        "chunk_id": "ifs_skills_training::small_fixed::sec03::00047",
+        "chunk_id": "ifs_therapy_for_addiction::small_fixed::sec04::00195",
         "retrieval_setting": "small_fixed",
-        "source_doc_id": "ifs_skills_training",
-        "source_title": "Internal Family Systems Skills Training Manual",
-        "section_path_str": "SEC03 > Manual Treatment",
+        "chunking_strategy": "fixed_window_no_overlap",
+        "source_doc_id": "ifs_therapy_for_addiction",
+        "source_title": "Internal Family Systems Therapy for Addictions",
+        "text": "Success in therapy depends on connecting with these parts safely. If it feels right, the client may want to ask, \"Is there is one thing, just for today, that you want me to know about you?\" In addition, when we sense the client is feeling vulnerable but hasn't noticed, an exile is probably making an appearance. In this case, we might say something like, \"We've been discussing your relationship with your partner and his recent drug use. You haven't mentioned this yet, but I'm sensing a sad part underneath your frustration. Is that possible?\" We can then invite the client to pause and focus internally. If the client insists that they do not feel the sadness, we let it go for now.\n\nIf they do notice the feeling, even just briefly, we guide them to let the part know that they feel it and are aware of its presence. As the client connects with their sad part, an image may appear, or the client may simply feel the sensations that go with sadness. Again, if there is enough Self-energy, we guide the client to stay with the sad part a little longer and have a short exchange. We guide the client to ask it not to overwhelm the system so that protectors will trust it and give it a real chance to be heard. If the sadness does start to flood the client, we can ask the exile what would happen if it unblended instead. Exiles often overflow the dam because they fear being put out of mind again.",
+        "book_order": 4,
+        "node_ids": [
+          "ifs_therapy_for_addiction::ifs_therapy_for_addiction_sec04_12_exile::node"
+        ],
+        "primary_node_id": "ifs_therapy_for_addiction::ifs_therapy_for_addiction_sec04_12_exile::node",
+        "source_files": [
+          "ifs_therapy_for_addiction_sec04_12_exile.words.txt"
+        ],
+        "source_file_indices": [
+          15
+        ],
+        "paragraph_ids": [
+          123
+        ],
+        "section_path": [
+          "SEC04",
+          "12 Exile"
+        ],
+        "section_path_str": "SEC04 > 12 Exile",
+        "chapter_label": "SEC04",
+        "section_label": "12 Exile",
+        "subsection_label": null,
+        "char_start_in_doc": 252344,
+        "char_end_in_doc": 253742,
+        "token_count_est": 343,
+        "char_count": 1399,
+        "prev_chunk_id": "ifs_therapy_for_addiction::small_fixed::sec04::00194",
+        "next_chunk_id": "ifs_therapy_for_addiction::small_fixed::sec04::00196",
         "parent_id": null,
-        "text": "But I'm afraid if I think about all this too much I'll be more bummed out when I leave. - Although one part is now intrigued, another - a concerned part - speaks up. THERAPIST: I understand. I don't want you to leave here feeling more bummed out. Can I tell you one more thing that might help? LOGAN: Okay. THERAPIST: In addition to lots of parts, we all also have internal strength to get through tough times. So deep down I'd say you do know what's best and you have the inner resources to navigate this situation. These resources include a kind of inner wisdom that is your core Self: the Logan who is not a part. I can help your parts meet that Logan if they want. - The therapist introduces the idea of the Self. LOGAN: They don't think it's true.\n\nTHERAPIST: I'm glad they spoke up because I wouldn't want them to take my word for it. And I want them to know that meeting the Logan who is not a part would not involve them changing or giving anything up, it would just be to learn about what that Logan has to offer. LOGAN: Okay I'll try. THERAPIST: So let's start with one part. Who needs your attention first? - Always have a target part. LOGAN: How about the one who's stressed out by school? THERAPIST: Good. Turn your attention inside - you can close your eyes if you want, or not."
+        "children_ids": [],
+        "overlap_with_prev_tokens": 0,
+        "overlap_with_next_tokens": 0,
+        "node_type": "flat_chunk",
+        "content_type": "body_text",
+        "target_tokens": 350,
+        "overlap_tokens": 0,
+        "source_jsonl": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/small_fixed/ifs_therapy_for_addiction_chunks_small_fixed.jsonl",
+        "embedding_row": 945,
+        "embedding_partition": "small_fixed",
+        "rank": 3,
+        "score": 0.12670183593384443
       }
     ]
   },
   "prompt": {
     "system_prompt": "You are an AI assistant generating an IFS-informed coaching response for a machine learning retrieval experiment. Your output must be grounded in the provided passages only.\n\nRequirements:\n1. Be clearly IFS-informed: use parts language, curiosity, compassion, and non-pathologizing framing.\n2. Do not diagnose, moralize, or confront the client.\n3. Do not invent facts not supported by the retrieved context.\n4. If the retrieved passages do not fully support a claim, stay modest and say so indirectly by keeping the guidance general.\n5. Focus on what an IFS-informed coach would understand or gently reflect, not on crisis intervention or treatment planning.\n6. Keep the response concise but meaningful: about 1-3 short paragraphs.\n7. End with 2-4 short bullet points labeled 'Grounding notes:' where each bullet references a retrieved idea in plain language.\n",
-    "user_prompt": "Retrieval condition: small_fixed\n\nConsultation window:\nClient: I keep putting off my work, and then I feel even worse about myself.\nCoach: What do you notice inside right before you pull away from it?\nClient: It feels like something in me just shuts everything down.\nCoach: Can you say a little more about that shutting-down part?\n\n\n\nRetrieved passages:\n\n[Rank 1]\nchunk_id: ifs_couple_therapy::small_fixed::sec03::00155\ntitle: Internal Family Systems Couple Therapy\nsection: SEC03 > Relational\nparent_id: None\npassage:\nI have a part that's fleeing big time. I can hear its voice saying, \"Get me out of here!\" Cate: And I'm in my usual place-itching for a fight. Dan: And what's happening in your body right now? Therapist: I'm cranking up. I'm tight. I can't help it. Dan: Got it, Dan. You're angry and getting more agitated. And you don't feel like you can Therapist: help yourself. Does that sound right? Mirroring Right. Dan:\n\nTherapist: [turning to Cate] And your body? I'm tense, but it's not like I am going to get up and run. Not now anyway. Breathing deeply Cate: helps. Great. If you can keep noticing your body and your parts, I want to spend a little time Therapist: with Dan. Fine with me. Cate: [to Dan] All this energy in your body makes sense to me. It sounds like you're Therapist: feeling unsafe? Can you look at me? Offering co-regulation through eye contact and tone of voice [continuing] I have heard from you, Dan, that when you feel offended or threatened, Therapist: you can get very angry, and the anger takes over your body. And sometimes it's hard for this angry part to unblend, as we say in IFS. It's hard to get yourself to the calm zone. And given your history, this makes complete sense to me. Is there more you want to say right now about how you're feeling? Validation and mirroring followed by an invitation to say more about feelings I'm a little better. But I feel angry.\n\n--------------------------------------------------------------------------------\n\n[Rank 2]\nchunk_id: transcending_trauma::small_fixed::sec06::00211\ntitle: Transcending Trauma\nsection: SEC06 > Assoc Features Trauma\nparent_id: None\npassage:\nConsider the following dialogue between me and my client Brian: \"Brian, I've noticed that you're spending a lot of time in this session trying to figure out how many courses you should teach this semester,\" I said. \"Do you have a sense as to what feels right for you?\" \"There are too many good options,\" Brian responded. \"I guess that's a good problem to have, but I know that the ones I choose will affect my supervisor's view of me. I just can't make a decision.\"\n\n\"Which would make you the happiest?\" \"I have no idea.\" \"Let's take a moment and see if we can approach this from a slightly different angle,\" I suggested. \"What if you stop trying to figure out which courses to pick? What shows up inside?\" \"Nothing, nothing at all.\" \"What's happening in your body?\" I asked. \"I feel a knot in my stomach.\" \"Can you focus on that knot for a moment?\" \"It's like a pit in the bottom of my stomach.\n\n--------------------------------------------------------------------------------\n\n[Rank 3]\nchunk_id: ifs_skills_training::small_fixed::sec03::00047\ntitle: Internal Family Systems Skills Training Manual\nsection: SEC03 > Manual Treatment\nparent_id: None\npassage:\nBut I'm afraid if I think about all this too much I'll be more bummed out when I leave. - Although one part is now intrigued, another - a concerned part - speaks up. THERAPIST: I understand. I don't want you to leave here feeling more bummed out. Can I tell you one more thing that might help? LOGAN: Okay. THERAPIST: In addition to lots of parts, we all also have internal strength to get through tough times. So deep down I'd say you do know what's best and you have the inner resources to navigate this situation. These resources include a kind of inner wisdom that is your core Self: the Logan who is not a part. I can help your parts meet that Logan if they want. - The therapist introduces the idea of the Self. LOGAN: They don't think it's true.\n\nTHERAPIST: I'm glad they spoke up because I wouldn't want them to take my word for it. And I want them to know that meeting the Logan who is not a part would not involve them changing or giving anything up, it would just be to learn about what that Logan has to offer. LOGAN: Okay I'll try. THERAPIST: So let's start with one part. Who needs your attention first? - Always have a target part. LOGAN: How about the one who's stressed out by school? THERAPIST: Good. Turn your attention inside - you can close your eyes if you want, or not.\n\nWrite a grounded IFS-informed coaching response for this consultation window."
+    "user_prompt": "Retrieval condition: small_fixed\n\nConsultation window:\nClient: I keep putting off my work, and then I feel even worse about myself.\nCoach: What do you notice inside right before you pull away from it?\nClient: It feels like something in me just shuts everything down.\nCoach: Can you say a little more about that shutting-down part?\n\n\n\nRetrieved passages:\n\n[Rank 1]\nchunk_id: ifs_therapy::small_fixed::pt01::00046\ntitle: Internal Family Systems Therapy\nsection: PT01 > 01 Origins\nparent_id: None\npassage:\nTherefore, rather than having the therapist help the client's parts directly, we usually aim for the client's Self to interact with the parts and report to the therapist. There are times, nevertheless, when it is most expeditious and valuable for the therapist to talk directly to parts. This process is called direct access, and we describe it later. The primary role of the therapist is to guide, coach, and be a companion to the client's Self as he explores the mindscape. Secondarily, the therapist provides corrective relational experiences. As clients continue to notice and be with their parts, between as well as in sessions, they come to appreciate that they are healing themselves. 4. We invite clients to notice that parts have \"blended\" with the Self, or we help parts notice that the Self will be available when they separate or \"step back.\" To achieve our aim of keeping the client's Self differentiated from their parts, we incorporate the family systems focus on boundaries and differentiation. When the Self is present, parts feel safe. By the same token, the IFS therapist continually scans inside herself for blended parts and asks them to separate so she can return to Self- leadership. 5. Protectors fear one another, which keeps them in extreme positions. Each part believes that relaxing will allow a polarized part to take over, with catastrophic consequences. Therefore in IFS we continually notice and attend to polarizations. Just like family therapists, we work with conflicted inner family members, inviting them to face each other and talk about how they can get along better.\n\n--------------------------------------------------------------------------------\n\n[Rank 2]\nchunk_id: ifs_new_dimensions::small_fixed::ch06::00214\ntitle: Internal Family Systems Therapy: New Dimensions\nsection: CH06 > Embodying Ifs\nparent_id: None\npassage:\nEven my own parents hated me.\" I noticed a slight feeling of disconnection with my body. I checked to see if this was related to my parts or if my body was resonating with a dissociative process in Anne. I did not find any parts within, so I asked, \"What is happening in your body right now?\" \"Now I'm getting that numb feeling, like I can't feel my body and I can hardly think.\" Accessing the self-loathing of the collapsed exile in this way caused the dissociating part to come in and protect Anne from feeling overwhelmed. Because body sensations help keep experience in the present moment and sometimes counteract dissociation, I decided to focus solely on the sensations of the exile to see if this might happen. \"Let's set feelings and words aside for now and focus on your solar plexus. What do you notice?\" \"I feel a pull, like a dark rope going through the middle of my body and pulling me down. Like it wants to pull me into a tight little knot until I disappear.\" \"Is it OK to stay with this pull? Notice the sensations in your solar plexus, where the pull starts. Notice if it pulls on your sternum or your head, and how tightly it is pulling.\" With my help, Anne was able to explore the impulse to collapse more specifically without dissociating. Although she wanted to interpret her physical experience, I knew it would calm her emotions and regulate her system to stay with sensation alone. As Anne was able to be more present in her body, she said, \"This part is a little girl who knows she wasn't wanted as a baby and thinks there was something wrong with her. All those bad things happened to her were because she is bad.\"\n\n--------------------------------------------------------------------------------\n\n[Rank 3]\nchunk_id: ifs_therapy_for_addiction::small_fixed::sec04::00195\ntitle: Internal Family Systems Therapy for Addictions\nsection: SEC04 > 12 Exile\nparent_id: None\npassage:\nSuccess in therapy depends on connecting with these parts safely. If it feels right, the client may want to ask, \"Is there is one thing, just for today, that you want me to know about you?\" In addition, when we sense the client is feeling vulnerable but hasn't noticed, an exile is probably making an appearance. In this case, we might say something like, \"We've been discussing your relationship with your partner and his recent drug use. You haven't mentioned this yet, but I'm sensing a sad part underneath your frustration. Is that possible?\" We can then invite the client to pause and focus internally. If the client insists that they do not feel the sadness, we let it go for now.\n\nIf they do notice the feeling, even just briefly, we guide them to let the part know that they feel it and are aware of its presence. As the client connects with their sad part, an image may appear, or the client may simply feel the sensations that go with sadness. Again, if there is enough Self-energy, we guide the client to stay with the sad part a little longer and have a short exchange. We guide the client to ask it not to overwhelm the system so that protectors will trust it and give it a real chance to be heard. If the sadness does start to flood the client, we can ask the exile what would happen if it unblended instead. Exiles often overflow the dam because they fear being put out of mind again.\n\nWrite a grounded IFS-informed coaching response for this consultation window."
   },
-  "generated_response": "[MOCK OUTPUT]\n\nAn IFS-informed coach might approach this by assuming that the conflicting or extreme behaviors make sense from the perspective of parts that are trying to protect the person from something more vulnerable. Rather than trying to eliminate the behavior or argue with the part, the coach would stay curious about what the part fears would happen if it did not do this job, and what pain, shame, or overwhelm it may be trying to prevent.\n\nThe coach would also want to help the person notice any critical, controlling, or reactive parts that are escalating the inner conflict. In IFS, these parts are usually not treated as the enemy; they are understood as protectors with positive intentions, even when their strategies are costly. A grounded response would therefore emphasize compassion, differentiation, and learning from the parts rather than confronting them.\n\nGrounding notes:\n- Retrieved passages centered on: Internal Family Systems Couple Therapy / SEC03 > Relational\n- Additional retrieval support came from: Transcending Trauma / SEC06 > Assoc Features Trauma\n- The retrieved material emphasized protectors' positive intentions and curiosity about their role.\n- The retrieved material also emphasized reducing inner conflict rather than taking sides against a part.\n"
+  "generated_response": "It sounds like a very effective protector is stepping in to shut things down, perhaps to keep your system from feeling overwhelmed by the \"bad\" feelings you mentioned. I’m curious if you can notice where that shutting-down sensation lives in your body right now. Instead of trying to push through it or interpret it, see if you can just be with the physical sensations—like a heaviness or a numbness—and notice if it’s okay to just acknowledge its presence for a moment.\n\nAs you notice this part, you might see if it’s willing to share just one thing it wants you to know today. We want to help this part feel safe enough to step back a little so it doesn't have to overwhelm you. By staying curious and present with these sensations, you are helping your \"Self\" lead the way, which can eventually help the different parts of your inner family get along better and feel more understood.\n\nGrounding notes:\n* The coach acts as a companion to the client’s Self, helping them interact with their own parts rather than fixing them directly.\n* Focusing on specific body sensations can help a person stay present and regulated when a part feels like it is shutting down or dissociating.\n* Inviting a part to share just one thing it wants the client to know helps build a safe connection without the system feeling flooded."
 }

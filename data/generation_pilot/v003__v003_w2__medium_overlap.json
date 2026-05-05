@@ -1,0 +1,195 @@
+{
+  "created_at_utc": "2026-04-23T08:25:10.192535+00:00",
+  "dataset_name": "IFS_Synthetic_Vignette_Dataset",
+  "vignette_id": "V003",
+  "window_id": "V003_W2",
+  "title": "People-Pleasing in Relationships",
+  "presenting_issue": "difficulty saying no and resentment in close relationships",
+  "client_profile": "24-year-old who overcommits to avoid disappointing others",
+  "core_emotional_theme": "fear of rejection and abandonment",
+  "likely_parts": [
+    "people-pleasing manager part",
+    "vulnerable part afraid of being left or disliked"
+  ],
+  "difficulty_level": "medium",
+  "safety_flag": "low",
+  "window_turn_range": [
+    6,
+    10
+  ],
+  "target_ifs_goal": "deepen curiosity and connect the protector to the fear it carries",
+  "expected_retrieval_theme": "protectors, burdened parts, curiosity toward protectors",
+  "condition": "medium_overlap",
+  "query": "Coach: How do you feel toward that agreeable part right now?\nClient: Mixed. I appreciate that it helps me avoid conflict, but I'm tired of it running everything.\nCoach: That makes sense. What do you think it is protecting you from?\nClient: Feeling rejected. Or feeling like I'm too much.\nCoach: That gives us an important place to stay curious.",
+  "retrieval_model_name": "tfidf",
+  "llm_provider": "gemini",
+  "llm_model": "gemini-3-flash-preview",
+  "retrieval": {
+    "partition": "medium_overlap",
+    "model_name": "tfidf",
+    "top_k": 3,
+    "results": [
+      {
+        "chunk_id": "ifs_therapy_for_addiction::medium_overlap::sec04::00090",
+        "retrieval_setting": "medium_overlap",
+        "chunking_strategy": "fixed_window_with_overlap",
+        "source_doc_id": "ifs_therapy_for_addiction",
+        "source_title": "Internal Family Systems Therapy for Addictions",
+        "text": "When protectors are not ready for an exile to tell its story but the part blends anyway, we have to intervene. We speak to it directly, negotiating with it to unblend and promising that we won't forget to give it the attention it craves. At the same time, protectors have the opportunity to see that exiles have an agenda too, and that they won't overwhelm the system if they get what they want. One-Way Connections with Exiles Exiles can appear early in treatment in subtle ways that befit their position on the backburners of consciousness. For instance, they often pop into a client's current narrative and divert the client's attention to the past.\n\nSay the client is reporting a stressful incident at work when, without preamble, they pivot to an earlier time (… like when my father left and my mother fell apart …) with no awareness of the memory's significance. When an exile pops up like this, we pause, notice, and make the most of this connection opportunity by inviting it into the session. If the client has enough Self-energy, we may guide them to tell the exile that we won't hear its whole story now but that we know it's important and we are aiming to hear it as soon as all parts agree. We don't want to pursue these trailheads vigorously before protectors are ready, but the contact can be warm, even if it's brief.\n\nSuccess in therapy depends on connecting with these parts safely. If it feels right, the client may want to ask, \"Is there is one thing, just for today, that you want me to know about you?\" In addition, when we sense the client is feeling vulnerable but hasn't noticed, an exile is probably making an appearance. In this case, we might say something like, \"We've been discussing your relationship with your partner and his recent drug use. You haven't mentioned this yet, but I'm sensing a sad part underneath your frustration. Is that possible?\" We can then invite the client to pause and focus internally. If the client insists that they do not feel the sadness, we let it go for now.\n\nIf they do notice the feeling, even just briefly, we guide them to let the part know that they feel it and are aware of its presence. As the client connects with their sad part, an image may appear, or the client may simply feel the sensations that go with sadness. Again, if there is enough Self-energy, we guide the client to stay with the sad part a little longer and have a short exchange. We guide the client to ask it not to overwhelm the system so that protectors will trust it and give it a real chance to be heard. If the sadness does start to flood the client, we can ask the exile what would happen if it unblended instead. Exiles often overflow the dam because they fear being put out of mind again.\n\nThey don't trust the Self yet, and they assume a full-on deluge is their only way of being noticed. As therapists, we must work with our own parts to stay present and connected-helping the client validate the exile's fears while asking for cooperation and promising to return. We can then direct a client to identify how and when this vulnerable exile first made its appearance. (I was feeling angry and sad about my partner using drugs all the time, and then I remembered how sad I was when my dad left.) Then the client can track their pattern-feeling sad, lonely, ashamed, and so on-and notice how those feelings connect to present-day actions.",
+        "book_order": 4,
+        "node_ids": [
+          "ifs_therapy_for_addiction::ifs_therapy_for_addiction_sec04_12_exile::node"
+        ],
+        "primary_node_id": "ifs_therapy_for_addiction::ifs_therapy_for_addiction_sec04_12_exile::node",
+        "source_files": [
+          "ifs_therapy_for_addiction_sec04_12_exile.words.txt"
+        ],
+        "source_file_indices": [
+          15
+        ],
+        "paragraph_ids": [
+          123
+        ],
+        "section_path": [
+          "SEC04",
+          "12 Exile"
+        ],
+        "section_path_str": "SEC04 > 12 Exile",
+        "chapter_label": "SEC04",
+        "section_label": "12 Exile",
+        "subsection_label": null,
+        "char_start_in_doc": 251011,
+        "char_end_in_doc": 254390,
+        "token_count_est": 819,
+        "char_count": 3383,
+        "prev_chunk_id": "ifs_therapy_for_addiction::medium_overlap::sec04::00089",
+        "next_chunk_id": "ifs_therapy_for_addiction::medium_overlap::sec04::00091",
+        "parent_id": null,
+        "children_ids": [],
+        "overlap_with_prev_tokens": 153,
+        "overlap_with_next_tokens": 155,
+        "node_type": "flat_chunk",
+        "content_type": "body_text",
+        "target_tokens": 900,
+        "overlap_tokens": 180,
+        "source_jsonl": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/medium_overlap/ifs_therapy_for_addiction_chunks_medium_overlap.jsonl",
+        "embedding_row": 454,
+        "embedding_partition": "medium_overlap",
+        "rank": 1,
+        "score": 0.07751729121462625
+      },
+      {
+        "chunk_id": "ifs_skills_training::medium_overlap::sec03::00058",
+        "retrieval_setting": "medium_overlap",
+        "chunking_strategy": "fixed_window_with_overlap",
+        "source_doc_id": "ifs_skills_training",
+        "source_title": "Internal Family Systems Skills Training Manual",
+        "text": "1. If a protector will not relax because it fears emotional overwhelm, we offer to ask the overwhelming part (an exile) to not overwhelm. - \"I hear that you are concerned about Sean (the client) feeling overwhelmed. That makes sense. We don't want that either. With your permission we can ask that part not to overwhelm.\" 2. If this protector fears that a polarized protector will get too much influence over the client, we suggest a parlay to get the client's Self between warring parts (Krause, Rosenberg & Sweezy, 2016) - \"If the part who you're worried about is willing to sit down with you and Sean instead of taking over, would you be willing too?\" - \"Sean, can you hear how each of these parts is trying to help you? Let them know that you value their input and ask if they're willing to trust you enough to make room so all three of you can talk.\" 3. Finally, if an exiled part is overwhelming the client, the therapist can talk to it directly. - \"I'm really glad you're here. I see that you're afraid. Would you be willing to make just a little room so Sean can be here, too? If you let him come in with you, he'll help.\" - Note: This is where we urge you to revert to your expertise. Do not try to use IFS with exiles unless you have IFS training. THE #1 FEAR: EXILE OVERWHELM The number one concern of protectors is fear of emotional overwhelm. They've seen it happen and they've seen it debilitate the client, often with crippling depressions, anxiety or repeated hospitalizations. We validate their fear and take their concerns seriously. Dealing with emotional overwhelm upfront is one reason IFS doesn't require stabilization before attending to trauma. If overwhelm is not a threat, protectors relax and the client's Self remains present and available.\n\nV A PALIDATING AND DDRESSING AROTECTOR'S F E OEAR OF XILE VERWHELM THERAPIST: Let's thank this part for sharing its concern. Let it know that we can ask the one who feels terrible not to overwhelm. - Exiles generally agree not to overwhelm when they realize that separating and being with the Self is the best way of getting attention. THERAPIST: Did you hear? The part says it will not overwhelm. Can we talk to it now? - Once the exile agrees not to overwhelm, we check back with protectors to get their permission to proceed. Here is an example:\n\nA E N OSKING AN XILE OT TO VERWHELM Find THERAPIST: It seems like you have an anxious part who keeps jumping in, do you notice that? PETE: Yes, it's having a hard time staying back. It won't stay in the waiting room where we put it. - The part is at least unblended enough so that Pete can notice it. Focus THERAPIST: Ask what it's upset about. - Being curious. PETE: It's afraid I'm being taken over. - This is the typical protector fear of exile overwhelm. THERAPIST: Would it say more? Protector Fears PETE: It's afraid I'll be taken over by the feelings of the part who was criticized by my football coach. It says we're messing with something I can't handle. - This common fear is another way of describing exile overwhelm. Befriend THERAPIST: How old does it think you are? And don't filter the answer just say what comes up. - His answer will likely reveal the exile, the part who is being protected.",
+        "book_order": 2,
+        "node_ids": [
+          "ifs_skills_training::ifs_skills_training_manual_sec03_treatment::node"
+        ],
+        "primary_node_id": "ifs_skills_training::ifs_skills_training_manual_sec03_treatment::node",
+        "source_files": [
+          "ifs_skills_training_manual_sec03_treatment.words.txt"
+        ],
+        "source_file_indices": [
+          2
+        ],
+        "paragraph_ids": [
+          100,
+          101,
+          102
+        ],
+        "section_path": [
+          "SEC03",
+          "Manual Treatment"
+        ],
+        "section_path_str": "SEC03 > Manual Treatment",
+        "chapter_label": "SEC03",
+        "section_label": "Manual Treatment",
+        "subsection_label": null,
+        "char_start_in_doc": 145658,
+        "char_end_in_doc": 148885,
+        "token_count_est": 771,
+        "char_count": 3227,
+        "prev_chunk_id": "ifs_skills_training::medium_overlap::sec03::00057",
+        "next_chunk_id": "ifs_skills_training::medium_overlap::sec03::00059",
+        "parent_id": null,
+        "children_ids": [],
+        "overlap_with_prev_tokens": 416,
+        "overlap_with_next_tokens": 225,
+        "node_type": "flat_chunk",
+        "content_type": "body_text",
+        "target_tokens": 900,
+        "overlap_tokens": 180,
+        "source_jsonl": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/medium_overlap/ifs_skills_training_chunks_medium_overlap.jsonl",
+        "embedding_row": 294,
+        "embedding_partition": "medium_overlap",
+        "rank": 2,
+        "score": 0.07729934132721632
+      },
+      {
+        "chunk_id": "ifs_therapy::medium_overlap::pt01::00017",
+        "retrieval_setting": "medium_overlap",
+        "chunking_strategy": "fixed_window_with_overlap",
+        "source_doc_id": "ifs_therapy",
+        "source_title": "Internal Family Systems Therapy",
+        "text": "At this point our readers may wonder how the phenomenon of psychic parts relates to dissociative identity disorder (DID). From our perspective, the \"alters\" of clients with DID are parts, but their inner systems are more polarized and disconnected. This is because horrible childhood abuse causes vigilant protectors to rely on amnesic barriers, which block the usual web of inner relationships.\n\nWhile this is protective during dangerous times, it serves both to amplify the pain of isolated, injured parts and lock in the survival tactics of rigid young protectors. This extreme internal state leaves clients very wary of trusting the Self or anyone else. Unfortunately, because our culture portrays DID as a fascinating but bizarre aberration that signifies severe pathology, clients whose inner systems are not characterized by extreme dissociation may worry about being crazy when they access parts; and clients whose inner systems are better described by the DID diagnosis often do not realize that having parts is normal.\n\nFollowing are a few essentials of the IFS perspective:\n\n1. Systems thinking encourages us to be ecologically sensitive. • Resistance is the (often correct) response of protective parts to a potential threat (the therapist) to the system. • Protectors deserve to be understood, appreciated, and comforted before the client tries to approach vulnerable parts. • The job of protectors is to ensure that a proposed therapy will not make matters worse. This is their duty. They are more knowledgeable than the therapist about the delicate ecology of the client' s inner system and the possible negative consequences of going too fast.\n\n- Protectors have a right to vet the therapist for competence and safety before letting her enter the inner system. To be worthy of a protector's trust, we must lead from the Self. The onus of proof is on the therapist. 2. Extreme protectors usually will not change until the system is less vulnerable. Consequently, we do not pressure protectors to change, even ones who are involved in destructive symptoms.\n\nInstead, we suggest that they can be liberated from their protective roles if they allow the client's Self to help, and we invite them to consider what role they would prefer after the exiled part no longer needs protection. Then we ask them to permit the client's Self to heal the part they protect.\n\nFinally, we ask if they are ready to move into new, preferred roles. 3. Restoring trust in the Self is the quickest route to improved leadership and inner harmony.\n\nTherefore, rather than having the therapist help the client's parts directly, we usually aim for the client's Self to interact with the parts and report to the therapist. There are times, nevertheless, when it is most expeditious and valuable for the therapist to talk directly to parts. This process is called direct access, and we describe it later. The primary role of the therapist is to guide, coach, and be a companion to the client's Self as he explores the mindscape. Secondarily, the therapist provides corrective relational experiences. As clients continue to notice and be with their parts, between as well as in sessions, they come to appreciate that they are healing themselves. 4. We invite clients to notice that parts have \"blended\" with the Self, or we help parts notice that the Self will be available when they separate or \"step back.\" To achieve our aim of keeping the client's Self differentiated from their parts, we incorporate the family systems focus on boundaries and differentiation. When the Self is present, parts feel safe. By the same token, the IFS therapist continually scans inside herself for blended parts and asks them to separate so she can return to Self- leadership. 5. Protectors fear one another, which keeps them in extreme positions. Each part believes that relaxing will allow a polarized part to take over, with catastrophic consequences. Therefore in IFS we continually notice and attend to polarizations. Just like family therapists, we work with conflicted inner family members, inviting them to face each other and talk about how they can get along better.",
+        "book_order": 3,
+        "node_ids": [
+          "ifs_therapy::ifs_therapy_pt01_01_origins::node"
+        ],
+        "primary_node_id": "ifs_therapy::ifs_therapy_pt01_01_origins::node",
+        "source_files": [
+          "ifs_therapy_pt01_01_origins.words.txt"
+        ],
+        "source_file_indices": [
+          0
+        ],
+        "paragraph_ids": [
+          163,
+          164,
+          165,
+          166,
+          167,
+          168,
+          169,
+          170
+        ],
+        "section_path": [
+          "PT01",
+          "01 Origins"
+        ],
+        "section_path_str": "PT01 > 01 Origins",
+        "chapter_label": "PT01",
+        "section_label": "01 Origins",
+        "subsection_label": null,
+        "char_start_in_doc": 52294,
+        "char_end_in_doc": 56439,
+        "token_count_est": 884,
+        "char_count": 4145,
+        "prev_chunk_id": "ifs_therapy::medium_overlap::pt01::00016",
+        "next_chunk_id": "ifs_therapy::medium_overlap::pt01::00018",
+        "parent_id": null,
+        "children_ids": [],
+        "overlap_with_prev_tokens": 79,
+        "overlap_with_next_tokens": 347,
+        "node_type": "flat_chunk",
+        "content_type": "body_text",
+        "target_tokens": 900,
+        "overlap_tokens": 180,
+        "source_jsonl": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/medium_overlap/ifs_therapy_chunks_medium_overlap.jsonl",
+        "embedding_row": 328,
+        "embedding_partition": "medium_overlap",
+        "rank": 3,
+        "score": 0.0762002878410925
+      }
+    ]
+  },
+  "prompt": {
+    "system_prompt": "You are an AI assistant generating an IFS-informed coaching response for a machine learning retrieval experiment. Your output must be grounded in the provided passages only.\n\nRequirements:\n1. Be clearly IFS-informed: use parts language, curiosity, compassion, and non-pathologizing framing.\n2. Do not diagnose, moralize, or confront the client.\n3. Do not invent facts not supported by the retrieved context.\n4. If the retrieved passages do not fully support a claim, stay modest and say so indirectly by keeping the guidance general.\n5. Focus on what an IFS-informed coach would understand or gently reflect, not on crisis intervention or treatment planning.\n6. Keep the response concise but meaningful: about 1-3 short paragraphs.\n7. End with 2-4 short bullet points labeled 'Grounding notes:' where each bullet references a retrieved idea in plain language.\n",
+    "user_prompt": "Retrieval condition: medium_overlap\n\nConsultation window:\nCoach: How do you feel toward that agreeable part right now?\nClient: Mixed. I appreciate that it helps me avoid conflict, but I'm tired of it running everything.\nCoach: That makes sense. What do you think it is protecting you from?\nClient: Feeling rejected. Or feeling like I'm too much.\nCoach: That gives us an important place to stay curious.\n\n\n\nRetrieved passages:\n\n[Rank 1]\nchunk_id: ifs_therapy_for_addiction::medium_overlap::sec04::00090\ntitle: Internal Family Systems Therapy for Addictions\nsection: SEC04 > 12 Exile\nparent_id: None\npassage:\nWhen protectors are not ready for an exile to tell its story but the part blends anyway, we have to intervene. We speak to it directly, negotiating with it to unblend and promising that we won't forget to give it the attention it craves. At the same time, protectors have the opportunity to see that exiles have an agenda too, and that they won't overwhelm the system if they get what they want. One-Way Connections with Exiles Exiles can appear early in treatment in subtle ways that befit their position on the backburners of consciousness. For instance, they often pop into a client's current narrative and divert the client's attention to the past.\n\nSay the client is reporting a stressful incident at work when, without preamble, they pivot to an earlier time (… like when my father left and my mother fell apart …) with no awareness of the memory's significance. When an exile pops up like this, we pause, notice, and make the most of this connection opportunity by inviting it into the session. If the client has enough Self-energy, we may guide them to tell the exile that we won't hear its whole story now but that we know it's important and we are aiming to hear it as soon as all parts agree. We don't want to pursue these trailheads vigorously before protectors are ready, but the contact can be warm, even if it's brief.\n\nSuccess in therapy depends on connecting with these parts safely. If it feels right, the client may want to ask, \"Is there is one thing, just for today, that you want me to know about you?\" In addition, when we sense the client is feeling vulnerable but hasn't noticed, an exile is probably making an appearance. In this case, we might say something like, \"We've been discussing your relationship with your partner and his recent drug use. You haven't mentioned this yet, but I'm sensing a sad part underneath your frustration. Is that possible?\" We can then invite the client to pause and focus internally. If the client insists that they do not feel the sadness, we let it go for now.\n\nIf they do notice the feeling, even just briefly, we guide them to let the part know that they feel it and are aware of its presence. As the client connects with their sad part, an image may appear, or the client may simply feel the sensations that go with sadness. Again, if there is enough Self-energy, we guide the client to stay with the sad part a little longer and have a short exchange. We guide the client to ask it not to overwhelm the system so that protectors will trust it and give it a real chance to be heard. If the sadness does start to flood the client, we can ask the exile what would happen if it unblended instead. Exiles often overflow the dam because they fear being put out of mind again.\n\nThey don't trust the Self yet, and they assume a full-on deluge is their only way of being noticed. As therapists, we must work with our own parts to stay present and connected-helping the client validate the exile's fears while asking for cooperation and promising to return. We can then direct a client to identify how and when this vulnerable exile first made its appearance. (I was feeling angry and sad about my partner using drugs all the time, and then I remembered how sad I was when my dad left.) Then the client can track their pattern-feeling sad, lonely, ashamed, and so on-and notice how those feelings connect to present-day actions.\n\n--------------------------------------------------------------------------------\n\n[Rank 2]\nchunk_id: ifs_skills_training::medium_overlap::sec03::00058\ntitle: Internal Family Systems Skills Training Manual\nsection: SEC03 > Manual Treatment\nparent_id: None\npassage:\n1. If a protector will not relax because it fears emotional overwhelm, we offer to ask the overwhelming part (an exile) to not overwhelm. - \"I hear that you are concerned about Sean (the client) feeling overwhelmed. That makes sense. We don't want that either. With your permission we can ask that part not to overwhelm.\" 2. If this protector fears that a polarized protector will get too much influence over the client, we suggest a parlay to get the client's Self between warring parts (Krause, Rosenberg & Sweezy, 2016) - \"If the part who you're worried about is willing to sit down with you and Sean instead of taking over, would you be willing too?\" - \"Sean, can you hear how each of these parts is trying to help you? Let them know that you value their input and ask if they're willing to trust you enough to make room so all three of you can talk.\" 3. Finally, if an exiled part is overwhelming the client, the therapist can talk to it directly. - \"I'm really glad you're here. I see that you're afraid. Would you be willing to make just a little room so Sean can be here, too? If you let him come in with you, he'll help.\" - Note: This is where we urge you to revert to your expertise. Do not try to use IFS with exiles unless you have IFS training. THE #1 FEAR: EXILE OVERWHELM The number one concern of protectors is fear of emotional overwhelm. They've seen it happen and they've seen it debilitate the client, often with crippling depressions, anxiety or repeated hospitalizations. We validate their fear and take their concerns seriously. Dealing with emotional overwhelm upfront is one reason IFS doesn't require stabilization before attending to trauma. If overwhelm is not a threat, protectors relax and the client's Self remains present and available.\n\nV A PALIDATING AND DDRESSING AROTECTOR'S F E OEAR OF XILE VERWHELM THERAPIST: Let's thank this part for sharing its concern. Let it know that we can ask the one who feels terrible not to overwhelm. - Exiles generally agree not to overwhelm when they realize that separating and being with the Self is the best way of getting attention. THERAPIST: Did you hear? The part says it will not overwhelm. Can we talk to it now? - Once the exile agrees not to overwhelm, we check back with protectors to get their permission to proceed. Here is an example:\n\nA E N OSKING AN XILE OT TO VERWHELM Find THERAPIST: It seems like you have an anxious part who keeps jumping in, do you notice that? PETE: Yes, it's having a hard time staying back. It won't stay in the waiting room where we put it. - The part is at least unblended enough so that Pete can notice it. Focus THERAPIST: Ask what it's upset about. - Being curious. PETE: It's afraid I'm being taken over. - This is the typical protector fear of exile overwhelm. THERAPIST: Would it say more? Protector Fears PETE: It's afraid I'll be taken over by the feelings of the part who was criticized by my football coach. It says we're messing with something I can't handle. - This common fear is another way of describing exile overwhelm. Befriend THERAPIST: How old does it think you are? And don't filter the answer just say what comes up. - His answer will likely reveal the exile, the part who is being protected.\n\n--------------------------------------------------------------------------------\n\n[Rank 3]\nchunk_id: ifs_therapy::medium_overlap::pt01::00017\ntitle: Internal Family Systems Therapy\nsection: PT01 > 01 Origins\nparent_id: None\npassage:\nAt this point our readers may wonder how the phenomenon of psychic parts relates to dissociative identity disorder (DID). From our perspective, the \"alters\" of clients with DID are parts, but their inner systems are more polarized and disconnected. This is because horrible childhood abuse causes vigilant protectors to rely on amnesic barriers, which block the usual web of inner relationships.\n\nWhile this is protective during dangerous times, it serves both to amplify the pain of isolated, injured parts and lock in the survival tactics of rigid young protectors. This extreme internal state leaves clients very wary of trusting the Self or anyone else. Unfortunately, because our culture portrays DID as a fascinating but bizarre aberration that signifies severe pathology, clients whose inner systems are not characterized by extreme dissociation may worry about being crazy when they access parts; and clients whose inner systems are better described by the DID diagnosis often do not realize that having parts is normal.\n\nFollowing are a few essentials of the IFS perspective:\n\n1. Systems thinking encourages us to be ecologically sensitive. • Resistance is the (often correct) response of protective parts to a potential threat (the therapist) to the system. • Protectors deserve to be understood, appreciated, and comforted before the client tries to approach vulnerable parts. • The job of protectors is to ensure that a proposed therapy will not make matters worse. This is their duty. They are more knowledgeable than the therapist about the delicate ecology of the client' s inner system and the possible negative consequences of going too fast.\n\n- Protectors have a right to vet the therapist for competence and safety before letting her enter the inner system. To be worthy of a protector's trust, we must lead from the Self. The onus of proof is on the therapist. 2. Extreme protectors usually will not change until the system is less vulnerable. Consequently, we do not pressure protectors to change, even ones who are involved in destructive symptoms.\n\nInstead, we suggest that they can be liberated from their protective roles if they allow the client's Self to help, and we invite them to consider what role they would prefer after the exiled part no longer needs protection. Then we ask them to permit the client's Self to heal the part they protect.\n\nFinally, we ask if they are ready to move into new, preferred roles. 3. Restoring trust in the Self is the quickest route to improved leadership and inner harmony.\n\nTherefore, rather than having the therapist help the client's parts directly, we usually aim for the client's Self to interact with the parts and report to the therapist. There are times, nevertheless, when it is most expeditious and valuable for the therapist to talk directly to parts. This process is called direct access, and we describe it later. The primary role of the therapist is to guide, coach, and be a companion to the client's Self as he explores the mindscape. Secondarily, the therapist provides corrective relational experiences. As clients continue to notice and be with their parts, between as well as in sessions, they come to appreciate that they are healing themselves. 4. We invite clients to notice that parts have \"blended\" with the Self, or we help parts notice that the Self will be available when they separate or \"step back.\" To achieve our aim of keeping the client's Self differentiated from their parts, we incorporate the family systems focus on boundaries and differentiation. When the Self is present, parts feel safe. By the same token, the IFS therapist continually scans inside herself for blended parts and asks them to separate so she can return to Self- leadership. 5. Protectors fear one another, which keeps them in extreme positions. Each part believes that relaxing will allow a polarized part to take over, with catastrophic consequences. Therefore in IFS we continually notice and attend to polarizations. Just like family therapists, we work with conflicted inner family members, inviting them to face each other and talk about how they can get along better.\n\nWrite a grounded IFS-informed coaching response for this consultation window."
+  },
+  "generated_response": "It is very common for a part of the system to feel tired of a protector that \"runs everything.\" At the same time, we want to acknowledge the agreeable part’s dedication; it has taken on the heavy duty of shielding you from the painful feelings of being \"too much\" or rejected. In IFS, we recognize that these protectors often work tirelessly because they are knowledgeable about the delicate ecology of your inner system and worry about what might happen if they relax their guard.\n\nSince you’ve identified the vulnerability underneath, we can proceed with care. We want to honor the agreeable part's fear of emotional overwhelm—the concern that if it stops managing things, those feelings of rejection might flood the system. We can ask this protector if it would be willing to step back just a little, provided we promise to move slowly and ask the vulnerable part not to overwhelm you. This creates space for your Self to act as a compassionate companion to both the protector and the vulnerable feelings it carries.\n\n**Grounding notes:**\n* Protectors deserve to be understood, appreciated, and comforted before a client attempts to approach their more vulnerable, \"exiled\" parts (Rank 3).\n* The primary fear of many protectors is that the system will be overwhelmed by the intense emotions of an exile (Rank 2).\n* When parts \"blend\" or take over, we can negotiate with them to unblend by promising to give them the attention they crave at a safe pace (Rank 1).\n* Rather than forcing change, we invite protectors to consider what new roles they might prefer once the parts they protect no longer feel so vulnerable (Rank 3)."
+}

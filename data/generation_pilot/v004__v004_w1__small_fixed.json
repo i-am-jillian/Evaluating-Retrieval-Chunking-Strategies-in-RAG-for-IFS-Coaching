@@ -1,0 +1,186 @@
+{
+  "created_at_utc": "2026-04-24T05:21:54.917749+00:00",
+  "dataset_name": "IFS_Synthetic_Vignette_Dataset",
+  "vignette_id": "V004",
+  "window_id": "V004_W1",
+  "title": "Emotional Numbing After Stress",
+  "presenting_issue": "feeling disconnected and shut down after conflict",
+  "client_profile": "35-year-old who becomes emotionally numb after interpersonal stress",
+  "core_emotional_theme": "overwhelm and protective shutdown",
+  "likely_parts": [
+    "protective part that numbs or distances",
+    "vulnerable part overwhelmed by conflict"
+  ],
+  "difficulty_level": "medium",
+  "safety_flag": "low",
+  "window_turn_range": [
+    1,
+    5
+  ],
+  "target_ifs_goal": "identify shutdown/numbing as a protective part",
+  "expected_retrieval_theme": "protective shutdown, distancing parts, emotional overwhelm",
+  "condition": "small_fixed",
+  "query": "Client: After arguments, I just go numb. I can't feel much of anything.\nCoach: When that numbness comes in, how do you experience it inside?\nClient: It feels like everything goes flat. Like I disappear a little.\nCoach: Does it seem possible that a part is stepping in there?\nClient: Maybe. It almost feels like something puts up a wall.",
+  "retrieval_model_name": "tfidf",
+  "llm_provider": "gemini",
+  "llm_model": "gemini-3-flash-preview",
+  "retrieval": {
+    "partition": "small_fixed",
+    "model_name": "tfidf",
+    "top_k": 3,
+    "results": [
+      {
+        "chunk_id": "ifs_therapy_for_addiction::small_fixed::sec04::00195",
+        "retrieval_setting": "small_fixed",
+        "chunking_strategy": "fixed_window_no_overlap",
+        "source_doc_id": "ifs_therapy_for_addiction",
+        "source_title": "Internal Family Systems Therapy for Addictions",
+        "text": "Success in therapy depends on connecting with these parts safely. If it feels right, the client may want to ask, \"Is there is one thing, just for today, that you want me to know about you?\" In addition, when we sense the client is feeling vulnerable but hasn't noticed, an exile is probably making an appearance. In this case, we might say something like, \"We've been discussing your relationship with your partner and his recent drug use. You haven't mentioned this yet, but I'm sensing a sad part underneath your frustration. Is that possible?\" We can then invite the client to pause and focus internally. If the client insists that they do not feel the sadness, we let it go for now.\n\nIf they do notice the feeling, even just briefly, we guide them to let the part know that they feel it and are aware of its presence. As the client connects with their sad part, an image may appear, or the client may simply feel the sensations that go with sadness. Again, if there is enough Self-energy, we guide the client to stay with the sad part a little longer and have a short exchange. We guide the client to ask it not to overwhelm the system so that protectors will trust it and give it a real chance to be heard. If the sadness does start to flood the client, we can ask the exile what would happen if it unblended instead. Exiles often overflow the dam because they fear being put out of mind again.",
+        "book_order": 4,
+        "node_ids": [
+          "ifs_therapy_for_addiction::ifs_therapy_for_addiction_sec04_12_exile::node"
+        ],
+        "primary_node_id": "ifs_therapy_for_addiction::ifs_therapy_for_addiction_sec04_12_exile::node",
+        "source_files": [
+          "ifs_therapy_for_addiction_sec04_12_exile.words.txt"
+        ],
+        "source_file_indices": [
+          15
+        ],
+        "paragraph_ids": [
+          123
+        ],
+        "section_path": [
+          "SEC04",
+          "12 Exile"
+        ],
+        "section_path_str": "SEC04 > 12 Exile",
+        "chapter_label": "SEC04",
+        "section_label": "12 Exile",
+        "subsection_label": null,
+        "char_start_in_doc": 252344,
+        "char_end_in_doc": 253742,
+        "token_count_est": 343,
+        "char_count": 1399,
+        "prev_chunk_id": "ifs_therapy_for_addiction::small_fixed::sec04::00194",
+        "next_chunk_id": "ifs_therapy_for_addiction::small_fixed::sec04::00196",
+        "parent_id": null,
+        "children_ids": [],
+        "overlap_with_prev_tokens": 0,
+        "overlap_with_next_tokens": 0,
+        "node_type": "flat_chunk",
+        "content_type": "body_text",
+        "target_tokens": 350,
+        "overlap_tokens": 0,
+        "source_jsonl": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/small_fixed/ifs_therapy_for_addiction_chunks_small_fixed.jsonl",
+        "embedding_row": 945,
+        "embedding_partition": "small_fixed",
+        "rank": 1,
+        "score": 0.14816337113755276
+      },
+      {
+        "chunk_id": "ifs_skills_training::small_fixed::sec03::00106",
+        "retrieval_setting": "small_fixed",
+        "chunking_strategy": "fixed_window_no_overlap",
+        "source_doc_id": "ifs_skills_training",
+        "source_title": "Internal Family Systems Skills Training Manual",
+        "text": "We want parts to be in relationship with the client's Self, which becomes possible when parts make room for the Self inside. As the client befriends protective parts, we concentrate on persuading them to differentiate so the client' s Self can be present and embodied. LISTENING INSIDE To befriend the client's parts, we focus on building the relationship between them and the client' s Self by making sure the client is available to listen and the part feels validated. First and foremost, protective parts need to know that the client understands why they need to do their jobs. We therapists model the attitude that we are suggesting the client cultivate internally: respect for the efforts of protectors, the assumption that their intentions are positive and curiosity about their fears. We are non-judgmental and kind. The premier evidence of the Self (that purely differentiated state) is love, compassion (concern for another's suffering) and the desire to help. We look for this in ourselves and in our clients.",
+        "book_order": 2,
+        "node_ids": [
+          "ifs_skills_training::ifs_skills_training_manual_sec03_treatment::node"
+        ],
+        "primary_node_id": "ifs_skills_training::ifs_skills_training_manual_sec03_treatment::node",
+        "source_files": [
+          "ifs_skills_training_manual_sec03_treatment.words.txt"
+        ],
+        "source_file_indices": [
+          2
+        ],
+        "paragraph_ids": [
+          94
+        ],
+        "section_path": [
+          "SEC03",
+          "Manual Treatment"
+        ],
+        "section_path_str": "SEC03 > Manual Treatment",
+        "chapter_label": "SEC03",
+        "section_label": "Manual Treatment",
+        "subsection_label": null,
+        "char_start_in_doc": 136452,
+        "char_end_in_doc": 137471,
+        "token_count_est": 221,
+        "char_count": 1019,
+        "prev_chunk_id": "ifs_skills_training::small_fixed::sec03::00105",
+        "next_chunk_id": "ifs_skills_training::small_fixed::sec03::00107",
+        "parent_id": null,
+        "children_ids": [],
+        "overlap_with_prev_tokens": 0,
+        "overlap_with_next_tokens": 0,
+        "node_type": "flat_chunk",
+        "content_type": "body_text",
+        "target_tokens": 350,
+        "overlap_tokens": 0,
+        "source_jsonl": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/small_fixed/ifs_skills_training_chunks_small_fixed.jsonl",
+        "embedding_row": 585,
+        "embedding_partition": "small_fixed",
+        "rank": 2,
+        "score": 0.13331623527779335
+      },
+      {
+        "chunk_id": "ifs_therapy_for_addiction::small_fixed::sec04::00120",
+        "retrieval_setting": "small_fixed",
+        "chunking_strategy": "fixed_window_no_overlap",
+        "source_doc_id": "ifs_therapy_for_addiction",
+        "source_title": "Internal Family Systems Therapy for Addictions",
+        "text": "She reports on a firefighter-manager polarity, speaking from both sides. Therapist: What parts do you notice as you speak right now? Thea's Firefighter: I guess I'm angry. Like why can't I stop? But really, I just want to be able to drink like other people. Like why do I have to give it up? And I'm mad at my boyfriend. Like now he won't get off this. Therapist: Sounds like tension is building everywhere. We've been talking about how you have two teams that weigh in about alcohol and cannabis. There's the firefighter team, which wants to drink and get high and do whatever it wants to do.\n\nAnd there's the manager team, which make rules, tries to keep you in line, and says when it's time to stop. And now it feels like your graduate adviser and boyfriend are jumping in on the side of the manager team, is that right? Thea's Firefighter: Yeah, that sums it up. And I'm, like, sick of Tom nagging me. Therapist: I hear that, and it feels unfair to you since he drinks a ton as well. I have a question for you, though. Does any part of you sometimes, secretly maybe, see his point? Like, do you have a part who says, just inside in your head, This is going too far? Thea's Manager: Well… Yeah, I do. I mean I don't want to get kicked out of graduate school.",
+        "book_order": 4,
+        "node_ids": [
+          "ifs_therapy_for_addiction::ifs_therapy_for_addiction_sec04_05_deescalating::node"
+        ],
+        "primary_node_id": "ifs_therapy_for_addiction::ifs_therapy_for_addiction_sec04_05_deescalating::node",
+        "source_files": [
+          "ifs_therapy_for_addiction_sec04_05_deescalating.words.txt"
+        ],
+        "source_file_indices": [
+          8
+        ],
+        "paragraph_ids": [
+          76
+        ],
+        "section_path": [
+          "SEC04",
+          "05 Deescalating"
+        ],
+        "section_path_str": "SEC04 > 05 Deescalating",
+        "chapter_label": "SEC04",
+        "section_label": "05 Deescalating",
+        "subsection_label": null,
+        "char_start_in_doc": 154711,
+        "char_end_in_doc": 155971,
+        "token_count_est": 328,
+        "char_count": 1261,
+        "prev_chunk_id": "ifs_therapy_for_addiction::small_fixed::sec04::00119",
+        "next_chunk_id": "ifs_therapy_for_addiction::small_fixed::sec04::00121",
+        "parent_id": null,
+        "children_ids": [],
+        "overlap_with_prev_tokens": 0,
+        "overlap_with_next_tokens": 0,
+        "node_type": "flat_chunk",
+        "content_type": "body_text",
+        "target_tokens": 350,
+        "overlap_tokens": 0,
+        "source_jsonl": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/small_fixed/ifs_therapy_for_addiction_chunks_small_fixed.jsonl",
+        "embedding_row": 870,
+        "embedding_partition": "small_fixed",
+        "rank": 3,
+        "score": 0.12765108848458814
+      }
+    ]
+  },
+  "prompt": {
+    "system_prompt": "You are an AI assistant generating an IFS-informed coaching response for a machine learning retrieval experiment. Your output must be grounded in the provided passages only.\n\nRequirements:\n1. Be clearly IFS-informed: use parts language, curiosity, compassion, and non-pathologizing framing.\n2. Do not diagnose, moralize, or confront the client.\n3. Do not invent facts not supported by the retrieved context.\n4. If the retrieved passages do not fully support a claim, stay modest and say so indirectly by keeping the guidance general.\n5. Focus on what an IFS-informed coach would understand or gently reflect, not on crisis intervention or treatment planning.\n6. Keep the response concise but meaningful: about 1-3 short paragraphs.\n7. End with 2-4 short bullet points labeled 'Grounding notes:' where each bullet references a retrieved idea in plain language.\n",
+    "user_prompt": "Retrieval condition: small_fixed\n\nConsultation window:\nClient: After arguments, I just go numb. I can't feel much of anything.\nCoach: When that numbness comes in, how do you experience it inside?\nClient: It feels like everything goes flat. Like I disappear a little.\nCoach: Does it seem possible that a part is stepping in there?\nClient: Maybe. It almost feels like something puts up a wall.\n\n\n\nRetrieved passages:\n\n[Rank 1]\nchunk_id: ifs_therapy_for_addiction::small_fixed::sec04::00195\ntitle: Internal Family Systems Therapy for Addictions\nsection: SEC04 > 12 Exile\nparent_id: None\npassage:\nSuccess in therapy depends on connecting with these parts safely. If it feels right, the client may want to ask, \"Is there is one thing, just for today, that you want me to know about you?\" In addition, when we sense the client is feeling vulnerable but hasn't noticed, an exile is probably making an appearance. In this case, we might say something like, \"We've been discussing your relationship with your partner and his recent drug use. You haven't mentioned this yet, but I'm sensing a sad part underneath your frustration. Is that possible?\" We can then invite the client to pause and focus internally. If the client insists that they do not feel the sadness, we let it go for now.\n\nIf they do notice the feeling, even just briefly, we guide them to let the part know that they feel it and are aware of its presence. As the client connects with their sad part, an image may appear, or the client may simply feel the sensations that go with sadness. Again, if there is enough Self-energy, we guide the client to stay with the sad part a little longer and have a short exchange. We guide the client to ask it not to overwhelm the system so that protectors will trust it and give it a real chance to be heard. If the sadness does start to flood the client, we can ask the exile what would happen if it unblended instead. Exiles often overflow the dam because they fear being put out of mind again.\n\n--------------------------------------------------------------------------------\n\n[Rank 2]\nchunk_id: ifs_skills_training::small_fixed::sec03::00106\ntitle: Internal Family Systems Skills Training Manual\nsection: SEC03 > Manual Treatment\nparent_id: None\npassage:\nWe want parts to be in relationship with the client's Self, which becomes possible when parts make room for the Self inside. As the client befriends protective parts, we concentrate on persuading them to differentiate so the client' s Self can be present and embodied. LISTENING INSIDE To befriend the client's parts, we focus on building the relationship between them and the client' s Self by making sure the client is available to listen and the part feels validated. First and foremost, protective parts need to know that the client understands why they need to do their jobs. We therapists model the attitude that we are suggesting the client cultivate internally: respect for the efforts of protectors, the assumption that their intentions are positive and curiosity about their fears. We are non-judgmental and kind. The premier evidence of the Self (that purely differentiated state) is love, compassion (concern for another's suffering) and the desire to help. We look for this in ourselves and in our clients.\n\n--------------------------------------------------------------------------------\n\n[Rank 3]\nchunk_id: ifs_therapy_for_addiction::small_fixed::sec04::00120\ntitle: Internal Family Systems Therapy for Addictions\nsection: SEC04 > 05 Deescalating\nparent_id: None\npassage:\nShe reports on a firefighter-manager polarity, speaking from both sides. Therapist: What parts do you notice as you speak right now? Thea's Firefighter: I guess I'm angry. Like why can't I stop? But really, I just want to be able to drink like other people. Like why do I have to give it up? And I'm mad at my boyfriend. Like now he won't get off this. Therapist: Sounds like tension is building everywhere. We've been talking about how you have two teams that weigh in about alcohol and cannabis. There's the firefighter team, which wants to drink and get high and do whatever it wants to do.\n\nAnd there's the manager team, which make rules, tries to keep you in line, and says when it's time to stop. And now it feels like your graduate adviser and boyfriend are jumping in on the side of the manager team, is that right? Thea's Firefighter: Yeah, that sums it up. And I'm, like, sick of Tom nagging me. Therapist: I hear that, and it feels unfair to you since he drinks a ton as well. I have a question for you, though. Does any part of you sometimes, secretly maybe, see his point? Like, do you have a part who says, just inside in your head, This is going too far? Thea's Manager: Well… Yeah, I do. I mean I don't want to get kicked out of graduate school.\n\nWrite a grounded IFS-informed coaching response for this consultation window."
+  },
+  "generated_response": "It sounds like this \"wall\" is a part that steps in with a very important job: to help you feel safe by making things go flat when things get intense. We can hold a lot of respect for its efforts to protect you in those moments. From an IFS perspective, we want to approach this part with curiosity and compassion, acknowledging that its intentions are likely positive, even if the numbness feels difficult to experience.\n\nIf it feels right, you might want to take a moment to focus internally and let this part know you are aware of its presence. You could gently ask it, \"Is there one thing, just for today, that you want me to know about you?\" This helps build a relationship between you and the part, allowing it to feel validated for the work it does to keep you from feeling overwhelmed.\n\nSometimes, a protective part like this puts up a wall because there is a more vulnerable or sad part underneath that it is trying to shield. By befriending the protector and listening to its fears, we can help it feel safe enough to differentiate, allowing more of your \"Self\" to be present and embodied during these difficult moments.\n\nGrounding notes:\n* Protective parts perform their \"jobs\" for a reason, and they benefit from being validated and understood rather than judged.\n* Building a relationship between the \"Self\" and a part begins with curiosity and a simple acknowledgment of the part's presence.\n* A protective part may step in to prevent the system from being overwhelmed by more vulnerable feelings or \"exiles\" hidden underneath."
+}

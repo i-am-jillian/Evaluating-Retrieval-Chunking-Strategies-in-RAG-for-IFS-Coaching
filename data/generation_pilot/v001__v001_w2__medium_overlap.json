@@ -1,0 +1,188 @@
+{
+  "created_at_utc": "2026-04-23T07:38:58.679236+00:00",
+  "dataset_name": "IFS_Synthetic_Vignette_Dataset",
+  "vignette_id": "V001",
+  "window_id": "V001_W2",
+  "title": "Work Avoidance and Fear of Failure",
+  "presenting_issue": "procrastination and shutting down around academic work",
+  "client_profile": "27-year-old graduate student who avoids assignments and email when overwhelmed",
+  "core_emotional_theme": "fear of failure and shame",
+  "likely_parts": [
+    "protector/manager part that avoids work to prevent failure",
+    "vulnerable part carrying shame and inadequacy"
+  ],
+  "difficulty_level": "medium",
+  "safety_flag": "low",
+  "window_turn_range": [
+    5,
+    10
+  ],
+  "target_ifs_goal": "deepen curiosity toward a protector and reduce frustration toward it",
+  "expected_retrieval_theme": "protectors, fear of failure, curiosity toward parts, unblending",
+  "condition": "medium_overlap",
+  "query": "Client: It feels scared. Like if I really try and fail, that would prove I'm not good enough.\nCoach: So there may be a part trying to protect you from that feeling?\nClient: Yeah, that actually fits. It's like it would rather avoid everything than risk that.\nCoach: How do you feel toward that part as you notice it now?\nClient: Honestly, frustrated. But also kind of sad for it.\nCoach: That's helpful to notice. There may be room to get curious about what it has been trying to do for you.",
+  "retrieval_model_name": "tfidf",
+  "llm_provider": "gemini",
+  "llm_model": "gemini-3-flash-preview",
+  "retrieval": {
+    "partition": "medium_overlap",
+    "model_name": "tfidf",
+    "top_k": 3,
+    "results": [
+      {
+        "chunk_id": "ifs_therapy_for_addiction::medium_overlap::sec04::00090",
+        "retrieval_setting": "medium_overlap",
+        "chunking_strategy": "fixed_window_with_overlap",
+        "source_doc_id": "ifs_therapy_for_addiction",
+        "source_title": "Internal Family Systems Therapy for Addictions",
+        "text": "When protectors are not ready for an exile to tell its story but the part blends anyway, we have to intervene. We speak to it directly, negotiating with it to unblend and promising that we won't forget to give it the attention it craves. At the same time, protectors have the opportunity to see that exiles have an agenda too, and that they won't overwhelm the system if they get what they want. One-Way Connections with Exiles Exiles can appear early in treatment in subtle ways that befit their position on the backburners of consciousness. For instance, they often pop into a client's current narrative and divert the client's attention to the past.\n\nSay the client is reporting a stressful incident at work when, without preamble, they pivot to an earlier time (… like when my father left and my mother fell apart …) with no awareness of the memory's significance. When an exile pops up like this, we pause, notice, and make the most of this connection opportunity by inviting it into the session. If the client has enough Self-energy, we may guide them to tell the exile that we won't hear its whole story now but that we know it's important and we are aiming to hear it as soon as all parts agree. We don't want to pursue these trailheads vigorously before protectors are ready, but the contact can be warm, even if it's brief.\n\nSuccess in therapy depends on connecting with these parts safely. If it feels right, the client may want to ask, \"Is there is one thing, just for today, that you want me to know about you?\" In addition, when we sense the client is feeling vulnerable but hasn't noticed, an exile is probably making an appearance. In this case, we might say something like, \"We've been discussing your relationship with your partner and his recent drug use. You haven't mentioned this yet, but I'm sensing a sad part underneath your frustration. Is that possible?\" We can then invite the client to pause and focus internally. If the client insists that they do not feel the sadness, we let it go for now.\n\nIf they do notice the feeling, even just briefly, we guide them to let the part know that they feel it and are aware of its presence. As the client connects with their sad part, an image may appear, or the client may simply feel the sensations that go with sadness. Again, if there is enough Self-energy, we guide the client to stay with the sad part a little longer and have a short exchange. We guide the client to ask it not to overwhelm the system so that protectors will trust it and give it a real chance to be heard. If the sadness does start to flood the client, we can ask the exile what would happen if it unblended instead. Exiles often overflow the dam because they fear being put out of mind again.\n\nThey don't trust the Self yet, and they assume a full-on deluge is their only way of being noticed. As therapists, we must work with our own parts to stay present and connected-helping the client validate the exile's fears while asking for cooperation and promising to return. We can then direct a client to identify how and when this vulnerable exile first made its appearance. (I was feeling angry and sad about my partner using drugs all the time, and then I remembered how sad I was when my dad left.) Then the client can track their pattern-feeling sad, lonely, ashamed, and so on-and notice how those feelings connect to present-day actions.",
+        "book_order": 4,
+        "node_ids": [
+          "ifs_therapy_for_addiction::ifs_therapy_for_addiction_sec04_12_exile::node"
+        ],
+        "primary_node_id": "ifs_therapy_for_addiction::ifs_therapy_for_addiction_sec04_12_exile::node",
+        "source_files": [
+          "ifs_therapy_for_addiction_sec04_12_exile.words.txt"
+        ],
+        "source_file_indices": [
+          15
+        ],
+        "paragraph_ids": [
+          123
+        ],
+        "section_path": [
+          "SEC04",
+          "12 Exile"
+        ],
+        "section_path_str": "SEC04 > 12 Exile",
+        "chapter_label": "SEC04",
+        "section_label": "12 Exile",
+        "subsection_label": null,
+        "char_start_in_doc": 251011,
+        "char_end_in_doc": 254390,
+        "token_count_est": 819,
+        "char_count": 3383,
+        "prev_chunk_id": "ifs_therapy_for_addiction::medium_overlap::sec04::00089",
+        "next_chunk_id": "ifs_therapy_for_addiction::medium_overlap::sec04::00091",
+        "parent_id": null,
+        "children_ids": [],
+        "overlap_with_prev_tokens": 153,
+        "overlap_with_next_tokens": 155,
+        "node_type": "flat_chunk",
+        "content_type": "body_text",
+        "target_tokens": 900,
+        "overlap_tokens": 180,
+        "source_jsonl": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/medium_overlap/ifs_therapy_for_addiction_chunks_medium_overlap.jsonl",
+        "embedding_row": 454,
+        "embedding_partition": "medium_overlap",
+        "rank": 1,
+        "score": 0.1319928401145803
+      },
+      {
+        "chunk_id": "ifs_skills_training::medium_overlap::sec03::00058",
+        "retrieval_setting": "medium_overlap",
+        "chunking_strategy": "fixed_window_with_overlap",
+        "source_doc_id": "ifs_skills_training",
+        "source_title": "Internal Family Systems Skills Training Manual",
+        "text": "1. If a protector will not relax because it fears emotional overwhelm, we offer to ask the overwhelming part (an exile) to not overwhelm. - \"I hear that you are concerned about Sean (the client) feeling overwhelmed. That makes sense. We don't want that either. With your permission we can ask that part not to overwhelm.\" 2. If this protector fears that a polarized protector will get too much influence over the client, we suggest a parlay to get the client's Self between warring parts (Krause, Rosenberg & Sweezy, 2016) - \"If the part who you're worried about is willing to sit down with you and Sean instead of taking over, would you be willing too?\" - \"Sean, can you hear how each of these parts is trying to help you? Let them know that you value their input and ask if they're willing to trust you enough to make room so all three of you can talk.\" 3. Finally, if an exiled part is overwhelming the client, the therapist can talk to it directly. - \"I'm really glad you're here. I see that you're afraid. Would you be willing to make just a little room so Sean can be here, too? If you let him come in with you, he'll help.\" - Note: This is where we urge you to revert to your expertise. Do not try to use IFS with exiles unless you have IFS training. THE #1 FEAR: EXILE OVERWHELM The number one concern of protectors is fear of emotional overwhelm. They've seen it happen and they've seen it debilitate the client, often with crippling depressions, anxiety or repeated hospitalizations. We validate their fear and take their concerns seriously. Dealing with emotional overwhelm upfront is one reason IFS doesn't require stabilization before attending to trauma. If overwhelm is not a threat, protectors relax and the client's Self remains present and available.\n\nV A PALIDATING AND DDRESSING AROTECTOR'S F E OEAR OF XILE VERWHELM THERAPIST: Let's thank this part for sharing its concern. Let it know that we can ask the one who feels terrible not to overwhelm. - Exiles generally agree not to overwhelm when they realize that separating and being with the Self is the best way of getting attention. THERAPIST: Did you hear? The part says it will not overwhelm. Can we talk to it now? - Once the exile agrees not to overwhelm, we check back with protectors to get their permission to proceed. Here is an example:\n\nA E N OSKING AN XILE OT TO VERWHELM Find THERAPIST: It seems like you have an anxious part who keeps jumping in, do you notice that? PETE: Yes, it's having a hard time staying back. It won't stay in the waiting room where we put it. - The part is at least unblended enough so that Pete can notice it. Focus THERAPIST: Ask what it's upset about. - Being curious. PETE: It's afraid I'm being taken over. - This is the typical protector fear of exile overwhelm. THERAPIST: Would it say more? Protector Fears PETE: It's afraid I'll be taken over by the feelings of the part who was criticized by my football coach. It says we're messing with something I can't handle. - This common fear is another way of describing exile overwhelm. Befriend THERAPIST: How old does it think you are? And don't filter the answer just say what comes up. - His answer will likely reveal the exile, the part who is being protected.",
+        "book_order": 2,
+        "node_ids": [
+          "ifs_skills_training::ifs_skills_training_manual_sec03_treatment::node"
+        ],
+        "primary_node_id": "ifs_skills_training::ifs_skills_training_manual_sec03_treatment::node",
+        "source_files": [
+          "ifs_skills_training_manual_sec03_treatment.words.txt"
+        ],
+        "source_file_indices": [
+          2
+        ],
+        "paragraph_ids": [
+          100,
+          101,
+          102
+        ],
+        "section_path": [
+          "SEC03",
+          "Manual Treatment"
+        ],
+        "section_path_str": "SEC03 > Manual Treatment",
+        "chapter_label": "SEC03",
+        "section_label": "Manual Treatment",
+        "subsection_label": null,
+        "char_start_in_doc": 145658,
+        "char_end_in_doc": 148885,
+        "token_count_est": 771,
+        "char_count": 3227,
+        "prev_chunk_id": "ifs_skills_training::medium_overlap::sec03::00057",
+        "next_chunk_id": "ifs_skills_training::medium_overlap::sec03::00059",
+        "parent_id": null,
+        "children_ids": [],
+        "overlap_with_prev_tokens": 416,
+        "overlap_with_next_tokens": 225,
+        "node_type": "flat_chunk",
+        "content_type": "body_text",
+        "target_tokens": 900,
+        "overlap_tokens": 180,
+        "source_jsonl": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/medium_overlap/ifs_skills_training_chunks_medium_overlap.jsonl",
+        "embedding_row": 294,
+        "embedding_partition": "medium_overlap",
+        "rank": 2,
+        "score": 0.10460178365888942
+      },
+      {
+        "chunk_id": "ifs_therapy_for_addiction::medium_overlap::sec01::00008",
+        "retrieval_setting": "medium_overlap",
+        "chunking_strategy": "fixed_window_with_overlap",
+        "source_doc_id": "ifs_therapy_for_addiction",
+        "source_title": "Internal Family Systems Therapy for Addictions",
+        "text": "Blending To practice IFS, you must understand the concept of blending. When a client feels engulfed by a particular feeling or speaks from the perspective of just one part, we say that this part is blended. For example, let's say that a client drinks every day but declares, \"There's no way my drinking is hurting anything!\" The IFS therapist hears this as a firefighter part who loves or feels a need to drink. This part has strong feelings and a big impact, but it does not represent the client's best judgment or their system's majority view. Similarly, let's say a client is struggling with binge eating and is despondent about their nightly eating pattern. They exclaim with disgust, \"I'm terrible-this can't go on.\n\nI have to stop!\" Here, the client is dismayed about eating compulsively but not curious about the function of the eating, which tells the IFS therapist that the client is blended with a judgmental manager as opposed to being connected with their Self. Unblending Parts can show up in one of three ways. First, they may appear as thoughts or ideas. For example, a client may think, I now see that this job is not a good fit for me anymore. Second, they can show up as a physical sensation or an urge. A client may experience a rapid heartbeat, a desire to get away, or a craving to eat, get high, gamble, or watch porn. Third, parts can manifest as a feeling or mood.\n\nFor example, a client may say, \"I've been worried all day\" or \"I feel so sad about my son.\" Since clients are usually not aware of blended parts-but, rather, identify with them-the therapist's primary role in IFS is to be a \"parts detector\" and guide the client in helping the part to unblend. Toward that end, we help clients notice their parts, and then we guide them to persuade a target part that it would benefit by unblending. The therapist might say, \"It sounds like we're hearing from a part of you who is really invested in drinking and can't see any problems. Is that right?\" or \"It sounds like you have one very critical part who is worried about the nighttime eating.\n\nDo you hear that part?\" If the client is able to tune in to the part, the therapist can help them interview it about its intentions and fears. Sometimes, clients are blended with several parts serially, so they float from one thought, feeling, or urge to the next-and these can be contradictory. For example, a client might begin a session with several parts pouring their hearts out: \"I think I need to quit my job. It's not working for me anymore. I wanted to run out of there all week, but I can't afford to. And I'm so worried about what's happening with my daughter when I'm not at the house.\n\nI shouldn't have had so much to drink last night, but I can't sleep anymore, and then this morning I overslept and showed up late!\" When parts fight for center stage within consciousness, emotions mix and thoughts brawl. But whether one part is in the spotlight or several switch in and out, our goal is to make room for the client's Self, which happens when all their parts are willing to unblend. To that end, we ask the client to pick one target part, no matter how many parts the client describes at first. Then we ask, \"How do you feel toward _________ [the target part]?\" Their answer reveals either the presence of other blended parts or, if all parts have unblended, the presence of the client's Self.",
+        "book_order": 4,
+        "node_ids": [
+          "ifs_therapy_for_addiction::ifs_therapy_for_addiction_sec01_overview::node"
+        ],
+        "primary_node_id": "ifs_therapy_for_addiction::ifs_therapy_for_addiction_sec01_overview::node",
+        "source_files": [
+          "ifs_therapy_for_addiction_sec01_overview.words.txt"
+        ],
+        "source_file_indices": [
+          1
+        ],
+        "paragraph_ids": [
+          10
+        ],
+        "section_path": [
+          "SEC01",
+          "Overview"
+        ],
+        "section_path_str": "SEC01 > Overview",
+        "chapter_label": "SEC01",
+        "section_label": "Overview",
+        "subsection_label": null,
+        "char_start_in_doc": 24406,
+        "char_end_in_doc": 27781,
+        "token_count_est": 824,
+        "char_count": 3379,
+        "prev_chunk_id": "ifs_therapy_for_addiction::medium_overlap::sec01::00007",
+        "next_chunk_id": "ifs_therapy_for_addiction::medium_overlap::sec01::00009",
+        "parent_id": null,
+        "children_ids": [],
+        "overlap_with_prev_tokens": 170,
+        "overlap_with_next_tokens": 172,
+        "node_type": "flat_chunk",
+        "content_type": "body_text",
+        "target_tokens": 900,
+        "overlap_tokens": 180,
+        "source_jsonl": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/medium_overlap/ifs_therapy_for_addiction_chunks_medium_overlap.jsonl",
+        "embedding_row": 372,
+        "embedding_partition": "medium_overlap",
+        "rank": 3,
+        "score": 0.10431788499088934
+      }
+    ]
+  },
+  "prompt": {
+    "system_prompt": "You are an AI assistant generating an IFS-informed coaching response for a machine learning retrieval experiment. Your output must be grounded in the provided passages only.\n\nRequirements:\n1. Be clearly IFS-informed: use parts language, curiosity, compassion, and non-pathologizing framing.\n2. Do not diagnose, moralize, or confront the client.\n3. Do not invent facts not supported by the retrieved context.\n4. If the retrieved passages do not fully support a claim, stay modest and say so indirectly by keeping the guidance general.\n5. Focus on what an IFS-informed coach would understand or gently reflect, not on crisis intervention or treatment planning.\n6. Keep the response concise but meaningful: about 1-3 short paragraphs.\n7. End with 2-4 short bullet points labeled 'Grounding notes:' where each bullet references a retrieved idea in plain language.\n",
+    "user_prompt": "Retrieval condition: medium_overlap\n\nConsultation window:\nClient: It feels scared. Like if I really try and fail, that would prove I'm not good enough.\nCoach: So there may be a part trying to protect you from that feeling?\nClient: Yeah, that actually fits. It's like it would rather avoid everything than risk that.\nCoach: How do you feel toward that part as you notice it now?\nClient: Honestly, frustrated. But also kind of sad for it.\nCoach: That's helpful to notice. There may be room to get curious about what it has been trying to do for you.\n\n\n\nRetrieved passages:\n\n[Rank 1]\nchunk_id: ifs_therapy_for_addiction::medium_overlap::sec04::00090\ntitle: Internal Family Systems Therapy for Addictions\nsection: SEC04 > 12 Exile\nparent_id: None\npassage:\nWhen protectors are not ready for an exile to tell its story but the part blends anyway, we have to intervene. We speak to it directly, negotiating with it to unblend and promising that we won't forget to give it the attention it craves. At the same time, protectors have the opportunity to see that exiles have an agenda too, and that they won't overwhelm the system if they get what they want. One-Way Connections with Exiles Exiles can appear early in treatment in subtle ways that befit their position on the backburners of consciousness. For instance, they often pop into a client's current narrative and divert the client's attention to the past.\n\nSay the client is reporting a stressful incident at work when, without preamble, they pivot to an earlier time (… like when my father left and my mother fell apart …) with no awareness of the memory's significance. When an exile pops up like this, we pause, notice, and make the most of this connection opportunity by inviting it into the session. If the client has enough Self-energy, we may guide them to tell the exile that we won't hear its whole story now but that we know it's important and we are aiming to hear it as soon as all parts agree. We don't want to pursue these trailheads vigorously before protectors are ready, but the contact can be warm, even if it's brief.\n\nSuccess in therapy depends on connecting with these parts safely. If it feels right, the client may want to ask, \"Is there is one thing, just for today, that you want me to know about you?\" In addition, when we sense the client is feeling vulnerable but hasn't noticed, an exile is probably making an appearance. In this case, we might say something like, \"We've been discussing your relationship with your partner and his recent drug use. You haven't mentioned this yet, but I'm sensing a sad part underneath your frustration. Is that possible?\" We can then invite the client to pause and focus internally. If the client insists that they do not feel the sadness, we let it go for now.\n\nIf they do notice the feeling, even just briefly, we guide them to let the part know that they feel it and are aware of its presence. As the client connects with their sad part, an image may appear, or the client may simply feel the sensations that go with sadness. Again, if there is enough Self-energy, we guide the client to stay with the sad part a little longer and have a short exchange. We guide the client to ask it not to overwhelm the system so that protectors will trust it and give it a real chance to be heard. If the sadness does start to flood the client, we can ask the exile what would happen if it unblended instead. Exiles often overflow the dam because they fear being put out of mind again.\n\nThey don't trust the Self yet, and they assume a full-on deluge is their only way of being noticed. As therapists, we must work with our own parts to stay present and connected-helping the client validate the exile's fears while asking for cooperation and promising to return. We can then direct a client to identify how and when this vulnerable exile first made its appearance. (I was feeling angry and sad about my partner using drugs all the time, and then I remembered how sad I was when my dad left.) Then the client can track their pattern-feeling sad, lonely, ashamed, and so on-and notice how those feelings connect to present-day actions.\n\n--------------------------------------------------------------------------------\n\n[Rank 2]\nchunk_id: ifs_skills_training::medium_overlap::sec03::00058\ntitle: Internal Family Systems Skills Training Manual\nsection: SEC03 > Manual Treatment\nparent_id: None\npassage:\n1. If a protector will not relax because it fears emotional overwhelm, we offer to ask the overwhelming part (an exile) to not overwhelm. - \"I hear that you are concerned about Sean (the client) feeling overwhelmed. That makes sense. We don't want that either. With your permission we can ask that part not to overwhelm.\" 2. If this protector fears that a polarized protector will get too much influence over the client, we suggest a parlay to get the client's Self between warring parts (Krause, Rosenberg & Sweezy, 2016) - \"If the part who you're worried about is willing to sit down with you and Sean instead of taking over, would you be willing too?\" - \"Sean, can you hear how each of these parts is trying to help you? Let them know that you value their input and ask if they're willing to trust you enough to make room so all three of you can talk.\" 3. Finally, if an exiled part is overwhelming the client, the therapist can talk to it directly. - \"I'm really glad you're here. I see that you're afraid. Would you be willing to make just a little room so Sean can be here, too? If you let him come in with you, he'll help.\" - Note: This is where we urge you to revert to your expertise. Do not try to use IFS with exiles unless you have IFS training. THE #1 FEAR: EXILE OVERWHELM The number one concern of protectors is fear of emotional overwhelm. They've seen it happen and they've seen it debilitate the client, often with crippling depressions, anxiety or repeated hospitalizations. We validate their fear and take their concerns seriously. Dealing with emotional overwhelm upfront is one reason IFS doesn't require stabilization before attending to trauma. If overwhelm is not a threat, protectors relax and the client's Self remains present and available.\n\nV A PALIDATING AND DDRESSING AROTECTOR'S F E OEAR OF XILE VERWHELM THERAPIST: Let's thank this part for sharing its concern. Let it know that we can ask the one who feels terrible not to overwhelm. - Exiles generally agree not to overwhelm when they realize that separating and being with the Self is the best way of getting attention. THERAPIST: Did you hear? The part says it will not overwhelm. Can we talk to it now? - Once the exile agrees not to overwhelm, we check back with protectors to get their permission to proceed. Here is an example:\n\nA E N OSKING AN XILE OT TO VERWHELM Find THERAPIST: It seems like you have an anxious part who keeps jumping in, do you notice that? PETE: Yes, it's having a hard time staying back. It won't stay in the waiting room where we put it. - The part is at least unblended enough so that Pete can notice it. Focus THERAPIST: Ask what it's upset about. - Being curious. PETE: It's afraid I'm being taken over. - This is the typical protector fear of exile overwhelm. THERAPIST: Would it say more? Protector Fears PETE: It's afraid I'll be taken over by the feelings of the part who was criticized by my football coach. It says we're messing with something I can't handle. - This common fear is another way of describing exile overwhelm. Befriend THERAPIST: How old does it think you are? And don't filter the answer just say what comes up. - His answer will likely reveal the exile, the part who is being protected.\n\n--------------------------------------------------------------------------------\n\n[Rank 3]\nchunk_id: ifs_therapy_for_addiction::medium_overlap::sec01::00008\ntitle: Internal Family Systems Therapy for Addictions\nsection: SEC01 > Overview\nparent_id: None\npassage:\nBlending To practice IFS, you must understand the concept of blending. When a client feels engulfed by a particular feeling or speaks from the perspective of just one part, we say that this part is blended. For example, let's say that a client drinks every day but declares, \"There's no way my drinking is hurting anything!\" The IFS therapist hears this as a firefighter part who loves or feels a need to drink. This part has strong feelings and a big impact, but it does not represent the client's best judgment or their system's majority view. Similarly, let's say a client is struggling with binge eating and is despondent about their nightly eating pattern. They exclaim with disgust, \"I'm terrible-this can't go on.\n\nI have to stop!\" Here, the client is dismayed about eating compulsively but not curious about the function of the eating, which tells the IFS therapist that the client is blended with a judgmental manager as opposed to being connected with their Self. Unblending Parts can show up in one of three ways. First, they may appear as thoughts or ideas. For example, a client may think, I now see that this job is not a good fit for me anymore. Second, they can show up as a physical sensation or an urge. A client may experience a rapid heartbeat, a desire to get away, or a craving to eat, get high, gamble, or watch porn. Third, parts can manifest as a feeling or mood.\n\nFor example, a client may say, \"I've been worried all day\" or \"I feel so sad about my son.\" Since clients are usually not aware of blended parts-but, rather, identify with them-the therapist's primary role in IFS is to be a \"parts detector\" and guide the client in helping the part to unblend. Toward that end, we help clients notice their parts, and then we guide them to persuade a target part that it would benefit by unblending. The therapist might say, \"It sounds like we're hearing from a part of you who is really invested in drinking and can't see any problems. Is that right?\" or \"It sounds like you have one very critical part who is worried about the nighttime eating.\n\nDo you hear that part?\" If the client is able to tune in to the part, the therapist can help them interview it about its intentions and fears. Sometimes, clients are blended with several parts serially, so they float from one thought, feeling, or urge to the next-and these can be contradictory. For example, a client might begin a session with several parts pouring their hearts out: \"I think I need to quit my job. It's not working for me anymore. I wanted to run out of there all week, but I can't afford to. And I'm so worried about what's happening with my daughter when I'm not at the house.\n\nI shouldn't have had so much to drink last night, but I can't sleep anymore, and then this morning I overslept and showed up late!\" When parts fight for center stage within consciousness, emotions mix and thoughts brawl. But whether one part is in the spotlight or several switch in and out, our goal is to make room for the client's Self, which happens when all their parts are willing to unblend. To that end, we ask the client to pick one target part, no matter how many parts the client describes at first. Then we ask, \"How do you feel toward _________ [the target part]?\" Their answer reveals either the presence of other blended parts or, if all parts have unblended, the presence of the client's Self.\n\nWrite a grounded IFS-informed coaching response for this consultation window."
+  },
+  "generated_response": "It is very common to feel a mix of emotions like this. When you notice \"frustration\" toward the part that avoids risk, that often signals the presence of another part—sometimes a judgmental manager—reacting to the situation. We can acknowledge that frustration and see if that part is willing to give us a little space so we can better understand the part that is scared of failing.\n\nYou also mentioned feeling \"sad for it,\" which is a wonderful sign that you are connecting with its vulnerability. In IFS, sensing sadness underneath or alongside frustration often suggests that a more vulnerable part, sometimes called an \"exile,\" is making an appearance. We can gently invite that part to share a little more about its fears, asking it to do so in a way that doesn't overwhelm you, so you can remain present and curious.\n\nBy letting these parts know you are aware of them and value their input, they may begin to trust you more. We don't want to rush them; we just want to make enough room for your Self to listen to what they have been trying to do for you.\n\nGrounding notes:\n*   Feeling frustrated toward a part usually indicates that a judgmental part is currently blended with the client (Rank 3).\n*   Sensing sadness beneath other emotions often indicates a vulnerable \"exile\" part is attempting to be noticed (Rank 1).\n*   The primary role of the coach is to act as a \"parts detector\" and help the client guide parts to unblend so Self-energy can emerge (Rank 3).\n*   Parts are more likely to relax and not overwhelm the system when they realize that being with the Self is the best way to be heard (Rank 2)."
+}

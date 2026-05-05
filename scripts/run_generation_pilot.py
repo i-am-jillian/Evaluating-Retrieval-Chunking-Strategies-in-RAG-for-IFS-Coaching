@@ -31,15 +31,15 @@ from experiments.pilot_utils import (
 
 DEFAULT_INDEX_ROOT = "data/test_indexes"
 DEFAULT_EMBED_ROOT = "data/test_embeddings"
-DEFAULT_MODEL_NAME = "BAAI/bge-large-en-v1.5"
+DEFAULT_MODEL_NAME = "tfidf"
 DEFAULT_OUTPUT_DIR = "data/generation_pilot"
 DEFAULT_TOP_K = 3
 DEFAULT_PARENT_TOP_K = 3
 DEFAULT_CHILD_TOP_K_PER_PARENT = 2
 DEFAULT_FINAL_TOP_K = 5
 
-DEFAULT_LLM_PROVIDER = "mock"
-DEFAULT_LLM_MODEL = "gpt-4.1-mini"
+DEFAULT_LLM_PROVIDER = "gemini"
+DEFAULT_LLM_MODEL = "gemini-3-flash-preview"
 
 
 def preview_text(text: str, n: int = 350) -> str:
@@ -113,7 +113,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--index-root", type=str, default=DEFAULT_INDEX_ROOT)
     parser.add_argument("--embed-root", type=str, default=DEFAULT_EMBED_ROOT)
     parser.add_argument("--retrieval-model-name", type=str, default=DEFAULT_MODEL_NAME)
-    parser.add_argument("--llm-provider", type=str, choices=["mock", "openai"], default=DEFAULT_LLM_PROVIDER)
+    parser.add_argument("--llm-provider", type=str, choices=["mock", "openai", "gemini"], default=DEFAULT_LLM_PROVIDER)
     parser.add_argument("--llm-model", type=str, default=DEFAULT_LLM_MODEL)
     parser.add_argument("--top-k", type=int, default=DEFAULT_TOP_K)
     parser.add_argument("--parent-top-k", type=int, default=DEFAULT_PARENT_TOP_K)

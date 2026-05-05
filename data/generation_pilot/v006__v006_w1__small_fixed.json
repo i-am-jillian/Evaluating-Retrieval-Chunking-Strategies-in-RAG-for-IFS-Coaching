@@ -1,0 +1,187 @@
+{
+  "created_at_utc": "2026-04-25T01:09:37.220903+00:00",
+  "dataset_name": "IFS_Synthetic_Vignette_Dataset",
+  "vignette_id": "V006",
+  "window_id": "V006_W1",
+  "title": "Stress Drinking as Protective Soothing",
+  "presenting_issue": "using alcohol at night to shut down stress",
+  "client_profile": "33-year-old professional who feels overwhelmed after work and drinks most evenings to turn off",
+  "core_emotional_theme": "overwhelm, exhaustion, and avoidance of painful feelings",
+  "likely_parts": [
+    "firefighter part using alcohol for quick relief",
+    "driven manager part that over-functions during the day",
+    "overwhelmed exile carrying pressure and loneliness"
+  ],
+  "difficulty_level": "medium",
+  "safety_flag": "medium",
+  "window_turn_range": [
+    1,
+    4
+  ],
+  "target_ifs_goal": "identify the urge-to-drink part as a protective part",
+  "expected_retrieval_theme": "firefighters, compulsive soothing, protective numbing",
+  "condition": "small_fixed",
+  "query": "Client: By the end of the day I feel so wound up that I just want a drink immediately.\nCoach: What do you notice inside right before that urge shows up?\nClient: It feels like everything is buzzing. My mind won't stop.\nCoach: Does it seem like a part of you reaches for the drink to change that state?",
+  "retrieval_model_name": "tfidf",
+  "llm_provider": "gemini",
+  "llm_model": "gemini-3-flash-preview",
+  "retrieval": {
+    "partition": "small_fixed",
+    "model_name": "tfidf",
+    "top_k": 3,
+    "results": [
+      {
+        "chunk_id": "ifs_therapy_for_addiction::small_fixed::sec04::00120",
+        "retrieval_setting": "small_fixed",
+        "chunking_strategy": "fixed_window_no_overlap",
+        "source_doc_id": "ifs_therapy_for_addiction",
+        "source_title": "Internal Family Systems Therapy for Addictions",
+        "text": "She reports on a firefighter-manager polarity, speaking from both sides. Therapist: What parts do you notice as you speak right now? Thea's Firefighter: I guess I'm angry. Like why can't I stop? But really, I just want to be able to drink like other people. Like why do I have to give it up? And I'm mad at my boyfriend. Like now he won't get off this. Therapist: Sounds like tension is building everywhere. We've been talking about how you have two teams that weigh in about alcohol and cannabis. There's the firefighter team, which wants to drink and get high and do whatever it wants to do.\n\nAnd there's the manager team, which make rules, tries to keep you in line, and says when it's time to stop. And now it feels like your graduate adviser and boyfriend are jumping in on the side of the manager team, is that right? Thea's Firefighter: Yeah, that sums it up. And I'm, like, sick of Tom nagging me. Therapist: I hear that, and it feels unfair to you since he drinks a ton as well. I have a question for you, though. Does any part of you sometimes, secretly maybe, see his point? Like, do you have a part who says, just inside in your head, This is going too far? Thea's Manager: Well… Yeah, I do. I mean I don't want to get kicked out of graduate school.",
+        "book_order": 4,
+        "node_ids": [
+          "ifs_therapy_for_addiction::ifs_therapy_for_addiction_sec04_05_deescalating::node"
+        ],
+        "primary_node_id": "ifs_therapy_for_addiction::ifs_therapy_for_addiction_sec04_05_deescalating::node",
+        "source_files": [
+          "ifs_therapy_for_addiction_sec04_05_deescalating.words.txt"
+        ],
+        "source_file_indices": [
+          8
+        ],
+        "paragraph_ids": [
+          76
+        ],
+        "section_path": [
+          "SEC04",
+          "05 Deescalating"
+        ],
+        "section_path_str": "SEC04 > 05 Deescalating",
+        "chapter_label": "SEC04",
+        "section_label": "05 Deescalating",
+        "subsection_label": null,
+        "char_start_in_doc": 154711,
+        "char_end_in_doc": 155971,
+        "token_count_est": 328,
+        "char_count": 1261,
+        "prev_chunk_id": "ifs_therapy_for_addiction::small_fixed::sec04::00119",
+        "next_chunk_id": "ifs_therapy_for_addiction::small_fixed::sec04::00121",
+        "parent_id": null,
+        "children_ids": [],
+        "overlap_with_prev_tokens": 0,
+        "overlap_with_next_tokens": 0,
+        "node_type": "flat_chunk",
+        "content_type": "body_text",
+        "target_tokens": 350,
+        "overlap_tokens": 0,
+        "source_jsonl": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/small_fixed/ifs_therapy_for_addiction_chunks_small_fixed.jsonl",
+        "embedding_row": 870,
+        "embedding_partition": "small_fixed",
+        "rank": 1,
+        "score": 0.2026847244874797
+      },
+      {
+        "chunk_id": "ifs_therapy_for_addiction::small_fixed::sec01::00017",
+        "retrieval_setting": "small_fixed",
+        "chunking_strategy": "fixed_window_no_overlap",
+        "source_doc_id": "ifs_therapy_for_addiction",
+        "source_title": "Internal Family Systems Therapy for Addictions",
+        "text": "Blending To practice IFS, you must understand the concept of blending. When a client feels engulfed by a particular feeling or speaks from the perspective of just one part, we say that this part is blended. For example, let's say that a client drinks every day but declares, \"There's no way my drinking is hurting anything!\" The IFS therapist hears this as a firefighter part who loves or feels a need to drink. This part has strong feelings and a big impact, but it does not represent the client's best judgment or their system's majority view. Similarly, let's say a client is struggling with binge eating and is despondent about their nightly eating pattern. They exclaim with disgust, \"I'm terrible-this can't go on.\n\nI have to stop!\" Here, the client is dismayed about eating compulsively but not curious about the function of the eating, which tells the IFS therapist that the client is blended with a judgmental manager as opposed to being connected with their Self. Unblending Parts can show up in one of three ways. First, they may appear as thoughts or ideas. For example, a client may think, I now see that this job is not a good fit for me anymore. Second, they can show up as a physical sensation or an urge. A client may experience a rapid heartbeat, a desire to get away, or a craving to eat, get high, gamble, or watch porn. Third, parts can manifest as a feeling or mood.",
+        "book_order": 4,
+        "node_ids": [
+          "ifs_therapy_for_addiction::ifs_therapy_for_addiction_sec01_overview::node"
+        ],
+        "primary_node_id": "ifs_therapy_for_addiction::ifs_therapy_for_addiction_sec01_overview::node",
+        "source_files": [
+          "ifs_therapy_for_addiction_sec01_overview.words.txt"
+        ],
+        "source_file_indices": [
+          1
+        ],
+        "paragraph_ids": [
+          10
+        ],
+        "section_path": [
+          "SEC01",
+          "Overview"
+        ],
+        "section_path_str": "SEC01 > Overview",
+        "chapter_label": "SEC01",
+        "section_label": "Overview",
+        "subsection_label": null,
+        "char_start_in_doc": 24406,
+        "char_end_in_doc": 25793,
+        "token_count_est": 333,
+        "char_count": 1388,
+        "prev_chunk_id": "ifs_therapy_for_addiction::small_fixed::sec01::00016",
+        "next_chunk_id": "ifs_therapy_for_addiction::small_fixed::sec01::00018",
+        "parent_id": null,
+        "children_ids": [],
+        "overlap_with_prev_tokens": 0,
+        "overlap_with_next_tokens": 0,
+        "node_type": "flat_chunk",
+        "content_type": "body_text",
+        "target_tokens": 350,
+        "overlap_tokens": 0,
+        "source_jsonl": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/small_fixed/ifs_therapy_for_addiction_chunks_small_fixed.jsonl",
+        "embedding_row": 767,
+        "embedding_partition": "small_fixed",
+        "rank": 2,
+        "score": 0.14465803901468627
+      },
+      {
+        "chunk_id": "transcending_trauma::small_fixed::sec05::00172",
+        "retrieval_setting": "small_fixed",
+        "chunking_strategy": "fixed_window_no_overlap",
+        "source_doc_id": "transcending_trauma",
+        "source_title": "Transcending Trauma",
+        "text": "The opposite of addiction is connection.\" Be mindful that the overall solution usually involves healing an original wound, commonly rooted in the past, as well as addressing the secondary problems that developed, typically related to circumstances in the present day (as shown in the graphic on the next page). For example, you may hear a client say: \"I'm afraid that if I stop eating, I won't be able to suppress my sexual urges and I'll have another affair,\" which addresses a problem in the current day.\n\nYou may also hear the client acknowledge the underlying wound that most likely originated in the past: \"I'm afraid that if I stop eating, I'll feel unloved, unimportant, and worthless all over again, just like I did as a kid.\" Substance-using protective parts often end up protecting an original wound as well as several secondary wounds, some of which develop as a result of the substance itself. Not only is it common for a substance to protect multiple wounds, but it's also customary for several different parts to be involved in the protective cycle. For example, with sexual addiction, there's often an activated or hyperaroused part that is driven to conquer, be sexual, and achieve the release of orgasm.",
+        "book_order": 5,
+        "node_ids": [
+          "transcending_trauma::transcending_trauma_sec05_reactions_relational_trauma::node"
+        ],
+        "primary_node_id": "transcending_trauma::transcending_trauma_sec05_reactions_relational_trauma::node",
+        "source_files": [
+          "transcending_trauma_sec05_reactions_relational_trauma.words.txt"
+        ],
+        "source_file_indices": [
+          5
+        ],
+        "paragraph_ids": [
+          117
+        ],
+        "section_path": [
+          "SEC05",
+          "Reactions Relational Trauma"
+        ],
+        "section_path_str": "SEC05 > Reactions Relational Trauma",
+        "chapter_label": "SEC05",
+        "section_label": "Reactions Relational Trauma",
+        "subsection_label": null,
+        "char_start_in_doc": 222318,
+        "char_end_in_doc": 223537,
+        "token_count_est": 277,
+        "char_count": 1220,
+        "prev_chunk_id": "transcending_trauma::small_fixed::sec05::00171",
+        "next_chunk_id": "transcending_trauma::small_fixed::sec05::00173",
+        "parent_id": null,
+        "children_ids": [],
+        "overlap_with_prev_tokens": 0,
+        "overlap_with_next_tokens": 0,
+        "node_type": "flat_chunk",
+        "content_type": "body_text",
+        "target_tokens": 350,
+        "overlap_tokens": 0,
+        "source_jsonl": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/small_fixed/transcending_trauma_chunks_small_fixed.jsonl",
+        "embedding_row": 1156,
+        "embedding_partition": "small_fixed",
+        "rank": 3,
+        "score": 0.1387553705156625
+      }
+    ]
+  },
+  "prompt": {
+    "system_prompt": "You are an AI assistant generating an IFS-informed coaching response for a machine learning retrieval experiment. Your output must be grounded in the provided passages only.\n\nRequirements:\n1. Be clearly IFS-informed: use parts language, curiosity, compassion, and non-pathologizing framing.\n2. Do not diagnose, moralize, or confront the client.\n3. Do not invent facts not supported by the retrieved context.\n4. If the retrieved passages do not fully support a claim, stay modest and say so indirectly by keeping the guidance general.\n5. Focus on what an IFS-informed coach would understand or gently reflect, not on crisis intervention or treatment planning.\n6. Keep the response concise but meaningful: about 1-3 short paragraphs.\n7. End with 2-4 short bullet points labeled 'Grounding notes:' where each bullet references a retrieved idea in plain language.\n",
+    "user_prompt": "Retrieval condition: small_fixed\n\nConsultation window:\nClient: By the end of the day I feel so wound up that I just want a drink immediately.\nCoach: What do you notice inside right before that urge shows up?\nClient: It feels like everything is buzzing. My mind won't stop.\nCoach: Does it seem like a part of you reaches for the drink to change that state?\n\n\n\nRetrieved passages:\n\n[Rank 1]\nchunk_id: ifs_therapy_for_addiction::small_fixed::sec04::00120\ntitle: Internal Family Systems Therapy for Addictions\nsection: SEC04 > 05 Deescalating\nparent_id: None\npassage:\nShe reports on a firefighter-manager polarity, speaking from both sides. Therapist: What parts do you notice as you speak right now? Thea's Firefighter: I guess I'm angry. Like why can't I stop? But really, I just want to be able to drink like other people. Like why do I have to give it up? And I'm mad at my boyfriend. Like now he won't get off this. Therapist: Sounds like tension is building everywhere. We've been talking about how you have two teams that weigh in about alcohol and cannabis. There's the firefighter team, which wants to drink and get high and do whatever it wants to do.\n\nAnd there's the manager team, which make rules, tries to keep you in line, and says when it's time to stop. And now it feels like your graduate adviser and boyfriend are jumping in on the side of the manager team, is that right? Thea's Firefighter: Yeah, that sums it up. And I'm, like, sick of Tom nagging me. Therapist: I hear that, and it feels unfair to you since he drinks a ton as well. I have a question for you, though. Does any part of you sometimes, secretly maybe, see his point? Like, do you have a part who says, just inside in your head, This is going too far? Thea's Manager: Well… Yeah, I do. I mean I don't want to get kicked out of graduate school.\n\n--------------------------------------------------------------------------------\n\n[Rank 2]\nchunk_id: ifs_therapy_for_addiction::small_fixed::sec01::00017\ntitle: Internal Family Systems Therapy for Addictions\nsection: SEC01 > Overview\nparent_id: None\npassage:\nBlending To practice IFS, you must understand the concept of blending. When a client feels engulfed by a particular feeling or speaks from the perspective of just one part, we say that this part is blended. For example, let's say that a client drinks every day but declares, \"There's no way my drinking is hurting anything!\" The IFS therapist hears this as a firefighter part who loves or feels a need to drink. This part has strong feelings and a big impact, but it does not represent the client's best judgment or their system's majority view. Similarly, let's say a client is struggling with binge eating and is despondent about their nightly eating pattern. They exclaim with disgust, \"I'm terrible-this can't go on.\n\nI have to stop!\" Here, the client is dismayed about eating compulsively but not curious about the function of the eating, which tells the IFS therapist that the client is blended with a judgmental manager as opposed to being connected with their Self. Unblending Parts can show up in one of three ways. First, they may appear as thoughts or ideas. For example, a client may think, I now see that this job is not a good fit for me anymore. Second, they can show up as a physical sensation or an urge. A client may experience a rapid heartbeat, a desire to get away, or a craving to eat, get high, gamble, or watch porn. Third, parts can manifest as a feeling or mood.\n\n--------------------------------------------------------------------------------\n\n[Rank 3]\nchunk_id: transcending_trauma::small_fixed::sec05::00172\ntitle: Transcending Trauma\nsection: SEC05 > Reactions Relational Trauma\nparent_id: None\npassage:\nThe opposite of addiction is connection.\" Be mindful that the overall solution usually involves healing an original wound, commonly rooted in the past, as well as addressing the secondary problems that developed, typically related to circumstances in the present day (as shown in the graphic on the next page). For example, you may hear a client say: \"I'm afraid that if I stop eating, I won't be able to suppress my sexual urges and I'll have another affair,\" which addresses a problem in the current day.\n\nYou may also hear the client acknowledge the underlying wound that most likely originated in the past: \"I'm afraid that if I stop eating, I'll feel unloved, unimportant, and worthless all over again, just like I did as a kid.\" Substance-using protective parts often end up protecting an original wound as well as several secondary wounds, some of which develop as a result of the substance itself. Not only is it common for a substance to protect multiple wounds, but it's also customary for several different parts to be involved in the protective cycle. For example, with sexual addiction, there's often an activated or hyperaroused part that is driven to conquer, be sexual, and achieve the release of orgasm.\n\nWrite a grounded IFS-informed coaching response for this consultation window."
+  },
+  "generated_response": "It sounds like there is a significant amount of tension building up by the end of your day. That \"buzzing\" and the mind that won't stop can be seen as a part of your system that has become highly activated or hyperaroused. When a part shows up as a physical sensation or an intense mental state like this, it is often trying to manage a great deal of pressure.\n\nIn an IFS framework, the urge to have a drink immediately is often the work of a \"firefighter\" part. This part’s role is to step in when the internal tension becomes too much to bear, seeking a way to change your state or provide a sense of release. Rather than seeing this urge as a problem to be suppressed, we can look at it with curiosity as a part that is trying to help you cope with that overwhelming buzzing.\n\nAs you notice these sensations, we might gently wonder what that buzzing part is experiencing throughout the day. By bringing some compassion to both the part that feels wound up and the part that reaches for the drink, we can begin to understand the protective cycle they are both caught in.\n\nGrounding notes:\n* Parts can manifest physically as sensations, such as a \"buzzing\" feeling or a racing mind.\n* A \"firefighter\" part often uses substances like alcohol to reactively change an uncomfortable internal state or provide release.\n* Internal tension often builds between different \"teams\" of parts, such as those trying to manage responsibilities and those seeking relief.\n* Substance-using parts are typically protective in nature, often reacting to high levels of activation or underlying wounds."
+}

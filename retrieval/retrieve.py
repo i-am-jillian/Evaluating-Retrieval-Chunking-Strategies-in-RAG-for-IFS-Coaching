@@ -1,106 +1,134 @@
 from __future__ import annotations
 
-import argparse
 import json
-from pathlib import Path
-from typing import Any, Dict, List, Optional
-
 from functools import lru_cache
+from pathlib import Path
+from typing import Any, Dict, List, Tuple
 
 import numpy as np
-from sentence_transformers import SentenceTransformer
+from sklearn.feature_extraction.text import TfidfVectorizer
 
 
-DEFAULT_INDEX_ROOT = "data/test_indexes"
-DEFAULT_EMBED_ROOT = "data/test_embeddings"
-DEFAULT_MODEL_NAME = "BAAI/bge-large-en-v1.5"
-DEFAULT_TOP_K = 5
-PARTITIONS = ["small_fixed", "medium_overlap", "hierarchical_parent", "hierarchical_child"]
+def _extract_rows_from_metadata_obj(obj: Any) -> List[Dict[str, Any]]:
+    if isinstance(obj, list):
+        if len(obj) == 0:
+            return []
+        if isinstance(obj[0], dict):
+            return obj
+
+    if isinstance(obj, dict):
+        for key in ["rows", "chunks", "data", "items", "records", "metadata"]:
+            value = obj.get(key)
+            if isinstance(value, list) and (len(value) == 0 or isinstance(value[0], dict)):
+                return value
+
+    raise ValueError("Could not extract row dictionaries from metadata.")
 
 
-def load_faiss():
-    try:
-        import faiss  # type: ignore
-    except ImportError as e:
-        raise ImportError(
-            "faiss is required for retrieve.py. Install it with: conda install -c conda-forge faiss-cpu"
-        ) from e
-    return faiss
+def _load_metadata_file(path: Path) -> List[Dict[str, Any]]:
+    if not path.exists():
+        raise FileNotFoundError(f"Metadata file not found: {path}")
 
+    if path.suffix == ".jsonl":
+        rows: List[Dict[str, Any]] = []
+        with open(path, "r", encoding="utf-8") as f:
+            for line in f:
+                line = line.strip()
+                if not line:
+                    continue
+                obj = json.loads(line)
+                if not isinstance(obj, dict):
+                    raise ValueError(f"Expected dict rows in JSONL metadata, got: {type(obj).__name__}")
+                rows.append(obj)
+        return rows
 
-def load_jsonl(path: Path) -> List[Dict[str, Any]]:
     with open(path, "r", encoding="utf-8") as f:
-        return [json.loads(line) for line in f if line.strip()]
+        obj = json.load(f)
+    return _extract_rows_from_metadata_obj(obj)
 
 
-def resolve_metadata_path(embed_root: Path, partition: str) -> Path:
-    if partition == "small_fixed":
-        return embed_root / "small_fixed" / "metadata.jsonl"
-    if partition == "medium_overlap":
-        return embed_root / "medium_overlap" / "metadata.jsonl"
-    if partition == "hierarchical_parent":
-        return embed_root / "hierarchical" / "parent_metadata.jsonl"
-    if partition == "hierarchical_child":
-        return embed_root / "hierarchical" / "child_metadata.jsonl"
-    raise ValueError(f"Unknown partition: {partition}")
+def _resolve_metadata_path(
+    manifest_path: Path,
+    metadata_path_str: str,
+    embed_root: Path,
+    partition: str,
+) -> Path:
+    raw_path = Path(metadata_path_str)
+
+    # 1. If the manifest path is already valid on this machine, use it.
+    if raw_path.exists():
+        return raw_path
+
+    # 2. If it's a relative path, resolve from the manifest folder.
+    relative_candidate = (manifest_path.parent / raw_path).resolve()
+    if relative_candidate.exists():
+        return relative_candidate
+
+    # 3. If it's an absolute path from someone else's machine, rebuild it locally
+    #    using only the filename under your current embed_root/partition.
+    local_candidate = (embed_root / partition / raw_path.name).resolve()
+    if local_candidate.exists():
+        return local_candidate
+
+    # 4. Last resort: search under embed_root/partition for the same filename.
+    matches = list((embed_root / partition).rglob(raw_path.name))
+    if matches:
+        return matches[0].resolve()
+
+    raise FileNotFoundError(
+        f"Metadata file not found. Tried:\n"
+        f"  raw path: {raw_path}\n"
+        f"  relative to manifest: {relative_candidate}\n"
+        f"  local embed path: {local_candidate}"
+    )
 
 
-def resolve_index_path(index_root: Path, partition: str) -> Path:
-    return index_root / partition / "index.faiss"
-
-
-def maybe_prefix_query(query: str, model_name: str) -> str:
-    if "bge" in model_name.lower():
-        return "Represent this sentence for searching relevant passages: " + query.strip()
-    return query.strip()
-
-
-def embed_query(model: SentenceTransformer, query: str, model_name: str) -> np.ndarray:
-    text = maybe_prefix_query(query, model_name)
-    vec = model.encode([text], normalize_embeddings=True, convert_to_numpy=True)
-    return vec.astype(np.float32, copy=False)
-
-def get_or_load_model(
-    model_name: str,
-    model: Optional[SentenceTransformer] = None,
-) -> SentenceTransformer:
-    return model if model is not None else SentenceTransformer(model_name)
-
-
-@lru_cache(maxsize=None)
-def _load_resources_cached(index_root_str: str, embed_root_str: str, partition: str):
-    faiss = load_faiss()
-
+@lru_cache(maxsize=16)
+def _load_resources_cached(
+    index_root_str: str,
+    embed_root_str: str,
+    partition: str,
+) -> Tuple[List[Dict[str, Any]], TfidfVectorizer, Any]:
     index_root = Path(index_root_str)
     embed_root = Path(embed_root_str)
 
-    index_path = resolve_index_path(index_root, partition)
-    metadata_path = resolve_metadata_path(embed_root, partition)
+    partition_index_dir = index_root / partition
+    if not partition_index_dir.exists():
+        raise FileNotFoundError(f"Index partition folder not found: {partition_index_dir}")
 
-    if not index_path.exists():
-        raise FileNotFoundError(f"Index file not found for {partition}: {index_path}")
-    if not metadata_path.exists():
-        raise FileNotFoundError(f"Metadata file not found for {partition}: {metadata_path}")
+    manifest_path = partition_index_dir / "index_manifest.json"
+    if not manifest_path.exists():
+        raise FileNotFoundError(f"Manifest not found: {manifest_path}")
 
-    index = faiss.read_index(str(index_path))
-    rows = load_jsonl(metadata_path)
+    with open(manifest_path, "r", encoding="utf-8") as f:
+        manifest = json.load(f)
 
-    if index.ntotal != len(rows):
-        raise ValueError(
-            f"Index/metadata mismatch for {partition}: index.ntotal={index.ntotal}, metadata rows={len(rows)}"
-        )
+    metadata_path_str = manifest.get("metadata_path")
+    if not metadata_path_str:
+        raise ValueError(f"'metadata_path' missing in manifest: {manifest_path}")
 
-    for i, row in enumerate(rows):
-        if row.get("embedding_row") != i:
-            raise ValueError(
-                f"embedding_row mismatch in {partition}: expected {i}, got {row.get('embedding_row')}"
-            )
+    metadata_path = _resolve_metadata_path(
+        manifest_path=manifest_path,
+        metadata_path_str=metadata_path_str,
+        embed_root=embed_root,
+        partition=partition,
+    )
 
-    return index, rows
+    rows = _load_metadata_file(metadata_path)
+
+    texts = [row.get("text", "") for row in rows]
+    vectorizer = TfidfVectorizer(stop_words="english")
+    matrix = vectorizer.fit_transform(texts)
+
+    return rows, vectorizer, matrix
 
 
 def load_resources(index_root: Path, embed_root: Path, partition: str):
-    return _load_resources_cached(str(index_root.resolve()), str(embed_root.resolve()), partition)
+    return _load_resources_cached(
+        str(index_root.resolve()),
+        str(embed_root.resolve()),
+        partition,
+    )
 
 
 def search_partition(
@@ -108,107 +136,28 @@ def search_partition(
     partition: str,
     index_root: Path,
     embed_root: Path,
-    model_name: str,
-    top_k: int,
-    model: Optional[SentenceTransformer] = None,
+    model_name: str | None = None,
+    top_k: int = 5,
+    model=None,
+    retrieval_model=None,
 ) -> Dict[str, Any]:
-    if partition not in PARTITIONS:
-        raise ValueError(f"partition must be one of {PARTITIONS}")
+    rows, vectorizer, matrix = load_resources(index_root, embed_root, partition)
 
-    model = get_or_load_model(model_name, model)
-    index, rows = load_resources(index_root, embed_root, partition)
-    q_vec = embed_query(model, query, model_name)
+    query_vec = vectorizer.transform([query])
+    scores = (matrix @ query_vec.T).toarray().reshape(-1)
 
-    k = min(top_k, len(rows))
-    scores, indices = index.search(q_vec, k)
+    top_idx = np.argsort(-scores)[:top_k]
 
-    results: List[Dict[str, Any]] = []
-    for rank, (score, idx) in enumerate(zip(scores[0], indices[0]), start=1):
-        if idx < 0:
-            continue
-        row = rows[int(idx)]
-        results.append(
-            {
-                "rank": rank,
-                "score": float(score),
-                "chunk_id": row.get("chunk_id"),
-                "retrieval_setting": row.get("retrieval_setting"),
-                "source_doc_id": row.get("source_doc_id"),
-                "source_title": row.get("source_title"),
-                "section_path_str": row.get("section_path_str"),
-                "parent_id": row.get("parent_id"),
-                "text": row.get("text"),
-            }
-        )
+    results = []
+    for rank, idx in enumerate(top_idx, start=1):
+        row = dict(rows[int(idx)])
+        row["rank"] = rank
+        row["score"] = float(scores[int(idx)])
+        results.append(row)
 
     return {
-        "query": query,
         "partition": partition,
-        "top_k": k,
-        "model_name": model_name,
-        "result_count": len(results),
+        "model_name": model_name or "tfidf",
+        "top_k": top_k,
         "results": results,
     }
-
-
-def print_results(payload: Dict[str, Any], preview_chars: int = 350) -> None:
-    print("\n" + "=" * 100)
-    print(f"QUERY: {payload['query']}")
-    print(f"PARTITION: {payload['partition']}")
-    print(f"MODEL: {payload['model_name']}")
-    print("=" * 100)
-
-    for row in payload["results"]:
-        text = " ".join((row.get("text") or "").split())
-        preview = text[:preview_chars] + ("..." if len(text) > preview_chars else "")
-        print(f"\nRank {row['rank']} | score={row['score']:.4f}")
-        print(f"chunk_id: {row['chunk_id']}")
-        print(f"title: {row['source_title']}")
-        print(f"section: {row['section_path_str']}")
-        print(f"parent_id: {row['parent_id']}")
-        print(f"text: {preview}")
-
-
-def parse_args() -> argparse.Namespace:
-    parser = argparse.ArgumentParser(
-        description="Query a single FAISS partition and return top-k chunk hits."
-    )
-    parser.add_argument("--query", type=str, required=True, help="Query text to search")
-    parser.add_argument(
-        "--partition",
-        type=str,
-        required=True,
-        choices=PARTITIONS,
-        help="Which partition to search",
-    )
-    parser.add_argument("--index-root", type=str, default=DEFAULT_INDEX_ROOT)
-    parser.add_argument("--embed-root", type=str, default=DEFAULT_EMBED_ROOT)
-    parser.add_argument("--model-name", type=str, default=DEFAULT_MODEL_NAME)
-    parser.add_argument("--top-k", type=int, default=DEFAULT_TOP_K)
-    parser.add_argument(
-        "--json",
-        action="store_true",
-        help="Print raw JSON instead of formatted output",
-    )
-    return parser.parse_args()
-
-
-def main() -> None:
-    args = parse_args()
-    payload = search_partition(
-        query=args.query,
-        partition=args.partition,
-        index_root=Path(args.index_root).expanduser().resolve(),
-        embed_root=Path(args.embed_root).expanduser().resolve(),
-        model_name=args.model_name,
-        top_k=args.top_k,
-    )
-
-    if args.json:
-        print(json.dumps(payload, ensure_ascii=False, indent=2))
-    else:
-        print_results(payload)
-
-
-if __name__ == "__main__":
-    main()

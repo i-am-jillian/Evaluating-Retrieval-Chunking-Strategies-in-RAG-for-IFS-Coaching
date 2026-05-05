@@ -69,11 +69,11 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--embed-root", type=str, default=DEFAULT_EMBED_ROOT)
     parser.add_argument("--retrieval-model-name", type=str, default=DEFAULT_MODEL_NAME)
     parser.add_argument(
-        "--llm-provider",
-        type=str,
-        choices=["mock", "openai"],
-        default=DEFAULT_LLM_PROVIDER,
-    )
+    "--llm-provider",
+    type=str,
+    choices=["mock", "openai", "gemini"],
+    default="gemini",
+)
     parser.add_argument("--llm-model", type=str, default=DEFAULT_LLM_MODEL)
     parser.add_argument("--top-k", type=int, default=DEFAULT_TOP_K)
     parser.add_argument("--parent-top-k", type=int, default=DEFAULT_PARENT_TOP_K)

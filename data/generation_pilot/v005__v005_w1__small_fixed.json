@@ -1,0 +1,189 @@
+{
+  "created_at_utc": "2026-04-24T07:27:01.732873+00:00",
+  "dataset_name": "IFS_Synthetic_Vignette_Dataset",
+  "vignette_id": "V005",
+  "window_id": "V005_W1",
+  "title": "Inner Conflict About Rest vs Productivity",
+  "presenting_issue": "conflict between wanting rest and feeling guilty for slowing down",
+  "client_profile": "29-year-old high-achiever who feels anxious when not being productive",
+  "core_emotional_theme": "conflict between pressure and exhaustion",
+  "likely_parts": [
+    "driven manager part focused on productivity",
+    "tired part needing rest",
+    "possibly ashamed part underneath both"
+  ],
+  "difficulty_level": "hard",
+  "safety_flag": "low",
+  "window_turn_range": [
+    1,
+    5
+  ],
+  "target_ifs_goal": "differentiate multiple parts and clarify their conflict",
+  "expected_retrieval_theme": "polarization, managers, inner conflict between parts",
+  "condition": "small_fixed",
+  "query": "Client: Part of me wants to rest, but another part says I'm being lazy if I do.\nCoach: It sounds like there may be at least two parts there. What do you notice about each one?\nClient: One feels exhausted and desperate for a break. The other is sharp and demanding.\nCoach: How does the demanding one seem to view rest?\nClient: Like rest is dangerous. Like if I slow down, everything will fall apart.",
+  "retrieval_model_name": "tfidf",
+  "llm_provider": "gemini",
+  "llm_model": "gemini-3-flash-preview",
+  "retrieval": {
+    "partition": "small_fixed",
+    "model_name": "tfidf",
+    "top_k": 3,
+    "results": [
+      {
+        "chunk_id": "ifs_couple_therapy::small_fixed::sec02::00043",
+        "retrieval_setting": "small_fixed",
+        "chunking_strategy": "fixed_window_no_overlap",
+        "source_doc_id": "ifs_couple_therapy",
+        "source_title": "Internal Family Systems Couple Therapy",
+        "text": "Therapist: I imagine the part who feels hurt would rather feel appreciated, like you are doing enough and being successful. I think that's what I heard. Am I right? You're right! Jane: I want to reflect back what I'm hearing from both of you. This sounds like a dilemma Therapist: related to needs. Jane, when Doran tries to have more time with you and her parts get loud and demanding, as she describes it, you have a part who feels hurt, like you can't get it right. Then you withdraw to protect yourself. And Doran, when Jane withdraws, you feel bad and disconnected, and then you try to get her attention by getting louder and more demanding to protect yourself.\n\nAnd it goes on like this, back and forth with each of you feeling more protected but less connected. Does this sound like the pattern? Naming the sequence and the patterns of reaction and counterreaction It's the pattern for sure. Doran: [nods in agreement] It feels hopeless. We're really stuck. Jane: I understand that this cycle causes you to feel hopeless, and you would break the Therapist: pattern if you could. I have a question for you. If I could help each of you to have many more choices in how to respond when you feel reactive, would that be good? [they nod] And if you could understand what your protective parts are hoping for, would that be good?",
+        "book_order": 0,
+        "node_ids": [
+          "ifs_couple_therapy::ifs_couple_therapy_sec02_pt02_heart_of_matter::node"
+        ],
+        "primary_node_id": "ifs_couple_therapy::ifs_couple_therapy_sec02_pt02_heart_of_matter::node",
+        "source_files": [
+          "ifs_couple_therapy_sec02_pt02_heart_of_matter.words.txt"
+        ],
+        "source_file_indices": [
+          3
+        ],
+        "paragraph_ids": [
+          28
+        ],
+        "section_path": [
+          "SEC02",
+          "PT02",
+          "Heart Of Matter"
+        ],
+        "section_path_str": "SEC02 > PT02 > Heart Of Matter",
+        "chapter_label": "SEC02",
+        "section_label": "PT02",
+        "subsection_label": "Heart Of Matter",
+        "char_start_in_doc": 58898,
+        "char_end_in_doc": 60227,
+        "token_count_est": 318,
+        "char_count": 1330,
+        "prev_chunk_id": "ifs_couple_therapy::small_fixed::sec02::00042",
+        "next_chunk_id": "ifs_couple_therapy::small_fixed::sec02::00044",
+        "parent_id": null,
+        "children_ids": [],
+        "overlap_with_prev_tokens": 0,
+        "overlap_with_next_tokens": 0,
+        "node_type": "flat_chunk",
+        "content_type": "body_text",
+        "target_tokens": 350,
+        "overlap_tokens": 0,
+        "source_jsonl": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/small_fixed/ifs_couple_therapy_chunks_small_fixed.jsonl",
+        "embedding_row": 43,
+        "embedding_partition": "small_fixed",
+        "rank": 1,
+        "score": 0.1650054235566269
+      },
+      {
+        "chunk_id": "ifs_therapy_for_addiction::small_fixed::sec04::00120",
+        "retrieval_setting": "small_fixed",
+        "chunking_strategy": "fixed_window_no_overlap",
+        "source_doc_id": "ifs_therapy_for_addiction",
+        "source_title": "Internal Family Systems Therapy for Addictions",
+        "text": "She reports on a firefighter-manager polarity, speaking from both sides. Therapist: What parts do you notice as you speak right now? Thea's Firefighter: I guess I'm angry. Like why can't I stop? But really, I just want to be able to drink like other people. Like why do I have to give it up? And I'm mad at my boyfriend. Like now he won't get off this. Therapist: Sounds like tension is building everywhere. We've been talking about how you have two teams that weigh in about alcohol and cannabis. There's the firefighter team, which wants to drink and get high and do whatever it wants to do.\n\nAnd there's the manager team, which make rules, tries to keep you in line, and says when it's time to stop. And now it feels like your graduate adviser and boyfriend are jumping in on the side of the manager team, is that right? Thea's Firefighter: Yeah, that sums it up. And I'm, like, sick of Tom nagging me. Therapist: I hear that, and it feels unfair to you since he drinks a ton as well. I have a question for you, though. Does any part of you sometimes, secretly maybe, see his point? Like, do you have a part who says, just inside in your head, This is going too far? Thea's Manager: Well… Yeah, I do. I mean I don't want to get kicked out of graduate school.",
+        "book_order": 4,
+        "node_ids": [
+          "ifs_therapy_for_addiction::ifs_therapy_for_addiction_sec04_05_deescalating::node"
+        ],
+        "primary_node_id": "ifs_therapy_for_addiction::ifs_therapy_for_addiction_sec04_05_deescalating::node",
+        "source_files": [
+          "ifs_therapy_for_addiction_sec04_05_deescalating.words.txt"
+        ],
+        "source_file_indices": [
+          8
+        ],
+        "paragraph_ids": [
+          76
+        ],
+        "section_path": [
+          "SEC04",
+          "05 Deescalating"
+        ],
+        "section_path_str": "SEC04 > 05 Deescalating",
+        "chapter_label": "SEC04",
+        "section_label": "05 Deescalating",
+        "subsection_label": null,
+        "char_start_in_doc": 154711,
+        "char_end_in_doc": 155971,
+        "token_count_est": 328,
+        "char_count": 1261,
+        "prev_chunk_id": "ifs_therapy_for_addiction::small_fixed::sec04::00119",
+        "next_chunk_id": "ifs_therapy_for_addiction::small_fixed::sec04::00121",
+        "parent_id": null,
+        "children_ids": [],
+        "overlap_with_prev_tokens": 0,
+        "overlap_with_next_tokens": 0,
+        "node_type": "flat_chunk",
+        "content_type": "body_text",
+        "target_tokens": 350,
+        "overlap_tokens": 0,
+        "source_jsonl": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/small_fixed/ifs_therapy_for_addiction_chunks_small_fixed.jsonl",
+        "embedding_row": 870,
+        "embedding_partition": "small_fixed",
+        "rank": 2,
+        "score": 0.11921969533737724
+      },
+      {
+        "chunk_id": "ifs_couple_therapy::small_fixed::sec02::00042",
+        "retrieval_setting": "small_fixed",
+        "chunking_strategy": "fixed_window_no_overlap",
+        "source_doc_id": "ifs_couple_therapy",
+        "source_title": "Internal Family Systems Couple Therapy",
+        "text": "Therapist: This makes a lot of sense to me, Doran. Just like Jane, it sounds like you have a couple of active parts in these interactions. One part gets loud and demanding and the other says: What's wrong with me that Jane is avoiding me? Am I getting that right? Validating, mirroring, and checking for agreement Yes, you've got it. Doran: And it sounds like there might be a relationship between these two parts of you. The Therapist: bigger that lump in your stomach gets, the louder and more demanding your frustrated part becomes? [Doran nods] Okay. I want to ask both of you a question. I' ll start with you, Doran, to get a sense of this part who gets loud and demanding. What might happen if it didn't do that? [pausing] I'd never get her attention. We'd stay disconnected and I'd never get my needs Doran: met. So, this part of you is trying to be connected with Jane? Therapist: Yes. I guess it is. But it doesn't really work, does it? Doran: [to Jane] Did you know this? Therapist: Of course not. I just feel criticized. Jane: And what about the part of you who withdraws. Are you aware of it right now? Therapist: I can still feel it, but I feel less guarded hearing what Doran just said. Jane: And what might that part be concerned about? What if it let you stay and not Therapist: withdraw? [pausing] I would just keep being criticized. Jane: And then what? Therapist: I would keep feeling misunderstood. Jane: And then what? Therapist: More hurt. Jane:",
+        "book_order": 0,
+        "node_ids": [
+          "ifs_couple_therapy::ifs_couple_therapy_sec02_pt02_heart_of_matter::node"
+        ],
+        "primary_node_id": "ifs_couple_therapy::ifs_couple_therapy_sec02_pt02_heart_of_matter::node",
+        "source_files": [
+          "ifs_couple_therapy_sec02_pt02_heart_of_matter.words.txt"
+        ],
+        "source_file_indices": [
+          3
+        ],
+        "paragraph_ids": [
+          27
+        ],
+        "section_path": [
+          "SEC02",
+          "PT02",
+          "Heart Of Matter"
+        ],
+        "section_path_str": "SEC02 > PT02 > Heart Of Matter",
+        "chapter_label": "SEC02",
+        "section_label": "PT02",
+        "subsection_label": "Heart Of Matter",
+        "char_start_in_doc": 57429,
+        "char_end_in_doc": 58896,
+        "token_count_est": 355,
+        "char_count": 1467,
+        "prev_chunk_id": "ifs_couple_therapy::small_fixed::sec02::00041",
+        "next_chunk_id": "ifs_couple_therapy::small_fixed::sec02::00043",
+        "parent_id": null,
+        "children_ids": [],
+        "overlap_with_prev_tokens": 0,
+        "overlap_with_next_tokens": 0,
+        "node_type": "flat_chunk",
+        "content_type": "body_text",
+        "target_tokens": 350,
+        "overlap_tokens": 0,
+        "source_jsonl": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/small_fixed/ifs_couple_therapy_chunks_small_fixed.jsonl",
+        "embedding_row": 42,
+        "embedding_partition": "small_fixed",
+        "rank": 3,
+        "score": 0.11869858401947883
+      }
+    ]
+  },
+  "prompt": {
+    "system_prompt": "You are an AI assistant generating an IFS-informed coaching response for a machine learning retrieval experiment. Your output must be grounded in the provided passages only.\n\nRequirements:\n1. Be clearly IFS-informed: use parts language, curiosity, compassion, and non-pathologizing framing.\n2. Do not diagnose, moralize, or confront the client.\n3. Do not invent facts not supported by the retrieved context.\n4. If the retrieved passages do not fully support a claim, stay modest and say so indirectly by keeping the guidance general.\n5. Focus on what an IFS-informed coach would understand or gently reflect, not on crisis intervention or treatment planning.\n6. Keep the response concise but meaningful: about 1-3 short paragraphs.\n7. End with 2-4 short bullet points labeled 'Grounding notes:' where each bullet references a retrieved idea in plain language.\n",
+    "user_prompt": "Retrieval condition: small_fixed\n\nConsultation window:\nClient: Part of me wants to rest, but another part says I'm being lazy if I do.\nCoach: It sounds like there may be at least two parts there. What do you notice about each one?\nClient: One feels exhausted and desperate for a break. The other is sharp and demanding.\nCoach: How does the demanding one seem to view rest?\nClient: Like rest is dangerous. Like if I slow down, everything will fall apart.\n\n\n\nRetrieved passages:\n\n[Rank 1]\nchunk_id: ifs_couple_therapy::small_fixed::sec02::00043\ntitle: Internal Family Systems Couple Therapy\nsection: SEC02 > PT02 > Heart Of Matter\nparent_id: None\npassage:\nTherapist: I imagine the part who feels hurt would rather feel appreciated, like you are doing enough and being successful. I think that's what I heard. Am I right? You're right! Jane: I want to reflect back what I'm hearing from both of you. This sounds like a dilemma Therapist: related to needs. Jane, when Doran tries to have more time with you and her parts get loud and demanding, as she describes it, you have a part who feels hurt, like you can't get it right. Then you withdraw to protect yourself. And Doran, when Jane withdraws, you feel bad and disconnected, and then you try to get her attention by getting louder and more demanding to protect yourself.\n\nAnd it goes on like this, back and forth with each of you feeling more protected but less connected. Does this sound like the pattern? Naming the sequence and the patterns of reaction and counterreaction It's the pattern for sure. Doran: [nods in agreement] It feels hopeless. We're really stuck. Jane: I understand that this cycle causes you to feel hopeless, and you would break the Therapist: pattern if you could. I have a question for you. If I could help each of you to have many more choices in how to respond when you feel reactive, would that be good? [they nod] And if you could understand what your protective parts are hoping for, would that be good?\n\n--------------------------------------------------------------------------------\n\n[Rank 2]\nchunk_id: ifs_therapy_for_addiction::small_fixed::sec04::00120\ntitle: Internal Family Systems Therapy for Addictions\nsection: SEC04 > 05 Deescalating\nparent_id: None\npassage:\nShe reports on a firefighter-manager polarity, speaking from both sides. Therapist: What parts do you notice as you speak right now? Thea's Firefighter: I guess I'm angry. Like why can't I stop? But really, I just want to be able to drink like other people. Like why do I have to give it up? And I'm mad at my boyfriend. Like now he won't get off this. Therapist: Sounds like tension is building everywhere. We've been talking about how you have two teams that weigh in about alcohol and cannabis. There's the firefighter team, which wants to drink and get high and do whatever it wants to do.\n\nAnd there's the manager team, which make rules, tries to keep you in line, and says when it's time to stop. And now it feels like your graduate adviser and boyfriend are jumping in on the side of the manager team, is that right? Thea's Firefighter: Yeah, that sums it up. And I'm, like, sick of Tom nagging me. Therapist: I hear that, and it feels unfair to you since he drinks a ton as well. I have a question for you, though. Does any part of you sometimes, secretly maybe, see his point? Like, do you have a part who says, just inside in your head, This is going too far? Thea's Manager: Well… Yeah, I do. I mean I don't want to get kicked out of graduate school.\n\n--------------------------------------------------------------------------------\n\n[Rank 3]\nchunk_id: ifs_couple_therapy::small_fixed::sec02::00042\ntitle: Internal Family Systems Couple Therapy\nsection: SEC02 > PT02 > Heart Of Matter\nparent_id: None\npassage:\nTherapist: This makes a lot of sense to me, Doran. Just like Jane, it sounds like you have a couple of active parts in these interactions. One part gets loud and demanding and the other says: What's wrong with me that Jane is avoiding me? Am I getting that right? Validating, mirroring, and checking for agreement Yes, you've got it. Doran: And it sounds like there might be a relationship between these two parts of you. The Therapist: bigger that lump in your stomach gets, the louder and more demanding your frustrated part becomes? [Doran nods] Okay. I want to ask both of you a question. I' ll start with you, Doran, to get a sense of this part who gets loud and demanding. What might happen if it didn't do that? [pausing] I'd never get her attention. We'd stay disconnected and I'd never get my needs Doran: met. So, this part of you is trying to be connected with Jane? Therapist: Yes. I guess it is. But it doesn't really work, does it? Doran: [to Jane] Did you know this? Therapist: Of course not. I just feel criticized. Jane: And what about the part of you who withdraws. Are you aware of it right now? Therapist: I can still feel it, but I feel less guarded hearing what Doran just said. Jane: And what might that part be concerned about? What if it let you stay and not Therapist: withdraw? [pausing] I would just keep being criticized. Jane: And then what? Therapist: I would keep feeling misunderstood. Jane: And then what? Therapist: More hurt. Jane:\n\nWrite a grounded IFS-informed coaching response for this consultation window."
+  },
+  "generated_response": "It is very clear how these two parts are interacting right now. You have one part that is exhausted and desperate for relief, and another—acting much like a \"manager\"—that uses a sharp, demanding tone to keep you in line because it views rest as dangerous. This demanding part seems to believe that if it doesn't stay vigilant, everything will fall apart, which is a very heavy burden for it to carry.\n\nIn an IFS approach, we look at these loud, demanding parts with curiosity rather than judgment. Just as a part might get loud to ensure needs are met or to prevent a situation from feeling hopeless, your demanding part likely has a protective intent. It may be trying to protect you from a specific fear or consequence it deems \"dangerous.\" \n\nWe might gently wonder: if this part didn't push you so hard, what is it afraid would happen to you? By understanding what it is \"hoping for\" or trying to prevent, we can begin to understand its role in your internal system. This helps us see the pattern of how these parts react to one another without needing to moralize the demanding part's behavior.\n\n**Grounding notes:**\n*   A \"manager\" part often makes rules and tries to keep the system \"in line\" to avoid negative outcomes.\n*   Loud and demanding parts often act out of a protective intent to prevent something they perceive as dangerous or hopeless.\n*   Understanding what a protective part is \"hoping for\" or afraid of can help clarify its role in the internal system.\n*   Reflecting on what might happen if a demanding part stopped its behavior can reveal its underlying concerns and needs."
+}

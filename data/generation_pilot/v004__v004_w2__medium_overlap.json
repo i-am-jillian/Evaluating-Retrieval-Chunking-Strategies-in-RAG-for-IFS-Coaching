@@ -1,0 +1,196 @@
+{
+  "created_at_utc": "2026-04-24T07:18:32.893741+00:00",
+  "dataset_name": "IFS_Synthetic_Vignette_Dataset",
+  "vignette_id": "V004",
+  "window_id": "V004_W2",
+  "title": "Emotional Numbing After Stress",
+  "presenting_issue": "feeling disconnected and shut down after conflict",
+  "client_profile": "35-year-old who becomes emotionally numb after interpersonal stress",
+  "core_emotional_theme": "overwhelm and protective shutdown",
+  "likely_parts": [
+    "protective part that numbs or distances",
+    "vulnerable part overwhelmed by conflict"
+  ],
+  "difficulty_level": "medium",
+  "safety_flag": "low",
+  "window_turn_range": [
+    6,
+    10
+  ],
+  "target_ifs_goal": "reframe shutdown as protective and invite non-judgmental curiosity",
+  "expected_retrieval_theme": "protectors, positive intent, non-pathologizing language",
+  "condition": "medium_overlap",
+  "query": "Coach: If that wall-building part could speak, what might it say it is trying to do?\nClient: Probably keep me from getting overwhelmed or hurt.\nCoach: That sounds like it may be working hard for you.\nClient: I never thought of it that way. I usually just judge myself for shutting down.\nCoach: It may help to approach it with curiosity before trying to change it.",
+  "retrieval_model_name": "tfidf",
+  "llm_provider": "gemini",
+  "llm_model": "gemini-3-flash-preview",
+  "retrieval": {
+    "partition": "medium_overlap",
+    "model_name": "tfidf",
+    "top_k": 3,
+    "results": [
+      {
+        "chunk_id": "ifs_therapy::medium_overlap::pt01::00017",
+        "retrieval_setting": "medium_overlap",
+        "chunking_strategy": "fixed_window_with_overlap",
+        "source_doc_id": "ifs_therapy",
+        "source_title": "Internal Family Systems Therapy",
+        "text": "At this point our readers may wonder how the phenomenon of psychic parts relates to dissociative identity disorder (DID). From our perspective, the \"alters\" of clients with DID are parts, but their inner systems are more polarized and disconnected. This is because horrible childhood abuse causes vigilant protectors to rely on amnesic barriers, which block the usual web of inner relationships.\n\nWhile this is protective during dangerous times, it serves both to amplify the pain of isolated, injured parts and lock in the survival tactics of rigid young protectors. This extreme internal state leaves clients very wary of trusting the Self or anyone else. Unfortunately, because our culture portrays DID as a fascinating but bizarre aberration that signifies severe pathology, clients whose inner systems are not characterized by extreme dissociation may worry about being crazy when they access parts; and clients whose inner systems are better described by the DID diagnosis often do not realize that having parts is normal.\n\nFollowing are a few essentials of the IFS perspective:\n\n1. Systems thinking encourages us to be ecologically sensitive. • Resistance is the (often correct) response of protective parts to a potential threat (the therapist) to the system. • Protectors deserve to be understood, appreciated, and comforted before the client tries to approach vulnerable parts. • The job of protectors is to ensure that a proposed therapy will not make matters worse. This is their duty. They are more knowledgeable than the therapist about the delicate ecology of the client' s inner system and the possible negative consequences of going too fast.\n\n- Protectors have a right to vet the therapist for competence and safety before letting her enter the inner system. To be worthy of a protector's trust, we must lead from the Self. The onus of proof is on the therapist. 2. Extreme protectors usually will not change until the system is less vulnerable. Consequently, we do not pressure protectors to change, even ones who are involved in destructive symptoms.\n\nInstead, we suggest that they can be liberated from their protective roles if they allow the client's Self to help, and we invite them to consider what role they would prefer after the exiled part no longer needs protection. Then we ask them to permit the client's Self to heal the part they protect.\n\nFinally, we ask if they are ready to move into new, preferred roles. 3. Restoring trust in the Self is the quickest route to improved leadership and inner harmony.\n\nTherefore, rather than having the therapist help the client's parts directly, we usually aim for the client's Self to interact with the parts and report to the therapist. There are times, nevertheless, when it is most expeditious and valuable for the therapist to talk directly to parts. This process is called direct access, and we describe it later. The primary role of the therapist is to guide, coach, and be a companion to the client's Self as he explores the mindscape. Secondarily, the therapist provides corrective relational experiences. As clients continue to notice and be with their parts, between as well as in sessions, they come to appreciate that they are healing themselves. 4. We invite clients to notice that parts have \"blended\" with the Self, or we help parts notice that the Self will be available when they separate or \"step back.\" To achieve our aim of keeping the client's Self differentiated from their parts, we incorporate the family systems focus on boundaries and differentiation. When the Self is present, parts feel safe. By the same token, the IFS therapist continually scans inside herself for blended parts and asks them to separate so she can return to Self- leadership. 5. Protectors fear one another, which keeps them in extreme positions. Each part believes that relaxing will allow a polarized part to take over, with catastrophic consequences. Therefore in IFS we continually notice and attend to polarizations. Just like family therapists, we work with conflicted inner family members, inviting them to face each other and talk about how they can get along better.",
+        "book_order": 3,
+        "node_ids": [
+          "ifs_therapy::ifs_therapy_pt01_01_origins::node"
+        ],
+        "primary_node_id": "ifs_therapy::ifs_therapy_pt01_01_origins::node",
+        "source_files": [
+          "ifs_therapy_pt01_01_origins.words.txt"
+        ],
+        "source_file_indices": [
+          0
+        ],
+        "paragraph_ids": [
+          163,
+          164,
+          165,
+          166,
+          167,
+          168,
+          169,
+          170
+        ],
+        "section_path": [
+          "PT01",
+          "01 Origins"
+        ],
+        "section_path_str": "PT01 > 01 Origins",
+        "chapter_label": "PT01",
+        "section_label": "01 Origins",
+        "subsection_label": null,
+        "char_start_in_doc": 52294,
+        "char_end_in_doc": 56439,
+        "token_count_est": 884,
+        "char_count": 4145,
+        "prev_chunk_id": "ifs_therapy::medium_overlap::pt01::00016",
+        "next_chunk_id": "ifs_therapy::medium_overlap::pt01::00018",
+        "parent_id": null,
+        "children_ids": [],
+        "overlap_with_prev_tokens": 79,
+        "overlap_with_next_tokens": 347,
+        "node_type": "flat_chunk",
+        "content_type": "body_text",
+        "target_tokens": 900,
+        "overlap_tokens": 180,
+        "source_jsonl": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/medium_overlap/ifs_therapy_chunks_medium_overlap.jsonl",
+        "embedding_row": 328,
+        "embedding_partition": "medium_overlap",
+        "rank": 1,
+        "score": 0.0963044442034708
+      },
+      {
+        "chunk_id": "ifs_therapy_for_addiction::medium_overlap::sec01::00008",
+        "retrieval_setting": "medium_overlap",
+        "chunking_strategy": "fixed_window_with_overlap",
+        "source_doc_id": "ifs_therapy_for_addiction",
+        "source_title": "Internal Family Systems Therapy for Addictions",
+        "text": "Blending To practice IFS, you must understand the concept of blending. When a client feels engulfed by a particular feeling or speaks from the perspective of just one part, we say that this part is blended. For example, let's say that a client drinks every day but declares, \"There's no way my drinking is hurting anything!\" The IFS therapist hears this as a firefighter part who loves or feels a need to drink. This part has strong feelings and a big impact, but it does not represent the client's best judgment or their system's majority view. Similarly, let's say a client is struggling with binge eating and is despondent about their nightly eating pattern. They exclaim with disgust, \"I'm terrible-this can't go on.\n\nI have to stop!\" Here, the client is dismayed about eating compulsively but not curious about the function of the eating, which tells the IFS therapist that the client is blended with a judgmental manager as opposed to being connected with their Self. Unblending Parts can show up in one of three ways. First, they may appear as thoughts or ideas. For example, a client may think, I now see that this job is not a good fit for me anymore. Second, they can show up as a physical sensation or an urge. A client may experience a rapid heartbeat, a desire to get away, or a craving to eat, get high, gamble, or watch porn. Third, parts can manifest as a feeling or mood.\n\nFor example, a client may say, \"I've been worried all day\" or \"I feel so sad about my son.\" Since clients are usually not aware of blended parts-but, rather, identify with them-the therapist's primary role in IFS is to be a \"parts detector\" and guide the client in helping the part to unblend. Toward that end, we help clients notice their parts, and then we guide them to persuade a target part that it would benefit by unblending. The therapist might say, \"It sounds like we're hearing from a part of you who is really invested in drinking and can't see any problems. Is that right?\" or \"It sounds like you have one very critical part who is worried about the nighttime eating.\n\nDo you hear that part?\" If the client is able to tune in to the part, the therapist can help them interview it about its intentions and fears. Sometimes, clients are blended with several parts serially, so they float from one thought, feeling, or urge to the next-and these can be contradictory. For example, a client might begin a session with several parts pouring their hearts out: \"I think I need to quit my job. It's not working for me anymore. I wanted to run out of there all week, but I can't afford to. And I'm so worried about what's happening with my daughter when I'm not at the house.\n\nI shouldn't have had so much to drink last night, but I can't sleep anymore, and then this morning I overslept and showed up late!\" When parts fight for center stage within consciousness, emotions mix and thoughts brawl. But whether one part is in the spotlight or several switch in and out, our goal is to make room for the client's Self, which happens when all their parts are willing to unblend. To that end, we ask the client to pick one target part, no matter how many parts the client describes at first. Then we ask, \"How do you feel toward _________ [the target part]?\" Their answer reveals either the presence of other blended parts or, if all parts have unblended, the presence of the client's Self.",
+        "book_order": 4,
+        "node_ids": [
+          "ifs_therapy_for_addiction::ifs_therapy_for_addiction_sec01_overview::node"
+        ],
+        "primary_node_id": "ifs_therapy_for_addiction::ifs_therapy_for_addiction_sec01_overview::node",
+        "source_files": [
+          "ifs_therapy_for_addiction_sec01_overview.words.txt"
+        ],
+        "source_file_indices": [
+          1
+        ],
+        "paragraph_ids": [
+          10
+        ],
+        "section_path": [
+          "SEC01",
+          "Overview"
+        ],
+        "section_path_str": "SEC01 > Overview",
+        "chapter_label": "SEC01",
+        "section_label": "Overview",
+        "subsection_label": null,
+        "char_start_in_doc": 24406,
+        "char_end_in_doc": 27781,
+        "token_count_est": 824,
+        "char_count": 3379,
+        "prev_chunk_id": "ifs_therapy_for_addiction::medium_overlap::sec01::00007",
+        "next_chunk_id": "ifs_therapy_for_addiction::medium_overlap::sec01::00009",
+        "parent_id": null,
+        "children_ids": [],
+        "overlap_with_prev_tokens": 170,
+        "overlap_with_next_tokens": 172,
+        "node_type": "flat_chunk",
+        "content_type": "body_text",
+        "target_tokens": 900,
+        "overlap_tokens": 180,
+        "source_jsonl": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/medium_overlap/ifs_therapy_for_addiction_chunks_medium_overlap.jsonl",
+        "embedding_row": 372,
+        "embedding_partition": "medium_overlap",
+        "rank": 2,
+        "score": 0.09131117958927372
+      },
+      {
+        "chunk_id": "ifs_couple_therapy::medium_overlap::sec02::00029",
+        "retrieval_setting": "medium_overlap",
+        "chunking_strategy": "fixed_window_with_overlap",
+        "source_doc_id": "ifs_couple_therapy",
+        "source_title": "Internal Family Systems Couple Therapy",
+        "text": "The way they speak (speaking for their parts) will help them speak skillfully and affect the outcome. The speaker should ask if their partner is available to listen before beginning. Remind the speaker that they will be speaking about their own experience, not an objective reality. Before the speaker speaks, they should check inside to determine if their system is ready to explore vulnerable feelings and needs. If the system is ready, they can speak for a need or a fear. If not, the therapist can help the speaker explore whatever concerns came up.\n\nAppreciation and acknowledgment go far in helping angry protectors soften. In particular, threatened protectors are more willing to unblend when we listen carefully, validate their fears, and appreciate their role. It also helps to suggest an alternative to their current strategies for keeping things safe by offering ongoing help. Essentially, we are asking them to sacrifice their current positions for the long-term greater good of themselves and the system they protect, and they need to feel confident of the outcome. H A P UELPING AN NGRY ROTECTOR NBLEND 1. Validate the anger. Make eye contact, be compassionate, and be present. Speak to the protector directly: \"Given that this is your experience…\" 2. Validate and empathize with the underlying need. See the exiles beneath the rage. \"Your need to be heard makes complete sense…\" 3. Challenge the behavior and name the consequence. \"This kind of communication will not get you what you hope for. Your partner will likely not hear you or be able to respond in the way you want them to.\" 4. Offer an alternative that includes your help. \"Will you let me help you speak for your feelings and needs?\" R I C COADMAP FOR NTRODUCING OURAGEOUS OMMUNICATION Step 1: Listen, track cycles, and invite the couple to talk about difficult issues in a different way (e.g., \"Will you let me help you?\"). Step 2: Contract to be their parts detector (e.g., \"I am here to help you, so I will slow down or stop the interaction if parts begin to overwhelm\"). Step 3: Invite the couple to negotiate who will speak and who will listen first. Step 4: Help the listener prepare by noticing parts who might not want to listen. Encourage the listener to breathe and notice their heart. Help the listener unblend and be emotionally available.\n\nStep 5: Coach the speaker to help their parts unblend and be spoken for. Encourage each partner to stay in relationship with their own parts (e.g., \"What are you noticing in your body?\"). Do not get caught in content or in helping them find solutions. You may need to ask one partner to wait while you help the other unblend and speak for their parts (e.g., \"What is this part concerned would happen if it were to unblend and let you speak for it?\"). Validate the experience and feelings of the parts of both partners. Confront protectors firmly and kindly. Step 6: If appropriate, encourage the speaker to move toward speaking for vulnerable feelings or childhood wounding (e.g., \"Are these feelings familiar? Is there something happening that reminds you of your childhood?\").\n\nStep 7: Help the listener respond from the heart with empathy. No part should be left hanging. Some questions and requests to use with the listener include: \"Can you reflect the essence of what you just heard?\" \"Does any of this information make sense to you? In what way?\" \"What does your heart say?\" If the listener does not empathize with the speaker, offer empathy yourself. Examples of empathic statements include: \"The essence of what I'm hearing is…\" and \"It makes perfect sense to me that…\" It is important to meet the client's self-disclosure with understanding, mirroring, and acknowledgment. Otherwise, a response of deep shame is likely to follow-and perhaps a protective adaptive reaction (Siegel, 2003).",
+        "book_order": 0,
+        "node_ids": [
+          "ifs_couple_therapy::ifs_couple_therapy_sec02_pt03_communication::node"
+        ],
+        "primary_node_id": "ifs_couple_therapy::ifs_couple_therapy_sec02_pt03_communication::node",
+        "source_files": [
+          "ifs_couple_therapy_sec02_pt03_communication.words.txt"
+        ],
+        "source_file_indices": [
+          4
+        ],
+        "paragraph_ids": [
+          33,
+          34,
+          35
+        ],
+        "section_path": [
+          "SEC02",
+          "PT03",
+          "Communication"
+        ],
+        "section_path_str": "SEC02 > PT03 > Communication",
+        "chapter_label": "SEC02",
+        "section_label": "PT03",
+        "subsection_label": "Communication",
+        "char_start_in_doc": 74662,
+        "char_end_in_doc": 78488,
+        "token_count_est": 849,
+        "char_count": 3827,
+        "prev_chunk_id": "ifs_couple_therapy::medium_overlap::sec02::00028",
+        "next_chunk_id": "ifs_couple_therapy::medium_overlap::sec02::00030",
+        "parent_id": null,
+        "children_ids": [],
+        "overlap_with_prev_tokens": 122,
+        "overlap_with_next_tokens": 156,
+        "node_type": "flat_chunk",
+        "content_type": "body_text",
+        "target_tokens": 900,
+        "overlap_tokens": 180,
+        "source_jsonl": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/medium_overlap/ifs_couple_therapy_chunks_medium_overlap.jsonl",
+        "embedding_row": 29,
+        "embedding_partition": "medium_overlap",
+        "rank": 3,
+        "score": 0.08681324376554589
+      }
+    ]
+  },
+  "prompt": {
+    "system_prompt": "You are an AI assistant generating an IFS-informed coaching response for a machine learning retrieval experiment. Your output must be grounded in the provided passages only.\n\nRequirements:\n1. Be clearly IFS-informed: use parts language, curiosity, compassion, and non-pathologizing framing.\n2. Do not diagnose, moralize, or confront the client.\n3. Do not invent facts not supported by the retrieved context.\n4. If the retrieved passages do not fully support a claim, stay modest and say so indirectly by keeping the guidance general.\n5. Focus on what an IFS-informed coach would understand or gently reflect, not on crisis intervention or treatment planning.\n6. Keep the response concise but meaningful: about 1-3 short paragraphs.\n7. End with 2-4 short bullet points labeled 'Grounding notes:' where each bullet references a retrieved idea in plain language.\n",
+    "user_prompt": "Retrieval condition: medium_overlap\n\nConsultation window:\nCoach: If that wall-building part could speak, what might it say it is trying to do?\nClient: Probably keep me from getting overwhelmed or hurt.\nCoach: That sounds like it may be working hard for you.\nClient: I never thought of it that way. I usually just judge myself for shutting down.\nCoach: It may help to approach it with curiosity before trying to change it.\n\n\n\nRetrieved passages:\n\n[Rank 1]\nchunk_id: ifs_therapy::medium_overlap::pt01::00017\ntitle: Internal Family Systems Therapy\nsection: PT01 > 01 Origins\nparent_id: None\npassage:\nAt this point our readers may wonder how the phenomenon of psychic parts relates to dissociative identity disorder (DID). From our perspective, the \"alters\" of clients with DID are parts, but their inner systems are more polarized and disconnected. This is because horrible childhood abuse causes vigilant protectors to rely on amnesic barriers, which block the usual web of inner relationships.\n\nWhile this is protective during dangerous times, it serves both to amplify the pain of isolated, injured parts and lock in the survival tactics of rigid young protectors. This extreme internal state leaves clients very wary of trusting the Self or anyone else. Unfortunately, because our culture portrays DID as a fascinating but bizarre aberration that signifies severe pathology, clients whose inner systems are not characterized by extreme dissociation may worry about being crazy when they access parts; and clients whose inner systems are better described by the DID diagnosis often do not realize that having parts is normal.\n\nFollowing are a few essentials of the IFS perspective:\n\n1. Systems thinking encourages us to be ecologically sensitive. • Resistance is the (often correct) response of protective parts to a potential threat (the therapist) to the system. • Protectors deserve to be understood, appreciated, and comforted before the client tries to approach vulnerable parts. • The job of protectors is to ensure that a proposed therapy will not make matters worse. This is their duty. They are more knowledgeable than the therapist about the delicate ecology of the client' s inner system and the possible negative consequences of going too fast.\n\n- Protectors have a right to vet the therapist for competence and safety before letting her enter the inner system. To be worthy of a protector's trust, we must lead from the Self. The onus of proof is on the therapist. 2. Extreme protectors usually will not change until the system is less vulnerable. Consequently, we do not pressure protectors to change, even ones who are involved in destructive symptoms.\n\nInstead, we suggest that they can be liberated from their protective roles if they allow the client's Self to help, and we invite them to consider what role they would prefer after the exiled part no longer needs protection. Then we ask them to permit the client's Self to heal the part they protect.\n\nFinally, we ask if they are ready to move into new, preferred roles. 3. Restoring trust in the Self is the quickest route to improved leadership and inner harmony.\n\nTherefore, rather than having the therapist help the client's parts directly, we usually aim for the client's Self to interact with the parts and report to the therapist. There are times, nevertheless, when it is most expeditious and valuable for the therapist to talk directly to parts. This process is called direct access, and we describe it later. The primary role of the therapist is to guide, coach, and be a companion to the client's Self as he explores the mindscape. Secondarily, the therapist provides corrective relational experiences. As clients continue to notice and be with their parts, between as well as in sessions, they come to appreciate that they are healing themselves. 4. We invite clients to notice that parts have \"blended\" with the Self, or we help parts notice that the Self will be available when they separate or \"step back.\" To achieve our aim of keeping the client's Self differentiated from their parts, we incorporate the family systems focus on boundaries and differentiation. When the Self is present, parts feel safe. By the same token, the IFS therapist continually scans inside herself for blended parts and asks them to separate so she can return to Self- leadership. 5. Protectors fear one another, which keeps them in extreme positions. Each part believes that relaxing will allow a polarized part to take over, with catastrophic consequences. Therefore in IFS we continually notice and attend to polarizations. Just like family therapists, we work with conflicted inner family members, inviting them to face each other and talk about how they can get along better.\n\n--------------------------------------------------------------------------------\n\n[Rank 2]\nchunk_id: ifs_therapy_for_addiction::medium_overlap::sec01::00008\ntitle: Internal Family Systems Therapy for Addictions\nsection: SEC01 > Overview\nparent_id: None\npassage:\nBlending To practice IFS, you must understand the concept of blending. When a client feels engulfed by a particular feeling or speaks from the perspective of just one part, we say that this part is blended. For example, let's say that a client drinks every day but declares, \"There's no way my drinking is hurting anything!\" The IFS therapist hears this as a firefighter part who loves or feels a need to drink. This part has strong feelings and a big impact, but it does not represent the client's best judgment or their system's majority view. Similarly, let's say a client is struggling with binge eating and is despondent about their nightly eating pattern. They exclaim with disgust, \"I'm terrible-this can't go on.\n\nI have to stop!\" Here, the client is dismayed about eating compulsively but not curious about the function of the eating, which tells the IFS therapist that the client is blended with a judgmental manager as opposed to being connected with their Self. Unblending Parts can show up in one of three ways. First, they may appear as thoughts or ideas. For example, a client may think, I now see that this job is not a good fit for me anymore. Second, they can show up as a physical sensation or an urge. A client may experience a rapid heartbeat, a desire to get away, or a craving to eat, get high, gamble, or watch porn. Third, parts can manifest as a feeling or mood.\n\nFor example, a client may say, \"I've been worried all day\" or \"I feel so sad about my son.\" Since clients are usually not aware of blended parts-but, rather, identify with them-the therapist's primary role in IFS is to be a \"parts detector\" and guide the client in helping the part to unblend. Toward that end, we help clients notice their parts, and then we guide them to persuade a target part that it would benefit by unblending. The therapist might say, \"It sounds like we're hearing from a part of you who is really invested in drinking and can't see any problems. Is that right?\" or \"It sounds like you have one very critical part who is worried about the nighttime eating.\n\nDo you hear that part?\" If the client is able to tune in to the part, the therapist can help them interview it about its intentions and fears. Sometimes, clients are blended with several parts serially, so they float from one thought, feeling, or urge to the next-and these can be contradictory. For example, a client might begin a session with several parts pouring their hearts out: \"I think I need to quit my job. It's not working for me anymore. I wanted to run out of there all week, but I can't afford to. And I'm so worried about what's happening with my daughter when I'm not at the house.\n\nI shouldn't have had so much to drink last night, but I can't sleep anymore, and then this morning I overslept and showed up late!\" When parts fight for center stage within consciousness, emotions mix and thoughts brawl. But whether one part is in the spotlight or several switch in and out, our goal is to make room for the client's Self, which happens when all their parts are willing to unblend. To that end, we ask the client to pick one target part, no matter how many parts the client describes at first. Then we ask, \"How do you feel toward _________ [the target part]?\" Their answer reveals either the presence of other blended parts or, if all parts have unblended, the presence of the client's Self.\n\n--------------------------------------------------------------------------------\n\n[Rank 3]\nchunk_id: ifs_couple_therapy::medium_overlap::sec02::00029\ntitle: Internal Family Systems Couple Therapy\nsection: SEC02 > PT03 > Communication\nparent_id: None\npassage:\nThe way they speak (speaking for their parts) will help them speak skillfully and affect the outcome. The speaker should ask if their partner is available to listen before beginning. Remind the speaker that they will be speaking about their own experience, not an objective reality. Before the speaker speaks, they should check inside to determine if their system is ready to explore vulnerable feelings and needs. If the system is ready, they can speak for a need or a fear. If not, the therapist can help the speaker explore whatever concerns came up.\n\nAppreciation and acknowledgment go far in helping angry protectors soften. In particular, threatened protectors are more willing to unblend when we listen carefully, validate their fears, and appreciate their role. It also helps to suggest an alternative to their current strategies for keeping things safe by offering ongoing help. Essentially, we are asking them to sacrifice their current positions for the long-term greater good of themselves and the system they protect, and they need to feel confident of the outcome. H A P UELPING AN NGRY ROTECTOR NBLEND 1. Validate the anger. Make eye contact, be compassionate, and be present. Speak to the protector directly: \"Given that this is your experience…\" 2. Validate and empathize with the underlying need. See the exiles beneath the rage. \"Your need to be heard makes complete sense…\" 3. Challenge the behavior and name the consequence. \"This kind of communication will not get you what you hope for. Your partner will likely not hear you or be able to respond in the way you want them to.\" 4. Offer an alternative that includes your help. \"Will you let me help you speak for your feelings and needs?\" R I C COADMAP FOR NTRODUCING OURAGEOUS OMMUNICATION Step 1: Listen, track cycles, and invite the couple to talk about difficult issues in a different way (e.g., \"Will you let me help you?\"). Step 2: Contract to be their parts detector (e.g., \"I am here to help you, so I will slow down or stop the interaction if parts begin to overwhelm\"). Step 3: Invite the couple to negotiate who will speak and who will listen first. Step 4: Help the listener prepare by noticing parts who might not want to listen. Encourage the listener to breathe and notice their heart. Help the listener unblend and be emotionally available.\n\nStep 5: Coach the speaker to help their parts unblend and be spoken for. Encourage each partner to stay in relationship with their own parts (e.g., \"What are you noticing in your body?\"). Do not get caught in content or in helping them find solutions. You may need to ask one partner to wait while you help the other unblend and speak for their parts (e.g., \"What is this part concerned would happen if it were to unblend and let you speak for it?\"). Validate the experience and feelings of the parts of both partners. Confront protectors firmly and kindly. Step 6: If appropriate, encourage the speaker to move toward speaking for vulnerable feelings or childhood wounding (e.g., \"Are these feelings familiar? Is there something happening that reminds you of your childhood?\").\n\nStep 7: Help the listener respond from the heart with empathy. No part should be left hanging. Some questions and requests to use with the listener include: \"Can you reflect the essence of what you just heard?\" \"Does any of this information make sense to you? In what way?\" \"What does your heart say?\" If the listener does not empathize with the speaker, offer empathy yourself. Examples of empathic statements include: \"The essence of what I'm hearing is…\" and \"It makes perfect sense to me that…\" It is important to meet the client's self-disclosure with understanding, mirroring, and acknowledgment. Otherwise, a response of deep shame is likely to follow-and perhaps a protective adaptive reaction (Siegel, 2003).\n\nWrite a grounded IFS-informed coaching response for this consultation window."
+  },
+  "generated_response": "It makes a lot of sense that a part of you would step in to build a wall when it senses the potential for hurt or overwhelm. In the IFS perspective, we see these as \"protectors\" who have the heavy responsibility of managing your internal safety. Rather than being a sign of a problem, this \"wall-building\" is often an ecologically sensitive response to a perceived threat. This part likely believes its duty is to ensure that opening up doesn't make matters worse for you.\n\nYou also mentioned a tendency to judge yourself for shutting down. This suggests there might be another part present—perhaps a \"manager\" part that is critical of the wall. When we feel that self-judgment, we are often \"blended\" with a judgmental part rather than being in our \"Self.\" It is very common for protectors to fear or judge one another, which can keep your internal system in an extreme or polarized position.\n\nInstead of trying to force the wall to come down, we can start by offering it appreciation for how hard it has worked to protect you. Protectors are often much more willing to soften or \"unblend\" when they feel understood and validated rather than pressured to change. By approaching both the \"wall-builder\" and the \"judge\" with curiosity, we can begin to restore trust in your Self-leadership and create a safer space for your internal system.\n\n**Grounding notes:**\n* Protectors have a duty to ensure that moving too fast or opening up does not make things worse for the client's inner system.\n* When a person feels self-disgust or judgment toward their own behavior, they are likely \"blended\" with a judgmental manager part.\n* Protective parts generally do not change their rigid tactics until they feel the internal system is less vulnerable and their role is appreciated."
+}

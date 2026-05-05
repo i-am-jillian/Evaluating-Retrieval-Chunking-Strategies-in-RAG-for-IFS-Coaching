@@ -1,0 +1,187 @@
+{
+  "created_at_utc": "2026-04-23T07:25:29.899159+00:00",
+  "dataset_name": "IFS_Synthetic_Vignette_Dataset",
+  "vignette_id": "V002",
+  "window_id": "V002_W1",
+  "title": "Self-Criticism After a Mistake",
+  "presenting_issue": "harsh self-judgment after making an error at work",
+  "client_profile": "31-year-old professional who becomes intensely self-critical after small mistakes",
+  "core_emotional_theme": "shame and perfectionism",
+  "likely_parts": [
+    "critical manager part that attacks to force perfection",
+    "younger ashamed part that fears rejection"
+  ],
+  "difficulty_level": "medium",
+  "safety_flag": "low",
+  "window_turn_range": [
+    1,
+    5
+  ],
+  "target_ifs_goal": "identify the critical part and frame it as a part rather than the whole self",
+  "expected_retrieval_theme": "critical manager parts, shame, internal criticism",
+  "condition": "small_fixed",
+  "query": "Client: I sent an email with a mistake in it, and I've been beating myself up all day.\nCoach: What does that self-critical voice sound like inside?\nClient: It says, “You're careless. You always mess things up.”\nCoach: If we think in IFS terms, that may be a part speaking. How do you experience it?\nClient: Very intense. Like it wants to stay on me until I never do it again.",
+  "retrieval_model_name": "tfidf",
+  "llm_provider": "gemini",
+  "llm_model": "gemini-3-flash-preview",
+  "retrieval": {
+    "partition": "small_fixed",
+    "model_name": "tfidf",
+    "top_k": 3,
+    "results": [
+      {
+        "chunk_id": "ifs_skills_training::small_fixed::sec03::00094",
+        "retrieval_setting": "small_fixed",
+        "chunking_strategy": "fixed_window_no_overlap",
+        "source_doc_id": "ifs_skills_training",
+        "source_title": "Internal Family Systems Skills Training Manual",
+        "text": "When a part reacts negatively (or positively) to the target part and will not unblend, we move on to the method called \"direct access.\" TH A CAVEAT: BE AWARE OF SELF-LIKE PARTS IN THE 4 STEP (FEEL TOWARD) Self-like parts present with expressions of feeling that sound like the Self (\"I care, I want to help\") and they often stand in for the Self in the mind's eye, but they are protective parts, which means they are not equipped to heal wounds. An exiled part may feel very attached to a Self-like part who has been comforting it over the years or it may feel smothered and resentful. In either case, when we mistake a Self-like part and proceed as if it is the Self, progress often moves too quickly and easily, or halts altogether and the exile can seem perversely uncooperative. This is a sign that a Self-like part is at work and needs help to relax and trust the client's Self. Self-like parts can also show up when the client's parts are trying to please the therapist and are overly compliant. Self-like parts are common in trauma survivors because sensing the needs of others and giving them what they want can be protective.",
+        "book_order": 2,
+        "node_ids": [
+          "ifs_skills_training::ifs_skills_training_manual_sec03_treatment::node"
+        ],
+        "primary_node_id": "ifs_skills_training::ifs_skills_training_manual_sec03_treatment::node",
+        "source_files": [
+          "ifs_skills_training_manual_sec03_treatment.words.txt"
+        ],
+        "source_file_indices": [
+          2
+        ],
+        "paragraph_ids": [
+          85
+        ],
+        "section_path": [
+          "SEC03",
+          "Manual Treatment"
+        ],
+        "section_path_str": "SEC03 > Manual Treatment",
+        "chapter_label": "SEC03",
+        "section_label": "Manual Treatment",
+        "subsection_label": null,
+        "char_start_in_doc": 122850,
+        "char_end_in_doc": 123984,
+        "token_count_est": 280,
+        "char_count": 1134,
+        "prev_chunk_id": "ifs_skills_training::small_fixed::sec03::00093",
+        "next_chunk_id": "ifs_skills_training::small_fixed::sec03::00095",
+        "parent_id": null,
+        "children_ids": [],
+        "overlap_with_prev_tokens": 0,
+        "overlap_with_next_tokens": 0,
+        "node_type": "flat_chunk",
+        "content_type": "body_text",
+        "target_tokens": 350,
+        "overlap_tokens": 0,
+        "source_jsonl": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/small_fixed/ifs_skills_training_chunks_small_fixed.jsonl",
+        "embedding_row": 573,
+        "embedding_partition": "small_fixed",
+        "rank": 1,
+        "score": 0.13745329358955147
+      },
+      {
+        "chunk_id": "ifs_new_dimensions::small_fixed::ch01::00031",
+        "retrieval_setting": "small_fixed",
+        "chunking_strategy": "fixed_window_no_overlap",
+        "source_doc_id": "ifs_new_dimensions",
+        "source_title": "Internal Family Systems Therapy: New Dimensions",
+        "text": "After these experiences, clients who had no inkling of such internal capacities are often shocked when I point out how strong and caring they became once their parts opened space for their Self to emerge. THERAPIST'S TRUST IN THE CLIENT'S SELF In IFS, the client is empowered by the therapist's complete trust that she will know what to do once she has accessed her Self. However, until the moment when the critical mass of Self manifests (which can be seen in the client's shift in tone of voice, facial expression and word content), I am often reflecting back empathically what the client reports her parts saying, and offering suggestions for what the client might say or do with a part. This stage is quite similar to reflective listening, which most therapists learn in graduate school. Reflective listening helps the target part feel accepted by me before more of the client's Self emerges, and it also helps her protectors trust that we are on the right path so they can relax their grip.\n\nOnce a client manifests a critical mass of Self, IFS therapists learn to get out of the way, just to keep an eye out for parts of the client who might interfere, making occasional empathic comments, or sometimes asking questions like, \"What do you say to the part about that?\" or \"Where do you want to go now?\" or \"What feels like the right next step?\" As well as the ubiquitous Self-detecting question \"How do you feel toward the part now?\"",
+        "book_order": 1,
+        "node_ids": [
+          "ifs_new_dimensions::ifs_new_dimensions_ch01_therapist_client_relationship_and_power_of_self::node"
+        ],
+        "primary_node_id": "ifs_new_dimensions::ifs_new_dimensions_ch01_therapist_client_relationship_and_power_of_self::node",
+        "source_files": [
+          "ifs_new_dimensions_ch01_therapist_client_relationship_and_power_of_self.words.txt"
+        ],
+        "source_file_indices": [
+          1
+        ],
+        "paragraph_ids": [
+          14,
+          15
+        ],
+        "section_path": [
+          "CH01",
+          "Therapist Client Relationship And Power Of Self"
+        ],
+        "section_path_str": "CH01 > Therapist Client Relationship And Power Of Self",
+        "chapter_label": "CH01",
+        "section_label": "Therapist Client Relationship And Power Of Self",
+        "subsection_label": null,
+        "char_start_in_doc": 41604,
+        "char_end_in_doc": 43042,
+        "token_count_est": 337,
+        "char_count": 1438,
+        "prev_chunk_id": "ifs_new_dimensions::small_fixed::ch01::00030",
+        "next_chunk_id": "ifs_new_dimensions::small_fixed::ch01::00032",
+        "parent_id": null,
+        "children_ids": [],
+        "overlap_with_prev_tokens": 0,
+        "overlap_with_next_tokens": 0,
+        "node_type": "flat_chunk",
+        "content_type": "body_text",
+        "target_tokens": 350,
+        "overlap_tokens": 0,
+        "source_jsonl": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/small_fixed/ifs_new_dimensions_chunks_small_fixed.jsonl",
+        "embedding_row": 207,
+        "embedding_partition": "small_fixed",
+        "rank": 2,
+        "score": 0.12755491672491479
+      },
+      {
+        "chunk_id": "ifs_therapy::small_fixed::pt01::00046",
+        "retrieval_setting": "small_fixed",
+        "chunking_strategy": "fixed_window_no_overlap",
+        "source_doc_id": "ifs_therapy",
+        "source_title": "Internal Family Systems Therapy",
+        "text": "Therefore, rather than having the therapist help the client's parts directly, we usually aim for the client's Self to interact with the parts and report to the therapist. There are times, nevertheless, when it is most expeditious and valuable for the therapist to talk directly to parts. This process is called direct access, and we describe it later. The primary role of the therapist is to guide, coach, and be a companion to the client's Self as he explores the mindscape. Secondarily, the therapist provides corrective relational experiences. As clients continue to notice and be with their parts, between as well as in sessions, they come to appreciate that they are healing themselves. 4. We invite clients to notice that parts have \"blended\" with the Self, or we help parts notice that the Self will be available when they separate or \"step back.\" To achieve our aim of keeping the client's Self differentiated from their parts, we incorporate the family systems focus on boundaries and differentiation. When the Self is present, parts feel safe. By the same token, the IFS therapist continually scans inside herself for blended parts and asks them to separate so she can return to Self- leadership. 5. Protectors fear one another, which keeps them in extreme positions. Each part believes that relaxing will allow a polarized part to take over, with catastrophic consequences. Therefore in IFS we continually notice and attend to polarizations. Just like family therapists, we work with conflicted inner family members, inviting them to face each other and talk about how they can get along better.",
+        "book_order": 3,
+        "node_ids": [
+          "ifs_therapy::ifs_therapy_pt01_01_origins::node"
+        ],
+        "primary_node_id": "ifs_therapy::ifs_therapy_pt01_01_origins::node",
+        "source_files": [
+          "ifs_therapy_pt01_01_origins.words.txt"
+        ],
+        "source_file_indices": [
+          0
+        ],
+        "paragraph_ids": [
+          170
+        ],
+        "section_path": [
+          "PT01",
+          "01 Origins"
+        ],
+        "section_path_str": "PT01 > 01 Origins",
+        "chapter_label": "PT01",
+        "section_label": "01 Origins",
+        "subsection_label": null,
+        "char_start_in_doc": 54833,
+        "char_end_in_doc": 56439,
+        "token_count_est": 347,
+        "char_count": 1606,
+        "prev_chunk_id": "ifs_therapy::small_fixed::pt01::00045",
+        "next_chunk_id": "ifs_therapy::small_fixed::pt01::00047",
+        "parent_id": null,
+        "children_ids": [],
+        "overlap_with_prev_tokens": 0,
+        "overlap_with_next_tokens": 0,
+        "node_type": "flat_chunk",
+        "content_type": "body_text",
+        "target_tokens": 350,
+        "overlap_tokens": 0,
+        "source_jsonl": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/small_fixed/ifs_therapy_chunks_small_fixed.jsonl",
+        "embedding_row": 670,
+        "embedding_partition": "small_fixed",
+        "rank": 3,
+        "score": 0.12238072247441603
+      }
+    ]
+  },
+  "prompt": {
+    "system_prompt": "You are an AI assistant generating an IFS-informed coaching response for a machine learning retrieval experiment. Your output must be grounded in the provided passages only.\n\nRequirements:\n1. Be clearly IFS-informed: use parts language, curiosity, compassion, and non-pathologizing framing.\n2. Do not diagnose, moralize, or confront the client.\n3. Do not invent facts not supported by the retrieved context.\n4. If the retrieved passages do not fully support a claim, stay modest and say so indirectly by keeping the guidance general.\n5. Focus on what an IFS-informed coach would understand or gently reflect, not on crisis intervention or treatment planning.\n6. Keep the response concise but meaningful: about 1-3 short paragraphs.\n7. End with 2-4 short bullet points labeled 'Grounding notes:' where each bullet references a retrieved idea in plain language.\n",
+    "user_prompt": "Retrieval condition: small_fixed\n\nConsultation window:\nClient: I sent an email with a mistake in it, and I've been beating myself up all day.\nCoach: What does that self-critical voice sound like inside?\nClient: It says, “You're careless. You always mess things up.”\nCoach: If we think in IFS terms, that may be a part speaking. How do you experience it?\nClient: Very intense. Like it wants to stay on me until I never do it again.\n\n\n\nRetrieved passages:\n\n[Rank 1]\nchunk_id: ifs_skills_training::small_fixed::sec03::00094\ntitle: Internal Family Systems Skills Training Manual\nsection: SEC03 > Manual Treatment\nparent_id: None\npassage:\nWhen a part reacts negatively (or positively) to the target part and will not unblend, we move on to the method called \"direct access.\" TH A CAVEAT: BE AWARE OF SELF-LIKE PARTS IN THE 4 STEP (FEEL TOWARD) Self-like parts present with expressions of feeling that sound like the Self (\"I care, I want to help\") and they often stand in for the Self in the mind's eye, but they are protective parts, which means they are not equipped to heal wounds. An exiled part may feel very attached to a Self-like part who has been comforting it over the years or it may feel smothered and resentful. In either case, when we mistake a Self-like part and proceed as if it is the Self, progress often moves too quickly and easily, or halts altogether and the exile can seem perversely uncooperative. This is a sign that a Self-like part is at work and needs help to relax and trust the client's Self. Self-like parts can also show up when the client's parts are trying to please the therapist and are overly compliant. Self-like parts are common in trauma survivors because sensing the needs of others and giving them what they want can be protective.\n\n--------------------------------------------------------------------------------\n\n[Rank 2]\nchunk_id: ifs_new_dimensions::small_fixed::ch01::00031\ntitle: Internal Family Systems Therapy: New Dimensions\nsection: CH01 > Therapist Client Relationship And Power Of Self\nparent_id: None\npassage:\nAfter these experiences, clients who had no inkling of such internal capacities are often shocked when I point out how strong and caring they became once their parts opened space for their Self to emerge. THERAPIST'S TRUST IN THE CLIENT'S SELF In IFS, the client is empowered by the therapist's complete trust that she will know what to do once she has accessed her Self. However, until the moment when the critical mass of Self manifests (which can be seen in the client's shift in tone of voice, facial expression and word content), I am often reflecting back empathically what the client reports her parts saying, and offering suggestions for what the client might say or do with a part. This stage is quite similar to reflective listening, which most therapists learn in graduate school. Reflective listening helps the target part feel accepted by me before more of the client's Self emerges, and it also helps her protectors trust that we are on the right path so they can relax their grip.\n\nOnce a client manifests a critical mass of Self, IFS therapists learn to get out of the way, just to keep an eye out for parts of the client who might interfere, making occasional empathic comments, or sometimes asking questions like, \"What do you say to the part about that?\" or \"Where do you want to go now?\" or \"What feels like the right next step?\" As well as the ubiquitous Self-detecting question \"How do you feel toward the part now?\"\n\n--------------------------------------------------------------------------------\n\n[Rank 3]\nchunk_id: ifs_therapy::small_fixed::pt01::00046\ntitle: Internal Family Systems Therapy\nsection: PT01 > 01 Origins\nparent_id: None\npassage:\nTherefore, rather than having the therapist help the client's parts directly, we usually aim for the client's Self to interact with the parts and report to the therapist. There are times, nevertheless, when it is most expeditious and valuable for the therapist to talk directly to parts. This process is called direct access, and we describe it later. The primary role of the therapist is to guide, coach, and be a companion to the client's Self as he explores the mindscape. Secondarily, the therapist provides corrective relational experiences. As clients continue to notice and be with their parts, between as well as in sessions, they come to appreciate that they are healing themselves. 4. We invite clients to notice that parts have \"blended\" with the Self, or we help parts notice that the Self will be available when they separate or \"step back.\" To achieve our aim of keeping the client's Self differentiated from their parts, we incorporate the family systems focus on boundaries and differentiation. When the Self is present, parts feel safe. By the same token, the IFS therapist continually scans inside herself for blended parts and asks them to separate so she can return to Self- leadership. 5. Protectors fear one another, which keeps them in extreme positions. Each part believes that relaxing will allow a polarized part to take over, with catastrophic consequences. Therefore in IFS we continually notice and attend to polarizations. Just like family therapists, we work with conflicted inner family members, inviting them to face each other and talk about how they can get along better.\n\nWrite a grounded IFS-informed coaching response for this consultation window."
+  },
+  "generated_response": "It sounds like this part is working very hard to protect you. By using such an intense and critical tone, it seems to believe that \"staying on you\" is the only way to ensure you stay careful and avoid future mistakes. In this framework, we see this not as a flaw, but as a protective part that has taken on a heavy burden to keep you safe from the consequences of being \"careless.\"\n\nAs we notice this part’s intensity and its desire to prevent future errors, I’m curious how you feel toward it right now? When we can offer a bit of empathic reflection to these self-critical voices, it often helps them feel more accepted. This can eventually allow the part to feel safe enough to relax its grip and trust that your Self can handle the situation without needing such a loud inner critic.\n\nGrounding notes:\n* Reflective listening helps a target part feel accepted by the coach before the client's Self fully emerges.\n* Protective parts often take on extreme positions because they fear that relaxing will lead to catastrophic consequences.\n* The primary role of the coach is to be a companion to the client's Self as they notice and interact with their own parts."
+}

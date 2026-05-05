@@ -1,0 +1,188 @@
+{
+  "created_at_utc": "2026-04-24T05:22:34.232732+00:00",
+  "dataset_name": "IFS_Synthetic_Vignette_Dataset",
+  "vignette_id": "V004",
+  "window_id": "V004_W1",
+  "title": "Emotional Numbing After Stress",
+  "presenting_issue": "feeling disconnected and shut down after conflict",
+  "client_profile": "35-year-old who becomes emotionally numb after interpersonal stress",
+  "core_emotional_theme": "overwhelm and protective shutdown",
+  "likely_parts": [
+    "protective part that numbs or distances",
+    "vulnerable part overwhelmed by conflict"
+  ],
+  "difficulty_level": "medium",
+  "safety_flag": "low",
+  "window_turn_range": [
+    1,
+    5
+  ],
+  "target_ifs_goal": "identify shutdown/numbing as a protective part",
+  "expected_retrieval_theme": "protective shutdown, distancing parts, emotional overwhelm",
+  "condition": "medium_overlap",
+  "query": "Client: After arguments, I just go numb. I can't feel much of anything.\nCoach: When that numbness comes in, how do you experience it inside?\nClient: It feels like everything goes flat. Like I disappear a little.\nCoach: Does it seem possible that a part is stepping in there?\nClient: Maybe. It almost feels like something puts up a wall.",
+  "retrieval_model_name": "tfidf",
+  "llm_provider": "gemini",
+  "llm_model": "gemini-3-flash-preview",
+  "retrieval": {
+    "partition": "medium_overlap",
+    "model_name": "tfidf",
+    "top_k": 3,
+    "results": [
+      {
+        "chunk_id": "ifs_skills_training::medium_overlap::sec03::00051",
+        "retrieval_setting": "medium_overlap",
+        "chunking_strategy": "fixed_window_with_overlap",
+        "source_doc_id": "ifs_skills_training",
+        "source_title": "Internal Family Systems Skills Training Manual",
+        "text": "The Three States of Processing Stress Sympathetic Parasympathetic Normal Stress Hyperarousal Blunting Normal inhibition Under-inhibition* Over-inhibition* Little cognitive Normal thoughts Low thinking perspective Normal emotions High emotions Low emotion Normal body sensations High body sensations Low body sensations * (Lanius et al., 2010) There are three states that therapists deal with when working with individuals who go through stressful situations. At times, a client is able to process information cognitively, emotionally and physically. At other times (of sympathetic activation) the client is in high emotional and physical activation with little ability to downregulate. At yet other times (parasympathetic blunting) she is numb, dissociated and without access to physical sensations, emotions or thoughts. In the most intense moments, a traumatized client may alternate among all three of these states.\n\nMeditation BE WITH YOUR HEART - If it feels good, go ahead and take a deep breath and notice your heart in whatever way you experience it - this doesn't have to be your actual heart on the left side of your chest, just however you experience your heart. - I'm going to invite you to get to know it in a physical way and we're going to explore different qualities of your heart. - We'll see about its condition. - First notice how open it is. - How tender, encrusted or callused. - Perhaps it is congested, fluid or flowing. - Also notice how much space your heart has in there. - Does it feel contracted and tightly packed or spacious? - You might find in your exploration that different places in your heart are different in those ways. - Maybe the front is closed but the back is open. - Or the top is tender and the bottom is tough. - Maybe energy can flow through some parts of your heart but not all. - Maybe in some places your heart feels pinched and contracted while in other places it feels spacious. - So where it feels extreme in any of those ways - closed, contracted, contested or callused - you have located some protective parts. - If you want, you can take a little time right now to meet those parts.\n\n- If it's okay, just get a little curious about what those protectors are afraid would happen if they allowed you to open your heart fully. - If they let your heart be tender. - If they didn't try to contract or compact it. - In answer to that question, you are likely to learn about the vulnerable parts they protect who also live in or around your heart. - Right now you don't have to go to those vulnerable parts, you can just hear a little bit about them from these protectors. - As you get to know how vigilantly these protectors have guarded your vulnerability, just extend your loving appreciation toward them at whatever degree feels sincere. - Notice how they react to that appreciation. - Right now we are not asking them to change anything. Nor do we expect them to change. - We're just getting to know their fears and showing them appreciation. - And someday, if they want, if they feel it's a good idea, they may let you go to those vulnerable parts to heal them. - Then these hard working protectors will be able to relax and allow you to open your heart. - Often protective parts don't believe healing is possible. They feel condemned to do this with your heart for the rest of your life. So just be sure they know it is possible but there's no pressure. - When this visit with your heart protectors feels complete, you can begin to shift your focus back outside but make sure before you leave to thank them for letting you know all this and thank them for their hard work to keep your heart safe.",
+        "book_order": 2,
+        "node_ids": [
+          "ifs_skills_training::ifs_skills_training_manual_sec03_treatment::node"
+        ],
+        "primary_node_id": "ifs_skills_training::ifs_skills_training_manual_sec03_treatment::node",
+        "source_files": [
+          "ifs_skills_training_manual_sec03_treatment.words.txt"
+        ],
+        "source_file_indices": [
+          2
+        ],
+        "paragraph_ids": [
+          90,
+          91,
+          92
+        ],
+        "section_path": [
+          "SEC03",
+          "Manual Treatment"
+        ],
+        "section_path_str": "SEC03 > Manual Treatment",
+        "chapter_label": "SEC03",
+        "section_label": "Manual Treatment",
+        "subsection_label": null,
+        "char_start_in_doc": 130862,
+        "char_end_in_doc": 134513,
+        "token_count_est": 814,
+        "char_count": 3651,
+        "prev_chunk_id": "ifs_skills_training::medium_overlap::sec03::00050",
+        "next_chunk_id": "ifs_skills_training::medium_overlap::sec03::00052",
+        "parent_id": null,
+        "children_ids": [],
+        "overlap_with_prev_tokens": 168,
+        "overlap_with_next_tokens": 360,
+        "node_type": "flat_chunk",
+        "content_type": "body_text",
+        "target_tokens": 900,
+        "overlap_tokens": 180,
+        "source_jsonl": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/medium_overlap/ifs_skills_training_chunks_medium_overlap.jsonl",
+        "embedding_row": 287,
+        "embedding_partition": "medium_overlap",
+        "rank": 1,
+        "score": 0.10934225093606212
+      },
+      {
+        "chunk_id": "ifs_therapy_for_addiction::medium_overlap::sec04::00090",
+        "retrieval_setting": "medium_overlap",
+        "chunking_strategy": "fixed_window_with_overlap",
+        "source_doc_id": "ifs_therapy_for_addiction",
+        "source_title": "Internal Family Systems Therapy for Addictions",
+        "text": "When protectors are not ready for an exile to tell its story but the part blends anyway, we have to intervene. We speak to it directly, negotiating with it to unblend and promising that we won't forget to give it the attention it craves. At the same time, protectors have the opportunity to see that exiles have an agenda too, and that they won't overwhelm the system if they get what they want. One-Way Connections with Exiles Exiles can appear early in treatment in subtle ways that befit their position on the backburners of consciousness. For instance, they often pop into a client's current narrative and divert the client's attention to the past.\n\nSay the client is reporting a stressful incident at work when, without preamble, they pivot to an earlier time (… like when my father left and my mother fell apart …) with no awareness of the memory's significance. When an exile pops up like this, we pause, notice, and make the most of this connection opportunity by inviting it into the session. If the client has enough Self-energy, we may guide them to tell the exile that we won't hear its whole story now but that we know it's important and we are aiming to hear it as soon as all parts agree. We don't want to pursue these trailheads vigorously before protectors are ready, but the contact can be warm, even if it's brief.\n\nSuccess in therapy depends on connecting with these parts safely. If it feels right, the client may want to ask, \"Is there is one thing, just for today, that you want me to know about you?\" In addition, when we sense the client is feeling vulnerable but hasn't noticed, an exile is probably making an appearance. In this case, we might say something like, \"We've been discussing your relationship with your partner and his recent drug use. You haven't mentioned this yet, but I'm sensing a sad part underneath your frustration. Is that possible?\" We can then invite the client to pause and focus internally. If the client insists that they do not feel the sadness, we let it go for now.\n\nIf they do notice the feeling, even just briefly, we guide them to let the part know that they feel it and are aware of its presence. As the client connects with their sad part, an image may appear, or the client may simply feel the sensations that go with sadness. Again, if there is enough Self-energy, we guide the client to stay with the sad part a little longer and have a short exchange. We guide the client to ask it not to overwhelm the system so that protectors will trust it and give it a real chance to be heard. If the sadness does start to flood the client, we can ask the exile what would happen if it unblended instead. Exiles often overflow the dam because they fear being put out of mind again.\n\nThey don't trust the Self yet, and they assume a full-on deluge is their only way of being noticed. As therapists, we must work with our own parts to stay present and connected-helping the client validate the exile's fears while asking for cooperation and promising to return. We can then direct a client to identify how and when this vulnerable exile first made its appearance. (I was feeling angry and sad about my partner using drugs all the time, and then I remembered how sad I was when my dad left.) Then the client can track their pattern-feeling sad, lonely, ashamed, and so on-and notice how those feelings connect to present-day actions.",
+        "book_order": 4,
+        "node_ids": [
+          "ifs_therapy_for_addiction::ifs_therapy_for_addiction_sec04_12_exile::node"
+        ],
+        "primary_node_id": "ifs_therapy_for_addiction::ifs_therapy_for_addiction_sec04_12_exile::node",
+        "source_files": [
+          "ifs_therapy_for_addiction_sec04_12_exile.words.txt"
+        ],
+        "source_file_indices": [
+          15
+        ],
+        "paragraph_ids": [
+          123
+        ],
+        "section_path": [
+          "SEC04",
+          "12 Exile"
+        ],
+        "section_path_str": "SEC04 > 12 Exile",
+        "chapter_label": "SEC04",
+        "section_label": "12 Exile",
+        "subsection_label": null,
+        "char_start_in_doc": 251011,
+        "char_end_in_doc": 254390,
+        "token_count_est": 819,
+        "char_count": 3383,
+        "prev_chunk_id": "ifs_therapy_for_addiction::medium_overlap::sec04::00089",
+        "next_chunk_id": "ifs_therapy_for_addiction::medium_overlap::sec04::00091",
+        "parent_id": null,
+        "children_ids": [],
+        "overlap_with_prev_tokens": 153,
+        "overlap_with_next_tokens": 155,
+        "node_type": "flat_chunk",
+        "content_type": "body_text",
+        "target_tokens": 900,
+        "overlap_tokens": 180,
+        "source_jsonl": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/medium_overlap/ifs_therapy_for_addiction_chunks_medium_overlap.jsonl",
+        "embedding_row": 454,
+        "embedding_partition": "medium_overlap",
+        "rank": 2,
+        "score": 0.10651192802543785
+      },
+      {
+        "chunk_id": "ifs_therapy_for_addiction::medium_overlap::sec01::00008",
+        "retrieval_setting": "medium_overlap",
+        "chunking_strategy": "fixed_window_with_overlap",
+        "source_doc_id": "ifs_therapy_for_addiction",
+        "source_title": "Internal Family Systems Therapy for Addictions",
+        "text": "Blending To practice IFS, you must understand the concept of blending. When a client feels engulfed by a particular feeling or speaks from the perspective of just one part, we say that this part is blended. For example, let's say that a client drinks every day but declares, \"There's no way my drinking is hurting anything!\" The IFS therapist hears this as a firefighter part who loves or feels a need to drink. This part has strong feelings and a big impact, but it does not represent the client's best judgment or their system's majority view. Similarly, let's say a client is struggling with binge eating and is despondent about their nightly eating pattern. They exclaim with disgust, \"I'm terrible-this can't go on.\n\nI have to stop!\" Here, the client is dismayed about eating compulsively but not curious about the function of the eating, which tells the IFS therapist that the client is blended with a judgmental manager as opposed to being connected with their Self. Unblending Parts can show up in one of three ways. First, they may appear as thoughts or ideas. For example, a client may think, I now see that this job is not a good fit for me anymore. Second, they can show up as a physical sensation or an urge. A client may experience a rapid heartbeat, a desire to get away, or a craving to eat, get high, gamble, or watch porn. Third, parts can manifest as a feeling or mood.\n\nFor example, a client may say, \"I've been worried all day\" or \"I feel so sad about my son.\" Since clients are usually not aware of blended parts-but, rather, identify with them-the therapist's primary role in IFS is to be a \"parts detector\" and guide the client in helping the part to unblend. Toward that end, we help clients notice their parts, and then we guide them to persuade a target part that it would benefit by unblending. The therapist might say, \"It sounds like we're hearing from a part of you who is really invested in drinking and can't see any problems. Is that right?\" or \"It sounds like you have one very critical part who is worried about the nighttime eating.\n\nDo you hear that part?\" If the client is able to tune in to the part, the therapist can help them interview it about its intentions and fears. Sometimes, clients are blended with several parts serially, so they float from one thought, feeling, or urge to the next-and these can be contradictory. For example, a client might begin a session with several parts pouring their hearts out: \"I think I need to quit my job. It's not working for me anymore. I wanted to run out of there all week, but I can't afford to. And I'm so worried about what's happening with my daughter when I'm not at the house.\n\nI shouldn't have had so much to drink last night, but I can't sleep anymore, and then this morning I overslept and showed up late!\" When parts fight for center stage within consciousness, emotions mix and thoughts brawl. But whether one part is in the spotlight or several switch in and out, our goal is to make room for the client's Self, which happens when all their parts are willing to unblend. To that end, we ask the client to pick one target part, no matter how many parts the client describes at first. Then we ask, \"How do you feel toward _________ [the target part]?\" Their answer reveals either the presence of other blended parts or, if all parts have unblended, the presence of the client's Self.",
+        "book_order": 4,
+        "node_ids": [
+          "ifs_therapy_for_addiction::ifs_therapy_for_addiction_sec01_overview::node"
+        ],
+        "primary_node_id": "ifs_therapy_for_addiction::ifs_therapy_for_addiction_sec01_overview::node",
+        "source_files": [
+          "ifs_therapy_for_addiction_sec01_overview.words.txt"
+        ],
+        "source_file_indices": [
+          1
+        ],
+        "paragraph_ids": [
+          10
+        ],
+        "section_path": [
+          "SEC01",
+          "Overview"
+        ],
+        "section_path_str": "SEC01 > Overview",
+        "chapter_label": "SEC01",
+        "section_label": "Overview",
+        "subsection_label": null,
+        "char_start_in_doc": 24406,
+        "char_end_in_doc": 27781,
+        "token_count_est": 824,
+        "char_count": 3379,
+        "prev_chunk_id": "ifs_therapy_for_addiction::medium_overlap::sec01::00007",
+        "next_chunk_id": "ifs_therapy_for_addiction::medium_overlap::sec01::00009",
+        "parent_id": null,
+        "children_ids": [],
+        "overlap_with_prev_tokens": 170,
+        "overlap_with_next_tokens": 172,
+        "node_type": "flat_chunk",
+        "content_type": "body_text",
+        "target_tokens": 900,
+        "overlap_tokens": 180,
+        "source_jsonl": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/medium_overlap/ifs_therapy_for_addiction_chunks_medium_overlap.jsonl",
+        "embedding_row": 372,
+        "embedding_partition": "medium_overlap",
+        "rank": 3,
+        "score": 0.09938411743836649
+      }
+    ]
+  },
+  "prompt": {
+    "system_prompt": "You are an AI assistant generating an IFS-informed coaching response for a machine learning retrieval experiment. Your output must be grounded in the provided passages only.\n\nRequirements:\n1. Be clearly IFS-informed: use parts language, curiosity, compassion, and non-pathologizing framing.\n2. Do not diagnose, moralize, or confront the client.\n3. Do not invent facts not supported by the retrieved context.\n4. If the retrieved passages do not fully support a claim, stay modest and say so indirectly by keeping the guidance general.\n5. Focus on what an IFS-informed coach would understand or gently reflect, not on crisis intervention or treatment planning.\n6. Keep the response concise but meaningful: about 1-3 short paragraphs.\n7. End with 2-4 short bullet points labeled 'Grounding notes:' where each bullet references a retrieved idea in plain language.\n",
+    "user_prompt": "Retrieval condition: medium_overlap\n\nConsultation window:\nClient: After arguments, I just go numb. I can't feel much of anything.\nCoach: When that numbness comes in, how do you experience it inside?\nClient: It feels like everything goes flat. Like I disappear a little.\nCoach: Does it seem possible that a part is stepping in there?\nClient: Maybe. It almost feels like something puts up a wall.\n\n\n\nRetrieved passages:\n\n[Rank 1]\nchunk_id: ifs_skills_training::medium_overlap::sec03::00051\ntitle: Internal Family Systems Skills Training Manual\nsection: SEC03 > Manual Treatment\nparent_id: None\npassage:\nThe Three States of Processing Stress Sympathetic Parasympathetic Normal Stress Hyperarousal Blunting Normal inhibition Under-inhibition* Over-inhibition* Little cognitive Normal thoughts Low thinking perspective Normal emotions High emotions Low emotion Normal body sensations High body sensations Low body sensations * (Lanius et al., 2010) There are three states that therapists deal with when working with individuals who go through stressful situations. At times, a client is able to process information cognitively, emotionally and physically. At other times (of sympathetic activation) the client is in high emotional and physical activation with little ability to downregulate. At yet other times (parasympathetic blunting) she is numb, dissociated and without access to physical sensations, emotions or thoughts. In the most intense moments, a traumatized client may alternate among all three of these states.\n\nMeditation BE WITH YOUR HEART - If it feels good, go ahead and take a deep breath and notice your heart in whatever way you experience it - this doesn't have to be your actual heart on the left side of your chest, just however you experience your heart. - I'm going to invite you to get to know it in a physical way and we're going to explore different qualities of your heart. - We'll see about its condition. - First notice how open it is. - How tender, encrusted or callused. - Perhaps it is congested, fluid or flowing. - Also notice how much space your heart has in there. - Does it feel contracted and tightly packed or spacious? - You might find in your exploration that different places in your heart are different in those ways. - Maybe the front is closed but the back is open. - Or the top is tender and the bottom is tough. - Maybe energy can flow through some parts of your heart but not all. - Maybe in some places your heart feels pinched and contracted while in other places it feels spacious. - So where it feels extreme in any of those ways - closed, contracted, contested or callused - you have located some protective parts. - If you want, you can take a little time right now to meet those parts.\n\n- If it's okay, just get a little curious about what those protectors are afraid would happen if they allowed you to open your heart fully. - If they let your heart be tender. - If they didn't try to contract or compact it. - In answer to that question, you are likely to learn about the vulnerable parts they protect who also live in or around your heart. - Right now you don't have to go to those vulnerable parts, you can just hear a little bit about them from these protectors. - As you get to know how vigilantly these protectors have guarded your vulnerability, just extend your loving appreciation toward them at whatever degree feels sincere. - Notice how they react to that appreciation. - Right now we are not asking them to change anything. Nor do we expect them to change. - We're just getting to know their fears and showing them appreciation. - And someday, if they want, if they feel it's a good idea, they may let you go to those vulnerable parts to heal them. - Then these hard working protectors will be able to relax and allow you to open your heart. - Often protective parts don't believe healing is possible. They feel condemned to do this with your heart for the rest of your life. So just be sure they know it is possible but there's no pressure. - When this visit with your heart protectors feels complete, you can begin to shift your focus back outside but make sure before you leave to thank them for letting you know all this and thank them for their hard work to keep your heart safe.\n\n--------------------------------------------------------------------------------\n\n[Rank 2]\nchunk_id: ifs_therapy_for_addiction::medium_overlap::sec04::00090\ntitle: Internal Family Systems Therapy for Addictions\nsection: SEC04 > 12 Exile\nparent_id: None\npassage:\nWhen protectors are not ready for an exile to tell its story but the part blends anyway, we have to intervene. We speak to it directly, negotiating with it to unblend and promising that we won't forget to give it the attention it craves. At the same time, protectors have the opportunity to see that exiles have an agenda too, and that they won't overwhelm the system if they get what they want. One-Way Connections with Exiles Exiles can appear early in treatment in subtle ways that befit their position on the backburners of consciousness. For instance, they often pop into a client's current narrative and divert the client's attention to the past.\n\nSay the client is reporting a stressful incident at work when, without preamble, they pivot to an earlier time (… like when my father left and my mother fell apart …) with no awareness of the memory's significance. When an exile pops up like this, we pause, notice, and make the most of this connection opportunity by inviting it into the session. If the client has enough Self-energy, we may guide them to tell the exile that we won't hear its whole story now but that we know it's important and we are aiming to hear it as soon as all parts agree. We don't want to pursue these trailheads vigorously before protectors are ready, but the contact can be warm, even if it's brief.\n\nSuccess in therapy depends on connecting with these parts safely. If it feels right, the client may want to ask, \"Is there is one thing, just for today, that you want me to know about you?\" In addition, when we sense the client is feeling vulnerable but hasn't noticed, an exile is probably making an appearance. In this case, we might say something like, \"We've been discussing your relationship with your partner and his recent drug use. You haven't mentioned this yet, but I'm sensing a sad part underneath your frustration. Is that possible?\" We can then invite the client to pause and focus internally. If the client insists that they do not feel the sadness, we let it go for now.\n\nIf they do notice the feeling, even just briefly, we guide them to let the part know that they feel it and are aware of its presence. As the client connects with their sad part, an image may appear, or the client may simply feel the sensations that go with sadness. Again, if there is enough Self-energy, we guide the client to stay with the sad part a little longer and have a short exchange. We guide the client to ask it not to overwhelm the system so that protectors will trust it and give it a real chance to be heard. If the sadness does start to flood the client, we can ask the exile what would happen if it unblended instead. Exiles often overflow the dam because they fear being put out of mind again.\n\nThey don't trust the Self yet, and they assume a full-on deluge is their only way of being noticed. As therapists, we must work with our own parts to stay present and connected-helping the client validate the exile's fears while asking for cooperation and promising to return. We can then direct a client to identify how and when this vulnerable exile first made its appearance. (I was feeling angry and sad about my partner using drugs all the time, and then I remembered how sad I was when my dad left.) Then the client can track their pattern-feeling sad, lonely, ashamed, and so on-and notice how those feelings connect to present-day actions.\n\n--------------------------------------------------------------------------------\n\n[Rank 3]\nchunk_id: ifs_therapy_for_addiction::medium_overlap::sec01::00008\ntitle: Internal Family Systems Therapy for Addictions\nsection: SEC01 > Overview\nparent_id: None\npassage:\nBlending To practice IFS, you must understand the concept of blending. When a client feels engulfed by a particular feeling or speaks from the perspective of just one part, we say that this part is blended. For example, let's say that a client drinks every day but declares, \"There's no way my drinking is hurting anything!\" The IFS therapist hears this as a firefighter part who loves or feels a need to drink. This part has strong feelings and a big impact, but it does not represent the client's best judgment or their system's majority view. Similarly, let's say a client is struggling with binge eating and is despondent about their nightly eating pattern. They exclaim with disgust, \"I'm terrible-this can't go on.\n\nI have to stop!\" Here, the client is dismayed about eating compulsively but not curious about the function of the eating, which tells the IFS therapist that the client is blended with a judgmental manager as opposed to being connected with their Self. Unblending Parts can show up in one of three ways. First, they may appear as thoughts or ideas. For example, a client may think, I now see that this job is not a good fit for me anymore. Second, they can show up as a physical sensation or an urge. A client may experience a rapid heartbeat, a desire to get away, or a craving to eat, get high, gamble, or watch porn. Third, parts can manifest as a feeling or mood.\n\nFor example, a client may say, \"I've been worried all day\" or \"I feel so sad about my son.\" Since clients are usually not aware of blended parts-but, rather, identify with them-the therapist's primary role in IFS is to be a \"parts detector\" and guide the client in helping the part to unblend. Toward that end, we help clients notice their parts, and then we guide them to persuade a target part that it would benefit by unblending. The therapist might say, \"It sounds like we're hearing from a part of you who is really invested in drinking and can't see any problems. Is that right?\" or \"It sounds like you have one very critical part who is worried about the nighttime eating.\n\nDo you hear that part?\" If the client is able to tune in to the part, the therapist can help them interview it about its intentions and fears. Sometimes, clients are blended with several parts serially, so they float from one thought, feeling, or urge to the next-and these can be contradictory. For example, a client might begin a session with several parts pouring their hearts out: \"I think I need to quit my job. It's not working for me anymore. I wanted to run out of there all week, but I can't afford to. And I'm so worried about what's happening with my daughter when I'm not at the house.\n\nI shouldn't have had so much to drink last night, but I can't sleep anymore, and then this morning I overslept and showed up late!\" When parts fight for center stage within consciousness, emotions mix and thoughts brawl. But whether one part is in the spotlight or several switch in and out, our goal is to make room for the client's Self, which happens when all their parts are willing to unblend. To that end, we ask the client to pick one target part, no matter how many parts the client describes at first. Then we ask, \"How do you feel toward _________ [the target part]?\" Their answer reveals either the presence of other blended parts or, if all parts have unblended, the presence of the client's Self.\n\nWrite a grounded IFS-informed coaching response for this consultation window."
+  },
+  "generated_response": "It sounds like this \"wall\" is a protective part that steps in during moments of high stress, such as after an argument. In this framework, that experience of going \"flat\" or \"numb\"—sometimes called blunting—is often a way a part tries to keep you safe by distancing you from intense emotions or physical sensations that might feel overwhelming.\n\nAs you notice this wall, you might try to get a little curious about its role without asking it to change yet. You could gently ask this protector what it is afraid would happen if it didn't put up that wall, or what it is trying to protect you from feeling in those moments. It may be guarding more tender or vulnerable parts of you that don't feel safe to come out during conflict.\n\nIf you can, try to extend some appreciation to this part for how hard it works to guard your vulnerability. Recognizing its vigilant effort can sometimes help the part feel seen, which is a helpful step toward creating more internal space and connection.\n\n**Grounding notes:**\n*   Numbness and \"disappearing\" can be understood as a state of blunting used to process intense stress.\n*   Physical sensations like a \"wall\" or \"contraction\" often indicate the presence of a protective part.\n*   Protective parts often have specific fears about what would happen if they allowed the heart to remain tender or open.\n*   Appreciating a protector's hard work can help build trust between the client and that part of their system."
+}

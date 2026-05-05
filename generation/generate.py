@@ -1,6 +1,5 @@
 from __future__ import annotations
 
-import os
 from typing import Any, Dict
 
 
@@ -34,26 +33,28 @@ def call_llm_mock(
     )
 
 
-def call_llm_openai(prompt_payload: Dict[str, str], llm_model: str) -> str:
+def call_llm_gemini(prompt_payload: Dict[str, str], llm_model: str) -> str:
     try:
-        from openai import OpenAI
+        from google import genai
     except ImportError as e:
         raise ImportError(
-            "OpenAI Python package not found. Install it with: python -m pip install openai"
+            "Google GenAI SDK not found. Install it with: python -m pip install -U google-genai"
         ) from e
 
-    if not os.environ.get("OPENAI_API_KEY"):
-        raise EnvironmentError("OPENAI_API_KEY is not set in the environment.")
+    client = genai.Client()
 
-    client = OpenAI()
-    response = client.responses.create(
-        model=llm_model,
-        input=[
-            {"role": "system", "content": prompt_payload["system_prompt"]},
-            {"role": "user", "content": prompt_payload["user_prompt"]},
-        ],
+    full_prompt = (
+        prompt_payload["system_prompt"]
+        + "\n\n"
+        + prompt_payload["user_prompt"]
     )
-    return response.output_text
+
+    response = client.models.generate_content(
+        model=llm_model,
+        contents=full_prompt,
+    )
+
+    return response.text
 
 
 def generate_text(
@@ -65,6 +66,8 @@ def generate_text(
 ) -> str:
     if llm_provider == "mock":
         return call_llm_mock(prompt_payload, retrieval_payload, condition)
-    if llm_provider == "openai":
-        return call_llm_openai(prompt_payload, llm_model)
+
+    if llm_provider == "gemini":
+        return call_llm_gemini(prompt_payload, llm_model)
+
     raise ValueError(f"Unsupported llm_provider: {llm_provider}")

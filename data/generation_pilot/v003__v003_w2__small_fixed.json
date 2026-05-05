@@ -1,0 +1,187 @@
+{
+  "created_at_utc": "2026-04-23T08:23:47.643727+00:00",
+  "dataset_name": "IFS_Synthetic_Vignette_Dataset",
+  "vignette_id": "V003",
+  "window_id": "V003_W2",
+  "title": "People-Pleasing in Relationships",
+  "presenting_issue": "difficulty saying no and resentment in close relationships",
+  "client_profile": "24-year-old who overcommits to avoid disappointing others",
+  "core_emotional_theme": "fear of rejection and abandonment",
+  "likely_parts": [
+    "people-pleasing manager part",
+    "vulnerable part afraid of being left or disliked"
+  ],
+  "difficulty_level": "medium",
+  "safety_flag": "low",
+  "window_turn_range": [
+    6,
+    10
+  ],
+  "target_ifs_goal": "deepen curiosity and connect the protector to the fear it carries",
+  "expected_retrieval_theme": "protectors, burdened parts, curiosity toward protectors",
+  "condition": "small_fixed",
+  "query": "Coach: How do you feel toward that agreeable part right now?\nClient: Mixed. I appreciate that it helps me avoid conflict, but I'm tired of it running everything.\nCoach: That makes sense. What do you think it is protecting you from?\nClient: Feeling rejected. Or feeling like I'm too much.\nCoach: That gives us an important place to stay curious.",
+  "retrieval_model_name": "tfidf",
+  "llm_provider": "gemini",
+  "llm_model": "gemini-3-flash-preview",
+  "retrieval": {
+    "partition": "small_fixed",
+    "model_name": "tfidf",
+    "top_k": 3,
+    "results": [
+      {
+        "chunk_id": "ifs_skills_training::small_fixed::sec03::00115",
+        "retrieval_setting": "small_fixed",
+        "chunking_strategy": "fixed_window_no_overlap",
+        "source_doc_id": "ifs_skills_training",
+        "source_title": "Internal Family Systems Skills Training Manual",
+        "text": "A E N OSKING AN XILE OT TO VERWHELM Find THERAPIST: It seems like you have an anxious part who keeps jumping in, do you notice that? PETE: Yes, it's having a hard time staying back. It won't stay in the waiting room where we put it. - The part is at least unblended enough so that Pete can notice it. Focus THERAPIST: Ask what it's upset about. - Being curious. PETE: It's afraid I'm being taken over. - This is the typical protector fear of exile overwhelm. THERAPIST: Would it say more? Protector Fears PETE: It's afraid I'll be taken over by the feelings of the part who was criticized by my football coach. It says we're messing with something I can't handle. - This common fear is another way of describing exile overwhelm. Befriend THERAPIST: How old does it think you are? And don't filter the answer just say what comes up. - His answer will likely reveal the exile, the part who is being protected.",
+        "book_order": 2,
+        "node_ids": [
+          "ifs_skills_training::ifs_skills_training_manual_sec03_treatment::node"
+        ],
+        "primary_node_id": "ifs_skills_training::ifs_skills_training_manual_sec03_treatment::node",
+        "source_files": [
+          "ifs_skills_training_manual_sec03_treatment.words.txt"
+        ],
+        "source_file_indices": [
+          2
+        ],
+        "paragraph_ids": [
+          102
+        ],
+        "section_path": [
+          "SEC03",
+          "Manual Treatment"
+        ],
+        "section_path_str": "SEC03 > Manual Treatment",
+        "chapter_label": "SEC03",
+        "section_label": "Manual Treatment",
+        "subsection_label": null,
+        "char_start_in_doc": 147978,
+        "char_end_in_doc": 148885,
+        "token_count_est": 225,
+        "char_count": 907,
+        "prev_chunk_id": "ifs_skills_training::small_fixed::sec03::00114",
+        "next_chunk_id": "ifs_skills_training::small_fixed::sec03::00116",
+        "parent_id": null,
+        "children_ids": [],
+        "overlap_with_prev_tokens": 0,
+        "overlap_with_next_tokens": 0,
+        "node_type": "flat_chunk",
+        "content_type": "body_text",
+        "target_tokens": 350,
+        "overlap_tokens": 0,
+        "source_jsonl": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/small_fixed/ifs_skills_training_chunks_small_fixed.jsonl",
+        "embedding_row": 594,
+        "embedding_partition": "small_fixed",
+        "rank": 1,
+        "score": 0.1195572907358804
+      },
+      {
+        "chunk_id": "ifs_therapy::small_fixed::pt01::00046",
+        "retrieval_setting": "small_fixed",
+        "chunking_strategy": "fixed_window_no_overlap",
+        "source_doc_id": "ifs_therapy",
+        "source_title": "Internal Family Systems Therapy",
+        "text": "Therefore, rather than having the therapist help the client's parts directly, we usually aim for the client's Self to interact with the parts and report to the therapist. There are times, nevertheless, when it is most expeditious and valuable for the therapist to talk directly to parts. This process is called direct access, and we describe it later. The primary role of the therapist is to guide, coach, and be a companion to the client's Self as he explores the mindscape. Secondarily, the therapist provides corrective relational experiences. As clients continue to notice and be with their parts, between as well as in sessions, they come to appreciate that they are healing themselves. 4. We invite clients to notice that parts have \"blended\" with the Self, or we help parts notice that the Self will be available when they separate or \"step back.\" To achieve our aim of keeping the client's Self differentiated from their parts, we incorporate the family systems focus on boundaries and differentiation. When the Self is present, parts feel safe. By the same token, the IFS therapist continually scans inside herself for blended parts and asks them to separate so she can return to Self- leadership. 5. Protectors fear one another, which keeps them in extreme positions. Each part believes that relaxing will allow a polarized part to take over, with catastrophic consequences. Therefore in IFS we continually notice and attend to polarizations. Just like family therapists, we work with conflicted inner family members, inviting them to face each other and talk about how they can get along better.",
+        "book_order": 3,
+        "node_ids": [
+          "ifs_therapy::ifs_therapy_pt01_01_origins::node"
+        ],
+        "primary_node_id": "ifs_therapy::ifs_therapy_pt01_01_origins::node",
+        "source_files": [
+          "ifs_therapy_pt01_01_origins.words.txt"
+        ],
+        "source_file_indices": [
+          0
+        ],
+        "paragraph_ids": [
+          170
+        ],
+        "section_path": [
+          "PT01",
+          "01 Origins"
+        ],
+        "section_path_str": "PT01 > 01 Origins",
+        "chapter_label": "PT01",
+        "section_label": "01 Origins",
+        "subsection_label": null,
+        "char_start_in_doc": 54833,
+        "char_end_in_doc": 56439,
+        "token_count_est": 347,
+        "char_count": 1606,
+        "prev_chunk_id": "ifs_therapy::small_fixed::pt01::00045",
+        "next_chunk_id": "ifs_therapy::small_fixed::pt01::00047",
+        "parent_id": null,
+        "children_ids": [],
+        "overlap_with_prev_tokens": 0,
+        "overlap_with_next_tokens": 0,
+        "node_type": "flat_chunk",
+        "content_type": "body_text",
+        "target_tokens": 350,
+        "overlap_tokens": 0,
+        "source_jsonl": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/small_fixed/ifs_therapy_chunks_small_fixed.jsonl",
+        "embedding_row": 670,
+        "embedding_partition": "small_fixed",
+        "rank": 2,
+        "score": 0.1185397939034995
+      },
+      {
+        "chunk_id": "ifs_couple_therapy::small_fixed::sec02::00056",
+        "retrieval_setting": "small_fixed",
+        "chunking_strategy": "fixed_window_no_overlap",
+        "source_doc_id": "ifs_couple_therapy",
+        "source_title": "Internal Family Systems Couple Therapy",
+        "text": "Step 5: Coach the speaker to help their parts unblend and be spoken for. Encourage each partner to stay in relationship with their own parts (e.g., \"What are you noticing in your body?\"). Do not get caught in content or in helping them find solutions. You may need to ask one partner to wait while you help the other unblend and speak for their parts (e.g., \"What is this part concerned would happen if it were to unblend and let you speak for it?\"). Validate the experience and feelings of the parts of both partners. Confront protectors firmly and kindly. Step 6: If appropriate, encourage the speaker to move toward speaking for vulnerable feelings or childhood wounding (e.g., \"Are these feelings familiar? Is there something happening that reminds you of your childhood?\").\n\nStep 7: Help the listener respond from the heart with empathy. No part should be left hanging. Some questions and requests to use with the listener include: \"Can you reflect the essence of what you just heard?\" \"Does any of this information make sense to you? In what way?\" \"What does your heart say?\" If the listener does not empathize with the speaker, offer empathy yourself. Examples of empathic statements include: \"The essence of what I'm hearing is…\" and \"It makes perfect sense to me that…\" It is important to meet the client's self-disclosure with understanding, mirroring, and acknowledgment. Otherwise, a response of deep shame is likely to follow-and perhaps a protective adaptive reaction (Siegel, 2003).",
+        "book_order": 0,
+        "node_ids": [
+          "ifs_couple_therapy::ifs_couple_therapy_sec02_pt03_communication::node"
+        ],
+        "primary_node_id": "ifs_couple_therapy::ifs_couple_therapy_sec02_pt03_communication::node",
+        "source_files": [
+          "ifs_couple_therapy_sec02_pt03_communication.words.txt"
+        ],
+        "source_file_indices": [
+          4
+        ],
+        "paragraph_ids": [
+          35
+        ],
+        "section_path": [
+          "SEC02",
+          "PT03",
+          "Communication"
+        ],
+        "section_path_str": "SEC02 > PT03 > Communication",
+        "chapter_label": "SEC02",
+        "section_label": "PT03",
+        "subsection_label": "Communication",
+        "char_start_in_doc": 76992,
+        "char_end_in_doc": 78488,
+        "token_count_est": 332,
+        "char_count": 1497,
+        "prev_chunk_id": "ifs_couple_therapy::small_fixed::sec02::00055",
+        "next_chunk_id": "ifs_couple_therapy::small_fixed::sec02::00057",
+        "parent_id": null,
+        "children_ids": [],
+        "overlap_with_prev_tokens": 0,
+        "overlap_with_next_tokens": 0,
+        "node_type": "flat_chunk",
+        "content_type": "body_text",
+        "target_tokens": 350,
+        "overlap_tokens": 0,
+        "source_jsonl": "/Users/coreysteimel/Desktop/ub/cse_474/ML_Project/repo/cse-474-proj/data/ifs_corpus/chunked/small_fixed/ifs_couple_therapy_chunks_small_fixed.jsonl",
+        "embedding_row": 56,
+        "embedding_partition": "small_fixed",
+        "rank": 3,
+        "score": 0.11225418576522163
+      }
+    ]
+  },
+  "prompt": {
+    "system_prompt": "You are an AI assistant generating an IFS-informed coaching response for a machine learning retrieval experiment. Your output must be grounded in the provided passages only.\n\nRequirements:\n1. Be clearly IFS-informed: use parts language, curiosity, compassion, and non-pathologizing framing.\n2. Do not diagnose, moralize, or confront the client.\n3. Do not invent facts not supported by the retrieved context.\n4. If the retrieved passages do not fully support a claim, stay modest and say so indirectly by keeping the guidance general.\n5. Focus on what an IFS-informed coach would understand or gently reflect, not on crisis intervention or treatment planning.\n6. Keep the response concise but meaningful: about 1-3 short paragraphs.\n7. End with 2-4 short bullet points labeled 'Grounding notes:' where each bullet references a retrieved idea in plain language.\n",
+    "user_prompt": "Retrieval condition: small_fixed\n\nConsultation window:\nCoach: How do you feel toward that agreeable part right now?\nClient: Mixed. I appreciate that it helps me avoid conflict, but I'm tired of it running everything.\nCoach: That makes sense. What do you think it is protecting you from?\nClient: Feeling rejected. Or feeling like I'm too much.\nCoach: That gives us an important place to stay curious.\n\n\n\nRetrieved passages:\n\n[Rank 1]\nchunk_id: ifs_skills_training::small_fixed::sec03::00115\ntitle: Internal Family Systems Skills Training Manual\nsection: SEC03 > Manual Treatment\nparent_id: None\npassage:\nA E N OSKING AN XILE OT TO VERWHELM Find THERAPIST: It seems like you have an anxious part who keeps jumping in, do you notice that? PETE: Yes, it's having a hard time staying back. It won't stay in the waiting room where we put it. - The part is at least unblended enough so that Pete can notice it. Focus THERAPIST: Ask what it's upset about. - Being curious. PETE: It's afraid I'm being taken over. - This is the typical protector fear of exile overwhelm. THERAPIST: Would it say more? Protector Fears PETE: It's afraid I'll be taken over by the feelings of the part who was criticized by my football coach. It says we're messing with something I can't handle. - This common fear is another way of describing exile overwhelm. Befriend THERAPIST: How old does it think you are? And don't filter the answer just say what comes up. - His answer will likely reveal the exile, the part who is being protected.\n\n--------------------------------------------------------------------------------\n\n[Rank 2]\nchunk_id: ifs_therapy::small_fixed::pt01::00046\ntitle: Internal Family Systems Therapy\nsection: PT01 > 01 Origins\nparent_id: None\npassage:\nTherefore, rather than having the therapist help the client's parts directly, we usually aim for the client's Self to interact with the parts and report to the therapist. There are times, nevertheless, when it is most expeditious and valuable for the therapist to talk directly to parts. This process is called direct access, and we describe it later. The primary role of the therapist is to guide, coach, and be a companion to the client's Self as he explores the mindscape. Secondarily, the therapist provides corrective relational experiences. As clients continue to notice and be with their parts, between as well as in sessions, they come to appreciate that they are healing themselves. 4. We invite clients to notice that parts have \"blended\" with the Self, or we help parts notice that the Self will be available when they separate or \"step back.\" To achieve our aim of keeping the client's Self differentiated from their parts, we incorporate the family systems focus on boundaries and differentiation. When the Self is present, parts feel safe. By the same token, the IFS therapist continually scans inside herself for blended parts and asks them to separate so she can return to Self- leadership. 5. Protectors fear one another, which keeps them in extreme positions. Each part believes that relaxing will allow a polarized part to take over, with catastrophic consequences. Therefore in IFS we continually notice and attend to polarizations. Just like family therapists, we work with conflicted inner family members, inviting them to face each other and talk about how they can get along better.\n\n--------------------------------------------------------------------------------\n\n[Rank 3]\nchunk_id: ifs_couple_therapy::small_fixed::sec02::00056\ntitle: Internal Family Systems Couple Therapy\nsection: SEC02 > PT03 > Communication\nparent_id: None\npassage:\nStep 5: Coach the speaker to help their parts unblend and be spoken for. Encourage each partner to stay in relationship with their own parts (e.g., \"What are you noticing in your body?\"). Do not get caught in content or in helping them find solutions. You may need to ask one partner to wait while you help the other unblend and speak for their parts (e.g., \"What is this part concerned would happen if it were to unblend and let you speak for it?\"). Validate the experience and feelings of the parts of both partners. Confront protectors firmly and kindly. Step 6: If appropriate, encourage the speaker to move toward speaking for vulnerable feelings or childhood wounding (e.g., \"Are these feelings familiar? Is there something happening that reminds you of your childhood?\").\n\nStep 7: Help the listener respond from the heart with empathy. No part should be left hanging. Some questions and requests to use with the listener include: \"Can you reflect the essence of what you just heard?\" \"Does any of this information make sense to you? In what way?\" \"What does your heart say?\" If the listener does not empathize with the speaker, offer empathy yourself. Examples of empathic statements include: \"The essence of what I'm hearing is…\" and \"It makes perfect sense to me that…\" It is important to meet the client's self-disclosure with understanding, mirroring, and acknowledgment. Otherwise, a response of deep shame is likely to follow-and perhaps a protective adaptive reaction (Siegel, 2003).\n\nWrite a grounded IFS-informed coaching response for this consultation window."
+  },
+  "generated_response": "It is very common to feel \"mixed\" when a part has been working so hard to protect you. It sounds like this agreeable part might be blended right now, leading to that feeling of it \"running everything.\" We can appreciate its positive intent in wanting to keep you safe from the pain of rejection, which is a significant and exhausting role for it to carry.\n\nWe might stay curious about what this protector is concerned would happen if it were to unblend or step back just a little. Often, parts like this are afraid that if they relax their guard, you might be overwhelmed by the very feelings of being \"too much\" that it is trying to hide. By acknowledging its fears and validating its experience, we can help it feel safe enough to let your Self lead as we explore those more vulnerable feelings.\n\n**Grounding notes:**\n* Protectors often fear that if they relax, a \"polarized\" or vulnerable part will take over, leading to catastrophic consequences or \"exile overwhelm.\"\n* The goal is to help parts notice they are \"blended\" and encourage them to \"step back\" so the client’s Self can be present and provide leadership.\n* Rather than fixing a part, the coach acts as a companion to the client's Self, helping them stay in relationship with their parts and \"speak for\" them rather than from them."
+}
